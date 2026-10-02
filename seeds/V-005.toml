@@ -1,0 +1,294 @@
+# Seeds for V-005 BNY - curated during scouting research on 2026-10-02 (passive OSINT only).
+# Every [[seed]] records how it was found so discovery is repeatable. 'expect' is the scout's preliminary
+# strength label, used only as a gold label for evaluation, never as evidence. Edit with a reason.
+schema = "seeds/1"
+vendor_id = "V-005"
+name = "BNY"
+legal_names = ["The Bank of New York Mellon Corporation", "The Bank of New York Mellon"]
+aliases = ["BNY", "BNY Mellon", "Bank of New York Mellon"]
+domains = ["bny.com", "bnymellon.com"]
+sec_cik = "0001390777"
+collisions = ["Claude Reumert"]
+person_scrub = []
+
+# Exact-service terms (relevance R3) from columns E and H, each with its reason.
+[[service_term]]
+term = "RTP"
+reason = "col E: Real Time Payments (RTP) transmission services"
+[[service_term]]
+term = "Real Time Payments"
+reason = "col E"
+[[service_term]]
+term = "Real-Time Payments"
+reason = "spelling variant of col E"
+[[service_term]]
+term = "real-time payments"
+reason = "col H: inbound real-time payments"
+[[service_term]]
+term = "instant payments"
+reason = "BNY product naming for RTP/FedNow"
+[[service_term]]
+term = "real-time rails"
+reason = "BNY executive wording for RTP/FedNow rails"
+[[service_term]]
+term = "payment validation"
+reason = "BNY validation service that screens incoming payments"
+[[service_term]]
+term = "inbound payments"
+reason = "col H"
+
+# Product-family terms (relevance R2).
+[[family_term]]
+term = "Global Payments & Trade"
+reason = "col D: Global Payments & Trade division"
+[[family_term]]
+term = "Treasury Services"
+reason = "BNY payments business line"
+[[family_term]]
+term = "sanctions screening"
+reason = "payment-processing control in the payments operating model"
+[[family_term]]
+term = "restricted party screening"
+reason = "payments screening metric in the IR deck"
+
+[ats]
+platform = "oracle_orc"
+host = "eofe.fa.us2.oraclecloud.com"
+site = "BNY-Careers"
+site_number = "CX_3001"
+
+[[platform_supplier]]
+name = "Volante Technologies"
+domain = "volantetech.com"
+basis = "cloud payments platform used for real-time payments (partner case study)"
+
+[[seed]]
+url = "https://ediscoverytoday.com/2025/07/02/digital-employees-are-here-at-least-in-banks-artificial-intelligence-trends/"
+family = "IND"
+kind = "secondary news citing major press (CIO-sourced)"
+automation = "auto"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "moderate"
+relevance = "service-specific"
+note = "From 2025, AI agents with company logins and human managers have been validating payment instructions in production (CIO Leigh-Ann Russell). The rail is not specified."
+
+[[seed]]
+url = "https://www.globalcustodian.com/bny-mellon-selects-pelican-ai-for-sanctions-screening-and-financial-compliance/"
+family = "IND"
+kind = "trade press (AI vendor selection)"
+automation = "auto"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "moderate"
+relevance = "adjacent"
+note = "A named third-party AI vendor (Pelican AI, Secure SSLO) was selected for sanctions-screening false positives in the 'payments value chain' (BNY's operations head is quoted). This is old and its current status is unknown. The wording matches the 2026 whitepaper's 'classify and explain false positives"
+
+[[seed]]
+url = "https://www.googlecloudpresscorner.com/2025-12-08-BNY-Collaborates-with-Google-Cloud-to-Advance-its-Eliza-AI-Platform-with-Gemini-Enterprise"
+family = "IND"
+kind = "model-provider press release"
+automation = "auto"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "strong"
+relevance = "corporate-wide"
+note = "Joint announcement naming Google Gemini Enterprise as a model and agent provider inside Eliza. The stated use case is research and market analysis, not payments."
+
+[[seed]]
+url = "https://www.theasianbanker.com/updates-and-articles/bny-posts-record-results-as-higher-margins-broad-revenue-gains-and-platform-strategy-take-hold"
+family = "IND"
+kind = "trade press (earnings coverage)"
+automation = "auto"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "moderate"
+relevance = "corporate-wide"
+note = "Corroborates that Eliza orchestrates more than 134 'digital employees' used for payment validation. The same article says BNY filed more than 60 AI-related patent applications in 2025."
+
+[[seed]]
+url = "https://www.theasianbanker.com/updates-and-articles/bny-strengthens-gp-t-execution-through-embedded-ai-and-infrastructure-scale"
+family = "IND"
+kind = "trade press / executive interview"
+automation = "auto"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "strong"
+relevance = "corporate-wide"
+note = "Names the third-party model providers behind Eliza and says Eliza supports fraud analytics and reconciliation, so there is a potential path for payment data to reach external models. The article also cites 'more than 130 digital employees'."
+
+[[seed]]
+url = "https://www.volantetech.com/case-studies/bny-leading-real-time-payments-innovation/"
+family = "IND"
+kind = "technology-partner case study"
+automation = "auto"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "weak"
+relevance = "adjacent"
+note = "Identifies a fourth party in BNY's RTP processing stack: the Volante cloud payments platform, used for RTP and Zelle. Volante markets 'AI-driven analytics' generically, but the case study gives no evidence that BNY uses Volante AI. It is unknown whether Volante still underpins the 2026 Unified Payme"
+
+[[seed]]
+url = "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/75732"
+family = "JOB"
+kind = "job posting"
+automation = "auto"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "weak"
+relevance = "adjacent"
+note = "Weak signal that AI tools are expected in payments platform operations. Sanctions-screening product and engineering roles (71562, 80053) mention screening platforms but not AI explicitly. The URL follows the standard Oracle Candidate Experience pattern; the data came from the public recruitingCEJobR"
+
+[[seed]]
+url = "https://www.bny.com/assets/corporate/documents/pdf/investor-relations/earnings/quarterly-update-presentation-1q-2026.pdf"
+family = "PRD"
+kind = "investor presentation (earnings deck)"
+automation = "auto"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "strong"
+relevance = "service-specific"
+note = "A quantified, investor-facing statement that AI reviews most restricted-party (sanctions) screening for payments. The same deck says: '~220 enterprise AI solutions in production, and ~140 digital employees'; 'embedding AI to automate at scale, e.g., multi-currency payments processing'; Eliza 'Integr"
+
+[[seed]]
+url = "https://www.bny.com/content/dam/bnymellon/documents/pdf/insights/modernizing-the-payments-operating-model.pdf"
+family = "PRD"
+kind = "vendor whitepaper (PDF)"
+automation = "auto"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "strong"
+relevance = "service-specific"
+note = "Agentic AI 'digital employees' are in production in sanctions screening on BNY's Unified Payments Platform (UPP), with figures: 42% of manual touchpoints handled by AI, and nearly 100% of Level One turnaround under one hour versus 50% in 2025. Sanctions screening processes counterparty names and acc"
+
+[[seed]]
+url = "https://www.bny.com/content/dam/bnymellon/documents/pdf/solutions/BNY-comprehensive-validation-factsheet.pdf"
+family = "PRD"
+kind = "vendor product fact sheet (PDF)"
+automation = "auto"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "weak"
+relevance = "service-specific"
+note = "Counter-evidence that narrows scope. The fact sheet describes Payment Validation Services as checking transactions against rules the client creates, and contains no AI mention. As of November 2025 it covered only originated wires and ACH, not inbound RTP. The AI claims about the same product (June 2"
+
+[[seed]]
+url = "https://www.bny.com/corporate/global/en/about-us/newsroom/company-news/bny-mellon-first-global-bank-to-deploy-ai-supercomputer-powered-by-nvidia-dgx-superpod-with-dgx-h100.html"
+family = "PRD"
+kind = "vendor newsroom"
+automation = "auto"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "moderate"
+relevance = "adjacent"
+note = "On-premise NVIDIA GPU infrastructure lists payment automation as a supported AI use case, which points to in-house hosting of some payment AI."
+
+[[seed]]
+url = "https://www.bny.com/corporate/global/en/about-us/technology-innovation/artificial-intelligence.html"
+family = "PRD"
+kind = "vendor AI hub page"
+automation = "auto"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "moderate"
+relevance = "corporate-wide"
+note = "First-party confirmation of the OpenAI relationship and the Eliza enterprise platform: 'over 125 live use cases, with 20,000 employees actively building agents' and 'over 125 AI-enabled solutions in production', including anomaly detection. The page also links the Google Cloud Gemini Enterprise coll"
+
+[[seed]]
+url = "https://www.bny.com/corporate/global/en/about-us/technology-innovation/artificial-intelligence/project-aikya.html"
+family = "PRD"
+kind = "vendor research / proof of concept"
+automation = "auto"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "weak"
+relevance = "adjacent"
+note = "A proof of concept using federated learning for anomaly detection in cross-border payments. Research only; no production or RTP linkage."
+
+[[seed]]
+url = "https://www.bny.com/corporate/global/en/built-in/powered-by-eliza.html"
+family = "PRD"
+kind = "vendor marketing page"
+automation = "auto"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "marketing-only"
+relevance = "adjacent"
+note = "Client-facing marketing of features 'powered by Eliza' that names payments. No substance."
+
+[[seed]]
+url = "https://www.bny.com/corporate/global/en/insights/ai-and-payments-fraud-an-evolving-landscape.html"
+family = "PRD"
+kind = "vendor thought-leadership article"
+automation = "auto"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "moderate"
+relevance = "service-specific"
+note = "Claims ML-based anomaly detection inside a named product (Payment Validation). It does not say which rails or flow directions are covered. Compare with the November 2025 fact sheet below."
+
+[[seed]]
+url = "https://www.bny.com/corporate/global/en/solutions/platforms/global-payments-trade/global-payments-solutions/payables.html"
+family = "PRD"
+kind = "vendor product page"
+automation = "auto"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "marketing-only"
+relevance = "service-specific"
+note = "Marketing claim that AI-powered protection covers incoming payments, which is the inbound direction relevant to Meridian. It gives no product detail. Whitespace was normalized; the source uses em dashes and one non-breaking space."
+
+[[seed]]
+url = "https://www.bny.com/corporate/global/en/solutions/platforms/global-payments-trade/global-payments-solutions/payables/instant-payments.html"
+family = "PRD"
+kind = "vendor product page"
+automation = "auto"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "moderate"
+relevance = "service-specific"
+note = "The product line that matches Meridian's service (RTP connectivity to send and receive) is marketed with AI-enabled anomaly detection. The same page says: 'AI-enabled payment and account validation services verify data against compliance requirements before and after payment submission in real-time,"
+
+[[seed]]
+url = "https://www.bny.com/corporate/global/en/solutions/platforms/global-payments-trade/global-payments-solutions/receivables.html"
+family = "PRD"
+kind = "vendor product page"
+automation = "auto"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "marketing-only"
+relevance = "service-specific"
+note = "AI claim on the receivables page; the same page lists Real-Time Payments among supported rails. Marketing language only."
+
+[[seed]]
+url = "https://www.bny.com/corporate/global/en/solutions/platforms/global-payments-trade/validation-and-protection.html"
+family = "PRD"
+kind = "vendor product page"
+automation = "auto"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "weak"
+relevance = "service-specific"
+note = "Generic AI claim across payment rails. The page also says 'AI and open banking support safer payments across payment rails.' There is no technical substance, though other sources corroborate it."
+
+[[seed]]
+url = "https://www.sec.gov/Archives/edgar/data/1390777/000139077726000033/bk-20251231_d2.htm"
+family = "REG"
+kind = "SEC filing (10-K risk factors)"
+automation = "auto"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "strong"
+relevance = "corporate-wide"
+note = "SEC-filed admission that AI digital employees are deployed in operations and can make automated decisions, which carries control risk. This is the most legally weighty proof that the AI use is real and not marketing."
+
+[[seed]]
+url = "https://www.sec.gov/Archives/edgar/data/1390777/000139077726000086/bk-20260630.htm"
+family = "REG"
+kind = "SEC filing (10-Q forward-looking statements)"
+automation = "auto"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "moderate"
+relevance = "corporate-wide"
+note = "The most recent filing commits to pervasive adoption of AI agents across all platforms, and also says AI risk could 'threaten the viability of our company'. Expect AI in Meridian's service to grow."
