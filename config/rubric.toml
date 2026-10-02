@@ -1,0 +1,408 @@
+# Criticality rubric v1.1 (Outcome 04): profile fields B-K only, anchored on OCC Bulletin 2023-17.
+# Read by footprint.criticality. Any rule change here bumps `version` (it is hashed into the run manifest).
+#
+# How a factor is scored (another analyst must be able to reproduce it):
+# - Anchors are listed per factor from level 4 down. Every pattern is a case-insensitive Python regex with
+#   word boundaries; (?-i:...) marks acronyms that must match in upper case (PAN, TIN, IRS).
+# - The HIGHEST level with a matching anchor wins; within a level the first anchor, then the first pattern,
+#   then the first source field (in `fields` order) gives the trigger, i.e. the exact matched profile text.
+# - A match is ignored when its clause negates it ("No direct customer data": no/not/without/never/nor
+#   within three words before the match, in the same clause).
+# - When two adjacent levels both match, the higher wins and a note is logged.
+# - When nothing matches, `default_level` applies with trigger "" and the note
+#   "no anchor matched - analyst to confirm (HC1)" (`empty_level` applies instead to an empty field).
+# - R is computed after D and V: anchors with `rules` use their results (see criticality._r_rule).
+# - V is read from counts (see [factors.V.counts]); its anchors document the bands for the legend sheet.
+#
+# labels / raise_phrases / lower_phrases are indexed by level 0-4 and only drive plain-language wording.
+
+version = "1.1"
+
+[score_tiers]  # minimum score for each tier; anything below Medium is Low
+Critical = 80
+High = 50
+Medium = 25
+
+[weights]  # score = 7 O + 6 D + 5 P + 4 R + 3 V, out of 100
+O = 7
+D = 6
+P = 5
+R = 4
+V = 3
+
+# ------------------------------------------------------------------------------------------------- floors
+# The final tier is the highest of the score tier and the tier of every floor that fires.
+# `reason` is rationale wording; {O} {D} {P} {R} {V} are replaced by that factor's level label.
+
+[[floors]]
+id = "F1"
+tier = "Critical"
+name = "operational-dependency floor"
+description = "Operational dependency Critical or Total (level 4) gives Critical."
+reason = "{O} operational dependency"
+conditions = [{ factor = "O", min = 4 }]
+
+[[floors]]
+id = "F2"
+tier = "Critical"
+name = "payment-path floor"
+description = "Payment-flow involvement 3 or more (in the payment message path, or executing funds) with operational dependency 3 or more gives Critical."
+reason = "in the payment message path with {O} dependency"
+conditions = [{ factor = "P", min = 3 }, { factor = "O", min = 3 }]
+
+[[floors]]
+id = "F3"
+tier = "High"
+name = "sensitive-data-at-scale floor"
+description = "Data sensitivity 4 with volume 3 or more gives at least High."
+reason = "very sensitive data at {V} volume"
+conditions = [{ factor = "D", min = 4 }, { factor = "V", min = 3 }]
+
+[[floors]]
+id = "F4"
+tier = "High"
+name = "privileged-access floor"
+description = "Privileged or administrative access, or service credentials, to production systems (data sensitivity anchor D3-P) gives at least High."
+reason = "privileged or administrative access to production systems"
+conditions = [{ factor = "D", anchor = "D3-P" }]
+
+[[floors]]
+id = "F5"
+tier = "Medium"
+name = "customer-data floor"
+description = "Data sensitivity 3 or more gives at least Medium."
+reason = "customer non-public or more sensitive data"
+conditions = [{ factor = "D", min = 3 }]
+
+[[floors]]
+id = "F6"
+tier = "Critical"
+name = "population-scale floor"
+description = "Data sensitivity 4 with volume 3 or more and operational dependency 3 or more gives Critical (V-000: sensitive data at population scale, and an outage removes a primary channel)."
+reason = "very sensitive data at {V} volume with {O} dependency"
+conditions = [{ factor = "D", min = 4 }, { factor = "V", min = 3 }, { factor = "O", min = 3 }]
+
+# ------------------------------------------------------------------------------- O operational dependency
+
+[factors.O]
+name = "operational dependency"
+fields = ["operational_dependency"]
+default_level = 2  # an unrecognised label is treated as Moderate until an analyst confirms
+empty_level = 0
+labels = ["none", "Low", "Moderate", "High", "Critical/Total"]
+raise_phrases = ["", "operational dependency were Low", "operational dependency were Moderate", "operational dependency were High", "operational dependency were Critical/Total"]
+lower_phrases = ["operational dependency were none", "operational dependency were Low", "operational dependency were Moderate", "operational dependency were High", ""]
+
+[[factors.O.anchors]]
+id = "O4"
+level = 4
+description = "Total or Critical dependency"
+patterns = ['\btotal\b', '\bcritical\b']
+
+[[factors.O.anchors]]
+id = "O3"
+level = 3
+description = "High dependency"
+patterns = ['\bhigh\b']
+
+[[factors.O.anchors]]
+id = "O2"
+level = 2
+description = "Moderate or Medium dependency (also the default for an unrecognised label)"
+patterns = ['\bmoderate\b', '\bmedium\b']
+
+[[factors.O.anchors]]
+id = "O1"
+level = 1
+description = "Low dependency"
+patterns = ['\blow\b']
+
+[[factors.O.anchors]]
+id = "O0"
+level = 0
+description = "No dependency, or the field is empty"
+patterns = ['\bnone\b', '\bnot\s+applicable\b']
+
+# ------------------------------------------------------------------------------------ D data sensitivity
+
+[factors.D]
+name = "data sensitivity"
+fields = ["data_accessed"]
+default_level = 2  # an unrecognised data description is treated as confidential until an analyst confirms
+labels = ["none", "low", "moderate", "high", "very high"]
+raise_phrases = ["", "the data included internal or aggregated information", "the data included confidential information", "the data included customer non-public information", "the data included government IDs or other highly sensitive items"]
+lower_phrases = ["the vendor accessed no data", "the data were only internal or aggregated", "the data were only confidential", "the data were only customer non-public information", ""]
+
+[[factors.D.anchors]]
+id = "D4"
+level = 4
+description = "Government identifiers (SSN, TIN, tax identifiers, national ID, passport), health or medical data, card numbers (PAN), customer authentication secrets, or the full customer master"
+patterns = [
+  '\bsocial\s+security\s+numbers?\b',
+  '\b(?-i:SSNs?)\b',
+  '\btaxpayer\s+identification\s+numbers?\b',
+  '\btax\s+(?:identifiers?|identification\s+numbers?|ids?)\b',
+  '\b(?-i:TINs?)\b',
+  '\bnational\s+(?:id|identity|identification)(?:\s+(?:numbers?|cards?))?\b',
+  '\bpassports?(?:\s+numbers?)?\b',
+  '\bhealth(?:-related)?\s+(?:data|information|records|disclosures|notes|conditions?|history)\b',
+  '\b(?:patient|member|employee|personal|protected)\s+health\b',
+  '\bmedical(?:\s+(?:data|information|records|history))?\b',
+  '\b(?-i:PANs?)\b',
+  '\bprimary\s+account\s+numbers?\b',
+  '\b(?:payment\s+)?card\s+numbers?\b',
+  '\bcardholder\s+data\b',
+  '\b(?:customer\s+)?authentication\s+(?:secrets|credentials|data)\b',
+  '\bcustomer\s+(?:passwords|credentials|(?-i:PINs))\b',
+  '\b(?:(?:full|entire|complete)\s+)?customer\s+master\b',
+]
+
+[[factors.D.anchors]]
+id = "D3"
+level = 3
+description = "Customer non-public personal information without government IDs: account numbers or identifiers, balances, holdings, payment instructions or messages, counterparty names, loan account numbers, transaction data ('in transit' never lowers the level)"
+patterns = [
+  '\bpayment\s+(?:instructions?|messages?)\b',
+  '\bloan\s+account\s+numbers?\b',
+  '\baccount\s+(?:numbers?|identifiers?|ids?)\b',
+  '\bbalances?\b',
+  '\b(?:portfolio\s+)?holdings\b',
+  '\bcounterparty\s+names?\b',
+  '\btransactions?\s+(?:data|details|history|records)\b',
+  '\btransactions\b',
+  '\b(?:customer|client|borrower|member)\s+(?:data|information|records|npi)\b',
+  '\bnon-public\s+(?:personal\s+)?information\b',
+  '\b(?-i:NPI)\b',
+  '\bdates?\s+of\s+birth\b',
+]
+
+[[factors.D.anchors]]
+id = "D3-P"
+level = 3
+label = "high, privileged production access"
+lower_phrase = "the vendor had no privileged production access"
+description = "Privileged or administrative access, or service credentials, to production systems (applies only when no customer non-public information is listed)"
+patterns = [
+  '\bprivileged\s+access(?:\s+to\s+production)?\b',
+  '\badministrative\s+access(?:\s+to\s+production)?\b',
+  '\badmin(?:istrator)?\s+(?:rights|privileges)\b',
+  '\bservice\s+credentials\b',
+  '\b(?:domain\s+)?admin(?:istrator|istrative)?\s+(?:credentials|accounts?|access)\b',
+  '\bdomain\s+admins?\b',
+  '\broot\s+access\b',
+  '\bprivileged\s+(?:accounts?|credentials)\b',
+  '\bproduction\b(?:(?!\b(?:no|not|without)\b)[^.;]){0,60}?\bcredentials\b',
+  '\bcredentials\b(?:(?!\b(?:no|not|without)\b)[^.;]){0,40}?\bproduction\b',
+]
+
+[[factors.D.anchors]]
+id = "D2"
+level = 2
+description = "Confidential data that is not customer data (employee or advisor compensation, financials, configuration without credentials), or customer contact data only"
+patterns = [
+  '\b(?:employee|advisor|adviser|staff)\s+(?:compensation|salary|salaries|payroll)(?:\s+data)?\b',
+  '\bcompensation\s+data\b',
+  '\b(?:company\s+)?financials\b',
+  '\brevenue\b',
+  '\b(?:system\s+)?configuration\b',
+  '\bconfidential\b',
+  '\b(?:customer\s+)?contact\s+(?:data|details|information)\b',
+  '\bnames\s+and\s+(?:postal\s+|e-?mail\s+)?addresses\b',
+  '\be-?mail\s+addresses\b',
+  '\b(?:tele)?phone\s+numbers\b',
+]
+
+[[factors.D.anchors]]
+id = "D1"
+level = 1
+description = "Internal, de-identified or aggregated data"
+patterns = ['\baggregated?\b', '\bde-?identified\b', '\banonymi[sz]ed\b', '\bpseudonymi[sz]ed\b', '\binternal\b']
+
+[[factors.D.anchors]]
+id = "D0"
+level = 0
+description = "No data, or public data only"
+patterns = ['\bno\s+(?:direct\s+)?(?:customer\s+)?data\b', '\bnone\b', '(?<!non-)\bpublic\s+(?:data|information)\b', '\bnot\s+applicable\b']
+
+# ---------------------------------------------------------------------------- P payment-flow involvement
+
+[factors.P]
+name = "payment-flow involvement"
+fields = ["service", "business_process"]
+default_level = 0
+labels = ["none", "after the fact", "indirect", "in the payment path", "executes or settles funds"]
+raise_phrases = ["", "the service reported on payments after the fact", "the service influenced payments", "the service transmitted payment messages", "the service executed or settled funds"]
+lower_phrases = ["the service had no payment role", "the service only reported after the fact", "the service did not transmit payment messages", "the service did not execute or settle funds", ""]
+
+[[factors.P.anchors]]
+id = "P4"
+level = 4
+description = "Executes or settles funds: clearing, settlement, operates the payment network, core account, transaction, card or payment processing, core banking, system of record, ledger"
+patterns = [
+  '\bclearing(?:\s+and\s+settlement)?\b',
+  '\bsettle(?:s|d|ment|ments)?\b',
+  '\boperat(?:es?|ing)\s+(?:the\s+|a\s+)?payments?\s+networks?\b',
+  '\bcore\s+account\s+processing\b',
+  '\baccount\s+processing\s+system\b',
+  '\btransaction\s+processing\b',
+  '\b(?:card|payments?)\s+(?:authori[sz]ation\s+and\s+)?processing\b',
+  '\bcore\s+banking\b',
+  '\bsystem\s+of\s+record\b',
+  '\bledger\b',
+]
+
+[[factors.P.anchors]]
+id = "P3"
+level = 3
+description = "In the payment message path: transmits, routes, converts or screens payment instructions, messages or files; originates ACH, wire, Fedwire, SWIFT, RTP or FedNow payments; card authorization; screens card or payment transactions"
+patterns = [
+  '\b(?:transmi(?:t|ts|tted|tting|ssion)|rout(?:e|es|ed|ing)|convert(?:s|ed|ing)?|conversion|screen(?:s|ed|ing)?)\b(?:\s+[\w()-]+){0,4}?\s+payment\s+(?:instructions?|messages?|files?)\b',
+  '\bpayment\s+(?:instructions?|messages?|files?)\s+(?:transmission|routing|conversion|screening)\b',
+  '\bpayments?\s+(?:\([\w-]+\)\s+)?transmission\b',
+  '\boriginat(?:es?|ed|ing|ion)\b[^.;]{0,40}?\b(?:(?-i:ACH)|wires?|payments?|entries|credits?|debits?|files?)\b',
+  '\b(?-i:ACH)\s+(?:origination|transmission|processing|files?|entries|payments?|credits?|debits?|transfers?)\b',
+  '\bwire\s+(?:transfers?|payments?)\b',
+  '\b(?-i:Fedwire|SWIFT|FedNow|CHIPS)\b',
+  '\b(?:real[\s-]+time\s+payments|(?-i:RTP))\s+(?:transmission|messages?|files?|payments?)\b',
+  '\bcard\s+authori[sz]ations?\b',
+  '\bscreen(?:s|ed|ing)?\s+(?:of\s+)?(?:card\s+|payment\s+)?transactions\b',
+]
+
+[[factors.P.anchors]]
+id = "P2"
+level = 2
+description = "Influences payments without being in the path: schedules jobs on core or posting systems, calculates amounts paid out (commissions, fees, interest), payment arrangements"
+patterns = [
+  '\bbatch\s+scheduling\b[^.;]{0,40}?\b(?:core|posting)\s+systems?\b',
+  '\bschedul(?:es|ing)\s+(?:batch\s+)?jobs?\s+(?:on|across|for)\s+(?:the\s+)?(?:core|posting)\s+systems?\b',
+  '\b(?:commission|fee|interest|payout)\s+calculations?\b',
+  '\bcalculat(?:es|ing|ion\s+of)\s+(?:commissions?|fees|interest|payouts?)\b',
+  '\bpayment\s+arrangements?\b',
+]
+
+[[factors.P.anchors]]
+id = "P1"
+level = 1
+description = "Reports after the fact: statements, reporting, analytics, notices"
+patterns = ['\b(?:account\s+|customer\s+)?statements\b', '\breporting\b', '\breports\b', '\banalytics\b', '\bnotices\b']
+
+[[factors.P.anchors]]
+id = "P0"
+level = 0
+description = "No payment role (the default when no anchor matches)"
+
+# --------------------------------------------------------------------------------- R regulatory exposure
+
+[factors.R]
+name = "regulatory exposure"
+fields = ["service", "business_process", "data_accessed"]
+default_level = 0
+labels = ["none", "low", "moderate", "high", "very high"]
+raise_phrases = ["", "regulatory exposure were low", "regulatory exposure were moderate", "regulatory exposure were high", "the service were itself the regulated mechanism"]
+lower_phrases = ["regulatory exposure were none", "regulatory exposure were low", "regulatory exposure were moderate", "the service were not itself the regulated mechanism", ""]
+
+[[factors.R.anchors]]
+id = "R4"
+level = 4
+description = "The service is the regulated mechanism: deposit or account system of record, core account processing; payment clearing, settlement, transmission, origination, card authorization or processing; mandated customer statements, tax documents (IRS), regulatory notices; loan servicing or collections"
+patterns = [
+  '\bsystem\s+of\s+record\b',
+  '\bcore\s+account\s+processing\b',
+  '\bcore\s+banking\b',
+  '\baccount\s+processing\s+system\b',
+  '\bdeposit\s+(?:account\s+)?(?:system|platform|processing)\b',
+  '\bclearing(?:\s+and\s+settlement)?\b',
+  '\bsettlement\b',
+  '\b(?:transmi(?:t|ts|tted|tting|ssion)|rout(?:e|es|ed|ing)|convert(?:s|ed|ing)?|conversion|screen(?:s|ed|ing)?)\b(?:\s+[\w()-]+){0,4}?\s+payment\s+(?:instructions?|messages?|files?)\b',
+  '\bpayment\s+(?:instructions?|messages?|files?)\s+(?:transmission|routing|conversion|screening)\b',
+  '\bpayments?\s+(?:\([\w-]+\)\s+)?transmission\b',
+  '\boriginat(?:es?|ed|ing|ion)\b[^.;]{0,40}?\b(?:(?-i:ACH)|wires?|payments?|entries|credits?|debits?|files?)\b',
+  '\b(?-i:ACH)\s+(?:origination|transmission|processing|files?|entries|payments?|credits?|debits?|transfers?)\b',
+  '\bwire\s+(?:transfers?|payments?)\b',
+  '\b(?-i:Fedwire|SWIFT|FedNow|CHIPS)\b',
+  '\b(?:real[\s-]+time\s+payments|(?-i:RTP))\s+(?:transmission|messages?|files?|payments?)\b',
+  '\bcard\s+authori[sz]ations?\b',
+  '\bscreen(?:s|ed|ing)?\s+(?:of\s+)?(?:card\s+|payment\s+)?transactions\b',
+  '\b(?:card|payments?)\s+(?:authori[sz]ation\s+and\s+)?processing\b',
+  '\b(?:(?-i:IRS)\s+)?tax\s+(?:documents|forms)\b',
+  '\b(?-i:IRS)\b',
+  '\bregulatory\s+(?:notices|disclosures)\b',
+  '\b(?:printed\s+)?(?:account|customer|periodic|monthly)\s+statements\b',
+  '\b(?:loan|lending|mortgage)\s+servicing\b',
+  '\b(?:debt\s+)?collections\b',
+  '\barrears\s+management\b',
+]
+
+[[factors.R.anchors]]
+id = "R3"
+level = 3
+description = "Customer non-public information (data sensitivity 3 or 4, not D3-P) for 10,000 or more customers, or records relied on for financial or regulatory reporting (accounting)"
+rules = ["npi_at_scale"]
+patterns = ['\baccounting\b', '\bfinancial\s+reporting\b', '\bregulatory\s+reporting\b', '\bgeneral\s+ledger\b']
+
+[[factors.R.anchors]]
+id = "R2"
+level = 2
+description = "No direct customer non-public information but privileged access to production or regulated systems (D3-P); also customer non-public information without 10,000 or more stated customers (analyst to confirm)"
+rules = ["privileged_access", "npi_below_scale"]
+
+[[factors.R.anchors]]
+id = "R1"
+level = 1
+description = "Confidential data only, no customer non-public information (data sensitivity 2)"
+rules = ["confidential_data"]
+
+[[factors.R.anchors]]
+id = "R0"
+level = 0
+description = "No regulatory exposure (the default when no anchor matches)"
+
+# ------------------------------------------------------------------------------- V customer-data volume
+
+[factors.V]
+name = "volume"
+fields = ["data_accessed", "data_volume"]
+default_level = 0
+labels = ["not applicable", "low", "moderate", "high", "very high"]
+raise_phrases = ["", "volume were low", "volume were moderate", "volume were high", "volume reached population scale"]
+lower_phrases = ["volume were not applicable", "volume were low", "volume were moderate", "volume were high", ""]
+
+[factors.V.counts]
+# V = the higher of the customer-count level and the record-count level. A count is a number ("38,000",
+# "1.4 million", "2.1m") followed within `max_gap_words` words by one of the nouns below. A gap containing a
+# frequency word is not a volume ("12 monthly cycles"). A count followed by a period ("30,000 wires per month",
+# "a day", "each week") is annualised (x12, x365, x52, x4). When no customer count is found and a zero pattern
+# matches ("Not applicable", "No direct customer data"), V is 0: record counts are then not customer data.
+customer_nouns = ["customers", "clients", "accounts", "borrowers", "members", "cardholders", "employees", "policyholders", "patients"]
+record_nouns = ["transactions", "messages", "documents", "interactions", "calls", "statements", "records", "files", "payments", "entries", "wires", "items"]
+customer_thresholds = [1, 10000, 100000, 1000000]   # minimum customers for levels 1, 2, 3, 4
+record_thresholds = [1, 100000, 1000000, 10000000]  # minimum records a year for levels 1, 2, 3, 4
+max_gap_words = 3
+frequency_words = ["monthly", "weekly", "daily", "quarterly", "annual", "annually", "yearly", "cycle", "cycles"]
+entire_base_patterns = ['\b(?:entire|full|whole)\s+customer\s+base\b', '\ball\s+(?:of\s+the\s+)?customers\b', '\bevery\s+customer\b']
+zero_patterns = ['\bnot\s+applicable\b', '\bno\s+(?:direct\s+)?customer\s+data\b', '\bn/a\b']
+
+[[factors.V.anchors]]
+id = "V4"
+level = 4
+description = "1,000,000 or more customers or the entire customer base, or 10,000,000 or more records a year"
+
+[[factors.V.anchors]]
+id = "V3"
+level = 3
+description = "100,000 to 999,999 customers, or 1,000,000 to 9,999,999 records a year"
+
+[[factors.V.anchors]]
+id = "V2"
+level = 2
+description = "10,000 to 99,999 customers, or 100,000 to 999,999 records a year"
+
+[[factors.V.anchors]]
+id = "V1"
+level = 1
+description = "1 to 9,999 customers, or fewer than 100,000 records a year"
+
+[[factors.V.anchors]]
+id = "V0"
+level = 0
+description = "Not applicable or no customer data; frequencies such as 12 monthly cycles are not volumes"
