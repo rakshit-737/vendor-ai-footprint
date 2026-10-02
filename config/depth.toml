@@ -1,0 +1,367 @@
+# Depth policy (design §Depth policy; Appendix A 2.5 "Depth policy and stopping rules").
+# The criticality tier alone sets how deep the public-footprint review goes; OSINT never changes it.
+#
+# Per tier and source family:
+#   mandatory: the family must end with a Coverage Log status (done, done_manual, not_applicable, stopped, ...)
+#   mode:      "full", a narrower scope ("privacy_and_subprocessors", "screen", "one_query", "keyword",
+#              "homepage"), "on_lead" (discretionary), "manual" (analyst capture only) or "not_used"
+#   cap:       max automated requests per vendor for the family (robots.txt and terms checks not counted);
+#              a family that reaches its cap ends as stopped(rule: cap)
+#   reason:    one line on why the family runs (or thins out) at this tier; shown in the Method & Legend sheet
+# Budgets: the discretionary fetch budget never cuts a mandatory family short; Gemini calls and analyst minutes
+# are per-vendor ceilings; saturation_window = stop after this many actions without a new S>=2/R>=2 cluster.
+# Any change here is a policy change: bump `version`.
+version = "1.0"
+
+# ---------------------------------------------------------------- column N (Assessment Depth Applied)
+max_cell_chars = 1050
+closing = "Depth followed from the assigned tier rather than from the volume of material the vendor had published."
+registrant_unknown_suffix = "(applies only if an SEC registrant; checked by the SEC collector)"
+
+# Order in which column N names the mandatory families.
+family_order = ["REG", "LEG", "PRD", "JOB", "DNS", "IND", "HIST", "EXEC"]
+
+# How column N names a family in each mode it can be mandatory in.
+[family_words.LEG]
+full = "legal and trust pages (privacy, terms, sub-processors, AI policy)"
+privacy_and_subprocessors = "the privacy notice and sub-processor list"
+screen = "the privacy notice and sub-processor or trust page"
+
+[family_words.REG]
+full = "regulatory filings"
+one_query = "one regulatory full-text query"
+
+[family_words.PRD]
+full = "product documentation and newsroom"
+keyword = "a keyword scan of product pages and newsroom"
+homepage = "the homepage"
+
+[family_words.JOB]
+full = "the vendor's own job postings"
+keyword = "a keyword search of the vendor's own job postings"
+
+[family_words.DNS]
+full = "DNS records"
+
+[family_words.IND]
+full = "independent provider and press corroboration"
+
+[family_words.HIST]
+full = "archive history"
+
+[family_words.EXEC]
+manual = "executive channels captured by hand"
+
+# Coverage Log statuses in words, in the order column N counts them ("missing" = no Coverage Log entry).
+[status_words]
+done = "done"
+done_manual = "done by manual capture"
+stopped = "stopped at a cap or stop rule"
+not_applicable = "not applicable"
+pending = "pending"
+blocked_robots = "blocked by robots.txt"
+blocked_tou = "barred by terms of use"
+blocked_bot = "blocked by bot protection"
+error = "ended in error"
+descoped = "descoped"
+missing = "not logged"
+
+# ---------------------------------------------------------------- Critical
+[tiers.Critical]
+label = "Full review – tier-driven"
+phrase = "the deepest level of work"        # "A Critical tier calls for {phrase}: {families}."
+discretionary_fetches = 100                 # seeds and 2 snowball rounds
+gemini_calls = 40
+analyst_minutes = 180
+saturation_window = 10
+reserved_for_meridian = [
+  "AI due-diligence questionnaire (FS-ISAC Level 3 equivalent)",
+  "contract and AI-clause review",
+  "SOC 2 Type II scope and ISO/IEC 42001 validation",
+  "AI system and sub-processor inventory request",
+]
+
+[tiers.Critical.families.LEG]
+mandatory = true
+mode = "full"
+cap = 40
+reason = "Never dropped: cheap, legally accountable (SR A) and the first place AI sub-processors appear."
+
+[tiers.Critical.families.REG]
+mandatory = true
+mode = "full"
+cap = 80
+reason = "Filings and all exhibits over 24 months: legally accountable (SR A) statements that tie AI to products."
+
+[tiers.Critical.families.PRD]
+mandatory = true
+mode = "full"
+cap = 150
+reason = "Homepage links to depth 2, sitemaps and PDFs: product pages, docs and releases show features and data flows."
+
+[tiers.Critical.families.JOB]
+mandatory = true
+mode = "full"
+cap = 120
+reason = "Listing pages plus up to 120 detail fetches for matched titles: postings show AI duties and named tools (capped at S2)."
+
+[tiers.Critical.families.DNS]
+mandatory = true
+mode = "full"
+cap = 40
+reason = "Never dropped: one cheap lookup, although it proves only a relationship."
+
+[tiers.Critical.families.IND]
+mandatory = true
+mode = "full"
+cap = 30
+reason = "Provider stories, partner releases and trade press: independent corroboration (SR C) that separates Probable from Confirmed."
+
+[tiers.Critical.families.HIST]
+mandatory = true
+mode = "full"
+cap = 30
+reason = "Wayback availability and CDX first-seen dates: dates claims and finds withdrawn ones; never Save Page Now."
+
+[tiers.Critical.families.EXEC]
+mandatory = false
+mode = "manual"
+cap = 0
+reason = "Optional, captured by hand only: executive posts and talks can state deployed use, but no channel is automated."
+
+# ---------------------------------------------------------------- High
+[tiers.High]
+label = "Standard review – tier-driven"
+phrase = "a standard level of work"
+discretionary_fetches = 50                  # 1 snowball round; HIST and EXEC on a lead
+gemini_calls = 20
+analyst_minutes = 90
+saturation_window = 6
+reserved_for_meridian = [
+  "targeted AI questionnaire (FS-ISAC Level 2)",
+  "review of contract data-use and sub-processor clauses",
+  "attestations if AI is confirmed on customer data",
+]
+
+[tiers.High.families.LEG]
+mandatory = true
+mode = "full"
+cap = 40
+reason = "Never dropped: cheap, legally accountable (SR A) and the first place AI sub-processors appear."
+
+[tiers.High.families.REG]
+mandatory = true
+mode = "full"
+cap = 40
+reason = "Filings and exhibits over 24 months: legally accountable (SR A) statements that tie AI to products."
+
+[tiers.High.families.PRD]
+mandatory = true
+mode = "full"
+cap = 100
+reason = "Homepage links to depth 2, sitemaps and PDFs: product pages, docs and releases show features and data flows."
+
+[tiers.High.families.JOB]
+mandatory = true
+mode = "full"
+cap = 60
+reason = "Listing pages plus up to 60 detail fetches for matched titles: postings show AI duties and named tools (capped at S2)."
+
+[tiers.High.families.DNS]
+mandatory = true
+mode = "full"
+cap = 40
+reason = "Never dropped: one cheap lookup, although it proves only a relationship."
+
+[tiers.High.families.IND]
+mandatory = true
+mode = "full"
+cap = 20
+reason = "Provider stories, partner releases and trade press: independent corroboration (SR C) that separates Probable from Confirmed."
+
+[tiers.High.families.HIST]
+mandatory = false
+mode = "on_lead"
+cap = 0
+reason = "On a lead at High, none below: history dates claims and finds withdrawn ones but rarely gives SR A/B evidence of use."
+
+[tiers.High.families.EXEC]
+mandatory = false
+mode = "on_lead"
+cap = 0
+reason = "On a lead at High, captured by hand, none below: executive channels rarely give SR A/B evidence of use."
+
+# ---------------------------------------------------------------- Medium
+[tiers.Medium]
+label = "Focused review"
+phrase = "a focused level of work"
+discretionary_fetches = 0
+gemini_calls = 6
+analyst_minutes = 30
+saturation_window = 4
+reserved_for_meridian = [
+  "AI items in the next periodic review",
+  "confirm data-use terms",
+]
+
+[tiers.Medium.families.LEG]
+mandatory = true
+mode = "privacy_and_subprocessors"
+cap = 15
+reason = "Never dropped, narrowed to the privacy notice and sub-processor list: cheap, legally accountable and where AI sub-processors appear first."
+
+[tiers.Medium.families.REG]
+mandatory = true
+mode = "one_query"
+cap = 5
+reason = "One full-text query at Medium: filings rarely describe a non-critical service, and most smaller vendors do not file."
+
+[tiers.Medium.families.PRD]
+mandatory = true
+mode = "keyword"
+cap = 20
+reason = "Keyword scan at Medium: a full crawl mostly adds marketing (U7) for a vendor whose failure would not seriously affect Meridian."
+
+[tiers.Medium.families.JOB]
+mandatory = true
+mode = "keyword"
+cap = 15
+reason = "Keyword search at Medium: postings show intent and staff skills (capped at S2), worth reading in volume only where data or dependency is material."
+
+[tiers.Medium.families.DNS]
+mandatory = true
+mode = "full"
+cap = 20
+reason = "Never dropped: one cheap lookup, although it proves only a relationship."
+
+[tiers.Medium.families.IND]
+mandatory = false
+mode = "not_used"
+cap = 0
+reason = "None below High: provider stories and trade press only corroborate (SR C); a questionnaire separates Probable from Confirmed more cheaply."
+
+[tiers.Medium.families.HIST]
+mandatory = false
+mode = "not_used"
+cap = 0
+reason = "None below High: history dates claims and finds withdrawn ones but rarely gives SR A/B evidence of use."
+
+[tiers.Medium.families.EXEC]
+mandatory = false
+mode = "not_used"
+cap = 0
+reason = "None below High: executive channels rarely give SR A/B evidence of use within the service, and capture is manual."
+
+# ---------------------------------------------------------------- Low
+[tiers.Low]
+label = "Screen"
+phrase = "a screening level of work"
+discretionary_fetches = 0
+gemini_calls = 2
+analyst_minutes = 15
+saturation_window = 3
+reserved_for_meridian = [
+  "record and re-screen annually",
+]
+
+[tiers.Low.families.LEG]
+mandatory = true
+mode = "screen"
+cap = 3
+reason = "Never dropped, narrowed to the privacy notice and sub-processor or trust page: cheap, legally accountable and where AI sub-processors appear first."
+
+[tiers.Low.families.REG]
+mandatory = false
+mode = "not_used"
+cap = 0
+reason = "None at Low: filings rarely describe a non-critical service, and most smaller vendors do not file."
+
+[tiers.Low.families.PRD]
+mandatory = true
+mode = "homepage"
+cap = 1
+reason = "Homepage only at Low: a full crawl mostly adds marketing (U7) for a vendor whose failure would not seriously affect Meridian."
+
+[tiers.Low.families.JOB]
+mandatory = false
+mode = "not_used"
+cap = 0
+reason = "None at Low: postings show intent and staff skills (capped at S2), worth reading only where data or dependency is material."
+
+[tiers.Low.families.DNS]
+mandatory = true
+mode = "full"
+cap = 10
+reason = "Never dropped: one cheap lookup, although it proves only a relationship."
+
+[tiers.Low.families.IND]
+mandatory = false
+mode = "not_used"
+cap = 0
+reason = "None below High: provider stories and trade press only corroborate (SR C); a questionnaire separates Probable from Confirmed more cheaply."
+
+[tiers.Low.families.HIST]
+mandatory = false
+mode = "not_used"
+cap = 0
+reason = "None below High: history dates claims and finds withdrawn ones but rarely gives SR A/B evidence of use."
+
+[tiers.Low.families.EXEC]
+mandatory = false
+mode = "not_used"
+cap = 0
+reason = "None below High: executive channels rarely give SR A/B evidence of use within the service, and capture is manual."
+
+# ---------------------------------------------------------------- modifiers
+# Triggers are coded in footprint/depth.py; plans list them in this order:
+#   M-D4      D factor at level 4 and the tier below Critical (FSSI)
+#   M-D3P     D anchor "D3-P": privileged production access or credentials (AutomWorx)
+#   M-Private sec_registrant is False and the tier uses REG (AutomWorx, FSSI, Terrapin, TCH)
+# raise_to_critical: the family becomes mandatory with its Critical mode and cap.
+# not_applicable:    the family is logged not_applicable with not_applicable_reason.
+# note:              how column N describes the modifier; title: how a raised family's reason names it.
+[modifiers.M-D4]
+title = "top data sensitivity below the Critical tier"
+raise_to_critical = ["LEG", "HIST"]
+note = "legal and archive review at Critical depth, including AI features of named platforms, for data of the highest sensitivity"
+
+[modifiers.M-D3P]
+title = "privileged production access; delivery-AI module"
+raise_to_critical = ["IND"]
+note = "delivery-AI module: embedded third-party tenants and affiliates, platform-maker AI terms, staff AI-tool signals; escalate early"
+
+[modifiers.M-Private]
+title = "not an SEC registrant, so no filings to draw on"
+raise_to_critical = ["LEG", "HIST"]
+not_applicable = ["REG"]
+not_applicable_reason = "not an SEC registrant (EDGAR checked)"
+note = "regulatory filings not applicable (not an SEC registrant; EDGAR checked), offset by deeper legal and archive review"
+
+# ---------------------------------------------------------------- sources excluded by design (slide 6)
+[[excluded_sources]]
+source = "Search-engine result pages, ddgs and Google News RSS"
+reason = "Their terms bar automated querying, and the results cannot be reproduced."
+
+[[excluded_sources]]
+source = "Gemini grounding"
+reason = "It is paid, and its terms forbid harvesting the links."
+
+[[excluded_sources]]
+source = "Automated LinkedIn or Glassdoor access"
+reason = "Their terms forbid it; executive posts are captured by hand instead."
+
+[[excluded_sources]]
+source = "Wayback Save Page Now"
+reason = "It would create new public archive records of the research."
+
+[[excluded_sources]]
+source = "Patents"
+reason = "They show capability, not use."
+
+[[excluded_sources]]
+source = "GDELT, OpenAlex and Hacker News"
+reason = "Low yield or reliability: aggregator copies (SR D), research capability rather than use, and user-generated content (SR E)."
+
+[[excluded_sources]]
+source = "Logins, forms and NDA-gated portals"
+reason = "They are not part of the public footprint."
