@@ -245,3 +245,101 @@ class CoverageEntry(BaseModel):
     documents: int = 0
     ai_passages: int = 0
     note: str = ""
+
+
+# --------------------------------------------------------------------------- P2 capture / extraction
+
+RobotsDecision = Literal["allowed", "disallowed", "not_applicable", "manual"]
+DocKind = Literal["html", "pdf", "json", "dns", "text"]
+
+CAPTURE_HEADER_KEYS: tuple[str, ...] = ("date", "last-modified", "content-type", "etag", "server")
+
+
+class Capture(BaseModel):
+    """One retrieved (or manually imported) raw artefact in the content-addressed evidence store.
+
+    ``capture_id`` is the sha256 hex of the raw bytes; the blob lives at ``blob_path``
+    (repo-relative, e.g. ``evidence/blobs/ab/<sha>.gz``).
+    """
+
+    capture_id: str = Field(description="sha256 hex of the raw bytes")
+    vendor_id: str
+    family: SourceFamily
+    collector: str = Field(description="collector name that requested it, or 'manual'")
+    url_requested: str
+    url_final: str = Field(default="", description="URL after redirects ('' if same / not applicable)")
+    status: int = 0
+    content_type: str = ""
+    headers: dict[str, str] = Field(default_factory=dict, description="subset: date,last-modified,content-type,etag,server")
+    retrieved_at: str = Field(description="ISO-8601 UTC timestamp, e.g. 2026-10-02T12:00:00Z")
+    size: int = 0
+    blob_path: str = Field(default="", description="repo-relative path to gzip blob")
+    robots_decision: RobotsDecision = "not_applicable"
+    robots_sha256: str = Field(default="", description="sha256 of the robots.txt body consulted ('' if none)")
+    tou_match: str = Field(default="", description="host entry in config/tou.toml that governed the request")
+    via_wayback: bool = False
+    wayback_timestamp: str = Field(default="", description="14-digit Wayback timestamp if via_wayback")
+    manual: bool = False
+    captured_by: str = Field(default="", description="collector name or 'human:<initials>'")
+    screenshot_path: str = ""
+    note: str = ""
+
+
+class Document(BaseModel):
+    """Extracted text of a capture. ``doc_id`` equals the sha256 of the extracted text (``text_sha256``)."""
+
+    doc_id: str = Field(description="sha256 hex of extracted text")
+    capture_id: str
+    vendor_id: str
+    family: SourceFamily
+    url: str
+    title: str = ""
+    kind: DocKind
+    published: str = Field(default="", description="ISO date YYYY-MM-DD or ''")
+    date_basis: str = Field(default="", description="where the date came from, e.g. 'meta article:published_time', 'last-modified'")
+    text_path: str = Field(default="", description="repo-relative path to stored text")
+    text_len: int = 0
+    extractor: str = Field(default="", description="name+version, e.g. 'trafilatura 1.12.2'")
+    pages: list[int] = Field(default_factory=list, description="pdf: char offsets where each page starts")
+
+
+class Passage(BaseModel):
+    """A lexicon-hit window of a document; ``text == document_text[start:end]`` exactly."""
+
+    passage_id: str = Field(description="first 16 hex of sha256(f'{doc_id}|{start}|{end}')")
+    doc_id: str
+    vendor_id: str
+    start: int
+    end: int
+    text: str
+    hits: list[str] = Field(default_factory=list, description="lexicon terms found")
+
+    @staticmethod
+    def make_id(doc_id: str, start: int, end: int) -> str:
+        import hashlib
+
+        return hashlib.sha256(f"{doc_id}|{start}|{end}".encode()).hexdigest()[:16]
+
+
+class CollectorResult(BaseModel):
+    """What one collector returns for one vendor."""
+
+    captures: list[Capture] = Field(default_factory=list)
+    documents: list[Document] = Field(default_factory=list)
+    coverage: list[CoverageEntry] = Field(default_factory=list)
+    leads: list[str] = Field(default_factory=list, description="URLs discovered but not fetched")
+    notes: list[str] = Field(default_factory=list)
+
+
+FetchReason = Literal[
+    "", "ok", "blocked_robots", "blocked_tou", "blocked_bot", "http_error", "cap_reached", "replay_miss", "network_error"
+]
+
+
+class FetchOutcome(BaseModel):
+    """Result of Fetcher.get(). ``capture`` is set whenever bytes were stored (also for http_error bodies)."""
+
+    ok: bool
+    capture: Capture | None = None
+    status: int = 0
+    reason: str = Field(default="", description="'' when ok, else e.g. blocked_robots, blocked_tou, blocked_bot, http_error, cap_reached, replay_miss, network_error")
