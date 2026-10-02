@@ -1,0 +1,25 @@
+# environments and caches
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.ruff_cache/
+
+# secrets: never commit keys or tokens
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# build artefacts and the Colab bundle (shared as a private release asset, never committed)
+dist/
+build/
+*.egg-info/
+footprint_bundle*.zip
+
+# local scratch and demo sandboxes
+scratch/
+review/sandbox/
+*.tmp
+~$*
