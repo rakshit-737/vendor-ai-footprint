@@ -127,5 +127,91 @@ def override_tier(
     typer.echo(f"Recorded {vendor_id} -> {tier.value} in {store_path}")
 
 
+DEFAULT_INPUT = Path("data/input/Meridian_Vendor_Input.xlsx")
+capture_app = typer.Typer(no_args_is_help=True, help="Manual evidence capture.")
+app.add_typer(capture_app, name="capture")
+
+
+@app.command()
+def collect(
+    vendor: list[str] = typer.Option([], "--vendor", help="Vendor id (repeatable), e.g. V-001"),
+    all_: bool = typer.Option(False, "--all", help="Collect every vendor in the input workbook"),
+    mode: str = typer.Option("live_rules", "--mode", help="live_rules (polite network) or replay (evidence store)"),
+    input_xlsx: Path = typer.Option(DEFAULT_INPUT, "--input", help="Vendor input workbook"),
+    seeds_dir: Path = typer.Option(Path("seeds"), "--seeds"),
+    evidence: Path = typer.Option(Path("evidence"), "--evidence", help="Evidence store root"),
+    runs_dir: Path = typer.Option(Path("runs"), "--runs"),
+    overrides: Path | None = typer.Option(None, "--overrides"),
+) -> None:
+    """P2: run the collectors each vendor's depth plan calls for and write runs/<run_id>/."""
+    from footprint.capture.store import EvidenceStore
+    from footprint.pipeline import assess_profiles, collect_vendor, make_fetcher
+    from footprint.workbook import read_workbook
+
+    if mode not in ("live_rules", "replay"):
+        raise _fail(f"unknown --mode {mode!r} (live_rules or replay)")
+    if not all_ and not vendor:
+        raise _fail("pass --vendor V-00x or --all")
+    data = read_workbook(input_xlsx)
+    if not data.ok:
+        raise _fail("input workbook has errors", [i.message for i in data.issues])
+    store_path = overrides or default_overrides_path()
+    assessments = assess_profiles(data, OverrideStore(store_path) if store_path.exists() else None)
+    if not all_:
+        wanted = set(vendor)
+        assessments = [a for a in assessments if a.profile.vendor_id in wanted]
+        missing = wanted - {a.profile.vendor_id for a in assessments}
+        if missing:
+            raise _fail(f"unknown vendor id(s): {', '.join(sorted(missing))}")
+    store = EvidenceStore(evidence)
+    fetcher = make_fetcher(mode, store)  # one fetcher per invocation: per-run host counters span all vendors
+    table = Table(title=f"Collection ({mode})")
+    for col in ["Vendor", "Tier", "Run id", "Captures", "Docs", "Passages", "Not complete"]:
+        table.add_column(col)
+    for a in assessments:
+        run = collect_vendor(a, mode, seeds_dir, store, fetcher=fetcher, runs_dir=runs_dir)  # type: ignore[arg-type]
+        open_fams = sorted({f"{e.family.value}:{e.status.value}" for e in run.coverage
+                            if e.mandatory and e.status.value not in ("done", "done_manual", "not_applicable",
+                                                                      "stopped")})
+        table.add_row(a.profile.vendor_id, a.depth.tier.value, run.run_id, str(len(run.captures)),
+                      str(len(run.documents)), str(len(run.passages)), ", ".join(open_fams) or "-")
+    Console(width=200).print(table)
+
+
+@app.command()
+def coverage(run_id: str = typer.Argument(...), runs_dir: Path = typer.Option(Path("runs"), "--runs")) -> None:
+    """Print the Coverage Log of one run."""
+    from footprint.pipeline import load_run_coverage
+    from footprint.sheets import coverage_log_sheet
+
+    try:
+        spec = coverage_log_sheet(load_run_coverage(run_id, runs_dir))
+    except OSError as exc:
+        raise _fail(f"cannot read run {run_id}: {exc}") from exc
+    table = Table(title=f"Coverage Log {run_id}")
+    for h in spec.headers:
+        table.add_column(h)
+    for row in spec.rows:
+        table.add_row(*("" if v is None else str(v) for v in row))
+    Console(width=220).print(table)
+
+
+@capture_app.command("import")
+def capture_import(
+    inbox: Path = typer.Option(Path("evidence/manual_inbox"), "--inbox"),
+    evidence: Path = typer.Option(Path("evidence"), "--evidence"),
+    analyst: str | None = typer.Option(None, "--analyst", help="Initials recorded as human:<initials>"),
+) -> None:
+    """Import manual captures from <inbox>/<vendor>/captures.csv into the evidence store."""
+    from footprint.capture.manual import import_inbox_report
+    from footprint.capture.store import EvidenceStore
+
+    rep = import_inbox_report(EvidenceStore(evidence), inbox, analyst=analyst)
+    typer.echo(f"Imported {len(rep.captures)} captures ({rep.duplicates} already imported, "
+               f"{len(rep.skipped)} skipped)")
+    for s in rep.skipped:
+        typer.echo(f"  skipped {s.vendor_id} #{s.nn} {s.url}: {s.note}", err=True)
+
+
 if __name__ == "__main__":
     app()
