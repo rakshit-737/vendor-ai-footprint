@@ -11,7 +11,7 @@ from collections.abc import Iterable, Sequence
 
 from footprint.criticality import FACTORS, Rubric, factor_label, floor_description, rubric_table
 from footprint.depth import DepthConfig, depth_table, excluded_sources
-from footprint.models import CriticalityResult, SheetSpec, Tier, VendorProfile
+from footprint.models import CoverageEntry, CriticalityResult, SheetSpec, Tier, VendorProfile
 
 WORKINGS_TITLE = "Criticality Workings"
 METHOD_LEGEND_TITLE = "Method & Legend"
@@ -131,3 +131,20 @@ def method_legend_sheet(rubric: Rubric, depth_config: DepthConfig) -> SheetSpec:
     ])
     add_section(spec, "Excluded sources", excluded_sources(depth_config))
     return spec
+
+
+COVERAGE_LOG_TITLE = "Coverage Log"
+COVERAGE_HEADERS: list[str] = ["Vendor ID", "Family", "Mandatory", "Status", "Collector", "Endpoint / query",
+                               "Requests used", "Cap", "Documents", "AI passages", "Note"]
+
+
+def coverage_log_sheet(entries: Iterable[CoverageEntry]) -> SheetSpec:
+    """Coverage Log: one row per (vendor, family, collector) search, negative evidence included."""
+    rows: list[list[Cell]] = [
+        [e.vendor_id, e.family.value, "Yes" if e.mandatory else "No", e.status.value, e.collector, e.endpoint,
+         e.requests_used, e.cap, e.documents, e.ai_passages, e.note]
+        for e in entries
+    ]
+    return SheetSpec(title=COVERAGE_LOG_TITLE, headers=COVERAGE_HEADERS, rows=rows,
+                     column_widths=[10, 8, 10, 15, 12, 40, 9, 6, 9, 9, 60],
+                     note="What was searched, how, and the result; a done row with 0 AI passages is negative evidence.")
