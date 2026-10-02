@@ -1,0 +1,217 @@
+# Seeds for V-002 Fiserv, Inc. - curated during scouting research on 2026-10-02 (passive OSINT only).
+# Every [[seed]] records how it was found so discovery is repeatable. 'expect' is the scout's preliminary
+# strength label, used only as a gold label for evaluation, never as evidence. Edit with a reason.
+schema = "seeds/1"
+vendor_id = "V-002"
+name = "Fiserv, Inc."
+legal_names = ["Fiserv, Inc."]
+aliases = ["Fiserv", "FISV"]
+domains = ["fiserv.com"]
+sec_cik = "0000798354"
+collisions = ["in our DNA", "Fiserv Forum"]
+person_scrub = ["Mike Lyons", "Jim Reuter"]
+
+# Exact-service terms (relevance R3) from columns E and H, each with its reason.
+[[service_term]]
+term = "DNA core"
+reason = "col E: The DNA core banking platform (bare 'DNA' collides with 'in our DNA')"
+[[service_term]]
+term = "DNA platform"
+reason = "col E product name"
+[[service_term]]
+term = "account processing"
+reason = "col E/H: real-time account processing"
+[[service_term]]
+term = "core banking"
+reason = "col E: core banking operations"
+[[service_term]]
+term = "core account processing"
+reason = "col H"
+[[service_term]]
+term = "transaction processing"
+reason = "col E"
+
+# Product-family terms (relevance R2).
+[[family_term]]
+term = "Finxact"
+reason = "Fiserv 10-K: account processing solutions led by Finxact"
+[[family_term]]
+term = "Signature"
+reason = "Fiserv account processing family (10-K)"
+[[family_term]]
+term = "Premier"
+reason = "Fiserv account processing family"
+[[family_term]]
+term = "agentOS"
+reason = "agentic platform operating across Fiserv's core platforms"
+
+[ats]
+platform = "manual"
+host = "careers.fiserv.com"
+backend = "fiserv.wd5.myworkdayjobs.com/EXT"
+note = "Phenom front end over Workday; fiserv.com Terms s.7 bar automation: manual sampling only."
+
+[[seed]]
+url = "https://americanbanker.com/news/fiserv-has-co-created-ai-agents-with-six-banks-and-openai"
+family = "IND"
+kind = "Credible trade news"
+automation = "manual"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "moderate"
+relevance = "adjacent"
+note = "Independent press confirms the Bedrock runtime and quotes Suryadevara on kill switches and human-in-the-loop. The list of model vendors describes Bedrock's catalog, not a confirmed list of models Fiserv uses. CAVEAT: the text came through the WebFetch summarizer (possibly paywalled), so re-verify it"
+
+[[seed]]
+url = "https://finovate.com/fiserv-turns-to-devin-ai-to-speed-core-banking-upgrades/"
+family = "IND"
+kind = "Trade press (reporting Fiserv-Cognition press release of 2026-05-28)"
+automation = "auto"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "moderate"
+relevance = "adjacent"
+note = "An autonomous AI software engineer (Cognition's Devin) is being deployed on Fiserv core-platform codebases. This is code-level AI exposure for core software, not confirmed customer-data access. PYMNTS (2026-05-28) quotes the release as 'Fiserv plans to deploy Devin across core platform modernization"
+
+[[seed]]
+url = "https://mondovisione.com/media-and-resources/news/fiserv-collaborates-with-microsoft-to-accelerate-ai-driven-innovation-the-two-202618/"
+family = "IND"
+kind = "Press release (vendor + model/platform provider)"
+automation = "auto"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "strong"
+relevance = "corporate-wide"
+note = "Measurable production LLM use through Microsoft Foundry on Azure (100B+ tokens) in products and client servicing, plus AI coding assistants used across engineering. The same release says Microsoft 365 Copilot is being deployed to the global workforce. Which Foundry models are used and which products"
+
+[[seed]]
+url = "https://mondovisione.com/media-and-resources/news/fiserv-forms-strategic-collaboration-with-openai-to-bring-ai-to-how-fiserv-serve-2026514/"
+family = "IND"
+kind = "Press release (vendor + model provider)"
+automation = "auto"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "strong"
+relevance = "adjacent"
+note = "OpenAI is co-developing Fiserv's first-party banking agents. The same release says joint Fiserv and OpenAI teams are already at work, with output expected to reach clients 'through the rest of 2026 and beyond'."
+
+[[seed]]
+url = "https://press.aboutamazon.com/aws/2026/5/fiserv-launches-agentos-the-operating-system-for-agentic-ai-in-banking"
+family = "IND"
+kind = "Press release (vendor + model/infrastructure partner)"
+automation = "auto"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "strong"
+relevance = "adjacent"
+note = "Fiserv launched an agentic-AI operating system built to run natively on its core platforms. At launch it has 4 Fiserv agents: Commercial Loan Onboarding, Daily Operational Analysis and Reporting, Agentic Deposit Intelligence, Agentic AML Triage Analysis. Six FIs are co-developing it and two run agen"
+
+[[seed]]
+url = "https://careers.fiserv.com/us/en/job/R-10398816"
+family = "JOB"
+kind = "Job posting"
+automation = "manual"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "moderate"
+relevance = "corporate-wide"
+note = "AI governance is put into practice with AI intake, risk tiering and audit traceability on OneTrust, which matches the onetrust TXT tokens. Other current postings: AI Transformation Consultant (R-10374510, 2026-09-23); Lead AI Transformation Engineer (R-10398114 and R-10397284, 2026-09-21), driving A"
+
+[[seed]]
+url = "https://www.fiserv.com/content/dam/fiserv-ent/final-files/marketing-collateral/documents-handouts-flyers/2025-sustainability-and-impact-report-0926.pdf"
+family = "PRD"
+kind = "Vendor sustainability/CSR report (PDF)"
+automation = "manual"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "moderate"
+relevance = "corporate-wide"
+note = "A formal internal GenAI and ML usage policy exists, informed by the NIST AI RMF and Binding Corporate Rules, under Board Risk Committee oversight of AI. It is internal only: no public policy. Note that governance exists alongside actual LLM use."
+
+[[seed]]
+url = "https://www.fiserv.com/en/about-fiserv/corporate-social-responsibility/champion-responsible-business-practices.html"
+family = "PRD"
+kind = "Vendor CSR page"
+automation = "manual"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "weak"
+relevance = "corporate-wide"
+note = "A short public claim of responsible-AI governance. It lacks detail and links to no policy document."
+
+[[seed]]
+url = "https://www.fiserv.com/en/insights/articles-and-blogs/core-banking-modernization-4-technologies-shaping-the-future-of-financial-services.html"
+family = "PRD"
+kind = "Vendor blog / thought leadership"
+automation = "manual"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "weak"
+relevance = "service-specific"
+note = "As of January 2026, Fiserv's own head of core account processing described AI in core as emerging and held back by compliance concerns. This is useful calibration that AI inside core account processing was not yet mature."
+
+[[seed]]
+url = "https://www.fiserv.com/en/insights/articles-and-blogs/what-agentic-ai-means-for-financial-institutions.html"
+family = "PRD"
+kind = "Vendor blog / thought leadership"
+automation = "manual"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "moderate"
+relevance = "adjacent"
+note = "Fiserv states agentOS unlocks data across core platforms. In the same article Srini Krish (Head of Technology and Operations, Financial Solutions) says clients' data 'is secure and they own it', and Vishal Dalal (CPO, Financial Solutions) stresses guardrails and reproducibility for auditors."
+
+[[seed]]
+url = "https://www.fiserv.com/en/lp/agentos-by-fiserv.html"
+family = "PRD"
+kind = "Vendor product page"
+automation = "manual"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "moderate"
+relevance = "adjacent"
+note = "Architecture claims: multi-model routing including small language models, agents with direct access to Fiserv product data, and client data used in CERT testing. Billing is by credits ('Buy credits and spend them across every agent'), which points to an opt-in, metered add-on. Named agents include C"
+
+[[seed]]
+url = "https://www.fiserv.com/en/solutions/coreadvance.html"
+family = "PRD"
+kind = "Vendor product page"
+automation = "manual"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "marketing-only"
+relevance = "adjacent"
+note = "An unsupported AI claim for CoreAdvance, a different Fiserv core, not DNA. It contains no technical or provider detail."
+
+[[seed]]
+url = "https://www.sec.gov/Archives/edgar/data/798354/000079835426000009/fi-20251231.htm"
+family = "REG"
+kind = "SEC filing (risk factors)"
+automation = "auto"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "strong"
+relevance = "corporate-wide"
+note = "Formal disclosure of actual AI/ML use in Fiserv's services and operations. Confirms that some services embed third-party models, and admits Fiserv relies on the safeguards of those model providers."
+
+[[seed]]
+url = "https://www.sec.gov/Archives/edgar/data/798354/000079835426000031/fisv-20260630.htm"
+family = "REG"
+kind = "SEC filing (10-Q MD&A)"
+automation = "auto"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "moderate"
+relevance = "corporate-wide"
+note = "The most recent SEC statement confirms AI is being embedded across products, services and operations, with 'Project Elevate' as the AI-led transformation program. It does not mention agentOS, OpenAI or DNA."
+
+[[seed]]
+url = "https://www.sec.gov/Archives/edgar/data/798354/000119312526226797/d150338ddefa14a.htm"
+family = "REG"
+kind = "SEC-filed investor day transcript"
+automation = "auto"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "strong"
+relevance = "adjacent"
+note = "The co-president running Financial Solutions describes agents operating on clients' systems of record (the core), with data masking, human-in-the-loop and kill-switch controls. These are useful control claims to verify in a questionnaire."
