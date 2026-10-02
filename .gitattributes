@@ -1,0 +1,16 @@
+# LF everywhere so content hashes are stable across machines (core.autocrlf=true on the dev box).
+* text=auto eol=lf
+
+*.xlsx binary
+*.pptx binary
+*.pdf binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gz binary
+*.zip binary
+
+# Evidence, run records and fixtures are hashed byte-for-byte: never convert line endings.
+evidence/** -text
+runs/** -text
+tests/fixtures/** -text
