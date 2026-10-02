@@ -1,0 +1,216 @@
+# Seeds for V-003 Financial Statement Services, Inc. (FSSI) - curated during scouting research on 2026-10-02 (passive OSINT only).
+# Every [[seed]] records how it was found so discovery is repeatable. 'expect' is the scout's preliminary
+# strength label, used only as a gold label for evaluation, never as evidence. Edit with a reason.
+schema = "seeds/1"
+vendor_id = "V-003"
+name = "Financial Statement Services, Inc. (FSSI)"
+legal_names = ["Financial Statement Services, Inc."]
+aliases = ["FSSI", "Financial Statement Services"]
+domains = ["fssi-ca.com"]
+sec_cik = ""
+collisions = ["Federal Strategic Sourcing Initiative", "GSA FSSI"]
+person_scrub = []
+
+# Exact-service terms (relevance R3) from columns E and H, each with its reason.
+[[service_term]]
+term = "statement"
+reason = "col E/H: printed account statements; customer statements"
+[[service_term]]
+term = "tax documents"
+reason = "col E: IRS tax documents"
+[[service_term]]
+term = "tax forms"
+reason = "synonym of IRS tax documents"
+[[service_term]]
+term = "IRS"
+reason = "col E"
+[[service_term]]
+term = "regulatory notices"
+reason = "col E/H"
+[[service_term]]
+term = "print and mail"
+reason = "col D: secure print, mail"
+[[service_term]]
+term = "electronic presentment"
+reason = "col D"
+[[service_term]]
+term = "ePresentment"
+reason = "FSSI product naming"
+[[service_term]]
+term = "eStreamOne"
+reason = "FSSI e-presentment product"
+[[service_term]]
+term = "eNotify"
+reason = "FSSI electronic notice platform (col E: hosts the electronic notice platform)"
+[[service_term]]
+term = "notice platform"
+reason = "col E"
+
+# Product-family terms (relevance R2).
+[[family_term]]
+term = "document composition"
+reason = "composition is the step that renders statements"
+[[family_term]]
+term = "Exstream"
+reason = "composition tool named in an FSSI job posting"
+[[family_term]]
+term = "Quadient Inspire"
+reason = "composition tool named in an FSSI job posting"
+
+[ats]
+platform = "workable"
+host = "apply.workable.com"
+account = "fssi"
+
+[[platform_supplier]]
+name = "OpenText (Exstream)"
+domain = "opentext.com"
+basis = "named in an FSSI job posting"
+
+[[platform_supplier]]
+name = "Quadient (Inspire)"
+domain = "quadient.com"
+basis = "named in an FSSI job posting"
+
+[[seed]]
+url = "https://blogs.opentext.com/ai-powered-customer-experiences-experience-aviator/"
+family = "IND"
+kind = "technology-supplier blog (fourth-party tool vendor)"
+automation = "auto"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "weak"
+relevance = "adjacent"
+note = "OpenText's CCM line, which includes Exstream (named in FSSI's job posting), sells an optional GenAI add-on for drafting notices. There is no evidence FSSI licenses or uses it."
+
+[[seed]]
+url = "https://documentmedia.com/article-3633-Quadient-Advances-AI-Capabilities-to-Help-Organizations-Power-Better-Customer-Interactions-and-Revenue-Growth.html"
+family = "IND"
+kind = "trade press / technology-supplier announcement"
+automation = "auto"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "weak"
+relevance = "adjacent"
+note = "Quadient Inspire, the other composition tool named in FSSI's posting, now ships AI features. Per search snippets, not checked word-for-word, these include content generation, translation and PII detection. Whether FSSI uses them is unknown."
+
+[[seed]]
+url = "https://www.piworld.com/article/2025-innovator-of-the-year-fssi-turned-vision-into-transformation"
+family = "IND"
+kind = "trade press"
+automation = "auto"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "weak"
+relevance = "corporate-wide"
+note = "An independent, detailed profile of FSSI's technology (including letterStreamOne) describes proprietary automation, not AI. The article body never mentions AI; the only 'Artificial Intelligence (AI)' on the page is a site navigation topic link. This is counter-evidence."
+
+[[seed]]
+url = "https://apply.workable.com/j/A5198D6F63"
+family = "JOB"
+kind = "job posting"
+automation = "auto"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "weak"
+relevance = "service-specific"
+note = "The production stack for client document output (print and ePresentment) uses OpenText Exstream / Quadient Inspire with C#/.NET, SQL Server, AWS and Docker. This posting and the other 21 open postings ask for no AI, ML or GenAI skills or tools. Both composition products now sell optional GenAI modul"
+
+[[seed]]
+url = "https://www.fssi-ca.com/privacy/"
+family = "LEG"
+kind = "privacy notice"
+automation = "auto"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "weak"
+relevance = "corporate-wide"
+note = "The privacy notice names website third parties only. It has no AI, automated decision-making or profiling disclosure and no sub-processor list for client data."
+
+[[seed]]
+url = "https://www.fssi-ca.com/capabilities/edelivery/"
+family = "PRD"
+kind = "vendor product/capability page"
+automation = "auto"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "weak"
+relevance = "service-specific"
+note = "Names a fourth party, Solutions by Text (SBT), that receives client data for SMS eNotify alerts tied to eStatements and ePresentment. No AI is claimed. This matters for AI only because SBT's own AI use, if any, is unknown."
+
+[[seed]]
+url = "https://www.fssi-ca.com/capabilities/electronic-presentment/"
+family = "PRD"
+kind = "vendor product/capability page"
+automation = "auto"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "weak"
+relevance = "service-specific"
+note = "This describes eStreamOne, FSSI's own ePresentment platform and the likeliest candidate for Meridian's hosted electronic notice platform. The full page text (about 17k characters) makes no AI, ML or GenAI claim. Features listed are custom portals, SSO, enrollment, a CSR portal with search, activity "
+
+[[seed]]
+url = "https://www.fssi-ca.com/driving-efficiency-in-auto-finance-the-role-of-print-and-mail-in-customer-communications/"
+family = "PRD"
+kind = "vendor blog / content marketing"
+automation = "auto"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "marketing-only"
+relevance = "adjacent"
+note = "A generic industry-trend statement about 'modern outsourcing providers', not a claim that FSSI itself uses AI."
+
+[[seed]]
+url = "https://www.fssi-ca.com/growth-marketing-and-member-retention-strategies-for-credit-unions/"
+family = "PRD"
+kind = "vendor blog / content marketing"
+automation = "auto"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "marketing-only"
+relevance = "adjacent"
+note = "Advice to credit-union readers, not a statement about FSSI's own tools. AI wording appears in refreshed SEO content without any substance behind it."
+
+[[seed]]
+url = "https://www.fssi-ca.com/infrastructure/"
+family = "PRD"
+kind = "vendor infrastructure page"
+automation = "auto"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "weak"
+relevance = "service-specific"
+note = "Here 'intelligent' means camera- and barcode-driven mail-inserting hardware, not AI. An automated tool has to suppress this keyword false positive, along with 'Intelligent Mail barcode (IMb)'."
+
+[[seed]]
+url = "https://www.fssi-ca.com/press-room/fssi-honored-as-printing-impressions-2025-innovator-of-the-year/"
+family = "PRD"
+kind = "vendor press release"
+automation = "auto"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "weak"
+relevance = "corporate-wide"
+note = "FSSI's own innovation story is about in-house automation. 'Intelligent tools' is never defined and is not tied to AI or ML. The wording is ambiguous and worth a questionnaire follow-up, but it is not an AI claim."
+
+[[seed]]
+url = "https://www.fssi-ca.com/transactional-printing-mailing-services/"
+family = "PRD"
+kind = "vendor service page"
+automation = "auto"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "weak"
+relevance = "service-specific"
+note = "Statement, tax-form and notice production (the Meridian service) is described as rules-based, automated, camera- and barcode-verified production. No AI is claimed. The only 'intelligent' on the page is the USPS Intelligent Mail Barcode, which is not AI."
+
+[[seed]]
+url = "https://www.fssi-ca.com/use-predictive-analytics-to-forecast-your-consumers-next-purchase/"
+family = "PRD"
+kind = "vendor blog / content marketing"
+automation = "auto"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "marketing-only"
+relevance = "corporate-wide"
+note = "This is the only first-person AI/ML claim on the whole site. It sits in a generic SEO article about marketing analytics and names no product, model, provider or data flow. It raises a data-use question (secondary use of client customer data for analytics or marketing) rather than showing AI in the M"
