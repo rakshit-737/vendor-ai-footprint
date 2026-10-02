@@ -1,0 +1,176 @@
+# Seeds for V-004 Terrapin Technologies, Inc. - curated during scouting research on 2026-10-02 (passive OSINT only).
+# Every [[seed]] records how it was found so discovery is repeatable. 'expect' is the scout's preliminary
+# strength label, used only as a gold label for evaluation, never as evidence. Edit with a reason.
+schema = "seeds/1"
+vendor_id = "V-004"
+name = "Terrapin Technologies, Inc."
+legal_names = ["Terrapin Technologies, Inc."]
+aliases = ["Terrapin Technologies", "Terrapin"]
+domains = ["terrapintech.com"]
+sec_cik = ""
+collisions = ["Telik", "Terrapinn", "Outward VC", "Terrapin Technologies (biotech, CIK 1109196)"]
+person_scrub = ["Kristefor Lysne", "Aaron Smith"]
+
+# Exact-service terms (relevance R3) from columns E and H, each with its reason.
+[[service_term]]
+term = "wealth management data"
+reason = "col E: A wealth management data solution"
+[[service_term]]
+term = "data aggregation"
+reason = "col E: consolidates data from multiple sources"
+[[service_term]]
+term = "commission"
+reason = "col E: commission calculations"
+[[service_term]]
+term = "compensation"
+reason = "col H: advisor compensation"
+[[service_term]]
+term = "business volume"
+reason = "col E: business volume tracking"
+[[service_term]]
+term = "accounting"
+reason = "col E: accounting activities"
+
+# Product-family terms (relevance R2).
+[[family_term]]
+term = "trade surveillance"
+reason = "Terrapin product line (trade press 2025)"
+[[family_term]]
+term = "data platform"
+reason = "Terrapin platform page"
+
+[ats]
+platform = "none"
+note = "Native WordPress careers page with an on-page form; no ATS (2 Oct 2026)."
+
+[[seed]]
+url = "https://pod.co/modern-financial-advisor/fix-this-before-you-buy-another-ai-tool-for-your-financial-advisory-business-with-kristefor-lysne"
+family = "IND"
+kind = "podcast / conference talk"
+automation = "auto"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "marketing-only"
+relevance = "adjacent"
+note = "Third-party show notes confirm the AI-readiness framing. Apple Podcasts episode bullets also cover 'AEO (Agent Engine Optimization)' and 'The difference between a SaaS product and a tech-enabled service'. No transcript is available. The 49-minute audio or YouTube video is an open lead for statements"
+
+[[seed]]
+url = "https://www.thewealthadvisor.com/article/terrapin-technologies-launches-trade-surveillance-solution-partnership-wintrust-wealth"
+family = "IND"
+kind = "trade press"
+automation = "auto"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "weak"
+relevance = "adjacent"
+note = "The compliance and trade-surveillance module was launched as a rules and alert engine with risk-sorted dashboards, with no AI or ML claims. This is adjacent because Meridian's described service is data and compensation, not surveillance."
+
+[[seed]]
+url = "https://terrapintech.com/about/security-capabilities/"
+family = "LEG"
+kind = "vendor security/trust page"
+automation = "auto"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "weak"
+relevance = "service-specific"
+note = "The security disclosure that covers the platform holding Meridian data (SOC 2 Type II; data at rest in Oracle on encrypted servers; data centers as Terrapin describes them) has no AI governance content, no AI sub-processors, and no reference to hyperscaler AI services such as Azure OpenAI or Bedrock"
+
+[[seed]]
+url = "https://terrapintech.com/about/"
+family = "PRD"
+kind = "vendor corporate page"
+automation = "auto"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "weak"
+relevance = "corporate-wide"
+note = "The service model includes human data services (implementation, mapping, ongoing data management), so staff handle client data directly. Combined with the OpenAI and Anthropic organization accounts in DNS, this is the most plausible way Meridian data could reach generative AI tools. On its own it is"
+
+[[seed]]
+url = "https://terrapintech.com/ai-ready-data-wealth-management/"
+family = "PRD"
+kind = "vendor blog / thought leadership"
+automation = "auto"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "marketing-only"
+relevance = "service-specific"
+note = "The vendor describes its own offering as data mapping, reconciliation and governance that 'supports responsible AI later', which treats AI as a future, customer-side step. The post also endorses 'low-risk' generative AI uses at firms (notetaking, drafting, research, summarization). There is no claim"
+
+[[seed]]
+url = "https://terrapintech.com/finra-2025-annual-regulatory-oversight-report-key-takeaways/"
+family = "PRD"
+kind = "vendor blog / regulatory commentary"
+automation = "auto"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "marketing-only"
+relevance = "adjacent"
+note = "The vendor publicly acknowledges FINRA's expectations for AI governance. That is a useful lever for the questionnaire, since Meridian can ask Terrapin to show its own framework. The post is commentary, not evidence of AI use."
+
+[[seed]]
+url = "https://terrapintech.com/kristefor-lysne-modern-financial-advisor-podcast/"
+family = "PRD"
+kind = "vendor blog / executive media appearance"
+automation = "auto"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "marketing-only"
+relevance = "adjacent"
+note = "The President's public message on AI is about data readiness. He makes no claim that Terrapin's product or operations use AI."
+
+[[seed]]
+url = "https://terrapintech.com/llms.txt"
+family = "PRD"
+kind = "website technical artifact"
+automation = "auto"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "weak"
+relevance = "adjacent"
+note = "FALSE-POSITIVE CLASS. An SEO plugin generated this file to make site content easy for LLM crawlers to read (answer-engine optimization). It does not show AI use in the service, and the automated tool must not score it as such."
+
+[[seed]]
+url = "https://terrapintech.com/platform/"
+family = "PRD"
+kind = "vendor product/solution page"
+automation = "auto"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "weak"
+relevance = "service-specific"
+note = "COUNTER-EVIDENCE. The platform overview and its FAQ describe rules- and structure-driven processing: collect, standardize, map, and deliver through reports and dashboards. There is no mention of AI, ML, model-based matching or anomaly detection."
+
+[[seed]]
+url = "https://terrapintech.com/solutions/compensation-and-commissions/"
+family = "PRD"
+kind = "vendor product/solution page"
+automation = "auto"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "weak"
+relevance = "service-specific"
+note = "COUNTER-EVIDENCE. The commission and compensation service Meridian uses is described as user-configured plans and deterministic business rules (payout grids, splits, tiers, overrides). The page has zero hits for AI, ML, predictive or generative terms. 'Weak' rates this as evidence of AI use; as evid"
+
+[[seed]]
+url = "https://terrapintech.com/solutions/data-aggregation-and-management/"
+family = "PRD"
+kind = "vendor product/solution page"
+automation = "auto"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "marketing-only"
+relevance = "service-specific"
+note = "This page describes the capability Meridian buys (consolidating data from many sources). It is the only product page on the site that mentions AI. It presents Terrapin as an 'AI-readiness' data foundation for the customer's own future AI tools, not as a service that is itself AI-powered. The AI keyw"
+
+[[seed]]
+url = "https://terrapintech.com/terrapin-technologies-sponsors-cramer-sales-management-roundtable/"
+family = "PRD"
+kind = "vendor blog / event recap"
+automation = "auto"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "marketing-only"
+relevance = "adjacent"
+note = "An account executive comments on customers' use of AI. This is industry commentary only, with no claim about Terrapin's product or internal AI use."
