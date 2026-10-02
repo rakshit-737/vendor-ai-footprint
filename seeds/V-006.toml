@@ -1,0 +1,225 @@
+# Seeds for V-006 The Clearing House Payments Company L.L.C. - curated during scouting research on 2026-10-02 (passive OSINT only).
+# Every [[seed]] records how it was found so discovery is repeatable. 'expect' is the scout's preliminary
+# strength label, used only as a gold label for evaluation, never as evidence. Edit with a reason.
+schema = "seeds/1"
+vendor_id = "V-006"
+name = "The Clearing House Payments Company L.L.C."
+legal_names = ["The Clearing House Payments Company L.L.C.", "The Clearing House Payments Company, LLC"]
+aliases = ["The Clearing House", "TCH"]
+domains = ["theclearinghouse.org"]
+sec_cik = ""
+collisions = ["Packet Clearing House", "Automated Clearing House (generic term)"]
+person_scrub = ["Kyle Caldwell", "Peter Davey", "Scott Anchin"]
+
+# Exact-service terms (relevance R3) from columns E and H, each with its reason.
+[[service_term]]
+term = "RTP"
+reason = "col D/E: RTP network"
+[[service_term]]
+term = "Real-Time Payments"
+reason = "col E"
+[[service_term]]
+term = "RTP network"
+reason = "col D"
+[[service_term]]
+term = "ACH"
+reason = "col E/H: ACH transactions"
+[[service_term]]
+term = "EPN"
+reason = "col D: EPN is TCH's ACH network"
+[[service_term]]
+term = "clearing"
+reason = "col H: clearing and settlement"
+[[service_term]]
+term = "settlement"
+reason = "col H"
+[[service_term]]
+term = "payment network"
+reason = "col E: payment network infrastructure"
+
+# Product-family terms (relevance R2).
+[[family_term]]
+term = "CHIPS"
+reason = "col D network family"
+[[family_term]]
+term = "Image Exchange"
+reason = "col D network family"
+[[family_term]]
+term = "NOC"
+reason = "network operations centre runs the payment networks (delivery operations)"
+
+[ats]
+platform = "workday"
+host = "theclearinghouse.wd108.myworkdayjobs.com"
+tenant = "theclearinghouse"
+site = "TheClearingHouse"
+
+[[platform_supplier]]
+name = "Mastercard (RTP software)"
+domain = "mastercard.com"
+basis = "exclusive instant-payments software provider for RTP (TCH press release 2024-01-24)"
+
+[[seed]]
+url = "https://payments-forum.americanbanker.com/profile/kyle-caldwell/"
+family = "IND"
+kind = "Conference speaker profile / session abstract"
+automation = "manual"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "weak"
+relevance = "adjacent"
+note = "TCH's VP and Head of Fraud Prevention, who 'leads enterprise efforts to define and execute the strategic vision for fraud prevention across the payments network', sat on a panel whose generic, organizer-written abstract covers AI-based fraud models. It makes no claim about TCH's own AI."
+
+[[seed]]
+url = "https://thefr.com/news/industry-pulse-2025-annual-conference-from-the-clearing-house"
+family = "IND"
+kind = "Trade press (conference preview)"
+automation = "auto"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "marketing-only"
+relevance = "adjacent"
+note = "AI was an agenda topic at TCH's 2025 Annual Conference. Nothing about operational use. Excerpt from WebFetch extraction."
+
+[[seed]]
+url = "https://tv.pymnts.com/detail/video/6372139404112/tch-says-ai-bridges-payments-innovation-gap-between-banks-and-merchants"
+family = "IND"
+kind = "Trade media video interview"
+automation = "auto"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "marketing-only"
+relevance = "adjacent"
+note = "Old executive commentary about AI for the wider ecosystem. It claims no TCH deployment and is out of date. Excerpt from WebFetch extraction; the source text is truncated."
+
+[[seed]]
+url = "https://www.icba.org/web/independent-banker/w/scott-anchin-keeping-up-with-instant-payments-fraud"
+family = "IND"
+kind = "Trade association publication"
+automation = "auto"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "weak"
+relevance = "adjacent"
+note = "TCH strengthened RTP fraud rules and alerts. The article credits ML adoption to participant banks ('RTP participants are increasingly adopting machine learning models to detect fraud before transactions are processed'), not to TCH. The excerpt comes from WebFetch extraction and matches search snippe"
+
+[[seed]]
+url = "https://www.niceactimize.com/Documents/Fraud_The_Clearing_House_Brochure.pdf"
+family = "IND"
+kind = "Third-party vendor marketing collateral"
+automation = "auto"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "weak"
+relevance = "adjacent"
+note = "A third party markets ML fraud models to RTP participant banks, not to TCH. TCH was expected to supply network-level alerts and scores; the brochure does not say how they are produced."
+
+[[seed]]
+url = "https://www.sardine.ai/media/fraud-forward/episodes/payments-fraud-prevention-lifecycle"
+family = "IND"
+kind = "Podcast transcript (third-party fraud-vendor media, first-party TCH speaker)"
+automation = "auto"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "moderate"
+relevance = "service-specific"
+note = "TCH runs an optional, ancillary RTP fraud service, connected by API, that gives pre-transaction risk signals about the receiving account: balances, payment activity, and unusual in/out ratios for spotting money mules. It also returns confirmed and suspected fraud tags from TCH's case-management syst"
+
+[[seed]]
+url = "https://theclearinghouse.wd108.myworkdayjobs.com/TheClearingHouse/job/Charlotte-Office/Manager--Business-Development_JR100190"
+family = "JOB"
+kind = "Job posting (ATS: Workday)"
+automation = "auto"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "weak"
+relevance = "corporate-wide"
+note = "Generative-AI productivity use in client-facing business development. The same posting says 'Use CRM and AI tools to improve research, updates and market intelligence'. This could touch information about participants."
+
+[[seed]]
+url = "https://theclearinghouse.wd108.myworkdayjobs.com/TheClearingHouse/job/Charlotte-Office/Senior-Contracts-Paralegal_JR100184"
+family = "JOB"
+kind = "Job posting (ATS: Workday)"
+automation = "auto"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "moderate"
+relevance = "corporate-wide"
+note = "TCH has an approved-AI-tools regime, uses AI in legal/contract work (which may involve customer agreements), and buys AI services with negotiated data-use terms. This points to third-party AI governance."
+
+[[seed]]
+url = "https://theclearinghouse.wd108.myworkdayjobs.com/TheClearingHouse/job/Charlotte-Office/Senior-Software-Developer-Engineer-in-Testing_JR100159"
+family = "JOB"
+kind = "Job posting (ATS: Workday)"
+automation = "auto"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "weak"
+relevance = "corporate-wide"
+note = "AI-assisted practices reach QA and testing of the payment platforms; the extracted text does not name the product. Open question: is synthetic or production payment data used with AI tools in testing?"
+
+[[seed]]
+url = "https://theclearinghouse.wd108.myworkdayjobs.com/TheClearingHouse/job/Charlotte-Office/Software-Engineer_JR100177-5"
+family = "JOB"
+kind = "Job posting (ATS: Workday)"
+automation = "auto"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "moderate"
+relevance = "service-specific"
+note = "A second RTP Product Engineering posting confirms AI-assisted development on the RTP platform, under 'enterprise controls'."
+
+[[seed]]
+url = "https://theclearinghouse.wd108.myworkdayjobs.com/TheClearingHouse/job/Charlotte-Office/Sr-Software-Engineer_JR100176-2"
+family = "JOB"
+kind = "Job posting (ATS: Workday)"
+automation = "auto"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "moderate"
+relevance = "service-specific"
+note = "The role is on the 'RTP Product Engineering team', which builds the real-time interbank payment platform on AWS cloud-native services. AI-assisted development tools are approved and governed by enterprise SDLC and security controls. The posting also lists 'Working knowledge of Python for data pipeli"
+
+[[seed]]
+url = "https://theclearinghouse.wd108.myworkdayjobs.com/TheClearingHouse/job/North-Carolina-Office/Manager--NOC-Operations_JR100193-5"
+family = "JOB"
+kind = "Job posting (ATS: Workday)"
+automation = "auto"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "moderate"
+relevance = "service-specific"
+note = "The 24x7 operations team 'responsible for ensuring the secure, timely, and accurate processing of critical financial transactions' is expected to use named generative-AI tools for documentation, reporting, knowledge management and incident response. Preferred knowledge for the role includes ACH, RTP"
+
+[[seed]]
+url = "https://www.theclearinghouse.org/about/payments-nerds?page=3"
+family = "PRD"
+kind = "Vendor podcast listing"
+automation = "auto"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "marketing-only"
+relevance = "adjacent"
+note = "TCH-hosted thought leadership with outside analysts on industry AI adoption. It is not about TCH's own AI use."
+
+[[seed]]
+url = "https://www.theclearinghouse.org/payment-systems/Articles/2024/01/01242024_Mastercard_TCH_Extend_Partnership_RTP"
+family = "PRD"
+kind = "Vendor press release"
+automation = "auto"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "weak"
+relevance = "adjacent"
+note = "Names Mastercard as the RTP core software provider, a key fourth party for Meridian's RTP traffic. The release has no AI language. No public source shows Mastercard's AI fraud products (Consumer Fraud Risk, TRACE) running on TCH RTP."
+
+[[seed]]
+url = "https://www.theclearinghouse.org/payment-systems/Articles/2025/11/American-Banker-Interview"
+family = "PRD"
+kind = "Vendor website (insights / thought leadership)"
+automation = "auto"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "marketing-only"
+relevance = "adjacent"
+note = "Industry-level AI framing on the page promoting a CEO interview. It does not claim TCH uses AI."
