@@ -1,0 +1,201 @@
+# Seeds for V-001 AutomWorx - curated during scouting research on 2026-10-02 (passive OSINT only).
+# Every [[seed]] records how it was found so discovery is repeatable. 'expect' is the scout's preliminary
+# strength label, used only as a gold label for evaluation, never as evidence. Edit with a reason.
+schema = "seeds/1"
+vendor_id = "V-001"
+name = "AutomWorx"
+legal_names = ["AutomWorx, Inc.", "Honest Nerd dba AutomWorx"]
+aliases = ["AutomWorx", "Automworx", "AutomWorx Consulting"]
+domains = ["automworx.com"]
+sec_cik = ""
+collisions = ["Autoworx", "Auto Worx", "AutoWorx"]
+person_scrub = []
+
+# Exact-service terms (relevance R3) from columns E and H, each with its reason.
+[[service_term]]
+term = "workload automation"
+reason = "col E names the workload automation estate"
+[[service_term]]
+term = "batch scheduling"
+reason = "col E/H: batch scheduling estate / across core systems"
+[[service_term]]
+term = "Automic"
+reason = "col D names Automic implementation"
+[[service_term]]
+term = "UC4"
+reason = "col D names UC4 (Automic's former name)"
+[[service_term]]
+term = "AppWorx"
+reason = "col D names AppWorx"
+[[service_term]]
+term = "migration"
+reason = "col E: implementation, migration"
+[[service_term]]
+term = "managed support"
+reason = "col E: managed support"
+[[service_term]]
+term = "job scheduling"
+reason = "synonym of batch scheduling"
+
+# Product-family terms (relevance R2).
+[[family_term]]
+term = "orchestration"
+reason = "Automic V26 positions orchestration as the product family"
+
+[ats]
+platform = "none"
+note = "No ATS: /careers/ and /jobs/ return 404 (2 Oct 2026)."
+
+[[affiliate]]
+name = "Labarum AI (NEXRY LLC d/b/a Labarum AI)"
+domain = "labarum.ai"
+status = "inferred"
+basis = "Zoho Forms tenant 'labarum_ai' embedded on an automworx.com webinar page; labarum.ai calls itself the parent brand of a 20-year workload automation practice"
+
+[[platform_supplier]]
+name = "Broadcom (Automic Automation)"
+domain = "broadcom.com"
+basis = "col D: Automic software implementation"
+
+[[seed]]
+url = "https://automation.broadcom.com/blog/automic-automation-24-4-genai"
+family = "IND"
+kind = "Platform maker's blog (Broadcom)"
+automation = "auto"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "strong"
+relevance = "adjacent"
+note = "The platform AutomWorx implements and supports has real GenAI features from Automic 24.4: an ASK_AI scripting function and AI explanations of job reports, scripts and errors. It names LLM options and makes Gemini the default for SaaS. This is product-level AI risk for Meridian's estate, depending on"
+
+[[seed]]
+url = "https://automation.broadcom.com/blog/automic-v26-establishing-intelligent-control-plane-enterprise-ai"
+family = "IND"
+kind = "Platform maker's blog (Broadcom)"
+automation = "auto"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "strong"
+relevance = "adjacent"
+note = "Automic V26, the version AutomWorx markets upgrades to, adds an MCP client and server, bring-your-own-model support, an agentic AI job type, text-to-workflow and an embedded AI assistant. If enabled, that AI could act inside Meridian's production batch scheduling."
+
+[[seed]]
+url = "https://dir.texas.gov/contracts/vendors/honest-nerd-dba-automworx"
+family = "IND"
+kind = "Government procurement registry"
+automation = "manual"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "weak"
+relevance = "adjacent"
+note = "Texas DIR lists AutomWorx as a dba of 'Honest Nerd'. The WebFetch summary gives vendor ID 994396770 and a reseller role under Carahsoft contract DIR-CPO-5687. So the legal entities are unclear: AutomWorx, Inc. vs Honest Nerd vs NEXRY LLC d/b/a Labarum AI. curl was blocked by a Cloudflare challenge a"
+
+[[seed]]
+url = "https://ftpdocs.broadcom.com/cadocs/0/contentimages/Automic_Automation_Hybrid_Cloud_SPD_October_2025.pdf"
+family = "LEG"
+kind = "Platform maker's contract documentation (SPD PDF)"
+automation = "auto"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "strong"
+relevance = "adjacent"
+note = "Broadcom's contract terms for Automic AI. Some features send customer data to Broadcom's unnamed GenAI provider. Others need a model or provider account supplied by the customer. Broadcom collects inputs and outputs of its AI-assisted help to improve that service. Confidential data is banned from pr"
+
+[[seed]]
+url = "https://labarum.ai/"
+family = "PRD"
+kind = "Affiliate website (homepage meta description and footer)"
+automation = "auto"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "weak"
+relevance = "corporate-wide"
+note = "Labarum AI calls itself the parent brand of a workload-automation practice and claims AI is used on every engagement. The homepage footer names the legal entity: 'NEXRY LLC d/b/a Labarum AI'. The homepage also claims '0' public-cloud exposure of customer workload data. AutomWorx is never named (0 oc"
+
+[[seed]]
+url = "https://labarum.ai/capabilities/"
+family = "PRD"
+kind = "Affiliate website (capabilities page, via WordPress REST API)"
+automation = "auto"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "moderate"
+relevance = "service-specific"
+note = "A specific technical description of an in-house AI platform called NEO: local GPU inference, unnamed open-source LLMs, retrieval-augmented generation (RAG) over customer-environment knowledge graphs, and an MCP layer. The same page says NEO is 'Air-gapped by default'. It lists NEO uses as reviewing "
+
+[[seed]]
+url = "https://labarum.ai/public-sector/"
+family = "PRD"
+kind = "Affiliate website (public-sector page)"
+automation = "auto"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "marketing-only"
+relevance = "service-specific"
+note = "Labarum AI's service scope (migration, managed support and modernization of scheduling estates) matches Meridian's almost word for word and is sold as an 'AI-enabled operating model'. It lists Carahsoft and NASPO SVAR as contract vehicles; AutomWorx also sells through Carahsoft."
+
+[[seed]]
+url = "https://www.automworx.com/automate-with-intent-why-people-and-partners-matter/"
+family = "PRD"
+kind = "Vendor blog (WordPress)"
+automation = "auto"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "marketing-only"
+relevance = "corporate-wide"
+note = "AutomWorx claims Labarum AI's exact tagline as its own ('Ours is'), a key link between the two brands. It positions itself as 'AI-enabled' but does not describe any AI tools used in delivery."
+
+[[seed]]
+url = "https://www.automworx.com/automic-automation-v26-turning-orchestration-into-the-control-center-for-enterprise-ai/"
+family = "PRD"
+kind = "Vendor blog (WordPress)"
+automation = "auto"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "moderate"
+relevance = "service-specific"
+note = "AutomWorx offers to implement and configure Broadcom Automic V26. V26's AI layer (an AI Assistant built on MCP that parses logs and execution reports, generates scripts and builds workflows from natural language) connects to an LLM. An AutomWorx-led upgrade or modernization at Meridian could therefo"
+
+[[seed]]
+url = "https://www.automworx.com/running-ai-in-production-private-cloud/"
+family = "PRD"
+kind = "Vendor blog"
+automation = "auto"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "marketing-only"
+relevance = "corporate-wide"
+note = "Positioning around orchestrating AI workloads on private cloud (VCF) and agentic approaches. No evidence that AutomWorx itself uses AI in delivery."
+
+[[seed]]
+url = "https://www.automworx.com/webinar-replatforming-to-automic/"
+family = "PRD"
+kind = "Vendor webinar summary (blog)"
+automation = "auto"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "moderate"
+relevance = "service-specific"
+note = "AutomWorx migrations run a conversion program on job data exported from the client's scheduler, so data leaves the client environment. As of mid-2025 this is described as rule-based automation with no mention of AI. The same 80/20 figure reappears in Labarum AI's AMC description in 2026. That suppor"
+
+[[seed]]
+url = "https://www.automworx.com/what-is-ai-enablement-in-automic-workload-automation/"
+family = "PRD"
+kind = "Vendor blog"
+automation = "auto"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "marketing-only"
+relevance = "adjacent"
+note = "Generic educational content about AI in Broadcom Automic (GenAI, ML, predictive analytics) with hypothetical use cases. This is the earliest AI content on the site; nothing about AI appears before August 2025."
+
+[[seed]]
+url = "https://www.automworx.com/whats-new-automic-v26-webinar-on-demand/"
+family = "PRD"
+kind = "Vendor website HTML source (embedded third-party form tenant)"
+automation = "auto"
+found_by = "scouting research agent (web search + fetch), passive OSINT"
+found_on = "2026-10-02"
+expect = "moderate"
+relevance = "adjacent"
+note = "AutomWorx's lead-capture forms (EnvironmentAssessment1, MasterTemplate1, WebinarRegistration) are hosted in a Zoho Forms tenant named 'labarum_ai'. This is technical evidence that AutomWorx runs under the Labarum AI account or brand. The strength rating is for that link, not for AI use."
