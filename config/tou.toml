@@ -1,0 +1,263 @@
+# Terms-of-use register (design §Confidentiality & ethics controls).
+# Every host that a collector or a Playwright screenshot load may touch must match an entry.
+# Checks run in this order on every request: this register -> robots.txt (Protego) -> per-host rate limit.
+#
+# automation:            "full"    = automated GETs allowed within limits
+#                        "limited" = automated GETs allowed only for seeded URLs, capped per run
+#                        "none"    = manual capture only (footprint capture import)
+# ai_processing_allowed: may public passages from this host be sent to Gemini?
+# max_rps:               request-rate ceiling for the host
+# max_requests_per_run:  optional hard cap per run (0 = no cap)
+# verified:              true once a human has read the cited terms clause (P2 task)
+version = "1.0"
+
+[default]
+automation = "limited"
+ai_processing_allowed = false
+max_rps = 1.0
+max_requests_per_run = 3
+note = "Unmatched host: screen limits only until an entry is reviewed."
+
+# ---------------------------------------------------------------- vendor-owned domains
+[[host]]
+match = "automworx.com"
+automation = "full"
+ai_processing_allowed = true
+max_rps = 1.0
+max_requests_per_run = 0
+terms_url = "https://www.automworx.com/"
+verified = false
+note = "WordPress.com/WP Cloud site; WordPress REST API available."
+
+[[host]]
+match = "labarum.ai"
+automation = "limited"
+ai_processing_allowed = true
+max_rps = 1.0
+max_requests_per_run = 15
+terms_url = "https://labarum.ai/"
+verified = false
+note = "Inferred affiliate of AutomWorx (Zoho Forms tenant 'labarum_ai'); seeded pages only."
+
+[[host]]
+match = "fiserv.com"
+automation = "none"
+ai_processing_allowed = false
+max_rps = 0.0
+max_requests_per_run = 0
+terms_url = "https://www.fiserv.com/en/about-fiserv/terms-of-use.html"
+verified = false
+note = "Terms s.7 bar spiders and data mining: manual capture only (covers careers.fiserv.com, developer.fiserv.com, newsroom/investors)."
+
+[[host]]
+match = "fiserv.wd5.myworkdayjobs.com"
+automation = "none"
+ai_processing_allowed = false
+max_rps = 0.0
+max_requests_per_run = 0
+terms_url = "https://www.fiserv.com/en/about-fiserv/terms-of-use.html"
+verified = false
+note = "Fiserv's Workday tenant behind careers.fiserv.com; treated like fiserv.com (manual sampling)."
+
+[[host]]
+match = "fssi-ca.com"
+automation = "full"
+ai_processing_allowed = true
+max_rps = 0.5
+max_requests_per_run = 25
+terms_url = "https://www.fssi-ca.com/privacy/"
+verified = false
+note = "Site backs off after ~30 requests; WordPress REST sweep with per_page=100 and _fields."
+
+[[host]]
+match = "terrapintech.com"
+automation = "full"
+ai_processing_allowed = true
+max_rps = 1.0
+max_requests_per_run = 0
+terms_url = "https://terrapintech.com/privacy-policy/"
+verified = false
+note = "WordPress (Divi + Yoast); llms.txt is SEO-generated and never scored."
+
+[[host]]
+match = "bny.com"
+automation = "full"
+ai_processing_allowed = true
+max_rps = 1.0
+max_requests_per_run = 0
+terms_url = "https://www.bny.com/corporate/global/en/terms-of-use.html"
+verified = false
+note = "Akamai CDN; robots disallows root-anchored /careers/, /insights/, /about-us/newsroom/."
+
+[[host]]
+match = "theclearinghouse.org"
+automation = "full"
+ai_processing_allowed = true
+max_rps = 1.0
+max_requests_per_run = 0
+terms_url = "https://www.theclearinghouse.org/terms-of-use"
+verified = false
+note = "Azure Front Door; robots.txt has a UTF-8 BOM and 'Disallow: */media/' (PDF comment letters barred)."
+
+# ---------------------------------------------------------------- applicant tracking systems
+[[host]]
+match = "theclearinghouse.wd108.myworkdayjobs.com"
+automation = "full"
+ai_processing_allowed = true
+max_rps = 0.8
+max_requests_per_run = 160
+terms_url = "https://www.workday.com/en-us/legal/site-terms.html"
+verified = false
+note = "Workday siteMap.xml + per-job CXS JSON (GET only)."
+
+[[host]]
+match = "eofe.fa.us2.oraclecloud.com"
+automation = "full"
+ai_processing_allowed = true
+max_rps = 0.8
+max_requests_per_run = 160
+terms_url = "https://www.bny.com/corporate/global/en/terms-of-use.html"
+verified = false
+note = "BNY Oracle Recruiting Cloud (site BNY-Careers, siteNumber CX_3001), REST GET only."
+
+[[host]]
+match = "apply.workable.com"
+automation = "full"
+ai_processing_allowed = true
+max_rps = 0.8
+max_requests_per_run = 60
+terms_url = "https://www.workable.com/terms-of-service"
+verified = false
+note = "FSSI Workable widget API (account 'fssi')."
+
+# ---------------------------------------------------------------- regulators and archives
+[[host]]
+match = "sec.gov"
+automation = "full"
+ai_processing_allowed = true
+max_rps = 5.0
+max_requests_per_run = 0
+terms_url = "https://www.sec.gov/about/privacy-information#security"
+verified = false
+note = "Fair-access policy: <=10 req/s and a declared User-Agent with contact email (FOOTPRINT_SEC_CONTACT). Covers www, efts, data subdomains."
+
+[[host]]
+match = "archive.org"
+automation = "full"
+ai_processing_allowed = true
+max_rps = 0.4
+max_requests_per_run = 0
+terms_url = "https://archive.org/about/terms.php"
+verified = false
+note = "Read-only availability, CDX and id_ replay. Never Save Page Now."
+
+[[host]]
+match = "dns.google"
+automation = "full"
+ai_processing_allowed = true
+max_rps = 2.0
+max_requests_per_run = 0
+terms_url = "https://developers.google.com/speed/public-dns/terms"
+verified = false
+note = "DNS-over-HTTPS JSON API."
+
+[[host]]
+match = "cloudflare-dns.com"
+automation = "full"
+ai_processing_allowed = true
+max_rps = 2.0
+max_requests_per_run = 0
+terms_url = "https://developers.cloudflare.com/1.1.1.1/privacy/public-dns-resolver/"
+verified = false
+note = "DNS-over-HTTPS JSON API (second resolver; results must agree)."
+
+[[host]]
+match = "api.github.com"
+automation = "limited"
+ai_processing_allowed = true
+max_rps = 0.5
+max_requests_per_run = 10
+terms_url = "https://docs.github.com/en/site-policy/github-terms/github-terms-of-service"
+verified = false
+note = "Org/repo existence checks only."
+
+# ---------------------------------------------------------------- partners, providers, press (seeded URLs only)
+[[host]]
+match = "press.aboutamazon.com"
+automation = "limited"
+ai_processing_allowed = true
+max_rps = 0.5
+max_requests_per_run = 5
+terms_url = "https://www.aboutamazon.com/terms-of-use"
+verified = false
+note = "AWS press centre (Fiserv agentOS on Bedrock)."
+
+[[host]]
+match = "mondovisione.com"
+automation = "limited"
+ai_processing_allowed = true
+max_rps = 0.5
+max_requests_per_run = 5
+terms_url = "https://mondovisione.com/"
+verified = false
+note = "Mirror of Fiserv press releases (OpenAI, Microsoft)."
+
+[[host]]
+match = "googlecloudpresscorner.com"
+automation = "limited"
+ai_processing_allowed = true
+max_rps = 0.5
+max_requests_per_run = 5
+terms_url = "https://policies.google.com/terms"
+verified = false
+note = "Google Cloud press corner (BNY Eliza)."
+
+[[host]]
+match = "theasianbanker.com"
+automation = "limited"
+ai_processing_allowed = true
+max_rps = 0.5
+max_requests_per_run = 5
+terms_url = "https://www.theasianbanker.com/"
+verified = false
+note = "Trade press interviews (BNY GP&T)."
+
+[[host]]
+match = "automation.broadcom.com"
+automation = "limited"
+ai_processing_allowed = true
+max_rps = 0.5
+max_requests_per_run = 5
+terms_url = "https://www.broadcom.com/company/legal/terms-of-use"
+verified = false
+note = "Platform supplier (Automic) AI feature blogs; context only."
+
+[[host]]
+match = "ftpdocs.broadcom.com"
+automation = "limited"
+ai_processing_allowed = true
+max_rps = 0.5
+max_requests_per_run = 3
+terms_url = "https://www.broadcom.com/company/legal/terms-of-use"
+verified = false
+note = "Automic SPD PDF (generative AI feature terms); context only."
+
+[[host]]
+match = "openai.com"
+automation = "none"
+ai_processing_allowed = false
+max_rps = 0.0
+max_requests_per_run = 0
+terms_url = "https://openai.com/policies/terms-of-use/"
+verified = false
+note = "Cloudflare challenge on customer stories: use Wayback id_ copies, never evade."
+
+[[host]]
+match = "linkedin.com"
+automation = "none"
+ai_processing_allowed = false
+max_rps = 0.0
+max_requests_per_run = 0
+terms_url = "https://www.linkedin.com/legal/user-agreement"
+verified = false
+note = "User Agreement bars scraping: manual capture of public posts only."
