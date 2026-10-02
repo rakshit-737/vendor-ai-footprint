@@ -1,0 +1,15 @@
+#!/bin/sh
+# Refuse any push unless the GitHub repository is PRIVATE.
+# The case-study brief forbids a public repository: findings concern real organisations.
+remote_url="$2"
+case "$remote_url" in
+  *github.com*) ;;
+  *) exit 0 ;;
+esac
+repo=$(printf '%s' "$remote_url" | sed -E 's#^(git@github\.com:|https://github\.com/)##; s#\.git$##')
+vis=$(gh repo view "$repo" --json visibility -q .visibility 2>/dev/null)
+if [ "$vis" != "PRIVATE" ]; then
+  echo "pre-push: refusing to push - $repo visibility is '${vis:-unknown}', it must be PRIVATE." >&2
+  exit 1
+fi
+exit 0
