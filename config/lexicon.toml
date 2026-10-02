@@ -1,0 +1,29 @@
+# Core AI lexicon (design Appendix 2.6). Word-boundary matching.
+version = "lexicon_v1"
+
+[core]
+# case-insensitive phrases
+terms = [
+  "artificial intelligence", "machine learning", "deep learning", "neural", "LLM", "generative AI",
+  "agentic", "AI agent", "digital employee", "NLP", "RAG", "model context protocol", "foundation model",
+  "fine-tuning", "chatbot", "virtual assistant", "predictive model", "intelligent document processing",
+]
+# case-sensitive whole words (regex)
+case_sensitive = ['AI', 'ML', 'LLMs?', 'GenAI', 'MCP']
+
+[guards]
+# term counts only when context regex matches in same passage (MCP also if doc mentions Model Context Protocol)
+MCP = '(?i)model context protocol|\b(?:AI|LLM|agent)\b'
+Claude = '(?i)anthropic|\bclaude (?:\d|opus|sonnet|haiku|instant)'
+Gemini = '(?i)google|gemini (?:\d|pro|flash|ultra|nano)'
+Copilot = '(?i)microsoft|github|m365'
+Devin = '(?i)cognition'
+
+[suppressors]
+phrases = [
+  "Intelligent Mail barcode", "IMb", "intelligent inserting", "Automic agents",
+  "Automation Analytics & Intelligence", "Oracle 23ai", "business intelligence", "in our DNA",
+  "operating model", "user agent", "llms.txt", "recognition", "Microsoft Certified Professional",
+]
+# "intelligent tools" is suppressed only when no core term is in the passage
+conditional = ["intelligent tools"]
