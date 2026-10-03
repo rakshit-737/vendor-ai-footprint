@@ -11,6 +11,7 @@ __pycache__/
 .env.*
 !.env.example
 .streamlit/secrets.toml
+**/.streamlit/secrets.toml
 
 # build artefacts and the Colab bundle (shared as a private release asset, never committed)
 dist/
