@@ -1,0 +1,591 @@
+# Source register (design Appendix A 2.3, "Source reliability (SR)"). Read by footprint.rules only.
+# This file is the only thing that sets SR. Edit a grade only together with the test that pins it
+# (tests/unit/test_rules.py) and give the reason in the entry.
+#
+# SR grades:
+#   A  legally accountable: SEC filings and exhibits (incl. DEFA14A transcripts), regulator publications,
+#      privacy notices, DPAs, sub-processor lists, contract and product terms (e.g. Broadcom's SPD)
+#   B  first-party accountable: product and solution pages, technical docs, release notes, trust pages, IR decks,
+#      the vendor's own ATS postings, statements attributed to a named executive, DNS records, verified repos
+#   C  promotional or second-party: unattributed blogs and whitepapers, press releases and their mirrors,
+#      provider customer stories, partner pages, trade press, third-party podcasts
+#   D  aggregators and syndicated copies
+#   E  user-generated content
+#   F  unknown origin, including AI-generated blogs (excluded)
+#
+# How a document is matched: [[type]] entries are tried in file order and the first entry whose rules all hold
+# wins. Every rule is optional; the rules of one entry are AND-ed:
+#   relations  where the document sits relative to the vendor, worked out by footprint.rules from the seeds:
+#              first_party (a vendor domain), ats (the vendor's own applicant tracking system), filing (an SEC
+#              filing under the vendor's CIK), dns (DoH answer for a vendor domain), affiliate_confirmed,
+#              affiliate_inferred, platform_supplier, executive (a manual capture of a named executive),
+#              third_party (anything else)
+#   families   Document.family values
+#   kinds      Document.kind values (html, pdf, json, dns, text)
+#   hosts      host suffixes ("sec.gov" also matches "www.sec.gov")
+#   url        regex searched in the lower-cased URL without its scheme ("host/path?query")
+#   path       regex searched in the lower-cased URL path only
+#   title      regex searched in the title, case-insensitive
+#   dated      true: the document carries an article date (JSON-LD, article:published_time, WordPress REST,
+#              ATS posting date, PDF creation date); false: it does not
+# Fields of the entry:
+#   source_type  the phrase column P uses
+#   sr           A..F
+#   family       the source family the type belongs to (Appendix 2.3 table)
+#   dated_by     publication (articles, releases, posts, filings) or retrieval (live product, docs, policy and
+#                trust pages describe what is offered today)
+#   legal        true gives indicator G6 (legal artifact)
+#   filing       true gives indicator G7 (filing that ties AI to products)
+#   origin       "vendor" when a third party hosts the vendor's own words (a wire mirror of its press release, a
+#                partner's press-room copy of a joint release). footprint.cluster then treats the item as the
+#                vendor's own channel: it never corroborates the vendor's filings, pages or postings independently,
+#                nor another vendor release. A source_type name with origin "vendor" must not be reused without it.
+#   reason       why the grade, in one line (Method & Legend sheet)
+
+version = "sources_v1"
+
+# ---------------------------------------------------------------- DNS and SEC
+
+[[type]]
+id = "dns_txt"
+source_type = "DNS TXT record"
+sr = "B"
+family = "DNS"
+dated_by = "retrieval"
+kinds = ["dns"]
+reason = "The vendor's own DNS zone, read through two DoH resolvers that must agree; proves a relationship only."
+
+[[type]]
+id = "sec_defa14a"
+source_type = "SEC Form DEFA14A"
+sr = "A"
+family = "REG"
+dated_by = "publication"
+filing = true
+hosts = ["sec.gov"]
+url = 'defa14a'
+reason = "Proxy soliciting material filed with the SEC (often an investor-day transcript): legally accountable."
+
+[[type]]
+id = "sec_8k_exhibit"
+source_type = "SEC Form 8-K exhibit"
+sr = "A"
+family = "REG"
+dated_by = "publication"
+filing = true
+hosts = ["sec.gov"]
+url = '(?:dex99|ex-?99|ex99|earningsrelease|quarterlyupdate)'
+reason = "Exhibit filed with an 8-K (press release, earnings release, investor presentation): legally accountable."
+
+[[type]]
+id = "sec_10k"
+source_type = "SEC Form 10-K"
+sr = "A"
+family = "REG"
+dated_by = "publication"
+filing = true
+hosts = ["sec.gov"]
+url = '/archives/edgar/data/.*-\d{4}1231(?:_[a-z0-9]+)?\.htm'
+reason = "Annual report (fiscal year ending 31 December) filed with the SEC, including its exhibits: legally accountable."
+
+[[type]]
+id = "sec_10q"
+source_type = "SEC Form 10-Q"
+sr = "A"
+family = "REG"
+dated_by = "publication"
+filing = true
+hosts = ["sec.gov"]
+url = '/archives/edgar/data/.*-\d{4}(?:0331|0630|0930)(?:_[a-z0-9]+)?\.htm'
+reason = "Quarterly report filed with the SEC: legally accountable."
+
+[[type]]
+id = "sec_filing"
+source_type = "SEC filing"
+sr = "A"
+family = "REG"
+dated_by = "publication"
+filing = true
+hosts = ["sec.gov"]
+url = '/archives/edgar/'
+reason = "Document filed on EDGAR under the vendor's CIK: legally accountable."
+
+[[type]]
+id = "sec_index"
+source_type = "SEC EDGAR index"
+sr = "A"
+family = "REG"
+dated_by = "retrieval"
+hosts = ["sec.gov"]
+reason = "EDGAR lookup (submissions, full-text search, ticker list): the regulator's own record."
+
+# ---------------------------------------------------------------- the vendor's own job postings and executives
+
+[[type]]
+id = "job_posting"
+source_type = "Job posting"
+sr = "B"
+family = "JOB"
+dated_by = "publication"
+relations = ["ats"]
+reason = "The vendor's own applicant tracking system; postings state duties and named tools (specificity capped at S2)."
+
+[[type]]
+id = "job_posting_native"
+source_type = "Job posting"
+sr = "B"
+family = "JOB"
+dated_by = "publication"
+relations = ["first_party"]
+families = ["JOB"]
+reason = "A posting on the vendor's own careers site (specificity capped at S2)."
+
+[[type]]
+id = "executive_statement"
+source_type = "Executive statement"
+sr = "B"
+family = "EXEC"
+dated_by = "publication"
+relations = ["executive"]
+reason = "A statement attributed to a named executive, captured by hand: first-party accountable."
+
+# ---------------------------------------------------------------- legal artifacts (any publisher)
+
+[[type]]
+id = "privacy_notice"
+source_type = "Privacy notice"
+sr = "A"
+family = "LEG"
+dated_by = "retrieval"
+legal = true
+relations = ["first_party", "affiliate_confirmed", "affiliate_inferred", "platform_supplier"]
+url = '(?:privacy|data-protection|gdpr|ccpa)'
+reason = "A privacy notice binds the publisher legally (regulators enforce it)."
+
+[[type]]
+id = "subprocessor_list"
+source_type = "Sub-processor list"
+sr = "A"
+family = "LEG"
+dated_by = "retrieval"
+legal = true
+relations = ["first_party", "affiliate_confirmed", "affiliate_inferred", "platform_supplier"]
+url = 'sub-?processors?'
+reason = "A published sub-processor list is a contractual disclosure."
+
+[[type]]
+id = "dpa"
+source_type = "Data processing agreement"
+sr = "A"
+family = "LEG"
+dated_by = "retrieval"
+legal = true
+relations = ["first_party", "affiliate_confirmed", "affiliate_inferred", "platform_supplier"]
+url = '(?:\bdpa\b|data-processing-(?:agreement|addendum|terms)|/dpa[/._-])'
+reason = "A data processing agreement is contract terms."
+
+[[type]]
+id = "product_terms"
+source_type = "Product terms"
+sr = "A"
+family = "LEG"
+dated_by = "retrieval"
+legal = true
+relations = ["first_party", "affiliate_confirmed", "affiliate_inferred", "platform_supplier"]
+url = '(?:_spd_|-spd-|/spd[/._-]|program[-_ ]?documentation|product[-_ ]terms|service[-_ ]description|terms-of-service|/legal/|terms-and-conditions|terms-of-use|/terms[/.]?$|/terms/)'
+reason = "Contract and product terms (e.g. Broadcom's Specific Program Documentation) bind the publisher."
+
+[[type]]
+id = "ai_policy"
+source_type = "AI policy"
+sr = "B"
+family = "LEG"
+dated_by = "retrieval"
+relations = ["first_party", "affiliate_confirmed"]
+url = '(?:ai-policy|responsible-ai|ai-principles|ethical-use|ai-ethics|data-ai-ethic|/ai-governance|trustworthy-ai)'
+reason = "The vendor's own AI policy page: first-party accountable, not a contract."
+
+[[type]]
+id = "trust_page"
+source_type = "Trust page"
+sr = "B"
+family = "LEG"
+dated_by = "retrieval"
+relations = ["first_party", "affiliate_confirmed"]
+url = '(?:/trust|trust-center|/security(?:-capabilities)?(?:/|$|\.)|/compliance(?:/|$|\.))'
+reason = "A trust or security page: first-party accountable."
+
+# ---------------------------------------------------------------- first-party pages
+
+[[type]]
+id = "investor_presentation"
+source_type = "Investor presentation"
+sr = "B"
+family = "PRD"
+dated_by = "publication"
+relations = ["first_party", "affiliate_confirmed"]
+url = '(?:investor-relations|/investors?/|/ir/|earnings|quarterly-update|annual-report|investor-day)'
+reason = "An IR deck or earnings material: first-party accountable."
+
+[[type]]
+id = "release_notes"
+source_type = "Release notes"
+sr = "B"
+family = "PRD"
+dated_by = "publication"
+relations = ["first_party", "affiliate_confirmed"]
+url = '(?:release-?notes|changelog|whats-new|what-s-new)'
+reason = "Release notes describe generally available features: first-party accountable."
+
+[[type]]
+id = "technical_docs"
+source_type = "Technical documentation"
+sr = "B"
+family = "PRD"
+dated_by = "retrieval"
+relations = ["first_party", "affiliate_confirmed"]
+url = '(?:^|//)(?:docs|developer|developers|api|techdocs)\.|/docs?/|/documentation/|/developer/|/api-reference'
+reason = "Technical documentation of the product: first-party accountable."
+
+[[type]]
+id = "fact_sheet"
+source_type = "Fact sheet"
+sr = "B"
+family = "PRD"
+dated_by = "publication"
+relations = ["first_party", "affiliate_confirmed"]
+url = '(?:fact-?sheet|data-?sheet|product-sheet|brochure)'
+reason = "A product fact sheet or datasheet: first-party product documentation."
+
+[[type]]
+id = "corporate_report"
+source_type = "Corporate report"
+sr = "B"
+family = "PRD"
+dated_by = "publication"
+relations = ["first_party", "affiliate_confirmed"]
+url = '(?:sustainability|impact-report|social-responsibility|/esg|/csr)'
+reason = "A sustainability, impact or CSR report: an accountable first-party disclosure."
+
+[[type]]
+id = "press_release"
+source_type = "Press release"
+sr = "C"
+family = "PRD"
+dated_by = "publication"
+relations = ["first_party", "affiliate_confirmed"]
+url = '(?:newsroom|press-release|press-room|/press/|/news/|/media-center|company-news|/announcements?/)'
+reason = "A press release is promotional (C) even on the vendor's own site."
+
+[[type]]
+id = "case_study"
+source_type = "Case study"
+sr = "C"
+family = "PRD"
+dated_by = "publication"
+relations = ["first_party", "affiliate_confirmed"]
+url = '(?:case-stud|client-stor|customer-stor|success-stor)'
+reason = "A case study or client story is promotional."
+
+[[type]]
+id = "whitepaper"
+source_type = "Whitepaper"
+sr = "C"
+family = "PRD"
+dated_by = "publication"
+relations = ["first_party", "affiliate_confirmed"]
+url = '(?:white-?paper|e-?book|/insights?/.*\.pdf$|/reports?/.*\.pdf$)'
+reason = "An unattributed whitepaper is promotional."
+
+[[type]]
+id = "vendor_podcast"
+source_type = "Vendor podcast page"
+sr = "C"
+family = "PRD"
+dated_by = "publication"
+relations = ["first_party", "affiliate_confirmed"]
+url = '(?:podcast|payments-nerds|/episodes?/)'
+reason = "Podcast pages and show notes are promotional."
+
+[[type]]
+id = "webinar_page"
+source_type = "Webinar page"
+sr = "C"
+family = "PRD"
+dated_by = "publication"
+relations = ["first_party", "affiliate_confirmed"]
+url = 'webinar'
+reason = "Webinar pages are promotional."
+
+[[type]]
+id = "vendor_blog"
+source_type = "Blog post"
+sr = "C"
+family = "PRD"
+dated_by = "publication"
+relations = ["first_party", "affiliate_confirmed"]
+url = '(?:/blogs?/|/insights?/|/articles?(?:-and-blogs)?/|/resources/|/perspectives?/|thought-leadership|/iflow/|/stories/|/category/)'
+reason = "Unattributed blog posts, insights and market commentary are promotional."
+
+[[type]]
+id = "careers_page"
+source_type = "Careers page"
+sr = "B"
+family = "PRD"
+dated_by = "retrieval"
+relations = ["first_party", "affiliate_confirmed"]
+url = '(?:/careers?/|/careers?\.|/jobs?/|/join-us|/work-with-us)'
+reason = "The vendor's own careers pages: first-party accountable."
+
+[[type]]
+id = "homepage"
+source_type = "Homepage"
+sr = "B"
+family = "PRD"
+dated_by = "retrieval"
+relations = ["first_party", "affiliate_confirmed"]
+path = '^/?(?:(?:[a-z]{2}(?:-[a-z]{2})?/)?(?:index\.html?)?|corporate/global/en\.html)$'
+reason = "The vendor's homepage: first-party accountable."
+
+[[type]]
+id = "product_page"
+source_type = "Product page"
+sr = "B"
+family = "PRD"
+dated_by = "retrieval"
+relations = ["first_party", "affiliate_confirmed"]
+url = '(?:/solutions?/|/products?/|/platforms?/|/services?/|/capabilities|/consulting-services/|/support|/applications/|/payment-systems/|/payments-services/|/offerings?/|/features?/|/built-in/|/technology|/about)'
+reason = "A vendor product or solution page: first-party accountable."
+
+[[type]]
+id = "vendor_article"
+source_type = "Blog post"
+sr = "C"
+family = "PRD"
+dated_by = "publication"
+relations = ["first_party", "affiliate_confirmed"]
+dated = true
+reason = "A first-party page that carries an article date and no product path: treated as a blog post (promotional)."
+
+[[type]]
+id = "vendor_page"
+source_type = "Product page"
+sr = "B"
+family = "PRD"
+dated_by = "retrieval"
+relations = ["first_party", "affiliate_confirmed"]
+reason = "Any other page on the vendor's own domain: first-party accountable."
+
+# ---------------------------------------------------------------- affiliates and platform suppliers
+
+[[type]]
+id = "affiliate_site"
+source_type = "Affiliate website"
+sr = "C"
+family = "PRD"
+dated_by = "retrieval"
+relations = ["affiliate_inferred"]
+reason = "The website of an affiliate that is inferred but not confirmed: second-party, context only."
+
+[[type]]
+id = "supplier_blog"
+source_type = "Platform supplier blog"
+sr = "C"
+family = "IND"
+dated_by = "publication"
+relations = ["platform_supplier"]
+url = '(?:^blogs?\.|/blogs?/|/insights?/|/news/|/press|/articles?/|newsroom|/stories/)'
+reason = "A platform supplier's blog or news post: promotional, second-party."
+
+[[type]]
+id = "supplier_case_study"
+source_type = "Partner case study"
+sr = "C"
+family = "IND"
+dated_by = "publication"
+relations = ["platform_supplier"]
+url = '(?:case-stud|customer-stor|client-stor|success-stor)'
+reason = "A platform supplier's case study naming the vendor: promotional, second-party."
+
+[[type]]
+id = "supplier_page"
+source_type = "Partner page"
+sr = "C"
+family = "IND"
+dated_by = "retrieval"
+relations = ["platform_supplier"]
+reason = "A platform supplier's product page: second-party."
+
+# ---------------------------------------------------------------- third parties
+
+[[type]]
+id = "regulator"
+source_type = "Regulator publication"
+sr = "A"
+family = "IND"
+dated_by = "publication"
+relations = ["third_party"]
+hosts = ["federalreserve.gov", "occ.gov", "occ.treas.gov", "fdic.gov", "consumerfinance.gov", "finra.org", "ftc.gov", "fca.org.uk", "eba.europa.eu", "mas.gov.sg"]
+reason = "A regulator's own publication: legally accountable."
+
+[[type]]
+id = "government_record"
+source_type = "Government record"
+sr = "A"
+family = "IND"
+dated_by = "retrieval"
+relations = ["third_party"]
+hosts = [".gov"]
+reason = "A government register or contract record: legally accountable."
+
+[[type]]
+id = "user_generated"
+source_type = "User-generated content"
+sr = "E"
+family = "IND"
+dated_by = "publication"
+relations = ["third_party"]
+hosts = ["reddit.com", "news.ycombinator.com", "medium.com", "quora.com", "stackoverflow.com", "stackexchange.com", "glassdoor.com", "x.com", "twitter.com", "facebook.com", "youtube.com", "tiktok.com", "substack.com", "blind.com", "teamblind.com"]
+reason = "User-generated content (SR E): never evidence of use on its own."
+
+[[type]]
+id = "aggregator"
+source_type = "Aggregator copy"
+sr = "D"
+family = "IND"
+dated_by = "publication"
+relations = ["third_party"]
+hosts = ["finance.yahoo.com", "marketscreener.com", "morningstar.com", "msn.com", "investing.com", "stocktitan.net", "newsbreak.com", "ground.news", "flipboard.com", "benzinga.com", "tradingview.com", "zawya.com", "fintech.global", "marketwatch.com"]
+reason = "An aggregator or syndicated copy (SR D)."
+
+[[type]]
+id = "press_release_mirror"
+source_type = "Press release mirror"
+sr = "C"
+family = "IND"
+dated_by = "publication"
+relations = ["third_party"]
+hosts = ["mondovisione.com", "prnewswire.com", "businesswire.com", "globenewswire.com", "accesswire.com", "newswire.ca", "newswire.com", "einpresswire.com", "prweb.com"]
+origin = "vendor"
+reason = "A mirror of a press release: promotional (C); the words are the vendor's, so it is never independent of the vendor."
+
+[[type]]
+id = "partner_press_release"
+source_type = "Partner press release"
+sr = "C"
+family = "IND"
+dated_by = "publication"
+relations = ["third_party"]
+hosts = ["googlecloudpresscorner.com", "press.aboutamazon.com", "news.microsoft.com", "nvidianews.nvidia.com"]
+origin = "vendor"
+reason = "A joint release in an AI or cloud provider's press room: promotional (C), and co-issued by the vendor, so never independent of it."
+
+[[type]]
+id = "provider_story"
+source_type = "Provider customer story"
+sr = "C"
+family = "IND"
+dated_by = "publication"
+relations = ["third_party"]
+hosts = ["aboutamazon.com", "aws.amazon.com", "googlecloudpresscorner.com", "cloud.google.com", "blog.google", "news.microsoft.com", "blogs.microsoft.com", "microsoft.com", "openai.com", "anthropic.com", "nvidianews.nvidia.com", "blogs.nvidia.com", "nvidia.com", "ibm.com", "salesforce.com", "servicenow.com", "cognition.ai", "databricks.com", "snowflake.com"]
+reason = "An AI or cloud provider's customer story or release: promotional, second-party (corroboration only)."
+
+[[type]]
+id = "podcast"
+source_type = "Podcast page"
+sr = "C"
+family = "IND"
+dated_by = "publication"
+relations = ["third_party"]
+hosts = ["pod.co", "podcasts.apple.com", "open.spotify.com", "buzzsprout.com", "podbean.com", "libsyn.com", "simplecast.com", "transistor.fm"]
+reason = "A third-party podcast page or transcript: promotional (C)."
+
+[[type]]
+id = "podcast_path"
+source_type = "Podcast transcript"
+sr = "C"
+family = "IND"
+dated_by = "publication"
+relations = ["third_party"]
+url = '(?:podcast|/episodes?/|fraud-forward)'
+reason = "A third-party podcast page or transcript: promotional (C)."
+
+[[type]]
+id = "conference_profile"
+source_type = "Conference speaker profile"
+sr = "C"
+family = "IND"
+dated_by = "retrieval"
+relations = ["third_party"]
+url = '(?:/profile/|/speakers?/|/agenda)'
+reason = "An organiser-written speaker profile or session abstract: promotional (C)."
+
+[[type]]
+id = "vendor_marketing_third_party"
+source_type = "Third-party vendor collateral"
+sr = "C"
+family = "IND"
+dated_by = "publication"
+relations = ["third_party"]
+url = '(?:brochure|/documents/|datasheet|/collateral)'
+reason = "Another company's marketing collateral naming the vendor: promotional (C)."
+
+[[type]]
+id = "trade_interview"
+source_type = "Trade press interview"
+sr = "C"
+family = "IND"
+dated_by = "publication"
+relations = ["third_party"]
+title = 'interview|in conversation|sits down with|q&a'
+reason = "Trade press interview: second-party (C)."
+
+[[type]]
+id = "trade_press"
+source_type = "Trade press"
+sr = "C"
+family = "IND"
+dated_by = "publication"
+relations = ["third_party", "executive"]
+reason = "Trade press and other third-party articles: second-party (C), corroboration only."
+
+# ---------------------------------------------------------------- publishers of third-party hosts (column P)
+# host suffix -> outlet or provider name. Unlisted hosts use the host without "www.".
+
+[publishers]
+"theasianbanker.com" = "The Asian Banker"
+"globalcustodian.com" = "Global Custodian"
+"ediscoverytoday.com" = "eDiscovery Today"
+"piworld.com" = "Printing Impressions"
+"documentmedia.com" = "DOCUMENT Strategy Media"
+"mondovisione.com" = "Mondo Visione"
+"finovate.com" = "Finovate"
+"press.aboutamazon.com" = "Amazon (AWS press centre)"
+"aboutamazon.com" = "Amazon"
+"googlecloudpresscorner.com" = "Google Cloud"
+"americanbanker.com" = "American Banker"
+"pymnts.com" = "PYMNTS"
+"thefr.com" = "The Financial Revolutionist"
+"sardine.ai" = "Sardine"
+"niceactimize.com" = "NICE Actimize"
+"pod.co" = "Modern Financial Advisor podcast (pod.co)"
+"icba.org" = "ICBA Independent Banker"
+"volantetech.com" = "Volante Technologies"
+"broadcom.com" = "Broadcom"
+"opentext.com" = "OpenText"
+"quadient.com" = "Quadient"
+"mastercard.com" = "Mastercard"
+"labarum.ai" = "Labarum AI"
+"thewealthadvisor.com" = "The Wealth Advisor"
+"dir.texas.gov" = "Texas Department of Information Resources"
+"sec.gov" = "U.S. SEC (EDGAR)"
+"finextra.com" = "Finextra"
+"bankingdive.com" = "Banking Dive"
+"paymentsdive.com" = "Payments Dive"
+"reuters.com" = "Reuters"
+"bloomberg.com" = "Bloomberg"
+"wsj.com" = "The Wall Street Journal"
+"ft.com" = "Financial Times"
+"cnbc.com" = "CNBC"
+"forbes.com" = "Forbes"
+"techcrunch.com" = "TechCrunch"
