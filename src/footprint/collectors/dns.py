@@ -38,8 +38,26 @@ def find_ai_tokens(txt_records: list[str]) -> list[tuple[str, str]]:
     return out
 
 
+_CHAR_STRING = re.compile(r'"((?:[^"\\]|\\.)*)"')
+_ESCAPE = re.compile(rb"\\(\d{3}|.)", re.S)
+_PRESENTATION = re.compile(r'(?:"(?:[^"\\]|\\.)*"\s*)+')
+
+
+def unescape_txt(presentation: str) -> str:
+    """Decode RFC 1035 presentation-format TXT data: ``"part1" "part2"`` joined, ``\\DDD`` decimal byte escapes
+    and ``\\X`` literal escapes resolved, bytes read as UTF-8 (Cloudflare's DoH answers look like this)."""
+    parts = _CHAR_STRING.findall(presentation)
+    raw = "".join(parts).encode("utf-8")
+    out = _ESCAPE.sub(lambda m: bytes([int(m.group(1)) & 0xFF]) if m.group(1).isdigit() else m.group(1), raw)
+    return out.decode("utf-8", errors="replace")
+
+
 def parse_doh(raw: bytes, rtype: str) -> list[str] | None:
-    """Sorted record data from a DoH JSON answer; None if unparseable. NXDOMAIN/no data -> []."""
+    """Sorted record data from a DoH JSON answer; None if unparseable. NXDOMAIN/no data -> [].
+
+    TXT data is normalised so both resolvers compare equal: Google answers with decoded, unquoted text; Cloudflare
+    with quoted character-strings in presentation format (see ``unescape_txt``).
+    """
     try:
         data = json.loads(raw.decode("utf-8"))
     except (ValueError, UnicodeDecodeError):
@@ -51,9 +69,8 @@ def parse_doh(raw: bytes, rtype: str) -> list[str] | None:
             continue
         d = str(ans.get("data", ""))
         if rtype == "TXT":
-            # join split strings: "abc" "def" -> abcdef
-            parts = re.findall(r'"((?:[^"\\]|\\.)*)"', d)
-            d = "".join(parts) if parts else d
+            if _PRESENTATION.fullmatch(d.strip()):
+                d = unescape_txt(d.strip())
         vals.append(d.rstrip(".") if rtype != "TXT" else d)
     return sorted(set(vals))
 
