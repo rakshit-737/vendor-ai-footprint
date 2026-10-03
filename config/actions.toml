@@ -1,0 +1,319 @@
+# Column U (Recommended Action): the playbook for the AI risk class plus gap blocks. Gap blocks map to
+# questionnaire items Q1-Q15 and contract clauses C1-C11 (design Appendix A 2.8; docs/contracts_p3.md section 9).
+# Read by footprint.actions.
+#
+# Every sentence is an instruction to Meridian, written in the imperative as in V-000's column U. Meridian issues
+# questionnaires, negotiates clauses and escalates; the assessment team never contacts a vendor. The loader
+# refuses first-person or team wording in any sentence, topic, question or clause.
+# Sentence templates may use {days} (business days), {topics} (questionnaire topics in words), {provider_flag},
+# {ceiling_clause} and {platform_clause}. A sentence whose {topics} would be empty is left out.
+# Any change here is a policy change: bump `version`.
+version = "1.1"
+max_chars = 1480   # the column U budget (footprint.workbook.DEFAULT_LENGTH_BUDGETS["recommended_action"])
+
+[deadlines]   # business days within which Meridian issues the questionnaire
+critical = 15                   # Critical class (V-000's pattern)
+high_critical_tier = 15         # High class, Critical-tier vendor
+high = 30                       # High class, any other tier
+provisional_high_ceiling = 15   # Provisional, with a ceiling of High or Critical
+provisional = 30                # Provisional, any lower ceiling
+standard_critical_tier = 15     # Medium or Low class, not provisional, Critical-tier vendor
+standard = 30                   # Medium or Low class, not provisional, any other tier
+
+[text]
+provider_unresolved = " with an unresolved-provider flag"
+provider_named = ", recording the AI providers it names publicly"
+ceiling_with = "; until then the class stays provisional, with a ceiling of {ceiling} if AI use is confirmed"
+ceiling_without = "; until then the class stays provisional"
+platform_clause = ", including the AI features of the platforms it uses"
+conflict = "Ask the vendor in the same questionnaire to reconcile its statements on AI use with its limiting statement."
+codes_both = "Use {questions} and {clauses} from the Method & Legend sheet."
+codes_questions = "Use {questions} from the Method & Legend sheet."
+codes_clauses = "Use {clauses} from the Method & Legend sheet."
+question_noun = "questionnaire item"     # one code
+question_nouns = "questionnaire items"   # several codes
+clause_noun = "contract clause"
+clause_nouns = "contract clauses"
+
+# ---------------------------------------------------------------- playbooks by risk class
+# questions / clauses: the playbook's own codes; gap-block codes are added to them (union, numeric order).
+# base_topics: the questionnaire sentence names the playbook's own question topics before the gap-block topics.
+# A gap block whose first question is one of the playbook's own questions adds no topic (it is already asked).
+[playbooks.critical]
+monitoring = "quarterly"
+questions = ["Q2"]
+clauses = ["C1", "C2", "C5", "C10"]
+base_topics = true
+sentences = [
+  "Issue a targeted questionnaire within {days} business days covering {topics}.",
+  "Register the vendor on Meridian's AI sub-processor inventory{provider_flag}.",
+  "Raise AI clauses at the next contract review, addressing training restrictions, sub-processor change notification, human oversight thresholds, and rights to review attestations.",
+  "Escalate to the Third-Party Risk Committee where confirmation is not received.",
+]
+
+[playbooks.high]
+monitoring = "semiannual"
+questions = ["Q2"]
+clauses = ["C1", "C2", "C5", "C10"]
+base_topics = true
+sentences = [
+  "Issue a targeted questionnaire within {days} business days covering {topics}.",
+  "Register the vendor on Meridian's AI sub-processor inventory{provider_flag}.",
+  "Raise AI clauses at the next contract review, addressing training restrictions, sub-processor change notification, human oversight thresholds, and rights to review attestations.",
+  "Escalate to the Third-Party Risk Committee where confirmation is not received.",
+]
+
+[playbooks.provisional]
+monitoring = "semiannual_provisional"
+questions = ["Q1", "Q2", "Q3", "Q4"]
+clauses = []
+base_topics = false
+sentences = [
+  "Issue questionnaire items Q1 to Q4 within {days} business days to establish whether AI is used in the service, which Meridian data it touches, which model providers are involved and what human review applies.",
+  "Reclassify the vendor on the response{ceiling_clause}.",
+  "Cover {topics} in the same questionnaire.",
+]
+
+[playbooks.standard]
+monitoring = "annual"
+questions = ["Q2"]
+clauses = ["C1", "C2"]
+base_topics = true
+sentences = [
+  "Issue a questionnaire within {days} business days covering {topics}.",
+  "Review AI clauses on training restrictions and sub-processor change notification at the next renewal.",
+]
+
+[playbooks.none_high]   # None identified, Critical- or High-tier vendor
+monitoring = "annual"
+questions = []
+clauses = ["C9"]
+base_topics = false
+gap_blocks = false
+sentences = [
+  "Obtain a written attestation from the vendor that no AI is used in the service or on Meridian data{platform_clause}.",
+  "Add an AI change-notification clause at renewal, requiring notice before AI is introduced into the service.",
+]
+
+[playbooks.none_low]    # None identified, Medium- or Low-tier vendor
+monitoring = "annual"
+questions = []
+clauses = []
+base_topics = false
+gap_blocks = false
+sentences = ["Take no AI-specific action beyond monitoring."]
+
+[monitoring]
+quarterly = "Re-scan the vendor's public AI footprint quarterly and after any AI announcement, filing or sub-processor change."
+semiannual = "Re-scan the vendor's public AI footprint every six months."
+semiannual_provisional = "Re-scan the vendor's public AI footprint every six months until the classification is final."
+annual = "Re-scan the vendor's public AI footprint annually."
+
+# ---------------------------------------------------------------- gap blocks (listed in GAP_BLOCK_CODES order)
+# Triggers are coded in footprint.actions.gap_blocks; `trigger` describes them for the Method & Legend sheet.
+[blocks.SUB]
+topic = "model provider identity and AI sub-processors"
+short = "AI sub-processors"
+trigger = "AI providers not named by the vendor (check t2 missing), or no sub-processor register found"
+questions = ["Q3", "Q14"]
+clauses = ["C2"]
+
+[blocks.TRAIN]
+topic = "training use and retention of Meridian data"
+short = "training and retention"
+trigger = "no public data-use terms for AI (check t3 missing)"
+questions = ["Q5"]
+clauses = ["C1", "C4"]
+
+[blocks.LOC]
+topic = "hosting region"
+short = "hosting region"
+trigger = "the hosting region of the AI processing is not stated in any cited item"
+questions = ["Q6"]
+clauses = ["C3"]
+
+[blocks.EXPL]
+topic = "human review and explainability of AI output"
+short = "human review"
+trigger = "human oversight not disclosed (check t4 missing)"
+questions = ["Q4", "Q7"]
+clauses = ["C5", "C6"]
+
+[blocks.AGENT]
+topic = "permissions and approval gates for AI agents"
+short = "agent permissions"
+trigger = "agentic AI or automated actions in the cited items"
+questions = ["Q8"]
+clauses = ["C7"]
+
+[blocks.PI]
+topic = "prompt-injection and data-leakage controls"
+short = "prompt-injection controls"
+trigger = "generative or conversational AI in the cited items"
+questions = ["Q9"]
+clauses = ["C8"]
+
+[blocks.GOV]
+topic = "AI governance and attestations"
+short = "AI governance"
+trigger = "no AI governance attestation (check t5 missing)"
+questions = ["Q10", "Q15"]
+clauses = ["C10"]
+
+[blocks.INC]
+topic = "AI incident and change notification"
+short = "incident notification"
+trigger = "no AI incident or change notification (check t6 missing)"
+questions = ["Q11"]
+clauses = ["C9"]
+
+[blocks.CONC]
+topic = "dependence on a single model provider"
+short = "provider concentration"
+trigger = "a single foundation-model provider behind a Critical-tier vendor (escalator X6), or a single provider named"
+questions = ["Q12"]
+clauses = ["C11"]
+
+[blocks.MRM]
+topic = "validation and monitoring of predictive models"
+short = "model validation"
+trigger = "predictive models in the cited items with decision impact 2 or more"
+questions = ["Q13"]
+clauses = ["C6"]
+
+# ---------------------------------------------------------------- questionnaire items (Meridian sends these)
+[questions.Q1]
+topic = "whether and where AI is used in the service"
+short = "AI use in the service"
+text = "Does the vendor use AI (machine learning, generative AI or AI agents) in the service it provides to Meridian, or in the operations, support or development work that touches it? Describe each use and whether it is in production, in a pilot or planned."
+
+[questions.Q2]
+topic = "which Meridian data the AI touches"
+short = "Meridian data in scope"
+text = "Which Meridian data, if any, is processed by or exposed to AI systems, including prompts, logs, tickets, cases and call recordings?"
+
+[questions.Q3]
+topic = "model provider identity"
+short = "model providers"
+text = "Which AI model providers and AI sub-processors are involved, including foundation-model APIs and the AI features of platforms the vendor uses, and what role does each play?"
+
+[questions.Q4]
+topic = "human review over AI output"
+short = "human review"
+text = "What human review applies before AI output affects Meridian customers, funds, regulatory outputs or production systems?"
+
+[questions.Q5]
+topic = "training use and retention of Meridian data"
+short = "training and retention"
+text = "Is Meridian data used to train, fine-tune or evaluate models? How long are prompts, outputs and logs kept, and can Meridian opt out?"
+
+[questions.Q6]
+topic = "hosting region"
+short = "hosting region"
+text = "In which regions, and by which legal entities, are AI models hosted and Meridian data processed?"
+
+[questions.Q7]
+topic = "explainability of AI-assisted decisions"
+short = "explainability"
+text = "How are AI-assisted decisions explained and recorded, so that Meridian can reconstruct an individual outcome?"
+
+[questions.Q8]
+topic = "permissions and approval gates for AI agents"
+short = "agent permissions"
+text = "Which AI agents or automated actions can act without per-case approval, with which permissions, and which limits, logging and shut-off controls apply?"
+
+[questions.Q9]
+topic = "prompt-injection and data-leakage controls"
+short = "prompt-injection controls"
+text = "Which controls address prompt injection, data leakage and unsafe output handling in generative-AI features, and how are they tested?"
+
+[questions.Q10]
+topic = "the AI governance framework"
+short = "AI governance"
+text = "Which AI governance framework is in place (an AI policy, NIST AI RMF alignment, ISO/IEC 42001), and who is accountable for it?"
+
+[questions.Q11]
+topic = "AI incident and change notification"
+short = "incident notification"
+text = "Has the vendor had an AI-related incident in the last 24 months, and how and when will it notify Meridian of AI incidents and material AI changes?"
+
+[questions.Q12]
+topic = "dependence on a single model provider"
+short = "provider concentration"
+text = "How dependent is the service on a single model provider, and which fallback or exit plan applies if that provider becomes unavailable?"
+
+[questions.Q13]
+topic = "validation and monitoring of predictive models"
+short = "model validation"
+text = "How are predictive models validated, monitored for drift and bias, and governed (model inventory, independent validation, change control)?"
+
+[questions.Q14]
+topic = "a sub-processor register that lists AI providers"
+short = "sub-processor register"
+text = "Is there a published or contractual sub-processor register that lists AI providers, and how are additions notified to Meridian?"
+
+[questions.Q15]
+topic = "attestations covering the AI components"
+short = "AI attestations"
+text = "Which attestations cover the AI components of the service (SOC 2 scope, an ISO/IEC 42001 certificate, model documentation, test reports), and can Meridian review them?"
+
+# ---------------------------------------------------------------- contract clauses (Meridian negotiates these)
+[clauses.C1]
+topic = "training restrictions"
+text = "No use of Meridian data to train, fine-tune or evaluate models without Meridian's written consent."
+
+[clauses.C2]
+topic = "sub-processor change notification"
+text = "Disclosure of AI sub-processors and model providers, with advance notice of changes and a right to object."
+
+[clauses.C3]
+topic = "data location for AI processing"
+text = "Commitments on the regions and legal entities where Meridian data is processed by AI."
+
+[clauses.C4]
+topic = "retention and deletion of AI data"
+text = "Limits on keeping prompts, outputs and logs that contain Meridian data, with deletion on request and at exit."
+
+[clauses.C5]
+topic = "human oversight thresholds"
+text = "Human-oversight thresholds for AI output that affects Meridian customers, funds, regulatory outputs or production."
+
+[clauses.C6]
+topic = "model validation and explainability reporting"
+text = "Reporting on model validation, performance, drift and explainability for AI used in the service."
+
+[clauses.C7]
+topic = "limits on autonomous AI agents"
+text = "Scoped permissions, approval gates, logging and a shut-off control for AI agents acting in the service."
+
+[clauses.C8]
+topic = "generative-AI security testing"
+text = "Regular testing for prompt injection and data leakage, with the results shared with Meridian."
+
+[clauses.C9]
+topic = "AI incident and change notification"
+text = "Notice of AI incidents within an agreed period, and advance notice before AI is introduced into the service or its use materially changes."
+
+[clauses.C10]
+topic = "rights to review attestations"
+text = "Meridian's right to review AI governance attestations and audit reports (an AI policy, NIST AI RMF alignment, ISO/IEC 42001)."
+
+[clauses.C11]
+topic = "model-provider continuity and exit"
+text = "Continuity and exit arrangements if a model provider becomes unavailable, including a fallback provider and termination assistance."
+
+# ---------------------------------------------------------------- cues (Python regex, case-insensitive)
+[cues]
+# LOC: a cited item states where AI processing is hosted (excerpt and data_mentioned)
+region = [
+  '\bhosted (?:in|within)\b',
+  '\bdata (?:residency|localisation|localization)\b',
+  '\b(?:processed|stored|hosted) (?:only )?(?:in|within) (?:the )?(?:United States|USA|EU|European Union|EEA|United Kingdom|UK|Canada|India|Australia)\b',
+  '\b(?:US|EU|UK)[- ]based (?:data cent(?:er|re)s?|hosting|regions?)\b',
+  '\b(?:hosting|cloud|data) regions?\b',
+]
+# SUB: a sub-processor register among the cited legal items (source type, title or URL)
+register = [
+  '\bsub-?processors?\b',
+  '\bsub processors?\b',
+]
