@@ -1,0 +1,276 @@
+{
+ "as_of": "2026-10-03",
+ "code_version": "0.1.0+b8fd52e6ad3c",
+ "collection_runs": {
+  "V-001": "V-001-20261003-5ddbf3eb",
+  "V-002": "V-002-20261003-877d1823",
+  "V-003": "V-003-20261003-20fe2885",
+  "V-004": "V-004-20261003-82674381",
+  "V-005": "V-005-20261003-05eb23b0",
+  "V-006": "V-006-20261003-3e6c4f9a"
+ },
+ "config_sha256": {
+  "actions": "ad5f7545fcd67df8317b1363324fd8db236852a6512aedf0d99e2013ffe91a6b",
+  "depth": "964f6622f723c944be706f679f58260cbfa65cddf07842b13afefb726af1aaa7",
+  "lexicon": "0c02862e1a0a54189f98dac0cadb229b932fb6fcc0e36b7a9dd3473ccad528f2",
+  "risk": "9600b9f3c42aa0f1657cf5cf3673568cd85986c15fb9cd64c709b17e98d7b1a0",
+  "rubric": "eeb4f45050d30e893b2f38eab6216174a4fc233915e3caeec0dba38e0a1cca1e",
+  "sources": "8260c608fd86452b216cfcb112112641cda56003f7105145e169948abbc7c16c",
+  "tou": "d5bc40594fa3203436f5ec2acfa96f941ceea9ad2e75c978843e8543d761e985"
+ },
+ "counts": {
+  "V-001": {
+   "citable": 106,
+   "cited": 75,
+   "documents": 127,
+   "items": 183,
+   "llm_claims": 126,
+   "llm_failures": {
+    "V2": 1,
+    "V3": 2,
+    "V4": 105
+   },
+   "llm_names": 7,
+   "llm_verified": 123,
+   "llm_whole_pages": 0,
+   "passages": 178,
+   "proposed": 58,
+   "rejected": 24,
+   "rule_items": 126,
+   "traps": 8,
+   "with_llm_labels": 122
+  },
+  "V-002": {
+   "citable": 137,
+   "cited": 9,
+   "documents": 13,
+   "items": 172,
+   "llm_claims": 134,
+   "llm_failures": {
+    "V2": 10,
+    "V3": 2,
+    "V4": 111
+   },
+   "llm_names": 0,
+   "llm_verified": 122,
+   "llm_whole_pages": 0,
+   "passages": 160,
+   "proposed": 31,
+   "rejected": 4,
+   "rule_items": 147,
+   "traps": 0,
+   "with_llm_labels": 121
+  },
+  "V-003": {
+   "citable": 19,
+   "cited": 9,
+   "documents": 30,
+   "items": 23,
+   "llm_claims": 10,
+   "llm_failures": {
+    "V4": 7
+   },
+   "llm_names": 2,
+   "llm_verified": 10,
+   "llm_whole_pages": 0,
+   "passages": 30,
+   "proposed": 3,
+   "rejected": 1,
+   "rule_items": 20,
+   "traps": 0,
+   "with_llm_labels": 10
+  },
+  "V-004": {
+   "citable": 6,
+   "cited": 2,
+   "documents": 8,
+   "items": 6,
+   "llm_claims": 0,
+   "llm_failures": {},
+   "llm_names": 4,
+   "llm_verified": 0,
+   "llm_whole_pages": 0,
+   "passages": 8,
+   "proposed": 0,
+   "rejected": 0,
+   "rule_items": 6,
+   "traps": 0,
+   "with_llm_labels": 0
+  },
+  "V-005": {
+   "citable": 94,
+   "cited": 7,
+   "documents": 16,
+   "items": 112,
+   "llm_claims": 71,
+   "llm_failures": {
+    "V2": 1,
+    "V3": 1,
+    "V4": 39
+   },
+   "llm_names": 0,
+   "llm_verified": 69,
+   "llm_whole_pages": 0,
+   "passages": 103,
+   "proposed": 16,
+   "rejected": 1,
+   "rule_items": 96,
+   "traps": 1,
+   "with_llm_labels": 65
+  },
+  "V-006": {
+   "citable": 26,
+   "cited": 5,
+   "documents": 178,
+   "items": 31,
+   "llm_claims": 23,
+   "llm_failures": {
+    "V2": 1,
+    "V4": 9
+   },
+   "llm_names": 3,
+   "llm_verified": 22,
+   "llm_whole_pages": 0,
+   "passages": 34,
+   "proposed": 5,
+   "rejected": 0,
+   "rule_items": 26,
+   "traps": 0,
+   "with_llm_labels": 22
+  }
+ },
+ "created_at": "2026-10-03T09:52:23Z",
+ "input_sha256": "307757459b1fbaa09dfce02bfc4ec2c8f15aa4063c9e06a3511faa61c163dec6",
+ "llm": {
+  "audit_problems": [],
+  "backend": "replay",
+  "calls": {
+   "V-001": {
+    "actual": 18,
+    "api_calls": 0,
+    "budget_stops": 0,
+    "cache_hits": 18,
+    "errors": 0,
+    "planned": 20,
+    "quota": 0
+   },
+   "V-002": {
+    "actual": 14,
+    "api_calls": 0,
+    "budget_stops": 0,
+    "cache_hits": 14,
+    "errors": 0,
+    "planned": 40,
+    "quota": 0
+   },
+   "V-003": {
+    "actual": 3,
+    "api_calls": 0,
+    "budget_stops": 0,
+    "cache_hits": 3,
+    "errors": 0,
+    "planned": 20,
+    "quota": 0
+   },
+   "V-004": {
+    "actual": 2,
+    "api_calls": 0,
+    "budget_stops": 0,
+    "cache_hits": 2,
+    "errors": 0,
+    "planned": 20,
+    "quota": 0
+   },
+   "V-005": {
+    "actual": 9,
+    "api_calls": 0,
+    "budget_stops": 0,
+    "cache_hits": 9,
+    "errors": 0,
+    "planned": 40,
+    "quota": 0
+   },
+   "V-006": {
+    "actual": 5,
+    "api_calls": 0,
+    "budget_stops": 0,
+    "cache_hits": 5,
+    "errors": 0,
+    "planned": 40,
+    "quota": 0
+   }
+  },
+  "chain": [
+   "gemini-3.5-flash-lite",
+   "gemini-3.1-flash-lite"
+  ],
+  "models": [
+   "gemini-3.5-flash-lite"
+  ],
+  "note": "",
+  "switches": [],
+  "withheld": {
+   "V-001": {
+    "count": 0,
+    "rate": 0.0,
+    "sent": 306
+   },
+   "V-002": {
+    "count": 5,
+    "rate": 0.0291,
+    "sent": 167
+   },
+   "V-003": {
+    "count": 23,
+    "rate": 0.4259,
+    "sent": 31
+   },
+   "V-004": {
+    "count": 10,
+    "rate": 0.5882,
+    "sent": 7
+   },
+   "V-005": {
+    "count": 14,
+    "rate": 0.1197,
+    "sent": 103
+   },
+   "V-006": {
+    "count": 15,
+    "rate": 0.0798,
+    "sent": 173
+   }
+  }
+ },
+ "mode": "replay",
+ "notes": {
+  "V-001": [
+   "collection: replayed collection run V-001-20261003-5ddbf3eb",
+   "name expansion (search keys only, never evidence): AutomWorx, AutomWorx Consulting, UC4, AppWorx, Automic, Autosys, Automic Automation"
+  ],
+  "V-002": [
+   "collection: replayed collection run V-002-20261003-877d1823"
+  ],
+  "V-003": [
+   "collection: replayed collection run V-003-20261003-20fe2885",
+   "name expansion (search keys only, never evidence): FSSI, Financial Statement Services"
+  ],
+  "V-004": [
+   "collection: replayed collection run V-004-20261003-82674381",
+   "name expansion (search keys only, never evidence): Terrapin Technologies, Terrapin, Wealth Data Solutions, Terrapin Technologies, Inc"
+  ],
+  "V-005": [
+   "collection: replayed collection run V-005-20261003-05eb23b0"
+  ],
+  "V-006": [
+   "collection: replayed collection run V-006-20261003-3e6c4f9a",
+   "name expansion (search keys only, never evidence): The Clearing House, TCH, RTP"
+  ]
+ },
+ "prompts_sha256": {
+  "expand_v1": "ad6f9fb7b2bcec4a24437dc2fe0c068247c2d943f01fe4d318a12c62837015d4",
+  "extract_v1": "065bd458ace52ff274c72967cfe1b90c794a1ec8d3a3696ec78d7d8cf636df94",
+  "triage_v1": "39cf8aaf00e873db502e5bf775befd08cd90b405cd5cbb72410c24f061d42c7b"
+ },
+ "run_id": "A-20261003-9e73747c"
+}
