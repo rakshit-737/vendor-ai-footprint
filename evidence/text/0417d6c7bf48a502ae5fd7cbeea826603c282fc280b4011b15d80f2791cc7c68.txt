@@ -1,0 +1,76 @@
+{
+  "AD": false,
+  "Answer": [
+    {
+      "TTL": 60,
+      "data": "\"apple-domain-verification=VBl9hZLTvqcvBXmo\"",
+      "name": "theclearinghouse.org",
+      "type": 16
+    },
+    {
+      "TTL": 60,
+      "data": "\"atlassian-domain-verification=ScD4jTVeSgnqtjSQnMiVzKdidYYWI4ybjXAdPm4d5na5a48bCGgEZcwRUllMg/ed\"",
+      "name": "theclearinghouse.org",
+      "type": 16
+    },
+    {
+      "TTL": 60,
+      "data": "\"atlassian-domain-verification=zXeHVyO9eWog3f6TQIfeFwk1hRniWa0Gylu2ONeHNtbc05S48qY9ad9WEcpSurru\"",
+      "name": "theclearinghouse.org",
+      "type": 16
+    },
+    {
+      "TTL": 60,
+      "data": "\"cisco-ci-domain-verification=fbaf34192d52c5a0778d94a41d08f797218ee168a17628d1a753995d7c0e2d9\"",
+      "name": "theclearinghouse.org",
+      "type": 16
+    },
+    {
+      "TTL": 60,
+      "data": "\"docker-verification=83e64258-6168-463b-bd36-0c313257c052\"",
+      "name": "theclearinghouse.org",
+      "type": 16
+    },
+    {
+      "TTL": 60,
+      "data": "\"docusign=f928e28d-9b6f-463c-890f-e1b7c13d8874\"",
+      "name": "theclearinghouse.org",
+      "type": 16
+    },
+    {
+      "TTL": 60,
+      "data": "\"google-site-verification=H5muDWy3MVMhFNKsaAGT--EoYrD5zW-1xFNkrm80ClM\"",
+      "name": "theclearinghouse.org",
+      "type": 16
+    },
+    {
+      "TTL": 60,
+      "data": "\"miro-verification=163964a40403e0c66ae27d584aa80c066f323d36\"",
+      "name": "theclearinghouse.org",
+      "type": 16
+    },
+    {
+      "TTL": 60,
+      "data": "\"openai-domain-verification=dv-4SUszQYPOkfCPyHdTs14Vg3k\"",
+      "name": "theclearinghouse.org",
+      "type": 16
+    },
+    {
+      "TTL": 60,
+      "data": "\"v=spf1 include:_spf.salesforce.com include:spf.protection.outlook.com include:amazonses.com include:cust-spf.exacttarget.com ~all\"",
+      "name": "theclearinghouse.org",
+      "type": 16
+    }
+  ],
+  "CD": false,
+  "Question": [
+    {
+      "name": "theclearinghouse.org",
+      "type": 16
+    }
+  ],
+  "RA": true,
+  "RD": true,
+  "Status": 0,
+  "TC": false
+}

@@ -1,0 +1,67 @@
+Linux Systems Engineer
+
+Position summary:
+
+Linux Systems Engineer responsible for engineering, building, supporting, securing, and maintaining large-scale Red Hat Enterprise Linux (RHEL) server infrastructure in a highly available, 24x7 enterprise production environment. This role requires extensive hands-on RHEL experience, strong troubleshooting skills, and the ability to support complex distributed infrastructure across on-premises virtualization and AWS cloud environments.
+
+Essential Functions and Responsibilities:
+
+Design, engineer, implement, and support enterprise Red Hat Enterprise Linux server platforms across physical, virtual, and cloud environments.
+
+Establish, implement, and maintain enterprise Linux engineering standards, including server build processes, configuration baselines, hardening standards, supported package levels, firmware, drivers, and lifecycle requirements.
+
+Collaborate with Information Security and Architecture teams to implement, validate, and maintain RHEL security hardening standards and configuration baselines.
+
+Integrate RHEL servers with enterprise infrastructure management and security platforms, including monitoring, endpoint security/anti-malware, file integrity monitoring, vulnerability management, backup, logging, and configuration management tools.
+
+Validate, test, deploy, and troubleshoot RHEL security patches and operating system updates in accordance with enterprise patching, change management, and vulnerability remediation requirements.
+
+Evaluate and test upgrades to operating systems, packages, drivers, firmware, microcode, and other server components before production implementation.
+
+Implement and validate Linux security configurations to meet enterprise security, regulatory, and audit requirements. Experience supporting environments governed by standards such as PCI DSS, ISO, or comparable control frameworks is preferred.
+
+Partner with Operations, Architecture, Security, application teams, and other infrastructure teams to maintain the current environment and design future-state Linux platforms and services.
+
+Participate in scheduled on-call coverage and provide after-hours support for production incidents, maintenance, upgrades, and critical infrastructure activities.
+
+Qualifications Required:
+
+Bachelor’s degree in Computer Science, Information Technology, Engineering, or a related field, or equivalent relevant professional experience.
+
+Extensive hands-on experience administering Red Hat Enterprise Linux in a large enterprise environment, including installation, configuration, upgrades, lifecycle management, troubleshooting, performance analysis, and production support.
+
+Strong understanding of cloud fundamentals, infrastructure provisioning, and enterprise cloud design patterns.
+
+Extensive experience with RHEL 8.x and 9.x on x86_64 platforms, including RHEL workloads hosted on VMware and AWS.
+
+Strong working knowledge of enterprise infrastructure dependencies, including SAN storage (Dell/EMC), TCP/IP networking, DNS, LDAP, Active Directory integration, and firewalls.
+
+Working knowledge of enterprise backup and recovery technologies, including Dell PowerProtect Data Manager (PPDM).
+
+Experience provisioning, configuring, and supporting Linux virtual machines in VMware environments.
+
+Working knowledge of Linux authentication and identity integration with LDAP and Active Directory, as well as enterprise DNS services.
+
+Excellent verbal and written communication skills, including the ability to create clear technical documentation and communicate effectively with technical and non-technical stakeholders.
+
+Ability to participate in a 24x7 on-call rotation and perform planned maintenance or incident response during nights, weekends, and other off-hours as required.
+
+Demonstrated ability to work professionally and collaboratively with infrastructure, application, security, architecture, operations, and other enterprise technology teams.
+
+Qualifications Desired:
+
+Experience supporting enterprise Linux workloads across VMware virtualization and AWS cloud environments.
+
+Experience with VMware infrastructure concepts, including virtual networking, VLANs, compute, storage, and virtual machine lifecycle management.
+
+Demonstrated ability to analyze and resolve complex infrastructure and operating system issues using structured troubleshooting and root-cause analysis.
+
+Experience with AWS services and cloud-based Linux infrastructure is preferred.
+
+Experience with Linux automation and scripting, such as Bash, Python, Ansible, or comparable tools.
+
+Experience with enterprise monitoring, performance management, vulnerability management, configuration management, and security tooling.
+
+Physical Demands and Work Environment: The working environment is generally favorable. Lighting and temperature are adequate, and there are no hazardous or unpleasant conditions caused by noise, dust, etc. Work is generally performed within an office environment, with standard office equipment available. Travel may be required. Candidates will report to the office three days each week. Onsite work requirements may change at any time.
+
+About The Clearing House: The Clearing House Payments Company L.L.C. is a bank-owned industry utility that shapes the payments landscape and provides infrastructure for safe, reliable, and efficient payments. We see an economy where everyone is connected and a future where modern payments make life easier. The Clearing House operates four payment systems: a high-value wire-transfer system (the CHIPS® network), the country’s first and largest instant payments system (the RTP® network), an automated clearinghouse network (the EPN® network), and a check image exchange network (the Image Exchange Network). TCH also operates a bank account number tokenization service, runs a payments association known as the TCH Payments Authority, and maintains the rules for private-sector check image exchange through its ECCHO® business line.

@@ -1,0 +1,23 @@
+Topic: 
+                
+            
+            
+            Type: 
+                ACH
+            
+        
+                                
+             Member Fee: 
+                 $0
+            
+            
+            Non-Member Fee: 
+                $50
+            
+            
+            
+                
+            
+        
+        
+            Learn how the ACH payments network works and who the participants are in this payment rail. Other topics of consideration are the process flow (how money moves), Standard Entry Class (SEC) Codes, and returns.

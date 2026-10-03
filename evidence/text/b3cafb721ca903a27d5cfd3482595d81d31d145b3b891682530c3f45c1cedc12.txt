@@ -1,0 +1,15 @@
+FSSI has completed another zero-exception SSAE 16 Type 2 (SOC 1) compliance audit, confirming that, for the period covered, the print-mail outsourcer’s critical processes met or exceeded specific performance objectives for:
+- Physical and environmental security
+- Information security
+- Data communications
+- Print, mail and ePresentment operational controls
+- Access controls
+The most comprehensive audit to date
+In addition to a risk assessment review and familiar tests of network vulnerability and social media, auditors this year conducted an intensive penetration test designed to expose hidden risks and threats, confirm adherence to standards and best practices, and verify FSSI’s ability to respond to potentially catastrophic cybersecurity incidents. As it has for many years, the company passed with flying colors.
+“This year’s audit was our most comprehensive ever,” notes company president, Jennifer Dietz. “FSSI’s consistency in meeting increasingly rigorous testing reflects our commitment to helping clients in regulated industries safeguard data and meet critical business objectives. Because of our emphasis on security and process optimization, I’m confident that FSSI can satisfy any audit requirement a company may have.”
+About SSAE 16 and SOC report types
+SSAE 16 superseded SAS 70 on June 15, 2011 as the audit standard for service organization auditors. SSAE 16 was adopted by the American Institute of Certified Public Accountants (AICPA) in an effort to establish a more uniform reporting standard.
+“Service Organization Controls” (SOC) refer to three types of engagements or reports typically given to a company’s – a.k.a. “user entity’s” – internal auditors and/or regulators. The SOC 1 is a report on controls at a service organization relevant to user entities’ internal control over financial reporting; prepared in accordance the SSAE 16 Type 2 and is considered by many as the “Gold Standard” for its reporting depth and detail. Visit the SSAE 16 website or AICPA.org for more information about SSAE 16 standard and SOC report types.
+You may call 714-436-3300 to learn more or click here to read about FSSI’s security practices and certifications, production environment, or equipment and technology.
+    About FSSI
+FSSI is an employee owned, WBE-certified document outsourcing company that helps businesses maximize their impact and strategic value through highly customizable print-mail and digital communication solutions. Serving the financial, insurance, healthcare and other regulated industries, FSSI is well-versed in the security and data practices necessary to handle confidential customer information and remain compliant. Learn more about FSSI's capabilities by visiting fssi-ca.com. For business opportunities, please contact FSSI's Chief Revenue Officer, Dan Palmquist, at 714.436.3300 or .

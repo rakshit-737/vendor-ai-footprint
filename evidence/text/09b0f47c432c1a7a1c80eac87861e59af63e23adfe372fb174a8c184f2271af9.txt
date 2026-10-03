@@ -1,0 +1,116 @@
+Broadcom October 2025
+  
+  
+  
+    
+ 
+Automic Automation for Hybrid Cloud 
+Specific Program Documentation (“SPD”) 
+ 
+ 
+ 
+The Broadcom software program(s) (“Broadcom Software”) listed below is provided under the following terms and conditions 
+in addition to any terms and conditions referenced on the Broadcom quote, order form, statement of work, or other mutually 
+agreed ordering document (each a “Transaction Document”) under the applicable end user agreement or governing contract 
+(collectively, the “Agreement”) entered into by Customer and the Broadcom entity (“Broadcom”) through which Customer 
+obtained a license for the Broadcom Software. These terms shall be effective from the effective date of such Transaction 
+Document. Capitalized terms have the meanings ascribed to them herein, or, otherwise, in the Agreement. 
+Program Name : AUTOMIC AUTOMATION FOR HYBRID CLOUD 
+(AUTCLD990) 
+1. DEFINITIONS.   
+● “Job Execution” refers to all jobs with a terminal job state of 1900 ENDED_OK and 1904 ENDED_ROLLBACKED 
+● “Job” refers to a objects of type JOBF and JOBS   
+2. USE RIGHTS AND LIMITATIONS.   
+● Customer may use the Broadcom Software for the number of Job Executions set forth in the Transaction Document. 
+● The Broadcom Software includes: 
+o Automic Automation Engine (scheduling engine): Customer may use an unlimited number for production or 
+test provided that Customer has an active entitlement to at least one Job Execution license. 
+o Automic Automation Agents: Customer may use unlimited number for production or test provided that 
+Customer has an active entitlement to at least one Job Execution license. 
+o Automation Analytics & Intelligence (AAI) Engine: Customer may use an unlimited number for production 
+or test provided that Customer has an active entitlement to at least one Job Execution license, 
+o Automation Analytics & Intelligence (AAI) Integrations: Customer may use all integrations provided by AAI. 
+Processing of data for the Broadcom Software in AAI does not consume any additional license. Processing 
+of additional data (non-Automic) from other automation solutions in AAI will consume 1 Job Execution 
+license for every 10 AAI Job Executions. 
+● The Job Execution license is applicable to all environments including production and non-production. 
+● The Job Execution license count is based on the maximum number of successful job executions (status 1900 or 
+1904) per calendar month. 
+● Customer understands and agrees as a condition to the use rights granted herein that it shall configure the Broadcom 
+Software in Customer’s environment to enable the collection and transmission of product meta and usage data to 
+Broadcom.
+
+Broadcom 
+Automic Automation for Hybrid Cloud Specific Program Documentation 
+October 2025 
+ 
+  
+  
+  2 
+ 
+The following Agents are not included in Automic Automation for Hybrid Cloud Edition and are licensed 
+separately. 
+Agent Type Platform-specific Node Counting Metric 
+BS2000 Per Server 
+Avaloq Per Avaloq instance (as defined in the Avaloq 
+documentation) 
+Automic Omniview Per Concurrent User 
+Automic Automated System Copy for 
+SAP 
+Per 100 Copies per year 
+ 
+3. ADDITIONAL TERMS. 
+● Generative AI. The Broadcom Software may incorporate generative artificial intelligence (AI) technology to 
+implement certain features. Features that use generative AI are typically identified in the Broadcom Software 
+interface or Documentation. AI-generated output may contain errors and unexpected results. Customer must use 
+caution when relying upon responses and validate all output before use. 
+ 
+Customer must not: 
+o Include any confidential data or Personal Data in its prompts. 
+o Use generative AI in Broadcom Software to create content that is illegal, harmful, misleading, or violates 
+third-party rights or privacy. 
+o Use generative AI in Broadcom Software to make decisions that call for human judgment, including uses 
+that may have health or safety consequences. 
+ 
+Customer must use generative AI features in the Broadcom Software solely as integrated within the Broadcom 
+Software and only for purposes consistent with the intended functionality of the generative AI features. Broadcom 
+makes no representations and provides no warranties about the completeness, reliability, or accuracy of AI-
+generated output. 
+ 
+Certain generative AI features may require Customer to have: 1) its own AI model (Customer AI Model”); or 2) an 
+account with (and an agreement to share data with) a third-party generative AI service provider (“Customer AI 
+Service Provider”); and Customer’s use of such features is subject to the terms of Customer’s agreement with 
+Customer AI Service Provider or the terms of use for Customer AI Model. Broadcom bears no responsibility or 
+liability for Customer’s use of: 1) Customer AI Model or the Customer AI Service Provider; 2) and the use of shared 
+Customer data or Personal Data by Customer AI Model or Customer AI Service Provider. 
+ 
+The Broadcom Software may include specific generative AI features (“Specific AI Features”) that collect and 
+analyze certain Customer data with a generative AI model (the “Model”) of Broadcom or Broadcom’s generative AI 
+service provider. Customer data is not retained by the Model and is not used to train the Model. By using and/or 
+submitting data to these Specific AI Features, Customer agrees to the collection and analyzing of Customer data. 
+The types of Customer data used by the Specific AI Features are identified in the Documentation.
+
+Broadcom 
+Automic Automation for Hybrid Cloud Specific Program Documentation 
+October 2025 
+ 
+  
+  
+  3 
+Broadcom collects and analyzes user input to the AI-assisted help service and the generated output to improve the 
+performance, accuracy, and quality of the AI-assisted help service (the underlying AI model is not trained with user 
+input). 
+ 
+For more information on the use of generative AI, consult the product documentation or contact technical support. 
+ 
+ Automic Automation scripting language. The Automic Automation scripting language (the "Automic Language") is a 
+proprietary technology developed by and exclusively owned by Broadcom. It comprises a unique syntax, command 
+structure, and proprietary elements that are designed to function solely within the Automic Automation platform. 
+Customer may not use the Automic Language with systems or software other than Broadcom's officially supported 
+products and may not, nor assist any third party to, attempt to replicate, emulate, or process scripts written in the 
+Automic Language through third-party software or emulators. Such unauthorized use is strictly prohibited and may 
+subject the infringing party to legal action, including, but not limited to, injunctive relief and claims for damages. 
+ 
+4. THIRD PARTY INFORMATION AND TERMS.  
+Any required third-party software license terms are incorporated by this reference and are set forth in online 
+documentation at techdocs.broadcom.com or legaldocs.broadcom.com.

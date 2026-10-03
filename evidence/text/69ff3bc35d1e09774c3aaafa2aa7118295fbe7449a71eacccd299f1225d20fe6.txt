@@ -1,0 +1,45 @@
+Type: 
+            
+                Webinar
+            
+            
+            Duration: 
+            
+                60 Minutes
+            
+            
+            
+                Date & Time: 
+                
+                
+            
+            
+            
+            
+            
+        
+            
+            Member Fee: 
+            
+                $0
+            
+            
+            Non-Member Fee: 
+            
+                $349
+            
+            
+            
+            
+                
+            
+            
+            Audience: 
+            
+                AAP Candidates, AAPs, ACH Personnel, APRP Candidates, APRPs, Audit, Compliance, Senior Management
+            
+            
+        
+        
+            
+The writing and signature requirements contained in the Nacha Operating Rules can be satisfied by compliance with the Electronic Signatures and Global National Commerce Act (e-Sign Act). To satisfy the Nacha Rules (and Regulation E for preauthorized debits), electronic signatures must “similarly authenticate” the electronic records (i.e. agreements, authorizations and WSUDs). The authentication method chosen must evidence both the signer’s identity and his/her assent to the terms of the record. We’ll discuss sound business practices for satisfying the requirements of the related rules and regulations.

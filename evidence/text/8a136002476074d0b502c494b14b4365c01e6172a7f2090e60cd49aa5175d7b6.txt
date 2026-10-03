@@ -1,0 +1,113 @@
+Mainframe Systems Administrator
+
+Position Summary: The Clearing House is seeking a highly technical Mainframe Systems Engineer to support the performance, reliability, and continued evolution of its mission-critical Unisys ClearPath MCP mainframe environment. This role will focus on systems configuration, programming, infrastructure integration, automation, and troubleshooting across mainframe, Windows, Linux, network, and storage environments.
+
+The ideal candidate will bring strong hands-on experience with Unisys ClearPath Libra/MCP systems and the ability to collaborate effectively across Operations, Technology, and Systems Development teams. This is an excellent opportunity to play a key role in supporting and modernizing critical payment infrastructure at one of the nation’s leading payments organizations.
+
+Essential Functions and Responsibilities:
+
+Performing highly technical system configuration and programming.
+
+Installation and configuration of mainframe systems and related devices for network and storage system connectivity
+
+Work collaboratively with other Operations and Technology teams, users, and product stakeholders
+
+Serve as an internal consultant to systems development staff for information on components of the operating system including file management routines, system performance analysis and software enhancements
+
+Develop utility software to perform system or application related automation tasks
+
+Programs and supports mainframe related PC server and desktop scripting
+
+Supports PC server and desktop configuration of applications that interface with mainframes
+
+Qualifications Required:
+
+Bachelor’s degree in computer science, or a combination of equivalent education and experience in systems configuration, programming, and integration
+
+Knowledge of systems programming concepts such as table and bit manipulation, messaging, queuing, database organization and disk I/O
+
+Experience with Unisys ClearPath Libra mainframe hardware installation and configuration including:
+
+OPS console
+
+System Editor
+
+OC Manager
+
+Network connectivity
+
+Storage network connectivity
+
+Software Installation
+
+Experience with Unisys ClearPath Software Series VM based system installation and configuration
+
+General knowledge of Windows networking and iSCSI concepts
+
+Knowledge of the integration of the Microsoft Windows server, Linux server and Unisys mainframe environments
+
+Excellent written and verbal communication skills
+
+Qualifications Desired:
+
+Knowledge of Unisys MCP mainframe operating environment and utilities including:
+
+DMSII
+
+COMS
+
+CCF
+
+Security Center
+
+System Assistant
+
+NX/Services
+
+OLEDB
+
+Secure-Transport
+
+Simple Install
+
+Log Analyzer
+
+CANDE / WFL
+
+Programmer’s Work Bench
+
+MCP based disk mirroring
+
+Filing incidents with Unisys support and providing supporting files such as system and program dumps
+
+Ability to interpret program dumps
+
+Extensive knowledge of the use of LOGANALYZER and the various log entries found in the SUMLOG
+
+Knowledge of Unisys software compilation and patching process including:
+
+Obtaining and installing Interim Corrections for MCP
+
+Obtaining and installing Interim Corrections for system software
+
+Compiling system software with local patches
+
+Unisys networking concepts:
+
+TCP/IP routing and addressing
+
+Libra network host initialization files
+
+NX/NET as used in the Libra environment
+
+Win RPC
+
+Mainframe storage and SAN setup configuration skills (EMC storage arrays and Cisco MDS switching)
+
+Knowledge of cloud service providers (AWS & Microsoft Azure) and general cloud computing concepts.
+
+Physical demands and work environment: Work is generally sedentary in nature. The working environment is generally favorable. Lighting and temperature are adequate, and there are no hazardous or unpleasant conditions caused by noise, dust, etc. Work is generally performed within an office environment, with standard office equipment available.Employees in this position will report to the office 3 days per week. Occasional travel may be required. Onsite work requirements may change at any time.
+
+The anticipated annual salary range for NY-based candidates for this position is $120,000-$135,000. Base salary and position level will be determined by the role, experience, skill set and location. For eligible positions, discretionary incentive compensation may be awarded contingent on personal and company performance. Our benefits program includes medical, dental, vision, life insurance, 401k plan with company contribution and company match, tuition reimbursement and more.
+
+About The Clearing House: The Clearing House (TCH) is a banking association and payments company that is owned by the largest commercial banks in the United States. TCH owns and operates the core payments system infrastructure in the US and is currently working to modernize that infrastructure by launching a new, ubiquitous, real-time payment system. TCH is the only private-sector ACH and wire operator in the US, clearing and settling nearly $2 trillion in US dollar payments each day, representing half of all commercial ACH and wire volume. TCH has provided critical services to the banking industry since 1853, and today, our core products facilitate services including Direct Deposit of payroll, bill payments, and check image exchange.

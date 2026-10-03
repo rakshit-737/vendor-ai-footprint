@@ -1,0 +1,31 @@
+RTP® Network Surpasses 1-Million Payments on a Single Day
+New York – The RTP® network, the instant payments system operated by The Clearing House that is available to all insured depository financial institutions in the United States, surpassed the one million daily payment milestone on September 1 as more financial institutions and their customers realize the benefits of real-time payments, including immediate funds availability, confirmation of payment receipt, and payer control of when a payment is sent.
+The RTP network, which currently transacts more than 60 million transactions each quarter, is seeing increased volume as more financial institutions (FIs) use the network’s real-time payments capabilities in innovative ways to solve real-world challenges. Some common use cases on the RTP network include:
+- Earned Wage Access (EWA) & Gig Worker Payments: EWA and real-time payroll are the fastest growing use case on the network. Workers can receive their pay before their scheduled pay day or on the same day that they work, providing immediate liquidity to workers who need to pay bills, provide food for the family, or to pay an emergency expense;
+- Account to Account (A2A): Customers can use real-time payments over the RTP network so they can transfer money, for example, from a bank account to their investment account at another financial institution;
+- Digital Wallets: The most popular use case on the RTP network. With real-time payments, consumers can instantly move funds from a digital wallet to their bank account and are able to use the money immediately;
+- Merchant Funding: More businesses are opting to receive merchant payments from that day’s transactions through the RTP network, helping to solve cash-flow concerns;
+- Transportation/Tolls: When the account for an electronic tolling device needs additional funds, tolling providers are using real-time payments from the account holder to keep the account in good standing;
+- Auto Sales: Sending payment for a new or used auto sale is simplified with the RTP network, which is available on weekends when many auto purchases are completed; and
+- Title Insurance/Mortgage Closing: Agent commissions, inspections fees, last-minute payment adjustments and any payments related to the real-estate mortgage closing process can be made instantly via RTP.
+"As more banks and credit unions join the RTP network, their customers and members are experiencing the benefits of real-time payments," says Rusiru Gunasena, Senior Vice President of RTP Product Management at The Clearing House. "Surpassing one million RTP payments on a single day signifies the accelerating growth and demand for real-time payments on the RTP network in the United States."
+The increasing volume on the RTP network can be attributed to the number of use cases as well as other areas of growth, including:
+- National Technical Access: Insured depository institutions in the U.S. have technical access to the network through more than 20 technology solutions providers, including Jack Henry & Associates, FIS, Fiserv, COCC, Finastra, Shazam, Finzly, and others;
+- Business Users: 150,000 businesses are sending payments over the RTP network, a 50% increase since December 2022;
+- Consumers: 3+ million consumers each month are sending A2A payments and Zelle® payments that clear and settle over the RTP network;
+- Demand Deposit Account (DDA) Reach: the RTP network currently reaches 65% of US DDAs;
+- 370+ Banks and Credit Unions: More FIs join the RTP network each week, and currently there are over 370 banks and credit unions providing the benefits of real-time payments to customers and members; and
+- FIs of All Sizes: 90%+ of the FIs on the RTP network are community banks and credit unions (less than $10 billion in assets).
+As the RTP network matures, TCH continues to roll out new functionality to increase the capabilities for financial institutions and their customers. Recent expansion of capabilities on the RTP network include:
+- Request for Payment (RfP): RfP allows financial institution customers to request a payment from another account holder;
+- Document Exchange: Document exchange enhances the RTP network’s capabilities by providing easy access to documents in the same transaction flow with the payment or RfP;
+- Enhanced Account Number Security: The RTP network supports tokenization of account numbers used to request or make payments; and
+- Higher Transaction Limit: The value limit for payments in the RTP network is $1 million, which allows for higher value payments.
+###
+About The Clearing House  
+The Clearing House operates U.S-based payments networks that clear and settle more than $2 trillion each day through wire, ACH, check image, and real-time payments. It is the nation’s most experienced payments company, with a long track record of providing secure and reliable systems, payments innovation, and strategic thought leadership to financial institutions. In 2017, The Clearing House revolutionized U.S. payments by introducing the RTP® network, which supports the immediate clearing and settlement of payments, along with the ability to exchange related payment information across the same secure channel. These RTP capabilities enable all financial institutions to offer safer, faster, and smarter digital transaction services for their corporate and retail customers. Learn more at www.theclearinghouse.org.
+Media Contact:
+Greg MacSweeney
+The Clearing House 
+212-612-9282
+Gregory.MacSweeney@theclearinghouse.org

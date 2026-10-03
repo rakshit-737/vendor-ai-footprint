@@ -1,0 +1,120 @@
+{
+  "count": 1,
+  "hasMore": false,
+  "items": [
+    {
+      "ApplyWhenNotPostedFlag": true,
+      "BeFirstToApplyFlag": false,
+      "BusinessUnit": null,
+      "BusinessUnitId": 300000094081469,
+      "Category": "Model Risk Management",
+      "ContentLocale": "en",
+      "ContractType": null,
+      "CorporateDescriptionStr": "<p>At BNY, our culture allows us to run our company better and enables employees’ growth and success. As a leading global financial services company at the heart of the global financial system, we influence nearly 20% of the world’s investible assets. Every day, our teams harness cutting-edge AI and breakthrough technologies to collaborate with clients, driving transformative solutions that redefine industries and uplift communities worldwide.</p>Recognized as a top destination for innovators, BNY is where bold ideas meet advanced technology and exceptional talent. Together, we power the future of finance – and this is what #LifeAtBNY is all about. Join us and be part of something extraordinary.",
+      "Department": null,
+      "DomesticTravelRequired": null,
+      "ExternalContactEmail": null,
+      "ExternalContactName": null,
+      "ExternalDescriptionStr": "<p>We’re seeking a future team member for the role of&nbsp;SVP - Model Risk Management AI, Wealth and Investment to join our&nbsp;Model Risk team. This role is located in&nbsp;New York City, New York.&nbsp;</p><p>In this role, you’ll make an impact in the following ways:</p><ul style=\"list-style-type: disc;\"><li>Lead the Model Risk Management framework for a defined portfolio of models (e.g., pricing, risk, capital, stress testing, AI/ML, and valuation models) by setting clear standards for model risk identification, assessment, validation and governance, and by ensuring consistent application across businesses and legal entities.</li><li>Oversee and review independent model validations and ongoing performance monitoring by demonstrating deep quantitative expertise, providing effective challenge to model design, data, assumptions and implementation, and ensuring that model risk is appropriately quantified, documented and mitigated.</li><li>Establish and chair or actively contribute to model risk governance forums by defining decision‑making processes, setting model approval thresholds and ensuring that model risk topics are escalated, debated and resolved in line with internal policies and regulatory expectations.</li><li>Advise senior business, risk and Engineering stakeholders on model risk issues and emerging quantitative methodologies by translating complex analytical concepts into clear risk insights and recommendations that support sound business decisions and responsible innovation.</li><li>Drive continuous enhancement of the firm’s model risk policies, standards, tools and methodologies by monitoring external regulatory developments, industry good practice and advances in quantitative methods, and by embedding these into practical, risk‑sensitive processes.</li><li>Manage, develop and coach a team of model risk professionals by setting clear objectives, providing technical and behavioral guidance, promoting a culture of rigorous challenge and collaboration, and ensuring appropriate capacity and capabilities to meet current and emerging model risk demands.</li><li>This role will be focused on GenAI and Wealth Models.&nbsp;</li></ul><p><br>To be successful in this role, we’re seeking the following:&nbsp;&nbsp;</p><ul style=\"list-style-type: disc;\"><li>Advanced degree (Master’s or PhD preferred) in a quantitative field such as mathematics, statistics, econometrics, physics, engineering, quantitative finance or computer science, or equivalent experience.</li><li>Professional certifications in risk, quantitative finance or related areas (e.g., FRM, PRM, CQF) are advantageous.</li><li>Strong knowledge of financial markets, products and risk management practices, including experience with complex mathematical/statistical modeling techniques.</li><li>Typically, 8-12 years of experience</li><li>Advanced quantitative and analytical skills, including deep knowledge of model development, validation and performance measurement techniques, and the ability to provide credible effective challenge.</li><li>Strong leadership, communication and stakeholder management skills, with the ability to influence senior leaders, shape governance decisions and translate complex quantitative issues into clear risk insights.</li><li>Proven people management capabilities, including building and leading high‑performing quantitative teams, coaching technical staff and fostering a culture of integrity, accountability and continuous improvement in risk management.</li></ul>",
+      "ExternalPostedEndDate": null,
+      "ExternalPostedStartDate": "2026-07-28T15:55:30+00:00",
+      "ExternalQualificationsStr": "",
+      "ExternalResponsibilitiesStr": "",
+      "GeographyId": 300000090214594,
+      "GeographyNodeId": 100010357091606,
+      "HiringManager": null,
+      "HotJobFlag": false,
+      "Id": "80069",
+      "InternalQualificationsStr": "",
+      "InternalResponsibilitiesStr": "",
+      "InternationalTravelRequired": null,
+      "JobFamilyId": 300000094776199,
+      "JobFunction": "Risk & Regulatory Compliance",
+      "JobFunctionCode": "RRC",
+      "JobGrade": null,
+      "JobLevel": null,
+      "JobSchedule": "Full time",
+      "JobShift": "Day",
+      "JobType": null,
+      "LegalEmployer": null,
+      "LegalEmployerId": 300000003582023,
+      "NumberOfOpenings": null,
+      "ObjectVerNumberProfile": null,
+      "Organization": null,
+      "OrganizationDescriptionStr": "<p>At BNY, our culture speaks for itself, check out the latest BNY news at&nbsp;<a href=\"https://www.bny.com/corporate/global/en/about-us/newsroom.html\" target=\"_blank\" rel=\"nofollow\">BNY Newsroom</a>&nbsp;&amp;&nbsp;<a href=\"https://www.linkedin.com/company/bnyglobal/posts/?feedView=all\" target=\"_blank\" rel=\"nofollow\">BNY LinkedIn</a></p>\n<p style=\"margin-bottom:0in\">&nbsp;Here’s a few of our recent awards:</p>\n<ul style=\"margin-top:0in\">\n <li style=\"margin-bottom:0in\">America’s Most Innovative Companies, Fortune, 2025</li>\n <li style=\"margin-bottom:0in\">World’s Most Admired Companies, Fortune 2025</li>\n <li style=\"margin-bottom:0in\">“Most Just Companies”, Just Capital and CNBC, 2025</li>\n</ul>\n<ul></ul>\n<p>Our Benefits and Rewards:</p>\n<p>BNY offers highly competitive compensation, benefits, and wellbeing programs rooted in a strong culture of excellence and our pay-for-performance philosophy. We provide access to flexible global resources and tools for your life’s journey. Focus on your health, foster your personal resilience, and reach your financial goals as a valued member of our team, along with generous paid leaves, including paid volunteer time, that can support you and your family through moments that matter.</p>\n<p>BNY is an Equal Employment Opportunity/Affirmative Action Employer - Underrepresented racial and ethnic groups/Females/Individuals with Disabilities/Protected Veterans.</p>\n<p>BNY assesses market data to ensure a competitive compensation package for our employees. The expected base salary for this position when employment commences can be found in the Job Info section at the bottom of the posting.&nbsp;</p>\n<p>Base salary offered may vary depending on multiple individualized factors, including market location, job-related knowledge, skills, and experience. Base salary is only part of the total rewards package, which may include eligibility for an annual discretionary incentive award. Subject to the terms and conditions of the applicable plans then in effect, eligible employees may enroll in a 401(k) plan as well as participate in Company-sponsored medical, dental, vision, and basic life insurance plans for the employee and the employee’s eligible dependents. Eligible employees also may receive other benefits (including various paid time off benefits, such as vacation and sick time), dependent on the position offered. Details of participation in these benefit plans will be provided if an employee receives an offer of employment.</p>\n<p>If hired, the employee will be in an “at will” position and the Company reserves the right to modify base salary (as well as any other discretionary payments or compensation programs) at any time, including for reasons related to individual performance, Company or individual department/team performance, and market factors.</p>",
+      "OrganizationId": 300000094789127,
+      "OtherRequisitionTitle": null,
+      "PrimaryLocation": "New York, NY, United States",
+      "PrimaryLocationCountry": "US",
+      "RequisitionId": 300010495748901,
+      "RequisitionType": "Experienced",
+      "ShortDescriptionStr": "",
+      "StudyLevel": null,
+      "Title": "SVP - Model Risk Management AI, Wealth and Investments",
+      "TrendingFlag": true,
+      "WorkDays": null,
+      "WorkHours": null,
+      "WorkMonths": null,
+      "WorkYears": null,
+      "WorkerType": null,
+      "WorkplaceType": "",
+      "WorkplaceTypeCode": null,
+      "media": [],
+      "otherWorkLocations": [],
+      "primaryLocationCoordinates": [
+        {
+          "CountryCode": "US",
+          "GeographyId": 300000090214594,
+          "GeographyNodeId": 100010357091606,
+          "Latitude": "40.58055",
+          "Longitude": "-74.00391"
+        }
+      ],
+      "requisitionFlexFields": [
+        {
+          "ControlType": "TextArea",
+          "Prompt": "Base Salary Min",
+          "SequenceNumber": 12,
+          "Value": "104000"
+        },
+        {
+          "ControlType": "TextArea",
+          "Prompt": "Base Salary Max",
+          "SequenceNumber": 21,
+          "Value": "200000"
+        }
+      ],
+      "secondaryLocations": [],
+      "skills": [],
+      "workLocation": [
+        {
+          "AddressLine1": "240 Greenwich Street",
+          "AddressLine2": null,
+          "AddressLine3": null,
+          "AddressLine4": null,
+          "Building": null,
+          "Country": "US",
+          "Latitude": "40.71455001",
+          "LocationId": 300000129875278,
+          "LocationName": "240 Greenwich Street,New York,NY",
+          "Longitude": "-74.00714004",
+          "PostalCode": "10286",
+          "Region1": "New York",
+          "Region2": "NY",
+          "Region3": null,
+          "TownOrCity": "New York"
+        }
+      ]
+    }
+  ],
+  "limit": 499,
+  "links": [
+    {
+      "href": "https://eofe.fa.us2.oraclecloud.com:443/hcmRestApi/resources/11.13.18.05/recruitingCEJobRequisitionDetails",
+      "kind": "collection",
+      "name": "recruitingCEJobRequisitionDetails",
+      "rel": "self"
+    }
+  ],
+  "offset": 0
+}

@@ -1,0 +1,139 @@
+{
+  "count": 1,
+  "hasMore": false,
+  "items": [
+    {
+      "ApplyWhenNotPostedFlag": true,
+      "BeFirstToApplyFlag": false,
+      "BusinessUnit": null,
+      "BusinessUnitId": 300000094081469,
+      "Category": "Full-Stack Development",
+      "ContentLocale": "en",
+      "ContractType": null,
+      "CorporateDescriptionStr": "<p>At BNY, our culture allows us to run our company better and enables employees’ growth and success. As a leading global financial services company at the heart of the global financial system, we influence nearly 20% of the world’s investible assets. Every day, our teams harness cutting-edge AI and breakthrough technologies to collaborate with clients, driving transformative solutions that redefine industries and uplift communities worldwide.</p>Recognized as a top destination for innovators, BNY is where bold ideas meet advanced technology and exceptional talent. Together, we power the future of finance – and this is what #LifeAtBNY is all about. Join us and be part of something extraordinary.",
+      "Department": null,
+      "DomesticTravelRequired": null,
+      "ExternalContactEmail": null,
+      "ExternalContactName": null,
+      "ExternalDescriptionStr": "<p>At BNY, our culture allows us to run our company better and enables employees’ growth and success. As a leading global financial services company at the heart of the global financial system, we influence nearly 20% of the world’s investible assets. Every day, our teams harness cutting-edge AI and breakthrough technologies to collaborate with clients, driving transformative solutions that redefine industries and uplift communities worldwide.</p>\n<p>Recognized as a top destination for innovators, BNY is where bold ideas meet advanced technology and exceptional talent. Together, we power the future of finance – and this is what #LifeAtBNY is all about. Join us and be part of something extraordinary.</p>\n<p>BNY | Wealth Services Platform, a business unit within BNY, is a leading provider of financial business solutions for Wealth Managers / RIAs.<span>&nbsp; </span>We offer industry-leading custody, advisory, portfolio management, trading and banking services as a white labeled software platform for our clients to serve their clients. Our commitment to excellence and innovation drives our mission to empower our clients with cutting-edge technology and services.</p>\n<p>We are looking to hire multiple Full-Stack Engineers. These roles are location is New York City, Pittsburgh, PA and Lake Mary, FL.&nbsp;</p>\n<p><span>Key Responsibilities</span></p>\n<ul style=\"list-style-type: disc;  padding-left: 48px\">\n <li><span><span>Serve as a hands-on full stack developer, directly designing, building, testing, and deploying applications aligned with business needs.</span></span></li>\n <li><span><span>Write high-quality, maintainable code across the front end and back end, actively contributing to core project deliverables.</span></span></li>\n <li><span><span>Collaborate with cross-functional teams including product, operations, and security to deliver practical, scalable solutions.</span></span></li>\n <li><span><span>Lead by example through technical execution, driving best practices in coding, testing, debugging, and deployment to ensure high-quality software delivery.</span></span></li>\n <li><span><span>Explore and implement opportunities to streamline the software development lifecycle through automation, modern engineering practices, and intelligent tooling.</span></span></li>\n <li><span><span>Participate actively in code reviews, troubleshooting, and debugging efforts, helping resolve complex technical issues quickly and effectively.</span></span></li>\n <li><span><span>Contribute to architectural decisions and technology strategy with a pragmatic, builder-focused mindset grounded in hands-on development experience.</span></span></li>\n <li><span><span>Mentor and guide junior developers through day-to-day technical leadership, pairing, code review, and knowledge sharing.</span></span></li>\n <li><span><span>Ensure applications meet security, compliance, performance, and reliability standards.</span></span></li>\n <li><span><span>Help manage project timelines and deliverables in partnership with stakeholders, while remaining deeply involved in execution.</span></span></li>\n <li><span><span>Balance leadership responsibilities with direct technical contribution, operating as a doer who helps move work forward.</span></span></li>\n</ul>\n<p><span>Qualifications</span></p>\n<ul style=\"list-style-type: disc;  padding-left: 48px\">\n <li><span><span>Bachelor’s degree in computer science, Engineering, or related field</span></span></li>\n <li><span><span>7+ years of experience in full stack software development required.</span></span></li>\n <li>Finance domain experience is preferred</li>\n <li><span><span>Extensive hands-on experience in full stack development, with strong proficiency in modern front-end frameworks (e.g., Angular, React, Flutter, Dart) and back-end technologies (e.g., Java, Spring Framework, Oracle, MongoDB, SQL).</span></span></li>\n <li><span><span>Strong understanding of REST APIs, cloud platforms, DevOps practices, and modern software development lifecycle processes.</span></span></li>\n <li>AI Agentic process engineering &amp; skills</li>\n <li><span><span>Demonstrated ability to contribute directly in code, troubleshoot issues, and deliver production-ready software in a fast-paced environment.</span></span></li>\n <li><span><span>Experience with or strong interest in leveraging AI-assisted development tools, automation, and engineering productivity practices to improve SDLC efficiency and delivery outcomes.</span></span></li>\n <li><span><span>Excellent problem-solving, communication, and collaboration skills.</span></span></li>\n <li><span><span>Ability to work effectively in a fast-paced, agile environment with a strong sense of ownership and execution.</span></span></li>\n</ul><span>About BNY&nbsp;</span>\n<p>BNY is a global investments company dedicated to helping its clients manage and service their financial assets throughout the investment lifecycle. Whether providing financial services for institutions, corporations, or individual investors, BNY delivers informed investment and wealth management and investment services in 35 countries. As part of our team, you will be encouraged to innovate and collaborate to drive new ideas and opportunities for our business and clients.</p>\n<p>BNY is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or veteran status.</p>\n<p>BNY assesses market data to ensure a competitive compensation package for our employees. The base salary for this position is expected to be between $136,500 and&nbsp;$220,000&nbsp;per&nbsp;year&nbsp;at the commencement of employment. However, base salary if hired will be determined on an individualized basis, including as to experience and market location, and is only part of the BNY total compensation package, which, depending on the position, may also include commission earnings, discretionary bonuses, short and long-term incentive packages, and company- sponsored benefit programs.</p>\n<p>This position is at-will and the Company reserves the right to modify base (as well as any other discretionary payment or compensation) at any time, including for reasons related to individual performance, change in geographic location, Company or individual department/team performance and market factors.</p>",
+      "ExternalPostedEndDate": null,
+      "ExternalPostedStartDate": "2026-10-01T19:29:27+00:00",
+      "ExternalQualificationsStr": "<p><span style=\"font-size: 14pt;\">Qualifications</span></p><ul style=\"list-style-type: disc; padding-left: 48px;\"><li><span style=\"color: windowtext; font-family: Aptos, sans-serif;\"><span style=\"font-size: 12pt;\">Bachelor’s degree in Computer Science, Engineering, or related field</span></span></li><li><span style=\"color: windowtext; font-family: Aptos, sans-serif;\"><span style=\"font-size: 12pt;\">7+ years of experience in full stack software development required.</span></span></li><li>Finance domain experience is preferred</li><li><span style=\"color: windowtext; font-family: Aptos, sans-serif;\"><span style=\"font-size: 12pt;\">Extensive hands-on experience in full stack development, with strong proficiency in modern front-end frameworks (e.g., Angular, React, Flutter, Dart) and back-end technologies (e.g., Java, Spring Framework, Oracle, MongoDB, SQL).</span></span></li><li><span style=\"color: windowtext; font-family: Aptos, sans-serif;\"><span style=\"font-size: 12pt;\">Strong understanding of REST APIs, cloud platforms, DevOps practices, and modern software development lifecycle processes.</span></span></li><li>AI Agentic process engineering &amp; skills</li><li><span style=\"color: windowtext; font-family: Aptos, sans-serif;\"><span style=\"font-size: 12pt;\">Demonstrated ability to contribute directly in code, troubleshoot issues, and deliver production-ready software in a fast-paced environment.</span></span></li><li><span style=\"color: windowtext; font-family: Aptos, sans-serif;\"><span style=\"font-size: 12pt;\">Experience with or strong interest in leveraging AI-assisted development tools, automation, and engineering productivity practices to improve SDLC efficiency and delivery outcomes.</span></span></li><li><span style=\"color: windowtext; font-family: Aptos, sans-serif;\"><span style=\"font-size: 12pt;\">Excellent problem-solving, communication, and collaboration skills.</span></span></li><li><span style=\"color: windowtext; font-family: Aptos, sans-serif;\"><span style=\"font-size: 12pt;\">Ability to work effectively in a fast-paced, agile environment with a strong sense of ownership and execution.</span></span></li></ul>",
+      "ExternalResponsibilitiesStr": "<p><span style=\"font-size: 14pt;\">Key Responsibilities</span></p><ul style=\"list-style-type: disc; padding-left: 48px;\"><li><span style=\"color: windowtext; font-family: Aptos, sans-serif;\"><span style=\"font-size: 12pt;\">Serve as a hands-on full stack developer, directly designing, building, testing, and deploying applications aligned with business needs.</span></span></li><li><span style=\"color: windowtext; font-family: Aptos, sans-serif;\"><span style=\"font-size: 12pt;\">Write high-quality, maintainable code across the front end and back end, actively contributing to core project deliverables.</span></span></li><li><span style=\"color: windowtext; font-family: Aptos, sans-serif;\"><span style=\"font-size: 12pt;\">Collaborate with cross-functional teams including product, operations, and security to deliver practical, scalable solutions.</span></span></li><li><span style=\"color: windowtext; font-family: Aptos, sans-serif;\"><span style=\"font-size: 12pt;\">Lead by example through technical execution, driving best practices in coding, testing, debugging, and deployment to ensure high-quality software delivery.</span></span></li><li><span style=\"color: windowtext; font-family: Aptos, sans-serif;\"><span style=\"font-size: 12pt;\">Explore and implement opportunities to streamline the software development lifecycle through automation, modern engineering practices, and intelligent tooling.</span></span></li><li><span style=\"color: windowtext; font-family: Aptos, sans-serif;\"><span style=\"font-size: 12pt;\">Participate actively in code reviews, troubleshooting, and debugging efforts, helping resolve complex technical issues quickly and effectively.</span></span></li><li><span style=\"color: windowtext; font-family: Aptos, sans-serif;\"><span style=\"font-size: 12pt;\">Contribute to architectural decisions and technology strategy with a pragmatic, builder-focused mindset grounded in hands-on development experience.</span></span></li><li><span style=\"color: windowtext; font-family: Aptos, sans-serif;\"><span style=\"font-size: 12pt;\">Mentor and guide junior developers through day-to-day technical leadership, pairing, code review, and knowledge sharing.</span></span></li><li><span style=\"color: windowtext; font-family: Aptos, sans-serif;\"><span style=\"font-size: 12pt;\">Ensure applications meet security, compliance, performance, and reliability standards.</span></span></li><li><span style=\"color: windowtext; font-family: Aptos, sans-serif;\"><span style=\"font-size: 12pt;\">Help manage project timelines and deliverables in partnership with stakeholders, while remaining deeply involved in execution.</span></span></li><li><span style=\"color: windowtext; font-family: Aptos, sans-serif;\"><span style=\"font-size: 12pt;\">Balance leadership responsibilities with direct technical contribution, operating as a doer who helps move work forward.</span></span></li></ul>",
+      "GeographyId": 300000090214594,
+      "GeographyNodeId": 100010357091606,
+      "HiringManager": null,
+      "HotJobFlag": false,
+      "Id": "79568",
+      "InternalQualificationsStr": "<p><span style=\"font-size: 14pt;\">Qualifications</span></p><ul style=\"list-style-type: disc; padding-left: 48px;\"><li><span style=\"color: windowtext; font-family: Aptos, sans-serif;\"><span style=\"font-size: 12pt;\">Bachelor’s degree in Computer Science, Engineering, or related field</span></span></li><li><span style=\"color: windowtext; font-family: Aptos, sans-serif;\"><span style=\"font-size: 12pt;\">7+ years of experience in full stack software development required.</span></span></li><li>Finance domain experience is preferred</li><li><span style=\"color: windowtext; font-family: Aptos, sans-serif;\"><span style=\"font-size: 12pt;\">Extensive hands-on experience in full stack development, with strong proficiency in modern front-end frameworks (e.g., Angular, React, Flutter, Dart) and back-end technologies (e.g., Java, Spring Framework, Oracle, MongoDB, SQL).</span></span></li><li><span style=\"color: windowtext; font-family: Aptos, sans-serif;\"><span style=\"font-size: 12pt;\">Strong understanding of REST APIs, cloud platforms, DevOps practices, and modern software development lifecycle processes.</span></span></li><li>AI Agentic process engineering &amp; skills</li><li><span style=\"color: windowtext; font-family: Aptos, sans-serif;\"><span style=\"font-size: 12pt;\">Demonstrated ability to contribute directly in code, troubleshoot issues, and deliver production-ready software in a fast-paced environment.</span></span></li><li><span style=\"color: windowtext; font-family: Aptos, sans-serif;\"><span style=\"font-size: 12pt;\">Experience with or strong interest in leveraging AI-assisted development tools, automation, and engineering productivity practices to improve SDLC efficiency and delivery outcomes.</span></span></li><li><span style=\"color: windowtext; font-family: Aptos, sans-serif;\"><span style=\"font-size: 12pt;\">Excellent problem-solving, communication, and collaboration skills.</span></span></li><li><span style=\"color: windowtext; font-family: Aptos, sans-serif;\"><span style=\"font-size: 12pt;\">Ability to work effectively in a fast-paced, agile environment with a strong sense of ownership and execution.</span></span></li></ul>",
+      "InternalResponsibilitiesStr": "<p><span style=\"font-size: 14pt;\">Key Responsibilities</span></p><ul style=\"list-style-type: disc; padding-left: 48px;\"><li><span style=\"color: windowtext; font-family: Aptos, sans-serif;\"><span style=\"font-size: 12pt;\">Serve as a hands-on full stack developer, directly designing, building, testing, and deploying applications aligned with business needs.</span></span></li><li><span style=\"color: windowtext; font-family: Aptos, sans-serif;\"><span style=\"font-size: 12pt;\">Write high-quality, maintainable code across the front end and back end, actively contributing to core project deliverables.</span></span></li><li><span style=\"color: windowtext; font-family: Aptos, sans-serif;\"><span style=\"font-size: 12pt;\">Collaborate with cross-functional teams including product, operations, and security to deliver practical, scalable solutions.</span></span></li><li><span style=\"color: windowtext; font-family: Aptos, sans-serif;\"><span style=\"font-size: 12pt;\">Lead by example through technical execution, driving best practices in coding, testing, debugging, and deployment to ensure high-quality software delivery.</span></span></li><li><span style=\"color: windowtext; font-family: Aptos, sans-serif;\"><span style=\"font-size: 12pt;\">Explore and implement opportunities to streamline the software development lifecycle through automation, modern engineering practices, and intelligent tooling.</span></span></li><li><span style=\"color: windowtext; font-family: Aptos, sans-serif;\"><span style=\"font-size: 12pt;\">Participate actively in code reviews, troubleshooting, and debugging efforts, helping resolve complex technical issues quickly and effectively.</span></span></li><li><span style=\"color: windowtext; font-family: Aptos, sans-serif;\"><span style=\"font-size: 12pt;\">Contribute to architectural decisions and technology strategy with a pragmatic, builder-focused mindset grounded in hands-on development experience.</span></span></li><li><span style=\"color: windowtext; font-family: Aptos, sans-serif;\"><span style=\"font-size: 12pt;\">Mentor and guide junior developers through day-to-day technical leadership, pairing, code review, and knowledge sharing.</span></span></li><li><span style=\"color: windowtext; font-family: Aptos, sans-serif;\"><span style=\"font-size: 12pt;\">Ensure applications meet security, compliance, performance, and reliability standards.</span></span></li><li><span style=\"color: windowtext; font-family: Aptos, sans-serif;\"><span style=\"font-size: 12pt;\">Help manage project timelines and deliverables in partnership with stakeholders, while remaining deeply involved in execution.</span></span></li><li><span style=\"color: windowtext; font-family: Aptos, sans-serif;\"><span style=\"font-size: 12pt;\">Balance leadership responsibilities with direct technical contribution, operating as a doer who helps move work forward.</span></span></li></ul>",
+      "InternationalTravelRequired": null,
+      "JobFamilyId": 300000094771332,
+      "JobFunction": "Software Engineering",
+      "JobFunctionCode": "SOENG",
+      "JobGrade": null,
+      "JobLevel": null,
+      "JobSchedule": "Full time",
+      "JobShift": "Day",
+      "JobType": null,
+      "LegalEmployer": null,
+      "LegalEmployerId": 300000003582023,
+      "NumberOfOpenings": null,
+      "ObjectVerNumberProfile": null,
+      "Organization": null,
+      "OrganizationDescriptionStr": "<p>At BNY, our culture speaks for itself, check out the latest BNY news at&nbsp;<a href=\"https://www.bny.com/corporate/global/en/about-us/newsroom.html\" target=\"_blank\" rel=\"nofollow\">BNY Newsroom</a>&nbsp;&amp;&nbsp;<a href=\"https://www.linkedin.com/company/bnyglobal/posts/?feedView=all\" target=\"_blank\" rel=\"nofollow\">BNY LinkedIn</a></p>\n<p style=\"margin-bottom:0in\">&nbsp;Here’s a few of our recent awards:</p>\n<ul style=\"margin-top:0in\">\n <li style=\"margin-bottom:0in\">America’s Most Innovative Companies, Fortune, 2025</li>\n <li style=\"margin-bottom:0in\">World’s Most Admired Companies, Fortune 2025</li>\n <li style=\"margin-bottom:0in\">“Most Just Companies”, Just Capital and CNBC, 2025</li>\n</ul>\n<ul></ul>\n<p>Our Benefits and Rewards:</p>\n<p>BNY offers highly competitive compensation, benefits, and wellbeing programs rooted in a strong culture of excellence and our pay-for-performance philosophy. We provide access to flexible global resources and tools for your life’s journey. Focus on your health, foster your personal resilience, and reach your financial goals as a valued member of our team, along with generous paid leaves, including paid volunteer time, that can support you and your family through moments that matter.</p>\n<p>BNY is an Equal Employment Opportunity/Affirmative Action Employer - Underrepresented racial and ethnic groups/Females/Individuals with Disabilities/Protected Veterans.</p>\n<p>BNY assesses market data to ensure a competitive compensation package for our employees. The expected base salary for this position when employment commences can be found in the Job Info section at the bottom of the posting.&nbsp;</p>\n<p>Base salary offered may vary depending on multiple individualized factors, including market location, job-related knowledge, skills, and experience. Base salary is only part of the total rewards package, which may include eligibility for an annual discretionary incentive award. Subject to the terms and conditions of the applicable plans then in effect, eligible employees may enroll in a 401(k) plan as well as participate in Company-sponsored medical, dental, vision, and basic life insurance plans for the employee and the employee’s eligible dependents. Eligible employees also may receive other benefits (including various paid time off benefits, such as vacation and sick time), dependent on the position offered. Details of participation in these benefit plans will be provided if an employee receives an offer of employment.</p>\n<p>If hired, the employee will be in an “at will” position and the Company reserves the right to modify base salary (as well as any other discretionary payments or compensation programs) at any time, including for reasons related to individual performance, Company or individual department/team performance, and market factors.</p>",
+      "OrganizationId": 300006852653037,
+      "OtherRequisitionTitle": null,
+      "PrimaryLocation": "New York, NY, United States",
+      "PrimaryLocationCountry": "US",
+      "RequisitionId": 300010351716329,
+      "RequisitionType": "Experienced",
+      "ShortDescriptionStr": "",
+      "StudyLevel": null,
+      "Title": "Full-Stack Engineer",
+      "TrendingFlag": true,
+      "WorkDays": null,
+      "WorkHours": null,
+      "WorkMonths": null,
+      "WorkYears": null,
+      "WorkerType": null,
+      "WorkplaceType": "",
+      "WorkplaceTypeCode": null,
+      "media": [],
+      "otherWorkLocations": [],
+      "primaryLocationCoordinates": [
+        {
+          "CountryCode": "US",
+          "GeographyId": 300000090214594,
+          "GeographyNodeId": 100010357091606,
+          "Latitude": "40.58055",
+          "Longitude": "-74.00391"
+        }
+      ],
+      "requisitionFlexFields": [
+        {
+          "ControlType": "TextArea",
+          "Prompt": "Base Salary Min",
+          "SequenceNumber": 12,
+          "Value": "120000"
+        },
+        {
+          "ControlType": "TextArea",
+          "Prompt": "Base Salary Max",
+          "SequenceNumber": 21,
+          "Value": "210000"
+        }
+      ],
+      "secondaryLocations": [
+        {
+          "CountryCode": "US",
+          "GeographyId": 300000090220393,
+          "GeographyNodeId": 100010357090073,
+          "Latitude": "40.43851",
+          "Longitude": "-79.99734",
+          "Name": "Pittsburgh, PA, United States",
+          "RequisitionLocationId": 300010351716335
+        },
+        {
+          "CountryCode": "US",
+          "GeographyId": 300000090199637,
+          "GeographyNodeId": 100010357090123,
+          "Latitude": "28.75641",
+          "Longitude": "-81.32345",
+          "Name": "Lake Mary, FL, United States",
+          "RequisitionLocationId": 300010351716336
+        }
+      ],
+      "skills": [],
+      "workLocation": [
+        {
+          "AddressLine1": "240 Greenwich Street",
+          "AddressLine2": null,
+          "AddressLine3": null,
+          "AddressLine4": null,
+          "Building": null,
+          "Country": "US",
+          "Latitude": "40.71455001",
+          "LocationId": 300000129875278,
+          "LocationName": "240 Greenwich Street,New York,NY",
+          "Longitude": "-74.00714004",
+          "PostalCode": "10286",
+          "Region1": "New York",
+          "Region2": "NY",
+          "Region3": null,
+          "TownOrCity": "New York"
+        }
+      ]
+    }
+  ],
+  "limit": 499,
+  "links": [
+    {
+      "href": "https://eofe.fa.us2.oraclecloud.com:443/hcmRestApi/resources/11.13.18.05/recruitingCEJobRequisitionDetails",
+      "kind": "collection",
+      "name": "recruitingCEJobRequisitionDetails",
+      "rel": "self"
+    }
+  ],
+  "offset": 0
+}

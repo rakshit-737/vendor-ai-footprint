@@ -1,0 +1,23 @@
+Topic: 
+                
+            
+            
+            Type: 
+                ACH, Corporate
+            
+        
+                                
+             Member Fee: 
+                 $0
+            
+            
+            Non-Member Fee: 
+                $50
+            
+            
+            
+                
+            
+        
+        
+            Understanding how to read an ACH file can seem daunting if you're unfamiliar with the records of an ACH File. The ACH File Format document breaks down the six separate records on a high level, pinpoints where you can locate some of the most commonly identifiable fields, and provides definitions for common terms related to ACH files.

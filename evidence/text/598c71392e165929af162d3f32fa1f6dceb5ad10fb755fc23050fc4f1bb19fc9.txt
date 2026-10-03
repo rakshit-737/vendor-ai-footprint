@@ -1,0 +1,45 @@
+Jocelyn Bazaldua
+
+August 27, 2026
+
+< 1 min read
+
+Webinar On Demand: What’s New in Automic V26. AI, Automation, and What It Means for Your Team
+
+Webinar, WLA
+
+Every major release comes with a changelog. Most of the time it doesn’t change your day to day.
+
+V26 is different in one major way: AI is now inside the workflow, not bolted on next to it. Connect your own LLM, ask Automic what failed yesterday or describe a job in plain language and watch it get built.
+
+Explore what matters to your environment and what the changes mean for teams running Automic or considering a move to V26.
+
+Request a Free Environment Assessment with our experts
+
+Share
+
+Recent Posts
+
+September 30, 2026
+
+2 min read
+
+Automate With Intent: Why People and Partners Matter
+
+Read more >
+
+September 17, 2026
+
+3 min read
+
+Automic Automation V26: Turning Orchestration Into the Control Center for Enterprise AI
+
+Read more >
+
+September 15, 2026
+
+2 min read
+
+The Last Mile of an SAP Landscape
+
+Read more >

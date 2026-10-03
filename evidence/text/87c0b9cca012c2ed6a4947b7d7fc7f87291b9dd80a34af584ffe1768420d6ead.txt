@@ -1,0 +1,1497 @@
+Home The Asian Banker Wealth and Society TABLive The Banking Academy TABInsights BankQuality TAB Global
+
+The Asian Banker
+
+Wealth and Society
+
+TABLive
+
+The Banking Academy
+
+TABInsights
+
+BankQuality
+
+TAB Global
+
+TABLive TABLive Conversations and Interviews Speeches and Presentations Site Visits and Case Studies Conferences Awards Ceremonies RadioFinance
+
+TABLive
+
+Conversations and Interviews
+
+Speeches and Presentations
+
+Site Visits and Case Studies
+
+Conferences
+
+Awards Ceremonies
+
+RadioFinance
+
+Awards The Asian Banker Awards Programmes Leadership Achievement Leadership Achievement Awards Financial Markets Financial Markets Awards Banking Global Excellence in Retail Finance Awards Global AI Excellence Awards Regulation and Supervision Awards Risk Management Awards Financial Technology Innovation Awards Global Transaction Finance Awards Global Beyond Borders Awards Green and Sustainable Finance Awards Country/Territory/Regional Awards China Awards Hong Kong Awards Indonesia Awards Korea Awards Malaysia Awards Middle East and Africa Awards Philippine Awards Sri Lanka Awards Taiwan Awards Thailand Awards Vietnam Awards West Africa Awards Events Signature Conferences The Asian Banker Summit Excellence in Retail Financial Services Country Level Annual Conferences Finance Indonesia Finance Philippines Finance China Finance West Africa Finance Malaysia Finance Thailand Finance Vietnam The Banking Academy Building the AI Bank Bootcamp Africa 2026 The ICAAP Forum Future Bank Council Innovation Study Tours Beijing AI Study Tour 2026 Past Innovation Tours Directories Directories List The List of Leading Practitioners Transaction Banking Directory Financial Technology Directory AI Listing FinTech Listing Other Resources Financial Services and Related Research Sources Writers & Contributors Lists and Rankings World’s Strongest Banks in the World World’s Largest Banks in the World World’s Best Retail Banks Ranking World’s Best Corporate, Investment and Wholesale Banks World’s Best Digital Banks Ranking World’s Best Financial Platforms Ranking World’s Strongest Islamic Banks World’s Largest Islamic Banks Our Products Content Marketing Solutions Digital Push 国际化数字营销 Corporate Videos White Papers and Industry Reports RadioFinance Research & Consulting Investor Profile Report Vendor Selection Report Management Engagement Programmes Confidential Market Research Surveys Events Event Management Services The Banking Academy Jobs in Finance Language English China Friday, 2 October 2026 The Asian Banker Wealth and Society TABLive The Banking Academy TABInsights BankQuality TAB Global Topics Topics Future Bank Council Financial Technology Working Group Transaction Finance Working Group Risk and Regulation Working Group Financial Markets Working Group Decentralised Finance (DeFi) Working Group Green and Sustainable Finance Working Group Wealth & Society Other Resources The Banking Academy BankQuality RadioFinance Emmanuel Daniel TABLive Conversations and Interviews Speeches and Presentations Site Visits and Case Studies Awards Ceremonies RadioFinance Awards The Asian Banker Awards Programmes Leadership Achievement Leadership Achievement Awards Financial Markets Financial Markets Awards Banking Global Excellence in Retail Finance Awards Global AI Excellence Awards Regulation and Supervision Awards Risk Management Awards Financial Technology Innovation Awards Global Transaction Finance Awards Global Beyond Borders Awards Green and Sustainable Finance Awards Country/Territory/Regional Awards China Awards Hong Kong Awards Indonesia Awards Korea Awards Malaysia Awards Middle East and Africa Awards Philippine Awards Sri Lanka Awards Taiwan Awards Thailand Awards Vietnam Awards West Africa Awards Events TAB Finance Diary of Events (Full Event Diary) Signature Conferences The Asian Banker Summit Excellence in Retail Financial Services Country Level Annual Conferences Finance Indonesia Finance Philippines Finance China Finance West Africa Finance Malaysia Finance Thailand Finance Vietnam The Banking Academy Building the AI Bank Bootcamp Africa 2026 The ICAAP Forum Future Bank Council Innovation Study Tours Beijing AI Study Tour 2026 Past Innovation Tours Directories Directories The List of Leading Practitioners Transaction Banking Directory Financial Technology Directory AI Listing FinTech Listing Other Resources Financial Services and Related Research Sources Writers & Contributors Lists and Rankings World’s Strongest Banks World’s Largest Banks World’s Best Retail Banks Ranking World’s Best Corporate, Investment and Wholesale Banks World’s Best Digital Banks Ranking World’s Best Financial Platforms Ranking World’s Strongest Islamic Banks World’s Largest Islamic Banks Our Products Content Marketing Solutions Digital Push 国际化数字营销 Corporate Videos White Papers and Industry Reports RadioFinance Research & Consulting Investor Profile Report Vendor Selection Report Management Engagement Programmes Confidential Market Research Surveys Events Event Management Services The Banking Academy Job in Finance Recent Search From banker to insurer - Dennis Tan’s transition to impacting lives at Prudential Singapore From banker to insurer - Dennis Tan’s transition to impacting lives at Prudential Singapore BNY strengthens GP&T execution through embedded AI and infrastructure scale Discover more trusted banking and financial services insights by adding The Asian Banker as a preferred source on Google. Written by Foo Boon Ping Mar 25, 2026 23 min read 0 3391 BNY's Global Payments & Trade business in Asia Pacific is scaling institutional infrastructure through embedded AI, integrated foreign exchange execution, virtual account structures and tokenised deposit development — positioning technology as an operational foundation rather than a product overlay. BNY generated over $20 billion in global revenue last year, reflecting 8% year-on-year growth. Assets under custody and/or administration (AUC/A) reached $59 trillion and assets under management (AUM) stood at $2.2 trillion. Asia Pacific delivered approximately 10% revenue growth year-on-year and its net income grew by approximately 5%. Fabian Khoshbakht, Head of Global Payments & Trade, Asia Pacific at BNY, described the regional franchise within this context. He emphasised disciplined balance sheet management and margin protection as structural features rather than cyclical outcomes. He positioned GP&T as an infrastructure service provider, enabling financial institutions to extend services to their own corporate or retail customers. Growth across Asia Pacific was described as driven by institutional expansion, corridor deepening and digital banking proliferation rather than direct competition for end-user accounts. The infrastructure underpinning that growth processes approximately $2.4 trillion in United States dollar payment value per day. Participation spans the Federal Reserve Wire Network (Fedwire), the Clearing House Interbank Payments System (CHIPS), Automated Clearing House (ACH) networks, Real-Time Payments (RTP) and the Federal Reserve’s FedNow Service. In this instance, BNY originated the first-ever $10 million in instant payment in U.S. history on the RTP network, and by leveraging the increased RTP transaction limit, extended real-time applicability to institutional and corporate flows – reinforcing the integration of real-time rails into broader liquidity strategies. Within this operating base, artificial intelligence deployment, integrated foreign exchange execution, virtual account structures, trade digitisation and tokenised deposit exploration are embedded into execution workflows. These functionalities operate within the same infrastructure layer rather than as isolated product verticals. Enterprise AI embedded into operations Building on the infrastructure foundation described earlier, Claude Reumert, Head of APAC Strategy, Global Payments & Trade, explained how AI is being integrated into the workflows. Rather than presenting AI as a standalone innovation programme, she described it as embedded into operational workflows and client engagement preparation. Eliza is BNY’s proprietary enterprise AI platform that is general-intelligence-model-agnostic and supports multi-agentic functionality as a foundation for the bank’s AI-enabled workforce. Integrating models from leading providers such as OpenAI, Google and Anthropic, it supports data extraction, document review, reconciliation support, fraud analytics and preparation for client coverage teams, among other things. The objective is to increase analytical precision and responsiveness as transaction volumes and mandate complexity expand. AI usage was framed as an expected component of daily work rather than optional experimentation, with employees operating their “own AI agents”, reinforcing that AI functionality is not limited to central teams but has been democratized across all BNY employees. Adoption is driven from the executive level and embedded into routine workflows. Enterprise-wide digital infrastructure supporting these initiatives includes more than 130 digital employees. This offering is not confined to Asia Pacific GP&T but forms part of broader enterprise infrastructure supporting operational execution, automation and workflow enhancement across different platforms. In the payments environment, AI supports anomaly detection and exception management across both cross-border and real-time rails. Machine learning models operate within established compliance frameworks, reinforcing monitoring and control rather than bypassing governance structures. Within liquidity and reconciliation processes, AI assists in matching disbursements, identifying breaks and prioritising resolution across jurisdictions. These use cases are practical rather than conceptual. The objective is to manage scale and complexity without proportionate increases in manual intervention. AI is also applied to client engagement preparation. Coverage teams leverage AI tools to consolidate information, prepare meeting agendas and surface relevant operational insights ahead of institutional discussions. The use of AI therefore spans both back-office execution and front-line client interaction. Engagement at BNY’s innovation centre reinforces this integration. Institutional clients visiting the centre are exposed to live AI applications and roadmap discussions, which in certain cases have triggered follow-on initiatives tied to specific operational use cases. Fabian Khoshbakht, Head of Global Payments & Trade, Asia Pacific, BNY Claude Reumert, Head of APAC Strategy, Global Payments & Trade, BNY Multilateral mandate execution and AI-enabled treasury architecture Jamie Pan, Head of Global Trade & Payments, China, outlined the mandate supporting a multilateral development bank with approximately $68 billion in approved financing across more than 350 projects in 40 economies. The mandate spans cross-border disbursement execution, multi-currency liquidity management and regulatory reporting across diverse jurisdictions. The engagement involves more than payments processing. Pan described the design of a tailored treasury architecture incorporating sweeping and zero-balancing structures to concentrate balances centrally. These mechanisms support yield optimisation while maintaining operational control across dispersed project accounts. Liquidity concentration is complemented by access to a direct liquidity platform that enables investment into money market funds. This structure allows surplus balances to be deployed efficiently while preserving visibility and governance standards appropriate for a multilateral institution. Project disbursements are executed centrally, but underlying funding flows extend across multiple jurisdictions where infrastructure projects are deployed. This requires coordination between cross-border payment rails, foreign exchange execution and liquidity management frameworks to ensure alignment between funding, settlement timing and reporting. Regulatory coordination forms a critical component of execution. Pan described step-by-step reporting processes conducted in collaboration with local banking partners to meet jurisdiction-specific requirements. Transparency across reporting, reconciliation and documentation must operate consistently despite differences in regulatory regimes. Reconciliation processes support matching funding instructions against project-level schedules and supporting documentation. Given the geographic dispersion of projects and counterparties, operational controls must function across currencies and regulatory frameworks without fragmentation. Pan said clients acknowledge the seamless processing of landmark payments and timeliness in execution. These operational benchmarks reinforce the mandate’s complexity and the requirement for integrated oversight. Representatives from the client visited BNY's Singapore innovation centre and were exposed to the AI roadmap and applied workflow use cases. The discussion around AI subsequently evolved into a focused initiative addressing loan disbursement tracking and reconciliation processes. This mandate illustrates how payments, liquidity concentration, foreign exchange management, regulatory coordination and AI-enabled workflow enhancement converge within a single institutional relationship. Institutional payments and foreign exchange execution under fintech pressure Raj Raman, Market Manager, Payments Product, Global Payments & Trade, APAC, described how foreign exchange (FX) execution is embedded directly into cross-border payment workflows. In discussing a transaction involving Indonesia, he referenced coordination with BNY’s Markets FX desks in the region supporting execution. FX is framed not as an ancillary revenue line but as an integrated component of end-to-end payment delivery. Pricing, execution and client communication are handled within the same operational environment as payment initiation and settlement, reducing hand-offs and latency. Raman emphasised that clients increasingly expect “a decent FX rate” together with speed of execution. He referenced some providers as having shifted market expectations around transparency, responsiveness and rate competitiveness. He highlighted a structural change in corridor competitiveness. Static daily pricing mechanisms are increasingly insufficient where fintech providers deliver dynamic pricing through application programming interfaces (APIs). Speed of rate delivery, including API-based integration, is now a material factor in defending transaction flows. Real-time payment rails reinforce this shift. As RTP and similar infrastructures extend into institutional use cases, the convergence between FX pricing responsiveness and real-time settlement becomes commercially significant. Delay in FX execution can undermine the perceived value of faster payment rails. FX integration was also positioned as protective of wallet share. Financial institutions seeking to defend retail and small business flows must deliver corridor competitiveness that meets fintech benchmarks while operating within regulated banking frameworks. Embedded FX execution allows partner banks to remain competitive without outsourcing pricing transparency to non-bank platforms. The institutional-retail crossover dynamic was implicit in the discussion. Even when serving financial institution clients, underlying end-customer expectations influence corridor competitiveness. FX execution therefore operates within both institutional and retail-relevant contexts. Liquidity alignment forms another dimension of integration. Currency conversion timing and pricing must align with liquidity concentration strategies rather than operate independently. By embedding FX within the same infrastructure layer, funding optimisation and corridor competitiveness can be coordinated rather than siloed. The integration of FX into payments infrastructure thus supports not only transactional execution but also balance sheet discipline and deposit quality, reinforcing the operational deposit model. Jamie Pan, Head of Global Trade & Payments, China, BNY Raj Raman, Market Manager, Payments Product, Global Payments & Trade, APAC, BNY Virtual account management and cross-border expansion for financial institutions Junyi Kuah, Head of International, Cash Management Solutions Product Specialist, described virtual account capabilities within Global Payments & Trade as a structural enabler for financial institutions expanding across jurisdictions without establishing full in-market infrastructure. He explained that virtual accounts allow partner banks to service their own end customers in markets where they may not maintain a local branch presence or clearing membership. Rather than opening traditional vostro accounts in each country, banks can operate through sub-ledgered virtual account structures layered over BNY’s infrastructure. This structure enables sub-client level identification while maintaining centralised settlement and liquidity management. Underlying client flows remain identifiable for reconciliation and reporting purposes, while funding is concentrated within a consolidated account framework. Kuah emphasised that the model supports financial institutions that are expanding into new corridors, particularly digital banks and non-bank financial institutions entering cross-border segments. Virtual accounts allow them to scale corridor access without fragmenting balances across multiple correspondent relationships. The reconciliation benefit is material. Each underlying client can be assigned a dedicated virtual identifier, enabling automated matching of incoming and outgoing payments. This reduces manual intervention, accelerates break resolution and improves transparency across distributed client portfolios. From a balance sheet perspective, the structure supports operational deposit aggregation rather than dispersed nostro fragmentation. Liquidity can be concentrated and managed centrally, aligning with the operational deposit growth referenced in the regional financial performance discussion. Kuah positioned the capability within BNY’s institutional banking model. Because BNY does not compete directly in retail or commercial banking segments, it can provide enabling infrastructure to financial institution clients without competitive conflict over end customers. The model also interacts with FX and real-time connectivity. Virtual account identifiers combined with API-enabled connectivity allow financial institutions to provide responsive pricing and settlement to their own customers while relying on BNY’s clearing infrastructure. As cross-border digital commerce grows in Asia Pacific, financial institutions require scalable identification frameworks that do not require duplicative local clearing relationships. Virtual accounts therefore operate as both an operational and strategic expansion tool. The capability is not positioned as a standalone product but as part of the integrated execution model linking payments, liquidity, FX and servicing functions. Innovation partnerships and operational visibility through TreasuryEdge Danny Goh, Digital Payments Solutions Manager, Global Payments & Trade, APAC, outlined innovation not as isolated product development but as coordinated partnership with financial institutions, fintech firms and infrastructure providers. He described engagement models in which clients are brought into early-stage discussions around rail adoption, connectivity upgrades and workflow redesign. Innovation was positioned as joint problem-solving rather than unilateral feature deployment. Goh emphasised that financial institutions increasingly seek to reclaim flows lost to fintech competitors. In this context, infrastructure upgrades must align with client commercial strategy. Faster rails, API integration and pricing responsiveness are relevant only insofar as they support client retention and corridor defence. Collaboration was described as extending beyond technical implementation. It includes education, client testing and structured pilots where new rails or digital capabilities are introduced with selected clients before broader rollout. TreasuryEdge was introduced within this framework as a digital treasury solution consolidating visibility across payment status, account balances and transaction data. Rather than being a standalone dashboard, it functions as an operational interface linking multiple liquidity and payment streams. Goh explained that TreasuryEdge integrates with existing connectivity channels, including application programming interfaces and file-based integrations. This allows clients to access real-time visibility into balances and transaction states across jurisdictions without replacing established enterprise resource planning (ERP) or treasury management systems. The emphasis was on actionable visibility. Payment tracking, liquidity positioning and funding decisions can be aligned in near real time, reducing uncertainty around settlement timing and balance allocation. TreasuryEdge also operates as a layer through which AI-derived insights can be surfaced. Transaction pattern recognition, anomaly identification and liquidity optimisation indicators can be translated into operational prompts rather than remaining analytical outputs. In this sense, TreasuryEdge becomes the interface through which embedded AI functionalities are operationalised. Insights generated within reconciliation, monitoring or forecasting workflows can influence funding decisions and payment sequencing. The solution supports treasurers managing multi-jurisdictional portfolios where fragmentation across banks and currencies would otherwise reduce transparency. By consolidating payment and liquidity data into a single environment, decision-making latency can be reduced. Innovation was therefore described not as experimentation but as execution enhancement. Infrastructure scale, embedded AI and digital visibility converge through client-facing tools such as TreasuryEdge. Junyi Kuah, Head of International, Cash Management Solutions Product Specialist, BNY Danny Goh, Digital Payments Solutions Manager, Global Payments & Trade, APAC, BNY Client enablement discipline and servicing experience as key differentiators Amy Tong, Head of Global Payments & Trade Client Service, APAC, focused on what occurs after mandate award. She positioned implementation capability as determinative of whether institutional relationships expand or stall. Tong explained that complex mandates involving financial institutions, multilateral entities or cross-border treasury structures require coordinated onboarding across jurisdictions. Documentation alignment, regulatory validation, account structuring and connectivity configuration must occur in parallel rather than sequentially. Implementation in this context is not administrative processing. It is a multi-market execution exercise requiring alignment between payment rails, foreign exchange workflows, liquidity concentration structures and reporting frameworks. A misalignment in any layer can delay go-live or undermine client confidence. She described governance structures designed to coordinate onboarding milestones across functional teams. Payments, FX, liquidity, trade and technology teams must operate with shared visibility over implementation status and risk checkpoints. Escalation pathways were emphasised as critical in cross-border mandates. Where regulatory or documentation discrepancies arise in one jurisdiction, coordinated resolution must occur without affecting adjacent flows. The servicing model is therefore designed to anticipate and contain friction rather than react to breakdown. Tong also referenced proactive communication with clients throughout onboarding and post-go-live phases. Structured updates, transparent reporting and clearly defined service governance forums reduce uncertainty and support relationship depth. Servicing discipline continues after implementation. Multi-currency mandates require ongoing monitoring of processing accuracy, settlement timing and exception resolution. The objective is to maintain predictable operational performance rather than episodic responsiveness. Client satisfaction is shaped less by product breadth and more by reliability, responsiveness and clarity. Transparency around payment status, liquidity positioning and issue escalation contributes directly to retention and wallet expansion. In mandates, servicing functions must coordinate closely with treasury structuring, payments operations and compliance teams. Cross-functional alignment sustains operational continuity across jurisdictions. The servicing layer therefore operates as an extension of infrastructure capability. Clearing scale and digital functionality are reinforced by governance discipline and execution predictability. Trade execution and digitisation within cross-border mandates Angelia Toh, Trade Finance Structurer, Global Payments & Trade, APAC, addressed the positioning of trade capability within the broader payments, liquidity and foreign exchange framework. She described trade finance as increasingly integrated with payment execution and liquidity management rather than operating as a standalone documentary function. Cross-border trade flows require coordination between issuance of documentary credits, funding arrangements and settlement timing across multiple jurisdictions. Toh explained that trade mandates frequently involve alignment between commercial contracts, shipment schedules, financing terms and payment release triggers. Where trade and payments operate in silos, timing mismatches can create funding inefficiencies or reconciliation breaks. Digitisation initiatives were referenced as a means of reducing manual intervention in documentary processes. In corridors where paper-based trade documentation remains prevalent, workflow automation can accelerate document checking, reduce error rates and improve transparency between counterparties. Automation supports consistency in compliance review and documentary validation. Rather than relying solely on manual checking of letters of credit or shipping documents, structured data extraction and validation processes improve processing predictability. Trade flows were positioned as directly linked to liquidity concentration and foreign exchange execution. Settlement of documentary credits or trade loans must align with currency conversion timing and liquidity positioning to avoid unnecessary funding strain. Integration across trade, payments and FX reduces fragmentation between underlying commercial activity and settlement. When documentary triggers activate payment flows, execution can occur within the same operational framework described earlier. Toh also indicated that trade structuring increasingly requires coordination with digital connectivity models. API-based connectivity and digital document exchange platforms can shorten turnaround times and enhance audit trails. In expanding global corridors, trade activity is frequently multi-jurisdictional, requiring alignment with varying regulatory standards. Coordinated reporting and compliance processes therefore form part of execution design rather than post-event adjustment. Trade capability in this context operates as part of the integrated execution model underpinning institutional mandates. It complements clearing infrastructure, FX integration and liquidity concentration rather than functioning independently. Amy Tong, Head of Global Payments & Trade Client Service, APAC, BNY Angelia Toh, Trade Finance Structurer, Global Payments & Trade, APAC, BNY Digital assets and tokenised deposit capability within regulated frameworks Warren Soo, Head of Digital Cash and Innovation, APAC, addressed BNY’s tokenised deposit initiative within the broader context of digital asset infrastructure development. He described tokenised deposits as a representation of commercial bank money on distributed ledger technology while remaining a bank liability. The emphasis was on the fact that the instrument sits on the bank’s balance sheet and therefore operates within existing regulatory and supervisory frameworks. Building on this, BNY’s approach creates an on-chain, “mirrored” representation of client deposit balances on a private, permissioned blockchain – governed by established risk, compliance and control frameworks, while client balances continue to be recorded on traditional systems to maintain regulatory and reporting integrity. Soo differentiated tokenised deposits from stablecoins, noting that stablecoins are typically issued by non-bank entities, whereas tokenised deposits reflect regulated bank money. The distinction was framed as material in institutional use cases where balance sheet backing are critical. The discussion centred on programmability and settlement efficiency. Soo explained that distributed ledger infrastructure allows conditional logic and synchronised settlement functionality, which can support multi-party transaction workflows. He linked the initiative to evolving settlement expectations, particularly where institutional clients are exploring blockchain-enabled transaction models. The framing was tied to practical use cases in controlled environments. The initiative was described as aligned with broader payment infrastructure evolution rather than as a separate digital asset business line. Tokenised deposits operate alongside established clearing rails and treasury frameworks rather than replacing them, extending trusted bank deposits onto digital rails within a framework built for scale, resilience and regulatory alignment. Within Asia Pacific, Soo noted growing institutional interest in distributed ledger applications where regulatory parameters are clearer. The approach described focuses on structured collaboration and defined use cases rather than open-ended deployment. The tokenised deposit initiative therefore reflects BNY’s broader model of embedding digital innovation within regulated infrastructure and established treasury architecture. Regional execution discipline and structural growth in South and Southeast Asia Yew Fei Yeow, Head for APAC Banks, Global Payments & Trade, APAC, contributed throughout the discussion, including at the outset where leadership structure and regional alignment were referenced. His remarks framed the franchise within markets experiencing sustained cross-border transaction growth and digital banking expansion. Yeow described expansion across financial institutions, digital banks and non-bank financial institutions as being supported by infrastructure access rather than product proliferation. The regional strategy centres on enabling partner institutions to extend their own client reach across corridors. Virtual accounts, real-time connectivity and embedded foreign exchange execution were referenced as enabling capabilities supporting this institutional expansion. These capabilities allow banks to compete in retail and small business segments without building duplicative local infrastructure. He underscored the importance of cross-functional coordination across payments, FX, liquidity, trade and servicing teams. As mandates become more multi-jurisdictional and structurally complex, growth depends on execution consistency rather than standalone product penetration. South and Southeast Asia were positioned as priority corridors where cross-border commerce, digital banking adoption and infrastructure investment flows continue to expand. The franchise’s role is to provide scalable, regulated infrastructure aligned with those flows. Warren Soo, Head of Digital Cash and Innovation, APAC, BNY Yew Fei Yeow, Head for APAC Banks, Global Payments & Trade, APAC, BNY Integrated execution as a structural differentiator Khoshbakht reinforced that BNY's GP&T franchise operates on infrastructure scale and governance discipline rather than product isolation. AI functionality is embedded within operational workflows — from reconciliation and anomaly detection to client engagement preparation — rather than positioned as external experimentation. To make AI ‘everywhere, for everything and for everyone’, BNY has integrated AI literacy into its manager development and analyst program to upskill employees. The bank views it as a superpower for employees and believes AI can amplify human potential. Virtual account structures enable financial institutions to expand across jurisdictions while maintaining consolidated liquidity and reporting frameworks. Embedded foreign exchange execution supports corridor competitiveness under fintech pressure. Trade digitisation, TreasuryEdge visibility tools and tokenised deposit initiatives operate within the same regulated treasury architecture rather than as parallel innovation tracks. Across Asia Pacific, growth reflects institutional demand for coordinated execution across payments, foreign exchange, liquidity, trade and servicing functions. The recurring structural theme is integration: infrastructure scale aligned with embedded technology, balance sheet discipline and cross-functional execution. Keywords: Global Payments & Trade embedded AI infrastructure foreign exchange virtual accounts tokenised deposits real-time payments liquidity management trade finance TreasuryEdge correspondent banking cross-border payments fintech digital banking reconciliation Institutions: BNY Country: United States China Indonesia Region: Asia Pacific South Asia Southeast Asia People: Fabian Khoshbakht Claude Reumert Jamie Pan Raj Raman Junyi Kuah Danny Goh Amy Tong Angelia Toh Warren Soo Yew Fei Yeow Recent Articles Barclays expands Anthropic’s Claude Code to support software development and legacy modernisation Can Mizuho turn a $1 billion supply chain facility into deeper Asia Pacific relationships? Can ING turn supply chain resilience into a transaction banking advantage? NGFS outlines how climate risk could raise banks’ capital requirements Can Finastra use AI to accelerate payments modernisation? About us | Contact us | Feedback | Advertise with us | Privacy Policy | Copyrights Requests | Jobs and Internships with us | Site Map | Legal Notice The Asian Banker website does not provide financial advice, recommend or sell any financial product/service. Views and opinions expressed on this website belong strictly to individual authors/contributors and do not represent The Asian Banker. © Copyright Powered by We use cookies to tailor your experience and present relevant ads. By clicking 'Accept,' you agree to our Privacy Policy. Accept Chat with us Login Google LinkedIn or Remember me Forgot password? Login Don't have an account? Register or Subscribe Now Country/Region Australia (+61) China (+86) Singapore (+65) United Kingdom (+44) United States (+1) UK (+44) USA (+1) Afghanistan (+93) Algeria (+213) Andorra (+376) Angola (+244) Anguilla (+1264) Antigua & Barbuda (+1268) Argentina (+54) Armenia (+374) Aruba (+297) Austria (+43) Azerbaijan (+994) Bahamas (+1242) Bahrain (+973) Bangladesh (+880) Barbados (+1246) Belarus (+375) Belgium (+32) Belize (+501) Benin (+229) Bermuda (+1441) Bhutan (+975) Bolivia (+591) Bosnia Herzegovina (+387) Botswana (+267) Brazil (+55) Brunei (+673) Bulgaria (+359) Burkina Faso (+226) Burundi (+257) Cambodia (+855) Cameroon (+237) Canada (+1) Cape Verde Islands (+238) Cayman Islands (+1345) Central African Republic (+236) Chile (+56) Colombia (+57) Comoros (+269) Congo (+242) Cook Islands (+682) Costa Rica (+506) Croatia (+385) Cuba (+53) Cyprus North (+90392) Cyprus South (+357) Czech Republic (+42) Denmark (+45) Djibouti (+253) Dominica (+1809) Dominican Republic (+1809) Ecuador (+593) Egypt (+20) El Salvador (+503) Equatorial Guinea (+240) Eritrea (+291) Estonia (+372) Ethiopia (+251) Falkland Islands (+500) Faroe Islands (+298) Fiji (+679) Finland (+358) France (+33) French Guiana (+594) French Polynesia (+689) Gabon (+241) Gambia (+220) Georgia (+7880) Germany (+49) Ghana (+233) Gibraltar (+350) Greece (+30) Greenland (+299) Grenada (+1473) Guadeloupe (+590) Guam (+671) Guatemala (+502) Guinea (+224) Guinea - Bissau (+245) Guyana (+592) Haiti (+509) Honduras (+504) Hungary (+36) Iceland (+354) India (+91) Indonesia (+62) Iran (+98) Iraq (+964) Ireland (+353) Israel (+972) Italy (+39) Jamaica (+1876) Japan (+81) Jordan (+962) Kazakhstan (+7) Kenya (+254) Kiribati (+686) Korea North (+850) Korea South (+82) Kuwait (+965) Kyrgyzstan (+996) Laos (+856) Latvia (+371) Lebanon (+961) Lesotho (+266) Liberia (+231) Libya (+218) Liechtenstein (+417) Lithuania (+370) Luxembourg (+352) Macao (+853) Macedonia (+389) Madagascar (+261) Malawi (+265) Malaysia (+60) Maldives (+960) Mali (+223) Malta (+356) Marshall Islands (+692) Martinique (+596) Mauritania (+222) Mayotte (+269) Mexico (+52) Micronesia (+691) Moldova (+373) Monaco (+377) Mongolia (+976) Montserrat (+1664) Morocco (+212) Mozambique (+258) Myanmar (+95) Namibia (+264) Nauru (+674) Nepal (+977) Netherlands (+31) New Caledonia (+687) New Zealand (+64) Nicaragua (+505) Niger (+227) Nigeria (+234) Niue (+683) Norfolk Islands (+672) Northern Marianas (+670) Norway (+47) Oman (+968) Palau (+680) Panama (+507) Papua New Guinea (+675) Paraguay (+595) Peru (+51) Philippines (+63) Poland (+48) Portugal (+351) Puerto Rico (+1787) Qatar (+974) Reunion (+262) Romania (+40) Russia (+7) Rwanda (+250) San Marino (+378) Sao Tome & Principe (+239) Saudi Arabia (+966) Senegal (+221) Serbia (+381) Seychelles (+248) Sierra Leone (+232) Slovak Republic (+421) Slovenia (+386) Solomon Islands (+677) Somalia (+252) South Africa (+27) Spain (+34) Sri Lanka (+94) St. Helena (+290) St. Kitts (+1869) St. Lucia (+1758) Sudan (+249) Suriname (+597) Swaziland (+268) Sweden (+46) Switzerland (+41) Syria (+963) Tajikstan (+7) Thailand (+66) Togo (+228) Tonga (+676) Trinidad & Tobago (+1868) Tunisia (+216) Turkey (+90) Turkmenistan (+7) Turkmenistan (+993) Turks & Caicos Islands (+1649) Tuvalu (+688) Uganda (+256) Ukraine (+380) United Arab Emirates (+971) Uruguay (+598) Uzbekistan (+7) Vanuatu (+678) Vatican City (+379) Venezuela (+58) Vietnam (+84) Virgin Islands - British (+1284) Virgin Islands - US (+1340) Wallis & Futuna (+681) Yemen (North)(+969) Yemen (South)(+967) Zambia (+260) Zimbabwe (+263) 90321 I agree to share my personal data to access this service & to the privacy policy of The Asian Banker I wish to receive your newsletters. (optional) Submit Or become a member today Already have account ? Login Share LinkedIn Twitter Facebook WhatsApp Email Reddit Copy Link Conversations Post Comment Cancel All Comments There are no comments. Be the first to comment! Filter By Name By Institution By Month By Country By Region By Keyword Search by name Will Dawson Wendy Weng Wan Hua Vladislav Solodkiy Vijay Shekhar Sharma Tom Eck The Asian Banker Tao Rong TABLive TAB RadioFinance Simon Paris Siddharth Chandani Saad Azhari Russell Pereira Ruoxin Qi Rob Palatnick Research Ralph Echemendia Paula da Silva Nikolay Storonsky Nestor Espenilla Jr. Neeti Aggarwal Nanda Lakhwani Nancy So Matthias Kröner Martin Grunewald Mark Zawacki Mark Whitcroft Mark Evans Kristo Kaarmann Kevin Luarca John Gong John Campbell Jesse Lund Jesse Chenard Jeff Villapando Janine Marie Crisanto Jafar Amin Harith,Foo Boon Ping Hank Uberoi Giles Goh Genki Oka Genivi Factao Foo Boon Ping Emmanuel Daniel Editorial Darren Taylor Daniel Hoyoung Yun Chris Kapfer Chen De Bobby Lee Betty DeVita Ben Chisell Barney Frank,Barney Frank,Barney Frank Barney Frank Alasdair Rambaud Alain Falys Ajit Kanagasundram 683 William De Vijlder No results found Please try again with a different keyword. Search by institution Zodia Custody Standard Chartered Northern Trust National Australia Bank Emirates NBD Zilliqa Capital Ether Capital AllianceBernstein Societe Generale Trust Company of the West AsiaVest Partners Quail Creek Ventures Xfers MAS Zhixin Investment Research Institute China Chief Economist Forum Bank of Communication Xinhu Wealth Management World Trade Organization Yield Guild Games Union Digital Bank Yes Bank ICICI Bank Indian Banks' Association Punjab National Bank HDFC Bank Axis Bank SBI Oracle XION World Trade Organization Global Value Chain Development Report 2025 World Federation of Exchanges Wise Wise Platform Aspire Bank Mandiri Standard Chartered Shinhan Bank Swift G20 Wikipedia Google GITHub Microsoft Facebook Amazon No results found Please try again with a different keyword. Search by month September October November May March June July January February December August April No results found Please try again with a different keyword. Search by country Vietnam Pakistan Vietnam versions US India China Poland Portugal Philippines Germany United States Germany United States Singapore United Kingdom Switzerland UAE United States Singapore Hong Kong Japan United States Nigeria Argentina Turkey European Union Singapore United States Germany United States European Union Germany United States United Kingdom Germany United Arab Emirates Ukraine || Russia || Singapore || China || Japan || India || South Korea || Australia || New Zealand Timor-Leste Switzerland Germany Switzerland Philippines United States Australia Greece Switzerland Hong Kong Singapore United Arab Emirates Singapore Malaysia Thailand Singapore India No results found Please try again with a different keyword. Search by region versions US Europe US united states United Kingdom Southeast Asia United States Southeast Asia Asia Pacific Southeast Asia North Asia Africa Latin America Asia Pacific Southeast Asia Middle East Southeast Asia Asia Pacific Southeast Asia Asia Southeast Asia Africa Southeast Asia South East Asia Asia US South East Asia South Asia Programme North Asia Greater China Asia Pacific North America Europe Asia Middle East North America No results found Please try again with a different keyword. Search by keyword versions AI digital assets tokenisation distributed ledger technology shared ledger Swift CashPro CashPro Insights cash flow forecasting liquidity cross-border payments transaction banking payment solutions APIs collaboration Sibos-2025 ai development machine learning general intelligence natural language processing data analytics healthcare finance genetic research neurips NFTs tokenising Digital assets blockchain web3 crypto sibos 2020 sibos 2018 cash basel committee on banking supervision 248 blockchain distributed ledger technology asset tokenisation jpm coin digital payments cross-border transactions digital securities tokenisation on-chain fx settlements real-time settlement repo transactions programmable payments regulatory frameworks financial inclusion fintech ecosystem regulatory frameworks climate tech artificial intelligence digital innovation market infrastructure rationalisation cybersecurity Anti-Financial Account Scamming Act payments efficiency fintech technology adoption legislative reform transformation transaction banking fragmented global flows liquidity management cross-border execution supply chain diversification clearing capabilities working capital financing real-time liquidity visibility interoperability API connectivity issuer processing cloud-native API-first digital payments modular platform artificial intelligence (AI) financial inclusion digital economy economic competitiveness fintech innovation regulatory frameworks public-private collaboration national strategy AI adoption core banking modernisation Temenos Core Red Hat OpenShift containerisation Kubernetes cloud-native microservices data residency disaster recovery digital transformation AI-ready agentic AI conversational AI AI factory system of record speed-to-market resilience scalability Leadership trust data-driven leadership banking innovation risk-taking courage asset-to-liability ratio cost-to-income ratio team empowerment banking challenges financial performance Victoria Falls bungee jump decision-making David Livingstone Robert Kuok Emmanuel Daniel Cecil Rhodes digitalisation mobile banking Credit Card technology platform fintech digital payments BNPL ekyc app mb bank biz mb smart crm national digital transformation programme covid-19 CAGR inhandao ROA covid-19 digital infrastructure : GDP NPL digitalisation CBDC cashless payments cross border financial inclusion mobile banking digital platforms 5g Internet Banking game crypto blockchain gaming tokens metaverse digital play-to-earn No results found Please try again with a different keyword. Discover Key Insights in Our Latest Report Get data-driven analysis, expert insights, and actionable recommendations — all in one downloadable PDF. It’s free — just fill out the quick form to get instant access. Full Name * Email * Country * --Select-- China Indonesia Hong Kong Malaysia Singapore Thailand United States Afghanistan Albania Algeria Andorra Angola Antigua & Deps Argentina Armenia Australia Austria Azerbaijan Bahamas Bahrain Bangladesh Barbados Belarus Belgium Belize Benin Bermuda Bhutan Bolivia Bosnia & Herzegovina Botswana Brazil Brunei Bulgaria Burkina Burundi Cambodia Cameroon Canada Cape Verde Central African Rep Chad Chile Colombia Comoros Congo Congo (Democratic Rep) Costa Rica Croatia Cuba Cyprus Czech Republic Denmark Djibouti Dominica Dominican Republic East Timor Ecuador Egypt El Salvador Equatorial Guinea Eritrea Estonia Eswatini Ethiopia Fiji Finland France Gabon Gambia Georgia Germany Ghana Greece Grenada Guatemala Guinea Guinea-Bissau Guyana Haiti Honduras Hungary Iceland India Iran Iraq Ireland (Republic) Israel Italy Ivory Coast Jamaica Japan Jordan Kazakhstan Kenya Kiribati Korea North Korea South Kosovo Kuwait Kyrgyzstan Laos Latvia Lebanon Lesotho Liberia Libya Liechtenstein Lithuania Luxembourg Macedonia Madagascar Malawi Maldives Mali Malta Marshall Islands Mauritania Mauritius Mexico Micronesia Moldova Monaco Mongolia Montenegro Morocco Mozambique Myanmar Namibia Nauru Nepal Netherlands New Zealand Nicaragua Niger Nigeria Norway Oman Pakistan Palau Palestine Panama Papua New Guinea Paraguay Peru Philippines Poland Portugal Qatar Romania Russian Federation Rwanda St Kitts & Nevis St Lucia Saint Vincent & the Grenadines Samoa San Marino Sao Tome & Principe Saudi Arabia Senegal Serbia Seychelles Sierra Leone Slovakia Slovenia Solomon Islands Somalia South Africa South Sudan Spain Sri Lanka Sudan Suriname Sweden Switzerland Syria Taiwan Tajikistan Tanzania Togo Tonga Trinidad & Tobago Tunisia Turkey Turkmenistan Tuvalu Uganda Ukraine United Arab Emirates United Kingdom Uruguay Uzbekistan Vanuatu Vatican City Venezuela Vietnam Yemen Zambia Zimbabwe Institution * Department Job Title I consent to receiving marketing communications from FIS by telephone, email, SMS and physical mail. I understand I will be able to withdraw my consent, change the method(s) used for communication or unsubscribe at any time by clicking here. Please read FIS' privacy notice. to learn more how FIS will process your personal data. Submit FEEDBACK -Choose- Bug Report Feature Request Other --Select Country-- China Indonesia Hong Kong Malaysia Singapore Thailand United States Afghanistan Albania Algeria Andorra Angola Antigua & Deps Argentina Armenia Australia Austria Azerbaijan Bahamas Bahrain Bangladesh Barbados Belarus Belgium Belize Benin Bermuda Bhutan Bolivia Bosnia & Herzegovina Botswana Brazil Brunei Bulgaria Burkina Burundi Cambodia Cameroon Canada Cape Verde Central African Rep Chad Chile Colombia Comoros Congo Congo (Democratic Rep) Costa Rica Croatia Cuba Cyprus Czech Republic Denmark Djibouti Dominica Dominican Republic East Timor Ecuador Egypt El Salvador Equatorial Guinea Eritrea Estonia Eswatini Ethiopia Fiji Finland France Gabon Gambia Georgia Germany Ghana Greece Grenada Guatemala Guinea Guinea-Bissau Guyana Haiti Honduras Hungary Iceland India Iran Iraq Ireland (Republic) Israel Italy Ivory Coast Jamaica Japan Jordan Kazakhstan Kenya Kiribati Korea North Korea South Kosovo Kuwait Kyrgyzstan Laos Latvia Lebanon Lesotho Liberia Libya Liechtenstein Lithuania Luxembourg Macedonia Madagascar Malawi Maldives Mali Malta Marshall Islands Mauritania Mauritius Mexico Micronesia Moldova Monaco Mongolia Montenegro Morocco Mozambique Myanmar Namibia Nauru Nepal Netherlands New Zealand Nicaragua Niger Nigeria Norway Oman Pakistan Palau Palestine Panama Papua New Guinea Paraguay Peru Philippines Poland Portugal Qatar Romania Russian Federation Rwanda St Kitts & Nevis St Lucia Saint Vincent & the Grenadines Samoa San Marino Sao Tome & Principe Saudi Arabia Senegal Serbia Seychelles Sierra Leone Slovakia Slovenia Solomon Islands Somalia South Africa South Sudan Spain Sri Lanka Sudan Suriname Sweden Switzerland Syria Taiwan Tajikistan Tanzania Togo Tonga Trinidad & Tobago Tunisia Turkey Turkmenistan Tuvalu Uganda Ukraine United Arab Emirates United Kingdom Uruguay Uzbekistan Vanuatu Vatican City Venezuela Vietnam Yemen Zambia Zimbabwe Limit 7000 characters - 7000 characters remaining Upload Image Choose File Accepted file types: JPG, PNG Max file size: 2MB Send Loading... Please wait...
+
+Leadership Achievement Awards
+
+Financial Markets Awards
+
+Global Excellence in Retail Finance Awards
+
+Global AI Excellence Awards
+
+Regulation and Supervision Awards
+
+Risk Management Awards
+
+Financial Technology Innovation Awards
+
+Global Transaction Finance Awards
+
+Global Beyond Borders Awards
+
+Green and Sustainable Finance Awards
+
+China Awards
+
+Hong Kong Awards
+
+Indonesia Awards
+
+Korea Awards
+
+Malaysia Awards
+
+Middle East and Africa Awards
+
+Philippine Awards
+
+Sri Lanka Awards
+
+Taiwan Awards
+
+Thailand Awards
+
+Vietnam Awards
+
+West Africa Awards
+
+Events Signature Conferences The Asian Banker Summit Excellence in Retail Financial Services Country Level Annual Conferences Finance Indonesia Finance Philippines Finance China Finance West Africa Finance Malaysia Finance Thailand Finance Vietnam The Banking Academy Building the AI Bank Bootcamp Africa 2026 The ICAAP Forum Future Bank Council Innovation Study Tours Beijing AI Study Tour 2026 Past Innovation Tours Directories Directories List The List of Leading Practitioners Transaction Banking Directory Financial Technology Directory AI Listing FinTech Listing Other Resources Financial Services and Related Research Sources Writers & Contributors Lists and Rankings World’s Strongest Banks in the World World’s Largest Banks in the World World’s Best Retail Banks Ranking World’s Best Corporate, Investment and Wholesale Banks World’s Best Digital Banks Ranking World’s Best Financial Platforms Ranking World’s Strongest Islamic Banks World’s Largest Islamic Banks Our Products Content Marketing Solutions Digital Push 国际化数字营销 Corporate Videos White Papers and Industry Reports RadioFinance Research & Consulting Investor Profile Report Vendor Selection Report Management Engagement Programmes Confidential Market Research Surveys Events Event Management Services The Banking Academy Jobs in Finance Language English China Friday, 2 October 2026 The Asian Banker Wealth and Society TABLive The Banking Academy TABInsights BankQuality TAB Global Topics Topics Future Bank Council Financial Technology Working Group Transaction Finance Working Group Risk and Regulation Working Group Financial Markets Working Group Decentralised Finance (DeFi) Working Group Green and Sustainable Finance Working Group Wealth & Society Other Resources The Banking Academy BankQuality RadioFinance Emmanuel Daniel TABLive Conversations and Interviews Speeches and Presentations Site Visits and Case Studies Awards Ceremonies RadioFinance Awards The Asian Banker Awards Programmes Leadership Achievement Leadership Achievement Awards Financial Markets Financial Markets Awards Banking Global Excellence in Retail Finance Awards Global AI Excellence Awards Regulation and Supervision Awards Risk Management Awards Financial Technology Innovation Awards Global Transaction Finance Awards Global Beyond Borders Awards Green and Sustainable Finance Awards Country/Territory/Regional Awards China Awards Hong Kong Awards Indonesia Awards Korea Awards Malaysia Awards Middle East and Africa Awards Philippine Awards Sri Lanka Awards Taiwan Awards Thailand Awards Vietnam Awards West Africa Awards Events TAB Finance Diary of Events (Full Event Diary) Signature Conferences The Asian Banker Summit Excellence in Retail Financial Services Country Level Annual Conferences Finance Indonesia Finance Philippines Finance China Finance West Africa Finance Malaysia Finance Thailand Finance Vietnam The Banking Academy Building the AI Bank Bootcamp Africa 2026 The ICAAP Forum Future Bank Council Innovation Study Tours Beijing AI Study Tour 2026 Past Innovation Tours Directories Directories The List of Leading Practitioners Transaction Banking Directory Financial Technology Directory AI Listing FinTech Listing Other Resources Financial Services and Related Research Sources Writers & Contributors Lists and Rankings World’s Strongest Banks World’s Largest Banks World’s Best Retail Banks Ranking World’s Best Corporate, Investment and Wholesale Banks World’s Best Digital Banks Ranking World’s Best Financial Platforms Ranking World’s Strongest Islamic Banks World’s Largest Islamic Banks Our Products Content Marketing Solutions Digital Push 国际化数字营销 Corporate Videos White Papers and Industry Reports RadioFinance Research & Consulting Investor Profile Report Vendor Selection Report Management Engagement Programmes Confidential Market Research Surveys Events Event Management Services The Banking Academy Job in Finance Recent Search From banker to insurer - Dennis Tan’s transition to impacting lives at Prudential Singapore From banker to insurer - Dennis Tan’s transition to impacting lives at Prudential Singapore BNY strengthens GP&T execution through embedded AI and infrastructure scale Discover more trusted banking and financial services insights by adding The Asian Banker as a preferred source on Google. Written by Foo Boon Ping Mar 25, 2026 23 min read 0 3391 BNY's Global Payments & Trade business in Asia Pacific is scaling institutional infrastructure through embedded AI, integrated foreign exchange execution, virtual account structures and tokenised deposit development — positioning technology as an operational foundation rather than a product overlay. BNY generated over $20 billion in global revenue last year, reflecting 8% year-on-year growth. Assets under custody and/or administration (AUC/A) reached $59 trillion and assets under management (AUM) stood at $2.2 trillion. Asia Pacific delivered approximately 10% revenue growth year-on-year and its net income grew by approximately 5%. Fabian Khoshbakht, Head of Global Payments & Trade, Asia Pacific at BNY, described the regional franchise within this context. He emphasised disciplined balance sheet management and margin protection as structural features rather than cyclical outcomes. He positioned GP&T as an infrastructure service provider, enabling financial institutions to extend services to their own corporate or retail customers. Growth across Asia Pacific was described as driven by institutional expansion, corridor deepening and digital banking proliferation rather than direct competition for end-user accounts. The infrastructure underpinning that growth processes approximately $2.4 trillion in United States dollar payment value per day. Participation spans the Federal Reserve Wire Network (Fedwire), the Clearing House Interbank Payments System (CHIPS), Automated Clearing House (ACH) networks, Real-Time Payments (RTP) and the Federal Reserve’s FedNow Service. In this instance, BNY originated the first-ever $10 million in instant payment in U.S. history on the RTP network, and by leveraging the increased RTP transaction limit, extended real-time applicability to institutional and corporate flows – reinforcing the integration of real-time rails into broader liquidity strategies. Within this operating base, artificial intelligence deployment, integrated foreign exchange execution, virtual account structures, trade digitisation and tokenised deposit exploration are embedded into execution workflows. These functionalities operate within the same infrastructure layer rather than as isolated product verticals. Enterprise AI embedded into operations Building on the infrastructure foundation described earlier, Claude Reumert, Head of APAC Strategy, Global Payments & Trade, explained how AI is being integrated into the workflows. Rather than presenting AI as a standalone innovation programme, she described it as embedded into operational workflows and client engagement preparation. Eliza is BNY’s proprietary enterprise AI platform that is general-intelligence-model-agnostic and supports multi-agentic functionality as a foundation for the bank’s AI-enabled workforce. Integrating models from leading providers such as OpenAI, Google and Anthropic, it supports data extraction, document review, reconciliation support, fraud analytics and preparation for client coverage teams, among other things. The objective is to increase analytical precision and responsiveness as transaction volumes and mandate complexity expand. AI usage was framed as an expected component of daily work rather than optional experimentation, with employees operating their “own AI agents”, reinforcing that AI functionality is not limited to central teams but has been democratized across all BNY employees. Adoption is driven from the executive level and embedded into routine workflows. Enterprise-wide digital infrastructure supporting these initiatives includes more than 130 digital employees. This offering is not confined to Asia Pacific GP&T but forms part of broader enterprise infrastructure supporting operational execution, automation and workflow enhancement across different platforms. In the payments environment, AI supports anomaly detection and exception management across both cross-border and real-time rails. Machine learning models operate within established compliance frameworks, reinforcing monitoring and control rather than bypassing governance structures. Within liquidity and reconciliation processes, AI assists in matching disbursements, identifying breaks and prioritising resolution across jurisdictions. These use cases are practical rather than conceptual. The objective is to manage scale and complexity without proportionate increases in manual intervention. AI is also applied to client engagement preparation. Coverage teams leverage AI tools to consolidate information, prepare meeting agendas and surface relevant operational insights ahead of institutional discussions. The use of AI therefore spans both back-office execution and front-line client interaction. Engagement at BNY’s innovation centre reinforces this integration. Institutional clients visiting the centre are exposed to live AI applications and roadmap discussions, which in certain cases have triggered follow-on initiatives tied to specific operational use cases. Fabian Khoshbakht, Head of Global Payments & Trade, Asia Pacific, BNY Claude Reumert, Head of APAC Strategy, Global Payments & Trade, BNY Multilateral mandate execution and AI-enabled treasury architecture Jamie Pan, Head of Global Trade & Payments, China, outlined the mandate supporting a multilateral development bank with approximately $68 billion in approved financing across more than 350 projects in 40 economies. The mandate spans cross-border disbursement execution, multi-currency liquidity management and regulatory reporting across diverse jurisdictions. The engagement involves more than payments processing. Pan described the design of a tailored treasury architecture incorporating sweeping and zero-balancing structures to concentrate balances centrally. These mechanisms support yield optimisation while maintaining operational control across dispersed project accounts. Liquidity concentration is complemented by access to a direct liquidity platform that enables investment into money market funds. This structure allows surplus balances to be deployed efficiently while preserving visibility and governance standards appropriate for a multilateral institution. Project disbursements are executed centrally, but underlying funding flows extend across multiple jurisdictions where infrastructure projects are deployed. This requires coordination between cross-border payment rails, foreign exchange execution and liquidity management frameworks to ensure alignment between funding, settlement timing and reporting. Regulatory coordination forms a critical component of execution. Pan described step-by-step reporting processes conducted in collaboration with local banking partners to meet jurisdiction-specific requirements. Transparency across reporting, reconciliation and documentation must operate consistently despite differences in regulatory regimes. Reconciliation processes support matching funding instructions against project-level schedules and supporting documentation. Given the geographic dispersion of projects and counterparties, operational controls must function across currencies and regulatory frameworks without fragmentation. Pan said clients acknowledge the seamless processing of landmark payments and timeliness in execution. These operational benchmarks reinforce the mandate’s complexity and the requirement for integrated oversight. Representatives from the client visited BNY's Singapore innovation centre and were exposed to the AI roadmap and applied workflow use cases. The discussion around AI subsequently evolved into a focused initiative addressing loan disbursement tracking and reconciliation processes. This mandate illustrates how payments, liquidity concentration, foreign exchange management, regulatory coordination and AI-enabled workflow enhancement converge within a single institutional relationship. Institutional payments and foreign exchange execution under fintech pressure Raj Raman, Market Manager, Payments Product, Global Payments & Trade, APAC, described how foreign exchange (FX) execution is embedded directly into cross-border payment workflows. In discussing a transaction involving Indonesia, he referenced coordination with BNY’s Markets FX desks in the region supporting execution. FX is framed not as an ancillary revenue line but as an integrated component of end-to-end payment delivery. Pricing, execution and client communication are handled within the same operational environment as payment initiation and settlement, reducing hand-offs and latency. Raman emphasised that clients increasingly expect “a decent FX rate” together with speed of execution. He referenced some providers as having shifted market expectations around transparency, responsiveness and rate competitiveness. He highlighted a structural change in corridor competitiveness. Static daily pricing mechanisms are increasingly insufficient where fintech providers deliver dynamic pricing through application programming interfaces (APIs). Speed of rate delivery, including API-based integration, is now a material factor in defending transaction flows. Real-time payment rails reinforce this shift. As RTP and similar infrastructures extend into institutional use cases, the convergence between FX pricing responsiveness and real-time settlement becomes commercially significant. Delay in FX execution can undermine the perceived value of faster payment rails. FX integration was also positioned as protective of wallet share. Financial institutions seeking to defend retail and small business flows must deliver corridor competitiveness that meets fintech benchmarks while operating within regulated banking frameworks. Embedded FX execution allows partner banks to remain competitive without outsourcing pricing transparency to non-bank platforms. The institutional-retail crossover dynamic was implicit in the discussion. Even when serving financial institution clients, underlying end-customer expectations influence corridor competitiveness. FX execution therefore operates within both institutional and retail-relevant contexts. Liquidity alignment forms another dimension of integration. Currency conversion timing and pricing must align with liquidity concentration strategies rather than operate independently. By embedding FX within the same infrastructure layer, funding optimisation and corridor competitiveness can be coordinated rather than siloed. The integration of FX into payments infrastructure thus supports not only transactional execution but also balance sheet discipline and deposit quality, reinforcing the operational deposit model. Jamie Pan, Head of Global Trade & Payments, China, BNY Raj Raman, Market Manager, Payments Product, Global Payments & Trade, APAC, BNY Virtual account management and cross-border expansion for financial institutions Junyi Kuah, Head of International, Cash Management Solutions Product Specialist, described virtual account capabilities within Global Payments & Trade as a structural enabler for financial institutions expanding across jurisdictions without establishing full in-market infrastructure. He explained that virtual accounts allow partner banks to service their own end customers in markets where they may not maintain a local branch presence or clearing membership. Rather than opening traditional vostro accounts in each country, banks can operate through sub-ledgered virtual account structures layered over BNY’s infrastructure. This structure enables sub-client level identification while maintaining centralised settlement and liquidity management. Underlying client flows remain identifiable for reconciliation and reporting purposes, while funding is concentrated within a consolidated account framework. Kuah emphasised that the model supports financial institutions that are expanding into new corridors, particularly digital banks and non-bank financial institutions entering cross-border segments. Virtual accounts allow them to scale corridor access without fragmenting balances across multiple correspondent relationships. The reconciliation benefit is material. Each underlying client can be assigned a dedicated virtual identifier, enabling automated matching of incoming and outgoing payments. This reduces manual intervention, accelerates break resolution and improves transparency across distributed client portfolios. From a balance sheet perspective, the structure supports operational deposit aggregation rather than dispersed nostro fragmentation. Liquidity can be concentrated and managed centrally, aligning with the operational deposit growth referenced in the regional financial performance discussion. Kuah positioned the capability within BNY’s institutional banking model. Because BNY does not compete directly in retail or commercial banking segments, it can provide enabling infrastructure to financial institution clients without competitive conflict over end customers. The model also interacts with FX and real-time connectivity. Virtual account identifiers combined with API-enabled connectivity allow financial institutions to provide responsive pricing and settlement to their own customers while relying on BNY’s clearing infrastructure. As cross-border digital commerce grows in Asia Pacific, financial institutions require scalable identification frameworks that do not require duplicative local clearing relationships. Virtual accounts therefore operate as both an operational and strategic expansion tool. The capability is not positioned as a standalone product but as part of the integrated execution model linking payments, liquidity, FX and servicing functions. Innovation partnerships and operational visibility through TreasuryEdge Danny Goh, Digital Payments Solutions Manager, Global Payments & Trade, APAC, outlined innovation not as isolated product development but as coordinated partnership with financial institutions, fintech firms and infrastructure providers. He described engagement models in which clients are brought into early-stage discussions around rail adoption, connectivity upgrades and workflow redesign. Innovation was positioned as joint problem-solving rather than unilateral feature deployment. Goh emphasised that financial institutions increasingly seek to reclaim flows lost to fintech competitors. In this context, infrastructure upgrades must align with client commercial strategy. Faster rails, API integration and pricing responsiveness are relevant only insofar as they support client retention and corridor defence. Collaboration was described as extending beyond technical implementation. It includes education, client testing and structured pilots where new rails or digital capabilities are introduced with selected clients before broader rollout. TreasuryEdge was introduced within this framework as a digital treasury solution consolidating visibility across payment status, account balances and transaction data. Rather than being a standalone dashboard, it functions as an operational interface linking multiple liquidity and payment streams. Goh explained that TreasuryEdge integrates with existing connectivity channels, including application programming interfaces and file-based integrations. This allows clients to access real-time visibility into balances and transaction states across jurisdictions without replacing established enterprise resource planning (ERP) or treasury management systems. The emphasis was on actionable visibility. Payment tracking, liquidity positioning and funding decisions can be aligned in near real time, reducing uncertainty around settlement timing and balance allocation. TreasuryEdge also operates as a layer through which AI-derived insights can be surfaced. Transaction pattern recognition, anomaly identification and liquidity optimisation indicators can be translated into operational prompts rather than remaining analytical outputs. In this sense, TreasuryEdge becomes the interface through which embedded AI functionalities are operationalised. Insights generated within reconciliation, monitoring or forecasting workflows can influence funding decisions and payment sequencing. The solution supports treasurers managing multi-jurisdictional portfolios where fragmentation across banks and currencies would otherwise reduce transparency. By consolidating payment and liquidity data into a single environment, decision-making latency can be reduced. Innovation was therefore described not as experimentation but as execution enhancement. Infrastructure scale, embedded AI and digital visibility converge through client-facing tools such as TreasuryEdge. Junyi Kuah, Head of International, Cash Management Solutions Product Specialist, BNY Danny Goh, Digital Payments Solutions Manager, Global Payments & Trade, APAC, BNY Client enablement discipline and servicing experience as key differentiators Amy Tong, Head of Global Payments & Trade Client Service, APAC, focused on what occurs after mandate award. She positioned implementation capability as determinative of whether institutional relationships expand or stall. Tong explained that complex mandates involving financial institutions, multilateral entities or cross-border treasury structures require coordinated onboarding across jurisdictions. Documentation alignment, regulatory validation, account structuring and connectivity configuration must occur in parallel rather than sequentially. Implementation in this context is not administrative processing. It is a multi-market execution exercise requiring alignment between payment rails, foreign exchange workflows, liquidity concentration structures and reporting frameworks. A misalignment in any layer can delay go-live or undermine client confidence. She described governance structures designed to coordinate onboarding milestones across functional teams. Payments, FX, liquidity, trade and technology teams must operate with shared visibility over implementation status and risk checkpoints. Escalation pathways were emphasised as critical in cross-border mandates. Where regulatory or documentation discrepancies arise in one jurisdiction, coordinated resolution must occur without affecting adjacent flows. The servicing model is therefore designed to anticipate and contain friction rather than react to breakdown. Tong also referenced proactive communication with clients throughout onboarding and post-go-live phases. Structured updates, transparent reporting and clearly defined service governance forums reduce uncertainty and support relationship depth. Servicing discipline continues after implementation. Multi-currency mandates require ongoing monitoring of processing accuracy, settlement timing and exception resolution. The objective is to maintain predictable operational performance rather than episodic responsiveness. Client satisfaction is shaped less by product breadth and more by reliability, responsiveness and clarity. Transparency around payment status, liquidity positioning and issue escalation contributes directly to retention and wallet expansion. In mandates, servicing functions must coordinate closely with treasury structuring, payments operations and compliance teams. Cross-functional alignment sustains operational continuity across jurisdictions. The servicing layer therefore operates as an extension of infrastructure capability. Clearing scale and digital functionality are reinforced by governance discipline and execution predictability. Trade execution and digitisation within cross-border mandates Angelia Toh, Trade Finance Structurer, Global Payments & Trade, APAC, addressed the positioning of trade capability within the broader payments, liquidity and foreign exchange framework. She described trade finance as increasingly integrated with payment execution and liquidity management rather than operating as a standalone documentary function. Cross-border trade flows require coordination between issuance of documentary credits, funding arrangements and settlement timing across multiple jurisdictions. Toh explained that trade mandates frequently involve alignment between commercial contracts, shipment schedules, financing terms and payment release triggers. Where trade and payments operate in silos, timing mismatches can create funding inefficiencies or reconciliation breaks. Digitisation initiatives were referenced as a means of reducing manual intervention in documentary processes. In corridors where paper-based trade documentation remains prevalent, workflow automation can accelerate document checking, reduce error rates and improve transparency between counterparties. Automation supports consistency in compliance review and documentary validation. Rather than relying solely on manual checking of letters of credit or shipping documents, structured data extraction and validation processes improve processing predictability. Trade flows were positioned as directly linked to liquidity concentration and foreign exchange execution. Settlement of documentary credits or trade loans must align with currency conversion timing and liquidity positioning to avoid unnecessary funding strain. Integration across trade, payments and FX reduces fragmentation between underlying commercial activity and settlement. When documentary triggers activate payment flows, execution can occur within the same operational framework described earlier. Toh also indicated that trade structuring increasingly requires coordination with digital connectivity models. API-based connectivity and digital document exchange platforms can shorten turnaround times and enhance audit trails. In expanding global corridors, trade activity is frequently multi-jurisdictional, requiring alignment with varying regulatory standards. Coordinated reporting and compliance processes therefore form part of execution design rather than post-event adjustment. Trade capability in this context operates as part of the integrated execution model underpinning institutional mandates. It complements clearing infrastructure, FX integration and liquidity concentration rather than functioning independently. Amy Tong, Head of Global Payments & Trade Client Service, APAC, BNY Angelia Toh, Trade Finance Structurer, Global Payments & Trade, APAC, BNY Digital assets and tokenised deposit capability within regulated frameworks Warren Soo, Head of Digital Cash and Innovation, APAC, addressed BNY’s tokenised deposit initiative within the broader context of digital asset infrastructure development. He described tokenised deposits as a representation of commercial bank money on distributed ledger technology while remaining a bank liability. The emphasis was on the fact that the instrument sits on the bank’s balance sheet and therefore operates within existing regulatory and supervisory frameworks. Building on this, BNY’s approach creates an on-chain, “mirrored” representation of client deposit balances on a private, permissioned blockchain – governed by established risk, compliance and control frameworks, while client balances continue to be recorded on traditional systems to maintain regulatory and reporting integrity. Soo differentiated tokenised deposits from stablecoins, noting that stablecoins are typically issued by non-bank entities, whereas tokenised deposits reflect regulated bank money. The distinction was framed as material in institutional use cases where balance sheet backing are critical. The discussion centred on programmability and settlement efficiency. Soo explained that distributed ledger infrastructure allows conditional logic and synchronised settlement functionality, which can support multi-party transaction workflows. He linked the initiative to evolving settlement expectations, particularly where institutional clients are exploring blockchain-enabled transaction models. The framing was tied to practical use cases in controlled environments. The initiative was described as aligned with broader payment infrastructure evolution rather than as a separate digital asset business line. Tokenised deposits operate alongside established clearing rails and treasury frameworks rather than replacing them, extending trusted bank deposits onto digital rails within a framework built for scale, resilience and regulatory alignment. Within Asia Pacific, Soo noted growing institutional interest in distributed ledger applications where regulatory parameters are clearer. The approach described focuses on structured collaboration and defined use cases rather than open-ended deployment. The tokenised deposit initiative therefore reflects BNY’s broader model of embedding digital innovation within regulated infrastructure and established treasury architecture. Regional execution discipline and structural growth in South and Southeast Asia Yew Fei Yeow, Head for APAC Banks, Global Payments & Trade, APAC, contributed throughout the discussion, including at the outset where leadership structure and regional alignment were referenced. His remarks framed the franchise within markets experiencing sustained cross-border transaction growth and digital banking expansion. Yeow described expansion across financial institutions, digital banks and non-bank financial institutions as being supported by infrastructure access rather than product proliferation. The regional strategy centres on enabling partner institutions to extend their own client reach across corridors. Virtual accounts, real-time connectivity and embedded foreign exchange execution were referenced as enabling capabilities supporting this institutional expansion. These capabilities allow banks to compete in retail and small business segments without building duplicative local infrastructure. He underscored the importance of cross-functional coordination across payments, FX, liquidity, trade and servicing teams. As mandates become more multi-jurisdictional and structurally complex, growth depends on execution consistency rather than standalone product penetration. South and Southeast Asia were positioned as priority corridors where cross-border commerce, digital banking adoption and infrastructure investment flows continue to expand. The franchise’s role is to provide scalable, regulated infrastructure aligned with those flows. Warren Soo, Head of Digital Cash and Innovation, APAC, BNY Yew Fei Yeow, Head for APAC Banks, Global Payments & Trade, APAC, BNY Integrated execution as a structural differentiator Khoshbakht reinforced that BNY's GP&T franchise operates on infrastructure scale and governance discipline rather than product isolation. AI functionality is embedded within operational workflows — from reconciliation and anomaly detection to client engagement preparation — rather than positioned as external experimentation. To make AI ‘everywhere, for everything and for everyone’, BNY has integrated AI literacy into its manager development and analyst program to upskill employees. The bank views it as a superpower for employees and believes AI can amplify human potential. Virtual account structures enable financial institutions to expand across jurisdictions while maintaining consolidated liquidity and reporting frameworks. Embedded foreign exchange execution supports corridor competitiveness under fintech pressure. Trade digitisation, TreasuryEdge visibility tools and tokenised deposit initiatives operate within the same regulated treasury architecture rather than as parallel innovation tracks. Across Asia Pacific, growth reflects institutional demand for coordinated execution across payments, foreign exchange, liquidity, trade and servicing functions. The recurring structural theme is integration: infrastructure scale aligned with embedded technology, balance sheet discipline and cross-functional execution. Keywords: Global Payments & Trade embedded AI infrastructure foreign exchange virtual accounts tokenised deposits real-time payments liquidity management trade finance TreasuryEdge correspondent banking cross-border payments fintech digital banking reconciliation Institutions: BNY Country: United States China Indonesia Region: Asia Pacific South Asia Southeast Asia People: Fabian Khoshbakht Claude Reumert Jamie Pan Raj Raman Junyi Kuah Danny Goh Amy Tong Angelia Toh Warren Soo Yew Fei Yeow Recent Articles Barclays expands Anthropic’s Claude Code to support software development and legacy modernisation Can Mizuho turn a $1 billion supply chain facility into deeper Asia Pacific relationships? Can ING turn supply chain resilience into a transaction banking advantage? NGFS outlines how climate risk could raise banks’ capital requirements Can Finastra use AI to accelerate payments modernisation? About us | Contact us | Feedback | Advertise with us | Privacy Policy | Copyrights Requests | Jobs and Internships with us | Site Map | Legal Notice The Asian Banker website does not provide financial advice, recommend or sell any financial product/service. Views and opinions expressed on this website belong strictly to individual authors/contributors and do not represent The Asian Banker. © Copyright Powered by We use cookies to tailor your experience and present relevant ads. By clicking 'Accept,' you agree to our Privacy Policy. Accept Chat with us Login Google LinkedIn or Remember me Forgot password? Login Don't have an account? Register or Subscribe Now Country/Region Australia (+61) China (+86) Singapore (+65) United Kingdom (+44) United States (+1) UK (+44) USA (+1) Afghanistan (+93) Algeria (+213) Andorra (+376) Angola (+244) Anguilla (+1264) Antigua & Barbuda (+1268) Argentina (+54) Armenia (+374) Aruba (+297) Austria (+43) Azerbaijan (+994) Bahamas (+1242) Bahrain (+973) Bangladesh (+880) Barbados (+1246) Belarus (+375) Belgium (+32) Belize (+501) Benin (+229) Bermuda (+1441) Bhutan (+975) Bolivia (+591) Bosnia Herzegovina (+387) Botswana (+267) Brazil (+55) Brunei (+673) Bulgaria (+359) Burkina Faso (+226) Burundi (+257) Cambodia (+855) Cameroon (+237) Canada (+1) Cape Verde Islands (+238) Cayman Islands (+1345) Central African Republic (+236) Chile (+56) Colombia (+57) Comoros (+269) Congo (+242) Cook Islands (+682) Costa Rica (+506) Croatia (+385) Cuba (+53) Cyprus North (+90392) Cyprus South (+357) Czech Republic (+42) Denmark (+45) Djibouti (+253) Dominica (+1809) Dominican Republic (+1809) Ecuador (+593) Egypt (+20) El Salvador (+503) Equatorial Guinea (+240) Eritrea (+291) Estonia (+372) Ethiopia (+251) Falkland Islands (+500) Faroe Islands (+298) Fiji (+679) Finland (+358) France (+33) French Guiana (+594) French Polynesia (+689) Gabon (+241) Gambia (+220) Georgia (+7880) Germany (+49) Ghana (+233) Gibraltar (+350) Greece (+30) Greenland (+299) Grenada (+1473) Guadeloupe (+590) Guam (+671) Guatemala (+502) Guinea (+224) Guinea - Bissau (+245) Guyana (+592) Haiti (+509) Honduras (+504) Hungary (+36) Iceland (+354) India (+91) Indonesia (+62) Iran (+98) Iraq (+964) Ireland (+353) Israel (+972) Italy (+39) Jamaica (+1876) Japan (+81) Jordan (+962) Kazakhstan (+7) Kenya (+254) Kiribati (+686) Korea North (+850) Korea South (+82) Kuwait (+965) Kyrgyzstan (+996) Laos (+856) Latvia (+371) Lebanon (+961) Lesotho (+266) Liberia (+231) Libya (+218) Liechtenstein (+417) Lithuania (+370) Luxembourg (+352) Macao (+853) Macedonia (+389) Madagascar (+261) Malawi (+265) Malaysia (+60) Maldives (+960) Mali (+223) Malta (+356) Marshall Islands (+692) Martinique (+596) Mauritania (+222) Mayotte (+269) Mexico (+52) Micronesia (+691) Moldova (+373) Monaco (+377) Mongolia (+976) Montserrat (+1664) Morocco (+212) Mozambique (+258) Myanmar (+95) Namibia (+264) Nauru (+674) Nepal (+977) Netherlands (+31) New Caledonia (+687) New Zealand (+64) Nicaragua (+505) Niger (+227) Nigeria (+234) Niue (+683) Norfolk Islands (+672) Northern Marianas (+670) Norway (+47) Oman (+968) Palau (+680) Panama (+507) Papua New Guinea (+675) Paraguay (+595) Peru (+51) Philippines (+63) Poland (+48) Portugal (+351) Puerto Rico (+1787) Qatar (+974) Reunion (+262) Romania (+40) Russia (+7) Rwanda (+250) San Marino (+378) Sao Tome & Principe (+239) Saudi Arabia (+966) Senegal (+221) Serbia (+381) Seychelles (+248) Sierra Leone (+232) Slovak Republic (+421) Slovenia (+386) Solomon Islands (+677) Somalia (+252) South Africa (+27) Spain (+34) Sri Lanka (+94) St. Helena (+290) St. Kitts (+1869) St. Lucia (+1758) Sudan (+249) Suriname (+597) Swaziland (+268) Sweden (+46) Switzerland (+41) Syria (+963) Tajikstan (+7) Thailand (+66) Togo (+228) Tonga (+676) Trinidad & Tobago (+1868) Tunisia (+216) Turkey (+90) Turkmenistan (+7) Turkmenistan (+993) Turks & Caicos Islands (+1649) Tuvalu (+688) Uganda (+256) Ukraine (+380) United Arab Emirates (+971) Uruguay (+598) Uzbekistan (+7) Vanuatu (+678) Vatican City (+379) Venezuela (+58) Vietnam (+84) Virgin Islands - British (+1284) Virgin Islands - US (+1340) Wallis & Futuna (+681) Yemen (North)(+969) Yemen (South)(+967) Zambia (+260) Zimbabwe (+263) 90321 I agree to share my personal data to access this service & to the privacy policy of The Asian Banker I wish to receive your newsletters. (optional) Submit Or become a member today Already have account ? Login Share LinkedIn Twitter Facebook WhatsApp Email Reddit Copy Link Conversations Post Comment Cancel All Comments There are no comments. Be the first to comment! Filter By Name By Institution By Month By Country By Region By Keyword Search by name Will Dawson Wendy Weng Wan Hua Vladislav Solodkiy Vijay Shekhar Sharma Tom Eck The Asian Banker Tao Rong TABLive TAB RadioFinance Simon Paris Siddharth Chandani Saad Azhari Russell Pereira Ruoxin Qi Rob Palatnick Research Ralph Echemendia Paula da Silva Nikolay Storonsky Nestor Espenilla Jr. Neeti Aggarwal Nanda Lakhwani Nancy So Matthias Kröner Martin Grunewald Mark Zawacki Mark Whitcroft Mark Evans Kristo Kaarmann Kevin Luarca John Gong John Campbell Jesse Lund Jesse Chenard Jeff Villapando Janine Marie Crisanto Jafar Amin Harith,Foo Boon Ping Hank Uberoi Giles Goh Genki Oka Genivi Factao Foo Boon Ping Emmanuel Daniel Editorial Darren Taylor Daniel Hoyoung Yun Chris Kapfer Chen De Bobby Lee Betty DeVita Ben Chisell Barney Frank,Barney Frank,Barney Frank Barney Frank Alasdair Rambaud Alain Falys Ajit Kanagasundram 683 William De Vijlder No results found Please try again with a different keyword. Search by institution Zodia Custody Standard Chartered Northern Trust National Australia Bank Emirates NBD Zilliqa Capital Ether Capital AllianceBernstein Societe Generale Trust Company of the West AsiaVest Partners Quail Creek Ventures Xfers MAS Zhixin Investment Research Institute China Chief Economist Forum Bank of Communication Xinhu Wealth Management World Trade Organization Yield Guild Games Union Digital Bank Yes Bank ICICI Bank Indian Banks' Association Punjab National Bank HDFC Bank Axis Bank SBI Oracle XION World Trade Organization Global Value Chain Development Report 2025 World Federation of Exchanges Wise Wise Platform Aspire Bank Mandiri Standard Chartered Shinhan Bank Swift G20 Wikipedia Google GITHub Microsoft Facebook Amazon No results found Please try again with a different keyword. Search by month September October November May March June July January February December August April No results found Please try again with a different keyword. Search by country Vietnam Pakistan Vietnam versions US India China Poland Portugal Philippines Germany United States Germany United States Singapore United Kingdom Switzerland UAE United States Singapore Hong Kong Japan United States Nigeria Argentina Turkey European Union Singapore United States Germany United States European Union Germany United States United Kingdom Germany United Arab Emirates Ukraine || Russia || Singapore || China || Japan || India || South Korea || Australia || New Zealand Timor-Leste Switzerland Germany Switzerland Philippines United States Australia Greece Switzerland Hong Kong Singapore United Arab Emirates Singapore Malaysia Thailand Singapore India No results found Please try again with a different keyword. Search by region versions US Europe US united states United Kingdom Southeast Asia United States Southeast Asia Asia Pacific Southeast Asia North Asia Africa Latin America Asia Pacific Southeast Asia Middle East Southeast Asia Asia Pacific Southeast Asia Asia Southeast Asia Africa Southeast Asia South East Asia Asia US South East Asia South Asia Programme North Asia Greater China Asia Pacific North America Europe Asia Middle East North America No results found Please try again with a different keyword. Search by keyword versions AI digital assets tokenisation distributed ledger technology shared ledger Swift CashPro CashPro Insights cash flow forecasting liquidity cross-border payments transaction banking payment solutions APIs collaboration Sibos-2025 ai development machine learning general intelligence natural language processing data analytics healthcare finance genetic research neurips NFTs tokenising Digital assets blockchain web3 crypto sibos 2020 sibos 2018 cash basel committee on banking supervision 248 blockchain distributed ledger technology asset tokenisation jpm coin digital payments cross-border transactions digital securities tokenisation on-chain fx settlements real-time settlement repo transactions programmable payments regulatory frameworks financial inclusion fintech ecosystem regulatory frameworks climate tech artificial intelligence digital innovation market infrastructure rationalisation cybersecurity Anti-Financial Account Scamming Act payments efficiency fintech technology adoption legislative reform transformation transaction banking fragmented global flows liquidity management cross-border execution supply chain diversification clearing capabilities working capital financing real-time liquidity visibility interoperability API connectivity issuer processing cloud-native API-first digital payments modular platform artificial intelligence (AI) financial inclusion digital economy economic competitiveness fintech innovation regulatory frameworks public-private collaboration national strategy AI adoption core banking modernisation Temenos Core Red Hat OpenShift containerisation Kubernetes cloud-native microservices data residency disaster recovery digital transformation AI-ready agentic AI conversational AI AI factory system of record speed-to-market resilience scalability Leadership trust data-driven leadership banking innovation risk-taking courage asset-to-liability ratio cost-to-income ratio team empowerment banking challenges financial performance Victoria Falls bungee jump decision-making David Livingstone Robert Kuok Emmanuel Daniel Cecil Rhodes digitalisation mobile banking Credit Card technology platform fintech digital payments BNPL ekyc app mb bank biz mb smart crm national digital transformation programme covid-19 CAGR inhandao ROA covid-19 digital infrastructure : GDP NPL digitalisation CBDC cashless payments cross border financial inclusion mobile banking digital platforms 5g Internet Banking game crypto blockchain gaming tokens metaverse digital play-to-earn No results found Please try again with a different keyword. Discover Key Insights in Our Latest Report Get data-driven analysis, expert insights, and actionable recommendations — all in one downloadable PDF. It’s free — just fill out the quick form to get instant access. Full Name * Email * Country * --Select-- China Indonesia Hong Kong Malaysia Singapore Thailand United States Afghanistan Albania Algeria Andorra Angola Antigua & Deps Argentina Armenia Australia Austria Azerbaijan Bahamas Bahrain Bangladesh Barbados Belarus Belgium Belize Benin Bermuda Bhutan Bolivia Bosnia & Herzegovina Botswana Brazil Brunei Bulgaria Burkina Burundi Cambodia Cameroon Canada Cape Verde Central African Rep Chad Chile Colombia Comoros Congo Congo (Democratic Rep) Costa Rica Croatia Cuba Cyprus Czech Republic Denmark Djibouti Dominica Dominican Republic East Timor Ecuador Egypt El Salvador Equatorial Guinea Eritrea Estonia Eswatini Ethiopia Fiji Finland France Gabon Gambia Georgia Germany Ghana Greece Grenada Guatemala Guinea Guinea-Bissau Guyana Haiti Honduras Hungary Iceland India Iran Iraq Ireland (Republic) Israel Italy Ivory Coast Jamaica Japan Jordan Kazakhstan Kenya Kiribati Korea North Korea South Kosovo Kuwait Kyrgyzstan Laos Latvia Lebanon Lesotho Liberia Libya Liechtenstein Lithuania Luxembourg Macedonia Madagascar Malawi Maldives Mali Malta Marshall Islands Mauritania Mauritius Mexico Micronesia Moldova Monaco Mongolia Montenegro Morocco Mozambique Myanmar Namibia Nauru Nepal Netherlands New Zealand Nicaragua Niger Nigeria Norway Oman Pakistan Palau Palestine Panama Papua New Guinea Paraguay Peru Philippines Poland Portugal Qatar Romania Russian Federation Rwanda St Kitts & Nevis St Lucia Saint Vincent & the Grenadines Samoa San Marino Sao Tome & Principe Saudi Arabia Senegal Serbia Seychelles Sierra Leone Slovakia Slovenia Solomon Islands Somalia South Africa South Sudan Spain Sri Lanka Sudan Suriname Sweden Switzerland Syria Taiwan Tajikistan Tanzania Togo Tonga Trinidad & Tobago Tunisia Turkey Turkmenistan Tuvalu Uganda Ukraine United Arab Emirates United Kingdom Uruguay Uzbekistan Vanuatu Vatican City Venezuela Vietnam Yemen Zambia Zimbabwe Institution * Department Job Title I consent to receiving marketing communications from FIS by telephone, email, SMS and physical mail. I understand I will be able to withdraw my consent, change the method(s) used for communication or unsubscribe at any time by clicking here. Please read FIS' privacy notice. to learn more how FIS will process your personal data. Submit FEEDBACK -Choose- Bug Report Feature Request Other --Select Country-- China Indonesia Hong Kong Malaysia Singapore Thailand United States Afghanistan Albania Algeria Andorra Angola Antigua & Deps Argentina Armenia Australia Austria Azerbaijan Bahamas Bahrain Bangladesh Barbados Belarus Belgium Belize Benin Bermuda Bhutan Bolivia Bosnia & Herzegovina Botswana Brazil Brunei Bulgaria Burkina Burundi Cambodia Cameroon Canada Cape Verde Central African Rep Chad Chile Colombia Comoros Congo Congo (Democratic Rep) Costa Rica Croatia Cuba Cyprus Czech Republic Denmark Djibouti Dominica Dominican Republic East Timor Ecuador Egypt El Salvador Equatorial Guinea Eritrea Estonia Eswatini Ethiopia Fiji Finland France Gabon Gambia Georgia Germany Ghana Greece Grenada Guatemala Guinea Guinea-Bissau Guyana Haiti Honduras Hungary Iceland India Iran Iraq Ireland (Republic) Israel Italy Ivory Coast Jamaica Japan Jordan Kazakhstan Kenya Kiribati Korea North Korea South Kosovo Kuwait Kyrgyzstan Laos Latvia Lebanon Lesotho Liberia Libya Liechtenstein Lithuania Luxembourg Macedonia Madagascar Malawi Maldives Mali Malta Marshall Islands Mauritania Mauritius Mexico Micronesia Moldova Monaco Mongolia Montenegro Morocco Mozambique Myanmar Namibia Nauru Nepal Netherlands New Zealand Nicaragua Niger Nigeria Norway Oman Pakistan Palau Palestine Panama Papua New Guinea Paraguay Peru Philippines Poland Portugal Qatar Romania Russian Federation Rwanda St Kitts & Nevis St Lucia Saint Vincent & the Grenadines Samoa San Marino Sao Tome & Principe Saudi Arabia Senegal Serbia Seychelles Sierra Leone Slovakia Slovenia Solomon Islands Somalia South Africa South Sudan Spain Sri Lanka Sudan Suriname Sweden Switzerland Syria Taiwan Tajikistan Tanzania Togo Tonga Trinidad & Tobago Tunisia Turkey Turkmenistan Tuvalu Uganda Ukraine United Arab Emirates United Kingdom Uruguay Uzbekistan Vanuatu Vatican City Venezuela Vietnam Yemen Zambia Zimbabwe Limit 7000 characters - 7000 characters remaining Upload Image Choose File Accepted file types: JPG, PNG Max file size: 2MB Send Loading... Please wait...
+
+The Asian Banker Summit
+
+Excellence in Retail Financial Services
+
+Finance Indonesia
+
+Finance Philippines
+
+Finance China
+
+Finance West Africa
+
+Finance Malaysia
+
+Finance Thailand
+
+Finance Vietnam
+
+Building the AI Bank Bootcamp Africa 2026
+
+The ICAAP Forum
+
+Future Bank Council
+
+Beijing AI Study Tour 2026
+
+Past Innovation Tours
+
+Directories Directories List The List of Leading Practitioners Transaction Banking Directory Financial Technology Directory AI Listing FinTech Listing Other Resources Financial Services and Related Research Sources Writers & Contributors Lists and Rankings World’s Strongest Banks in the World World’s Largest Banks in the World World’s Best Retail Banks Ranking World’s Best Corporate, Investment and Wholesale Banks World’s Best Digital Banks Ranking World’s Best Financial Platforms Ranking World’s Strongest Islamic Banks World’s Largest Islamic Banks Our Products Content Marketing Solutions Digital Push 国际化数字营销 Corporate Videos White Papers and Industry Reports RadioFinance Research & Consulting Investor Profile Report Vendor Selection Report Management Engagement Programmes Confidential Market Research Surveys Events Event Management Services The Banking Academy Jobs in Finance Language English China
+
+The List of Leading Practitioners
+
+Transaction Banking Directory
+
+Financial Technology Directory
+
+AI Listing
+
+FinTech Listing
+
+Financial Services and Related Research Sources
+
+Writers & Contributors
+
+Lists and Rankings World’s Strongest Banks in the World World’s Largest Banks in the World World’s Best Retail Banks Ranking World’s Best Corporate, Investment and Wholesale Banks World’s Best Digital Banks Ranking World’s Best Financial Platforms Ranking World’s Strongest Islamic Banks World’s Largest Islamic Banks
+
+World’s Strongest Banks in the World
+
+World’s Largest Banks in the World
+
+World’s Best Retail Banks Ranking
+
+World’s Best Corporate, Investment and Wholesale Banks
+
+World’s Best Digital Banks Ranking
+
+World’s Best Financial Platforms Ranking
+
+World’s Strongest Islamic Banks
+
+World’s Largest Islamic Banks
+
+Our Products Content Marketing Solutions Digital Push 国际化数字营销 Corporate Videos White Papers and Industry Reports RadioFinance Research & Consulting Investor Profile Report Vendor Selection Report Management Engagement Programmes Confidential Market Research Surveys Events Event Management Services The Banking Academy Jobs in Finance
+
+Digital Push
+
+国际化数字营销
+
+Corporate Videos
+
+White Papers and Industry Reports
+
+RadioFinance
+
+Investor Profile Report
+
+Vendor Selection Report
+
+Management Engagement Programmes
+
+Confidential Market Research
+
+Surveys
+
+Event Management Services
+
+Jobs in Finance
+
+The Asian Banker Wealth and Society TABLive The Banking Academy TABInsights BankQuality TAB Global
+
+The Asian Banker
+
+Wealth and Society
+
+TABLive
+
+The Banking Academy
+
+TABInsights
+
+BankQuality
+
+TAB Global
+
+Topics Topics Future Bank Council Financial Technology Working Group Transaction Finance Working Group Risk and Regulation Working Group Financial Markets Working Group Decentralised Finance (DeFi) Working Group Green and Sustainable Finance Working Group Wealth & Society Other Resources The Banking Academy BankQuality RadioFinance Emmanuel Daniel
+
+Topics
+
+Future Bank Council
+
+Financial Technology Working Group
+
+Transaction Finance Working Group
+
+Risk and Regulation Working Group
+
+Financial Markets Working Group
+
+Decentralised Finance (DeFi) Working Group
+
+Green and Sustainable Finance Working Group
+
+Wealth & Society
+
+Other Resources
+
+The Banking Academy
+
+BankQuality
+
+RadioFinance
+
+Emmanuel Daniel
+
+TABLive Conversations and Interviews Speeches and Presentations Site Visits and Case Studies Awards Ceremonies RadioFinance
+
+Conversations and Interviews
+
+Speeches and Presentations
+
+Site Visits and Case Studies
+
+Awards Ceremonies
+
+RadioFinance
+
+Awards The Asian Banker Awards Programmes Leadership Achievement Leadership Achievement Awards Financial Markets Financial Markets Awards Banking Global Excellence in Retail Finance Awards Global AI Excellence Awards Regulation and Supervision Awards Risk Management Awards Financial Technology Innovation Awards Global Transaction Finance Awards Global Beyond Borders Awards Green and Sustainable Finance Awards Country/Territory/Regional Awards China Awards Hong Kong Awards Indonesia Awards Korea Awards Malaysia Awards Middle East and Africa Awards Philippine Awards Sri Lanka Awards Taiwan Awards Thailand Awards Vietnam Awards West Africa Awards
+
+Leadership Achievement
+
+Leadership Achievement Awards
+
+Financial Markets
+
+Financial Markets Awards
+
+Banking
+
+Global Excellence in Retail Finance Awards
+
+Global AI Excellence Awards
+
+Regulation and Supervision Awards
+
+Risk Management Awards
+
+Financial Technology Innovation Awards
+
+Global Transaction Finance Awards
+
+Global Beyond Borders Awards
+
+Green and Sustainable Finance Awards
+
+Country/Territory/Regional Awards
+
+China Awards
+
+Hong Kong Awards
+
+Indonesia Awards
+
+Korea Awards
+
+Malaysia Awards
+
+Middle East and Africa Awards
+
+Philippine Awards
+
+Sri Lanka Awards
+
+Taiwan Awards
+
+Thailand Awards
+
+Vietnam Awards
+
+West Africa Awards
+
+Events TAB Finance Diary of Events (Full Event Diary) Signature Conferences The Asian Banker Summit Excellence in Retail Financial Services Country Level Annual Conferences Finance Indonesia Finance Philippines Finance China Finance West Africa Finance Malaysia Finance Thailand Finance Vietnam The Banking Academy Building the AI Bank Bootcamp Africa 2026 The ICAAP Forum Future Bank Council Innovation Study Tours Beijing AI Study Tour 2026 Past Innovation Tours
+
+Signature Conferences
+
+The Asian Banker Summit
+
+Excellence in Retail Financial Services
+
+Country Level Annual Conferences
+
+Finance Indonesia
+
+Finance Philippines
+
+Finance China
+
+Finance West Africa
+
+Finance Malaysia
+
+Finance Thailand
+
+Finance Vietnam
+
+The Banking Academy
+
+Building the AI Bank Bootcamp Africa 2026
+
+The ICAAP Forum
+
+Future Bank Council
+
+Innovation Study Tours
+
+Beijing AI Study Tour 2026
+
+Past Innovation Tours
+
+Directories Directories The List of Leading Practitioners Transaction Banking Directory Financial Technology Directory AI Listing FinTech Listing Other Resources Financial Services and Related Research Sources Writers & Contributors
+
+Directories
+
+The List of Leading Practitioners
+
+Transaction Banking Directory
+
+Financial Technology Directory
+
+AI Listing
+
+FinTech Listing
+
+Other Resources
+
+Financial Services and Related Research Sources
+
+Writers & Contributors
+
+Lists and Rankings World’s Strongest Banks World’s Largest Banks World’s Best Retail Banks Ranking World’s Best Corporate, Investment and Wholesale Banks World’s Best Digital Banks Ranking World’s Best Financial Platforms Ranking World’s Strongest Islamic Banks World’s Largest Islamic Banks
+
+World’s Strongest Banks
+
+World’s Largest Banks
+
+World’s Best Retail Banks Ranking
+
+World’s Best Corporate, Investment and Wholesale Banks
+
+World’s Best Digital Banks Ranking
+
+World’s Best Financial Platforms Ranking
+
+World’s Strongest Islamic Banks
+
+World’s Largest Islamic Banks
+
+Our Products Content Marketing Solutions Digital Push 国际化数字营销 Corporate Videos White Papers and Industry Reports RadioFinance Research & Consulting Investor Profile Report Vendor Selection Report Management Engagement Programmes Confidential Market Research Surveys Events Event Management Services The Banking Academy
+
+Content Marketing Solutions
+
+Digital Push
+
+国际化数字营销
+
+Corporate Videos
+
+White Papers and Industry Reports
+
+RadioFinance
+
+Research & Consulting
+
+Investor Profile Report
+
+Vendor Selection Report
+
+Management Engagement Programmes
+
+Confidential Market Research
+
+Surveys
+
+Events
+
+Event Management Services
+
+The Banking Academy
+
+Job in Finance
+
+Recent Search
+
+Recent Search
+
+From banker to insurer - Dennis Tan’s transition to impacting lives at Prudential Singapore
+
+From banker to insurer - Dennis Tan’s transition to impacting lives at Prudential Singapore
+
+From banker to insurer - Dennis Tan’s transition to impacting lives at Prudential Singapore
+
+From banker to insurer - Dennis Tan’s transition to impacting lives at Prudential Singapore
+
+BNY strengthens GP&T execution through embedded AI and infrastructure scale
+
+Mar 25, 2026
+
+23 min read
+
+0
+
+3391
+
+BNY's Global Payments & Trade business in Asia Pacific is scaling institutional infrastructure through embedded AI, integrated foreign exchange execution, virtual account structures and tokenised deposit development — positioning technology as an operational foundation rather than a product overlay.
+
+BNY generated over $20 billion in global revenue last year, reflecting 8% year-on-year growth. Assets under custody and/or administration (AUC/A) reached $59 trillion and assets under management (AUM) stood at $2.2 trillion.
+
+Asia Pacific delivered approximately 10% revenue growth year-on-year and its net income grew by approximately 5%.
+
+Fabian Khoshbakht, Head of Global Payments & Trade, Asia Pacific at BNY, described the regional franchise within this context. He emphasised disciplined balance sheet management and margin protection as structural features rather than cyclical outcomes.
+
+He positioned GP&T as an infrastructure service provider, enabling financial institutions to extend services to their own corporate or retail customers. Growth across Asia Pacific was described as driven by institutional expansion, corridor deepening and digital banking proliferation rather than direct competition for end-user accounts.
+
+The infrastructure underpinning that growth processes approximately $2.4 trillion in United States dollar payment value per day.
+
+Participation spans the Federal Reserve Wire Network (Fedwire), the Clearing House Interbank Payments System (CHIPS), Automated Clearing House (ACH) networks, Real-Time Payments (RTP) and the Federal Reserve’s FedNow Service. In this instance, BNY originated the first-ever $10 million in instant payment in U.S. history on the RTP network, and by leveraging the increased RTP transaction limit, extended real-time applicability to institutional and corporate flows – reinforcing the integration of real-time rails into broader liquidity strategies.
+
+Within this operating base, artificial intelligence deployment, integrated foreign exchange execution, virtual account structures, trade digitisation and tokenised deposit exploration are embedded into execution workflows. These functionalities operate within the same infrastructure layer rather than as isolated product verticals.
+
+Enterprise AI embedded into operations
+
+Building on the infrastructure foundation described earlier, Claude Reumert, Head of APAC Strategy, Global Payments & Trade, explained how AI is being integrated into the workflows. Rather than presenting AI as a standalone innovation programme, she described it as embedded into operational workflows and client engagement preparation.
+
+Eliza is BNY’s proprietary enterprise AI platform that is general-intelligence-model-agnostic and supports multi-agentic functionality as a foundation for the bank’s AI-enabled workforce. Integrating models from leading providers such as OpenAI, Google and Anthropic, it supports data extraction, document review, reconciliation support, fraud analytics and preparation for client coverage teams, among other things. The objective is to increase analytical precision and responsiveness as transaction volumes and mandate complexity expand.
+
+AI usage was framed as an expected component of daily work rather than optional experimentation, with employees operating their “own AI agents”, reinforcing that AI functionality is not limited to central teams but has been democratized across all BNY employees. Adoption is driven from the executive level and embedded into routine workflows.
+
+Enterprise-wide digital infrastructure supporting these initiatives includes more than 130 digital employees. This offering is not confined to Asia Pacific GP&T but forms part of broader enterprise infrastructure supporting operational execution, automation and workflow enhancement across different platforms.
+
+In the payments environment, AI supports anomaly detection and exception management across both cross-border and real-time rails. Machine learning models operate within established compliance frameworks, reinforcing monitoring and control rather than bypassing governance structures.
+
+Within liquidity and reconciliation processes, AI assists in matching disbursements, identifying breaks and prioritising resolution across jurisdictions. These use cases are practical rather than conceptual. The objective is to manage scale and complexity without proportionate increases in manual intervention.
+
+AI is also applied to client engagement preparation. Coverage teams leverage AI tools to consolidate information, prepare meeting agendas and surface relevant operational insights ahead of institutional discussions. The use of AI therefore spans both back-office execution and front-line client interaction.
+
+Engagement at BNY’s innovation centre reinforces this integration. Institutional clients visiting the centre are exposed to live AI applications and roadmap discussions, which in certain cases have triggered follow-on initiatives tied to specific operational use cases.
+
+Multilateral mandate execution and AI-enabled treasury architecture
+
+Jamie Pan, Head of Global Trade & Payments, China, outlined the mandate supporting a multilateral development bank with approximately $68 billion in approved financing across more than 350 projects in 40 economies. The mandate spans cross-border disbursement execution, multi-currency liquidity management and regulatory reporting across diverse jurisdictions.
+
+The engagement involves more than payments processing. Pan described the design of a tailored treasury architecture incorporating sweeping and zero-balancing structures to concentrate balances centrally. These mechanisms support yield optimisation while maintaining operational control across dispersed project accounts.
+
+Liquidity concentration is complemented by access to a direct liquidity platform that enables investment into money market funds. This structure allows surplus balances to be deployed efficiently while preserving visibility and governance standards appropriate for a multilateral institution.
+
+Project disbursements are executed centrally, but underlying funding flows extend across multiple jurisdictions where infrastructure projects are deployed. This requires coordination between cross-border payment rails, foreign exchange execution and liquidity management frameworks to ensure alignment between funding, settlement timing and reporting.
+
+Regulatory coordination forms a critical component of execution. Pan described step-by-step reporting processes conducted in collaboration with local banking partners to meet jurisdiction-specific requirements. Transparency across reporting, reconciliation and documentation must operate consistently despite differences in regulatory regimes.
+
+Reconciliation processes support matching funding instructions against project-level schedules and supporting documentation. Given the geographic dispersion of projects and counterparties, operational controls must function across currencies and regulatory frameworks without fragmentation.
+
+Pan said clients acknowledge the seamless processing of landmark payments and timeliness in execution. These operational benchmarks reinforce the mandate’s complexity and the requirement for integrated oversight.
+
+Representatives from the client visited BNY's Singapore innovation centre and were exposed to the AI roadmap and applied workflow use cases. The discussion around AI subsequently evolved into a focused initiative addressing loan disbursement tracking and reconciliation processes.
+
+This mandate illustrates how payments, liquidity concentration, foreign exchange management, regulatory coordination and AI-enabled workflow enhancement converge within a single institutional relationship.
+
+Institutional payments and foreign exchange execution under fintech pressure
+
+Raj Raman, Market Manager, Payments Product, Global Payments & Trade, APAC, described how foreign exchange (FX) execution is embedded directly into cross-border payment workflows. In discussing a transaction involving Indonesia, he referenced coordination with BNY’s Markets FX desks in the region supporting execution.
+
+FX is framed not as an ancillary revenue line but as an integrated component of end-to-end payment delivery. Pricing, execution and client communication are handled within the same operational environment as payment initiation and settlement, reducing hand-offs and latency.
+
+Raman emphasised that clients increasingly expect “a decent FX rate” together with speed of execution. He referenced some providers as having shifted market expectations around transparency, responsiveness and rate competitiveness.
+
+He highlighted a structural change in corridor competitiveness. Static daily pricing mechanisms are increasingly insufficient where fintech providers deliver dynamic pricing through application programming interfaces (APIs). Speed of rate delivery, including API-based integration, is now a material factor in defending transaction flows.
+
+Real-time payment rails reinforce this shift. As RTP and similar infrastructures extend into institutional use cases, the convergence between FX pricing responsiveness and real-time settlement becomes commercially significant. Delay in FX execution can undermine the perceived value of faster payment rails.
+
+FX integration was also positioned as protective of wallet share. Financial institutions seeking to defend retail and small business flows must deliver corridor competitiveness that meets fintech benchmarks while operating within regulated banking frameworks. Embedded FX execution allows partner banks to remain competitive without outsourcing pricing transparency to non-bank platforms.
+
+The institutional-retail crossover dynamic was implicit in the discussion. Even when serving financial institution clients, underlying end-customer expectations influence corridor competitiveness. FX execution therefore operates within both institutional and retail-relevant contexts.
+
+Liquidity alignment forms another dimension of integration. Currency conversion timing and pricing must align with liquidity concentration strategies rather than operate independently. By embedding FX within the same infrastructure layer, funding optimisation and corridor competitiveness can be coordinated rather than siloed.
+
+The integration of FX into payments infrastructure thus supports not only transactional execution but also balance sheet discipline and deposit quality, reinforcing the operational deposit model.
+
+Virtual account management and cross-border expansion for financial institutions
+
+Junyi Kuah, Head of International, Cash Management Solutions Product Specialist, described virtual account capabilities within Global Payments & Trade as a structural enabler for financial institutions expanding across jurisdictions without establishing full in-market infrastructure.
+
+He explained that virtual accounts allow partner banks to service their own end customers in markets where they may not maintain a local branch presence or clearing membership. Rather than opening traditional vostro accounts in each country, banks can operate through sub-ledgered virtual account structures layered over BNY’s infrastructure.
+
+This structure enables sub-client level identification while maintaining centralised settlement and liquidity management. Underlying client flows remain identifiable for reconciliation and reporting purposes, while funding is concentrated within a consolidated account framework.
+
+Kuah emphasised that the model supports financial institutions that are expanding into new corridors, particularly digital banks and non-bank financial institutions entering cross-border segments. Virtual accounts allow them to scale corridor access without fragmenting balances across multiple correspondent relationships.
+
+The reconciliation benefit is material. Each underlying client can be assigned a dedicated virtual identifier, enabling automated matching of incoming and outgoing payments. This reduces manual intervention, accelerates break resolution and improves transparency across distributed client portfolios.
+
+From a balance sheet perspective, the structure supports operational deposit aggregation rather than dispersed nostro fragmentation. Liquidity can be concentrated and managed centrally, aligning with the operational deposit growth referenced in the regional financial performance discussion.
+
+Kuah positioned the capability within BNY’s institutional banking model. Because BNY does not compete directly in retail or commercial banking segments, it can provide enabling infrastructure to financial institution clients without competitive conflict over end customers.
+
+The model also interacts with FX and real-time connectivity. Virtual account identifiers combined with API-enabled connectivity allow financial institutions to provide responsive pricing and settlement to their own customers while relying on BNY’s clearing infrastructure.
+
+As cross-border digital commerce grows in Asia Pacific, financial institutions require scalable identification frameworks that do not require duplicative local clearing relationships. Virtual accounts therefore operate as both an operational and strategic expansion tool.
+
+The capability is not positioned as a standalone product but as part of the integrated execution model linking payments, liquidity, FX and servicing functions.
+
+Innovation partnerships and operational visibility through TreasuryEdge
+
+Danny Goh, Digital Payments Solutions Manager, Global Payments & Trade, APAC, outlined innovation not as isolated product development but as coordinated partnership with financial institutions, fintech firms and infrastructure providers.
+
+He described engagement models in which clients are brought into early-stage discussions around rail adoption, connectivity upgrades and workflow redesign. Innovation was positioned as joint problem-solving rather than unilateral feature deployment.
+
+Goh emphasised that financial institutions increasingly seek to reclaim flows lost to fintech competitors. In this context, infrastructure upgrades must align with client commercial strategy. Faster rails, API integration and pricing responsiveness are relevant only insofar as they support client retention and corridor defence.
+
+Collaboration was described as extending beyond technical implementation. It includes education, client testing and structured pilots where new rails or digital capabilities are introduced with selected clients before broader rollout.
+
+TreasuryEdge was introduced within this framework as a digital treasury solution consolidating visibility across payment status, account balances and transaction data. Rather than being a standalone dashboard, it functions as an operational interface linking multiple liquidity and payment streams.
+
+Goh explained that TreasuryEdge integrates with existing connectivity channels, including application programming interfaces and file-based integrations. This allows clients to access real-time visibility into balances and transaction states across jurisdictions without replacing established enterprise resource planning (ERP) or treasury management systems.
+
+The emphasis was on actionable visibility. Payment tracking, liquidity positioning and funding decisions can be aligned in near real time, reducing uncertainty around settlement timing and balance allocation.
+
+TreasuryEdge also operates as a layer through which AI-derived insights can be surfaced. Transaction pattern recognition, anomaly identification and liquidity optimisation indicators can be translated into operational prompts rather than remaining analytical outputs.
+
+In this sense, TreasuryEdge becomes the interface through which embedded AI functionalities are operationalised. Insights generated within reconciliation, monitoring or forecasting workflows can influence funding decisions and payment sequencing.
+
+The solution supports treasurers managing multi-jurisdictional portfolios where fragmentation across banks and currencies would otherwise reduce transparency. By consolidating payment and liquidity data into a single environment, decision-making latency can be reduced.
+
+Innovation was therefore described not as experimentation but as execution enhancement. Infrastructure scale, embedded AI and digital visibility converge through client-facing tools such as TreasuryEdge.
+
+Client enablement discipline and servicing experience as key differentiators
+
+Amy Tong, Head of Global Payments & Trade Client Service, APAC, focused on what occurs after mandate award. She positioned implementation capability as determinative of whether institutional relationships expand or stall.
+
+Tong explained that complex mandates involving financial institutions, multilateral entities or cross-border treasury structures require coordinated onboarding across jurisdictions. Documentation alignment, regulatory validation, account structuring and connectivity configuration must occur in parallel rather than sequentially.
+
+Implementation in this context is not administrative processing. It is a multi-market execution exercise requiring alignment between payment rails, foreign exchange workflows, liquidity concentration structures and reporting frameworks. A misalignment in any layer can delay go-live or undermine client confidence.
+
+She described governance structures designed to coordinate onboarding milestones across functional teams. Payments, FX, liquidity, trade and technology teams must operate with shared visibility over implementation status and risk checkpoints.
+
+Escalation pathways were emphasised as critical in cross-border mandates. Where regulatory or documentation discrepancies arise in one jurisdiction, coordinated resolution must occur without affecting adjacent flows. The servicing model is therefore designed to anticipate and contain friction rather than react to breakdown.
+
+Tong also referenced proactive communication with clients throughout onboarding and post-go-live phases. Structured updates, transparent reporting and clearly defined service governance forums reduce uncertainty and support relationship depth.
+
+Servicing discipline continues after implementation. Multi-currency mandates require ongoing monitoring of processing accuracy, settlement timing and exception resolution. The objective is to maintain predictable operational performance rather than episodic responsiveness.
+
+Client satisfaction is shaped less by product breadth and more by reliability, responsiveness and clarity. Transparency around payment status, liquidity positioning and issue escalation contributes directly to retention and wallet expansion.
+
+In mandates, servicing functions must coordinate closely with treasury structuring, payments operations and compliance teams. Cross-functional alignment sustains operational continuity across jurisdictions. The servicing layer therefore operates as an extension of infrastructure capability. Clearing scale and digital functionality are reinforced by governance discipline and execution predictability.
+
+Trade execution and digitisation within cross-border mandates
+
+Angelia Toh, Trade Finance Structurer, Global Payments & Trade, APAC, addressed the positioning of trade capability within the broader payments, liquidity and foreign exchange framework.
+
+She described trade finance as increasingly integrated with payment execution and liquidity management rather than operating as a standalone documentary function. Cross-border trade flows require coordination between issuance of documentary credits, funding arrangements and settlement timing across multiple jurisdictions.
+
+Toh explained that trade mandates frequently involve alignment between commercial contracts, shipment schedules, financing terms and payment release triggers. Where trade and payments operate in silos, timing mismatches can create funding inefficiencies or reconciliation breaks.
+
+Digitisation initiatives were referenced as a means of reducing manual intervention in documentary processes. In corridors where paper-based trade documentation remains prevalent, workflow automation can accelerate document checking, reduce error rates and improve transparency between counterparties.
+
+Automation supports consistency in compliance review and documentary validation. Rather than relying solely on manual checking of letters of credit or shipping documents, structured data extraction and validation processes improve processing predictability.
+
+Trade flows were positioned as directly linked to liquidity concentration and foreign exchange execution. Settlement of documentary credits or trade loans must align with currency conversion timing and liquidity positioning to avoid unnecessary funding strain.
+
+Integration across trade, payments and FX reduces fragmentation between underlying commercial activity and settlement. When documentary triggers activate payment flows, execution can occur within the same operational framework described earlier.
+
+Toh also indicated that trade structuring increasingly requires coordination with digital connectivity models. API-based connectivity and digital document exchange platforms can shorten turnaround times and enhance audit trails.
+
+In expanding global corridors, trade activity is frequently multi-jurisdictional, requiring alignment with varying regulatory standards. Coordinated reporting and compliance processes therefore form part of execution design rather than post-event adjustment.
+
+Trade capability in this context operates as part of the integrated execution model underpinning institutional mandates. It complements clearing infrastructure, FX integration and liquidity concentration rather than functioning independently.
+
+Digital assets and tokenised deposit capability within regulated frameworks
+
+Warren Soo, Head of Digital Cash and Innovation, APAC, addressed BNY’s tokenised deposit initiative within the broader context of digital asset infrastructure development.
+
+He described tokenised deposits as a representation of commercial bank money on distributed ledger technology while remaining a bank liability. The emphasis was on the fact that the instrument sits on the bank’s balance sheet and therefore operates within existing regulatory and supervisory frameworks.
+
+Building on this, BNY’s approach creates an on-chain, “mirrored” representation of client deposit balances on a private, permissioned blockchain – governed by established risk, compliance and control frameworks, while client balances continue to be recorded on traditional systems to maintain regulatory and reporting integrity.
+
+Soo differentiated tokenised deposits from stablecoins, noting that stablecoins are typically issued by non-bank entities, whereas tokenised deposits reflect regulated bank money. The distinction was framed as material in institutional use cases where balance sheet backing are critical.
+
+The discussion centred on programmability and settlement efficiency. Soo explained that distributed ledger infrastructure allows conditional logic and synchronised settlement functionality, which can support multi-party transaction workflows.
+
+He linked the initiative to evolving settlement expectations, particularly where institutional clients are exploring blockchain-enabled transaction models. The framing was tied to practical use cases in controlled environments.
+
+The initiative was described as aligned with broader payment infrastructure evolution rather than as a separate digital asset business line. Tokenised deposits operate alongside established clearing rails and treasury frameworks rather than replacing them, extending trusted bank deposits onto digital rails within a framework built for scale, resilience and regulatory alignment.
+
+Within Asia Pacific, Soo noted growing institutional interest in distributed ledger applications where regulatory parameters are clearer. The approach described focuses on structured collaboration and defined use cases rather than open-ended deployment.
+
+The tokenised deposit initiative therefore reflects BNY’s broader model of embedding digital innovation within regulated infrastructure and established treasury architecture.
+
+Regional execution discipline and structural growth in South and Southeast Asia
+
+Yew Fei Yeow, Head for APAC Banks, Global Payments & Trade, APAC, contributed throughout the discussion, including at the outset where leadership structure and regional alignment were referenced. His remarks framed the franchise within markets experiencing sustained cross-border transaction growth and digital banking expansion.
+
+Yeow described expansion across financial institutions, digital banks and non-bank financial institutions as being supported by infrastructure access rather than product proliferation. The regional strategy centres on enabling partner institutions to extend their own client reach across corridors.
+
+Virtual accounts, real-time connectivity and embedded foreign exchange execution were referenced as enabling capabilities supporting this institutional expansion. These capabilities allow banks to compete in retail and small business segments without building duplicative local infrastructure.
+
+He underscored the importance of cross-functional coordination across payments, FX, liquidity, trade and servicing teams. As mandates become more multi-jurisdictional and structurally complex, growth depends on execution consistency rather than standalone product penetration.
+
+South and Southeast Asia were positioned as priority corridors where cross-border commerce, digital banking adoption and infrastructure investment flows continue to expand. The franchise’s role is to provide scalable, regulated infrastructure aligned with those flows.
+
+Integrated execution as a structural differentiator
+
+Khoshbakht reinforced that BNY's GP&T franchise operates on infrastructure scale and governance discipline rather than product isolation.
+
+AI functionality is embedded within operational workflows — from reconciliation and anomaly detection to client engagement preparation — rather than positioned as external experimentation. To make AI ‘everywhere, for everything and for everyone’, BNY has integrated AI literacy into its manager development and analyst program to upskill employees. The bank views it as a superpower for employees and believes AI can amplify human potential.
+
+Virtual account structures enable financial institutions to expand across jurisdictions while maintaining consolidated liquidity and reporting frameworks. Embedded foreign exchange execution supports corridor competitiveness under fintech pressure.
+
+Trade digitisation, TreasuryEdge visibility tools and tokenised deposit initiatives operate within the same regulated treasury architecture rather than as parallel innovation tracks.
+
+Across Asia Pacific, growth reflects institutional demand for coordinated execution across payments, foreign exchange, liquidity, trade and servicing functions. The recurring structural theme is integration: infrastructure scale aligned with embedded technology, balance sheet discipline and cross-functional execution.
+
+Global Payments & Trade
+
+embedded AI
+
+infrastructure
+
+foreign exchange
+
+virtual accounts
+
+tokenised deposits
+
+real-time payments
+
+liquidity management
+
+trade finance
+
+TreasuryEdge
+
+correspondent banking
+
+cross-border payments
+
+fintech
+
+digital banking
+
+reconciliation
+
+BNY
+
+United States
+
+China
+
+Indonesia
+
+Asia Pacific
+
+South Asia
+
+Southeast Asia
+
+Fabian Khoshbakht
+
+Claude Reumert
+
+Jamie Pan
+
+Raj Raman
+
+Junyi Kuah
+
+Danny Goh
+
+Amy Tong
+
+Angelia Toh
+
+Warren Soo
+
+Yew Fei Yeow
+
+Recent Articles
+
+Barclays expands Anthropic’s Claude Code to support software development and legacy modernisation
+
+Can Mizuho turn a $1 billion supply chain facility into deeper Asia Pacific relationships?
+
+Can ING turn supply chain resilience into a transaction banking advantage?
+
+NGFS outlines how climate risk could raise banks’ capital requirements
+
+Can Finastra use AI to accelerate payments modernisation?
+
+© Copyright
+
+Share
+
+Conversations
+
+All Comments
+
+There are no comments. Be the first to comment!
+
+Filter
+
+By Name
+
+By Institution
+
+By Month
+
+By Country
+
+By Region
+
+By Keyword
+
+Will Dawson
+
+Wendy Weng
+
+Wan Hua
+
+Vladislav Solodkiy
+
+Vijay Shekhar Sharma
+
+Tom Eck
+
+The Asian Banker
+
+Tao Rong
+
+TABLive
+
+TAB RadioFinance
+
+Simon Paris
+
+Siddharth Chandani
+
+Saad Azhari
+
+Russell Pereira
+
+Ruoxin Qi
+
+Rob Palatnick
+
+Research
+
+Ralph Echemendia
+
+Paula da Silva
+
+Nikolay Storonsky
+
+Nestor Espenilla Jr.
+
+Neeti Aggarwal
+
+Nanda Lakhwani
+
+Nancy So
+
+Matthias Kröner
+
+Martin Grunewald
+
+Mark Zawacki
+
+Mark Whitcroft
+
+Mark Evans
+
+Kristo Kaarmann
+
+Kevin Luarca
+
+John Gong
+
+John Campbell
+
+Jesse Lund
+
+Jesse Chenard
+
+Jeff Villapando
+
+Janine Marie Crisanto
+
+Jafar Amin
+
+Harith,Foo Boon Ping
+
+Hank Uberoi
+
+Giles Goh
+
+Genki Oka
+
+Genivi Factao
+
+Foo Boon Ping
+
+Emmanuel Daniel
+
+Editorial
+
+Darren Taylor
+
+Daniel Hoyoung Yun
+
+Chris Kapfer
+
+Chen De
+
+Bobby Lee
+
+Betty DeVita
+
+Ben Chisell
+
+Barney Frank,Barney Frank,Barney Frank
+
+Barney Frank
+
+Alasdair Rambaud
+
+Alain Falys
+
+Ajit Kanagasundram
+
+683
+
+William De Vijlder
+
+No results found
+
+Please try again with a different keyword.
+
+Zodia Custody
+
+Standard Chartered
+
+Northern Trust
+
+National Australia Bank
+
+Emirates NBD
+
+Zilliqa Capital
+
+Ether Capital
+
+AllianceBernstein
+
+Societe Generale
+
+Trust Company of the West
+
+AsiaVest Partners
+
+Quail Creek Ventures
+
+Xfers
+
+MAS
+
+Zhixin Investment Research Institute
+
+China Chief Economist Forum
+
+Bank of Communication
+
+Xinhu Wealth Management
+
+World Trade Organization
+
+Yield Guild Games
+
+Union Digital Bank
+
+Yes Bank
+
+ICICI Bank
+
+Indian Banks' Association
+
+Punjab National Bank
+
+HDFC Bank
+
+Axis Bank
+
+SBI
+
+Oracle
+
+XION
+
+World Trade Organization
+
+Global Value Chain Development Report 2025
+
+World Federation of Exchanges
+
+Wise
+
+Wise Platform
+
+Aspire
+
+Bank Mandiri
+
+Standard Chartered
+
+Shinhan Bank
+
+Swift
+
+G20
+
+Wikipedia
+
+Google
+
+GITHub
+
+Microsoft
+
+Facebook
+
+Amazon
+
+No results found
+
+Please try again with a different keyword.
+
+September
+
+October
+
+November
+
+May
+
+March
+
+June
+
+July
+
+January
+
+February
+
+December
+
+August
+
+April
+
+No results found
+
+Please try again with a different keyword.
+
+Vietnam
+
+Pakistan
+
+Vietnam
+
+versions
+
+US
+
+India
+
+China
+
+Poland
+
+Portugal
+
+Philippines
+
+Germany
+
+United States
+
+Germany
+
+United States
+
+Singapore
+
+United Kingdom
+
+Switzerland
+
+UAE
+
+United States
+
+Singapore
+
+Hong Kong
+
+Japan
+
+United States
+
+Nigeria
+
+Argentina
+
+Turkey
+
+European Union
+
+Singapore
+
+United States
+
+Germany
+
+United States European Union
+
+Germany
+
+United States
+
+United Kingdom
+
+Germany
+
+United Arab Emirates
+
+Ukraine || Russia || Singapore || China || Japan || India || South Korea || Australia || New Zealand
+
+Timor-Leste
+
+Switzerland
+
+Germany
+
+Switzerland
+
+Philippines
+
+United States
+
+Australia
+
+Greece
+
+Switzerland
+
+Hong Kong
+
+Singapore
+
+United Arab Emirates
+
+Singapore
+
+Malaysia
+
+Thailand
+
+Singapore
+
+India
+
+No results found
+
+Please try again with a different keyword.
+
+versions
+
+US
+
+Europe
+
+US
+
+united states
+
+United Kingdom
+
+Southeast Asia
+
+United States
+
+Southeast Asia
+
+Asia Pacific
+
+Southeast Asia
+
+North Asia
+
+Africa
+
+Latin America
+
+Asia Pacific
+
+Southeast Asia
+
+Middle East
+
+Southeast Asia
+
+Asia Pacific
+
+Southeast Asia
+
+Asia
+
+Southeast Asia
+
+Africa
+
+Southeast Asia
+
+South East Asia
+
+Asia
+
+US
+
+South East Asia
+
+South Asia
+
+Programme
+
+North Asia
+
+Greater China
+
+Asia Pacific
+
+North America
+
+Europe
+
+Asia
+
+Middle East
+
+North America
+
+No results found
+
+Please try again with a different keyword.
+
+versions
+
+AI
+
+digital assets
+
+tokenisation
+
+distributed ledger technology
+
+shared ledger
+
+Swift
+
+CashPro
+
+CashPro Insights
+
+cash flow forecasting
+
+liquidity
+
+cross-border payments
+
+transaction banking
+
+payment solutions
+
+APIs
+
+collaboration
+
+Sibos-2025
+
+ai development
+
+machine learning
+
+general intelligence
+
+natural language processing
+
+data analytics
+
+healthcare
+
+finance
+
+genetic research
+
+neurips
+
+NFTs
+
+tokenising
+
+Digital assets
+
+blockchain
+
+web3
+
+crypto
+
+sibos 2020
+
+sibos 2018
+
+cash
+
+basel committee on banking supervision 248
+
+blockchain
+
+distributed ledger technology
+
+asset tokenisation
+
+jpm coin
+
+digital payments
+
+cross-border transactions
+
+digital securities
+
+tokenisation
+
+on-chain fx settlements
+
+real-time settlement
+
+repo transactions
+
+programmable payments
+
+regulatory frameworks
+
+financial inclusion
+
+fintech ecosystem
+
+regulatory frameworks
+
+climate tech
+
+artificial intelligence
+
+digital innovation
+
+market infrastructure rationalisation
+
+cybersecurity
+
+Anti-Financial Account Scamming Act
+
+payments efficiency
+
+fintech
+
+technology adoption
+
+legislative reform
+
+transformation
+
+transaction banking
+
+fragmented global flows
+
+liquidity management
+
+cross-border execution
+
+supply chain diversification
+
+clearing capabilities
+
+working capital financing
+
+real-time liquidity visibility
+
+interoperability
+
+API connectivity
+
+issuer processing
+
+cloud-native
+
+API-first
+
+digital payments
+
+modular platform
+
+artificial intelligence (AI)
+
+financial inclusion
+
+digital economy
+
+economic competitiveness
+
+fintech
+
+innovation
+
+regulatory frameworks
+
+public-private collaboration
+
+national strategy
+
+AI adoption
+
+core banking modernisation
+
+Temenos Core
+
+Red Hat OpenShift
+
+containerisation
+
+Kubernetes
+
+cloud-native
+
+microservices
+
+data residency
+
+disaster recovery
+
+digital transformation
+
+AI-ready
+
+agentic AI
+
+conversational AI
+
+AI factory
+
+system of record
+
+speed-to-market
+
+resilience
+
+scalability
+
+Leadership
+
+trust
+
+data-driven leadership
+
+banking innovation
+
+risk-taking
+
+courage
+
+asset-to-liability ratio
+
+cost-to-income ratio
+
+team empowerment
+
+banking challenges
+
+financial performance
+
+Victoria Falls
+
+bungee jump
+
+decision-making
+
+David Livingstone
+
+Robert Kuok
+
+Emmanuel Daniel
+
+Cecil Rhodes
+
+digitalisation
+
+mobile banking
+
+Credit Card
+
+technology
+
+platform
+
+fintech
+
+digital payments
+
+BNPL
+
+ekyc
+
+app mb bank
+
+biz mb
+
+smart crm
+
+national digital transformation programme
+
+covid-19
+
+CAGR
+
+inhandao
+
+ROA
+
+covid-19
+
+digital infrastructure
+
+: GDP
+
+NPL
+
+digitalisation
+
+CBDC
+
+cashless payments
+
+cross border
+
+financial inclusion
+
+mobile banking
+
+digital platforms
+
+5g
+
+Internet Banking
+
+game
+
+crypto
+
+blockchain
+
+gaming
+
+tokens
+
+metaverse
+
+digital
+
+play-to-earn
+
+No results found
+
+Please try again with a different keyword.
+
+Discover Key Insights in Our Latest Report
+
+Get data-driven analysis, expert insights, and actionable recommendations — all in one downloadable PDF.
+
+It’s free — just fill out the quick form to get instant access.
+
+FEEDBACK
+
+Please wait...

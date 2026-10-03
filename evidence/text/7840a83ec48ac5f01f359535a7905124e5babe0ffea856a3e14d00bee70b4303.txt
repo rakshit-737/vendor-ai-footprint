@@ -1,0 +1,44 @@
+Type: 
+            
+                On Demand
+            
+            
+            Duration: 
+            
+                31 Minutes
+            
+            
+            
+                Date & Time: 
+                
+                
+            
+            
+            
+            
+            
+        
+            
+            Member Fee: 
+            
+                $0
+            
+            
+            Non-Member Fee: 
+            
+                $279
+            
+            
+            
+            
+                
+            
+            
+            Audience: 
+            
+                AAP Candidates, ACH Personnel, Payments Personnel, Retail/Frontline, Senior Payments Personnel, Audit, AAPs, Operations, Cash Management, Compliance, General ACH, Risk, Treasury, Sales
+            
+            
+        
+        
+            Financial institutions and companies are increasing their usage of the ACH network for collecting payments; different forms of authorizations are required for different ACH applications (SEC Codes).  This session will explain the authorization requirements and offer considerations for providing proof of authorization when requested by a receiving financial institution due to an error or dispute.

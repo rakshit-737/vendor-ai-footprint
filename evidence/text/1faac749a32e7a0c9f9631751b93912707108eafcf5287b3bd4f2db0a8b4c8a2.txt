@@ -1,0 +1,161 @@
+What We Offer keyboard_arrow_down Securities Services arrow_forward Fund & Investor Solutions Custody Managed Account Solutions Integrated Middle Office Solutions Global Clearing Issuer Services arrow_forward Conventional Trust Structured Debt Depositary Receipts Liquidity, Financing & Collateral arrow_forward Liquidity & Financing Credit & Lending Global Collateral Global Payments & Trade arrow_forward Payments Cash Management Trade Finance Markets Execution Services arrow_forward FX Fixed Income Equities Buy-Side Trading Solutions Investments arrow_forward Wealth arrow_forward BNY Pershing/Wealth Services arrow_forward Data & Analytics arrow_forward Digital Assets arrow_forward
+
+Who We Serve keyboard_arrow_down Alternative Asset Managers Investment Managers Asset Owners Insurance Companies Banks Broker-Dealers Corporations Wealth Intermediaries Individuals, Families & Family Offices
+
+Insights keyboard_arrow_down BNY Institute arrow_forward All Insights arrow_forward BNY Institute At the Table with BNY Experts: Summer Edition Read more arrow_forward BNY Wealth Structuring the Sale: Insights for Private Business Owners Read more arrow_forward
+
+About Us keyboard_arrow_down About BNY arrow_forward Leadership Office Locations Sustainability Technology & Innovation Thrive Together Newsroom arrow_forward Trust Center arrow_forward Careers arrow_forward Search BNY Jobs Early Career Opportunities Experienced Professionals
+
+Investor Relations keyboard_arrow_right Overview Press Releases Quarterly Earnings Events & Presentations Annual Reports & Proxy Statements SEC Filings & Other Disclosures Shareholder Services Fixed Income Corporate Governance Contact JULY 2026 BNY Reports Second Quarter 2026 Results Learn more arrow_forward FEBRUARY 2026 Annual Report 2025: Built for Opportunity Learn more arrow_forward
+
+Investor Relations Overview Press Releases Quarterly Earnings Events & Presentations Annual Reports & Proxy Statements SEC Filings & Other Disclosures Shareholder Services Fixed Income Corporate Governance Contact JULY 2026 BNY Reports Second Quarter 2026 Results Learn more arrow_forward FEBRUARY 2026 Annual Report 2025: Built for Opportunity Learn more arrow_forward
+
+Client Access
+
+SUGGESTED RESULTS
+
+Search Results
+
+Our Clients
+
+Transforming Investment Operations with a Powerful Data Platform
+
+TIME TO READ: 4 MINUTES
+
+As an Australian state-owned investment entity dedicated to investing for the future of Victoria, the Victorian Funds Management Corporation (VFMC) manages approximately $62 billion ($A95 billion) in capital. In 2019, VFMC’s independent board of directors recognized that data would be central to its evolving investment strategy. Facing growing complexity across asset classes, VFMC identified the need to reposition data as a strategic asset — one that could underpin a more agile, insight-driven approach to portfolio management.
+
+To enable this shift, VFMC initiated a comprehensive data transformation, and selected BNY as its technology partner to build an advanced data platform capable of supporting its redefined business strategy. This included standing up a dedicated data and analytics practice, signaling a serious commitment to embedding data at the heart of decision-making. The platform was designed to support the transition to total portfolio management, enabling more timely, transparent and informed investment decisions.
+
+“We knew we had an opportunity to modernize our data infrastructure to continue to stay relevant and deliver for our clients,” said Lucy Carr, Chief Operating Officer at VFMC. “Our goal was to leverage a platform that could scale with us, adapt to market changes and empower our teams with better informed decision-making. The right partner was key to making that vision real.”
+
+The platform needed to help identify, analyze and mitigate total portfolio risk faster, align decisions with fiduciary and stewardship goals, and scale alongside the business to keep pace with ongoing technological advancements.
+
+VFMC Data Transformation Highlights
+
+VFMC selected BNY as its technology partner to build an advanced data platform designed to help enable more timely, transparent and informed investment decisions.
+
+VFMC selected BNY as its technology partner to build an advanced data platform designed to help enable more timely, transparent and informed investment decisions.
+
+BNY's data management solution helped VFMC achieve a total portfolio view encompassing: listed and unlisted assetsactive monitoring of liquidity, currency and riskinvestment reporting integrationboard updatesaudit workflows
+
+BNY's data management solution helped VFMC achieve a total portfolio view encompassing: listed and unlisted assetsactive monitoring of liquidity, currency and riskinvestment reporting integrationboard updatesaudit workflows
+
+listed and unlisted assets
+
+active monitoring of liquidity, currency and risk
+
+investment reporting integration
+
+board updates
+
+audit workflows
+
+VFMC unlocked over 800 days of productivity across 16 teams, reduced technical debt by 80%, and realized cost savings by retiring legacy systems and automating reporting.
+
+VFMC unlocked over 800 days of productivity across 16 teams, reduced technical debt by 80%, and realized cost savings by retiring legacy systems and automating reporting.
+
+Empowering VFMC's Data Infrastructure
+
+VFMC selected BNY to support a full-scale, data-centric transformation and lay the foundation for long-term growth. The collaboration was grounded in shared values: Transparency, resilience and a commitment to long-term outcomes.
+
+“BNY stood out for its mix of proven infrastructure, institutional experience, and local insights and presence built over 50 years in Australia” said Tim Smith, Head of Data and Advanced Analytics, VFMC. “They understood the governance and delivery expectations we operate under, and their ongoing investment in regional talent and technology gave us confidence they could generate an immediate impact while continuing to grow alongside with us.”
+
+As an Australian state-owned investment entity dedicated to investing for the future of Victoria, the Victorian Funds Management Corporation (VFMC) manages approximately $62 billion ($A95 billion) in capital. In 2019, VFMC’s independent board of directors recognized that data would be central to its evolving investment strategy. Facing growing complexity across asset classes, VFMC identified the need to reposition data as a strategic asset — one that could underpin a more agile, insight-driven approach to portfolio management.
+
+DATA & ANALYTICS SOLUTIONS
+
+Turn data into strategic advantage with our unified investment data management and analytics platform that provides actionable insights to power portfolio decision-making.
+
+To enable this shift, VFMC initiated a comprehensive data transformation, and selected BNY as its technology partner to build an advanced data platform capable of supporting its redefined business strategy. This included standing up a dedicated data and analytics practice, signaling a serious commitment to embedding data at the heart of decision-making. The platform was designed to support the transition to total portfolio management, enabling more timely, transparent and informed investment decisions.
+
+After formally kicking off implementation in early 2020, a fully operational, cloud-based platform was in place in nine months, making it the first complete implementation of BNY’s data capabilities to be delivered with all team members working remotely due to the COVID-19 pandemic.
+
+The first major test of the platform came with the outbreak of the Russia-Ukraine war, when VFMC’s board needed rapid exposure analysis. VFMC’s team consolidated fragmented data into an exposure analytics dashboard — a process that previously would have taken weeks and multiple spreadsheets was accomplished in seconds, providing clarity and enabling swift decision-making.
+
+“Previously, our teams faced delays in assessing geopolitical risk exposure due to fragmented data and manual processes,” said Ben Graetzer, Head of Portfolio Risk & Solutions at VFMC. “Now, with integrated exposure intelligence, we can rapidly identify and mitigate risks across the entire portfolio.”
+
+The Power of a Unified Data Model
+
+By 2023, BNY’s data management solution was fully embedded within VFMC’s investment technology stack. This enabled a total portfolio view across listed and unlisted assets, active monitoring of liquidity, currency, and risk, and seamless integration with investment reporting, board updates and audit workflows.
+
+With this data foundation, VFMC can now leverage emerging technologies such as AI and Python notebooks. Teams can begin applying automation, statistical modeling and advanced visualizations to accelerate insight generation, scenario planning and decision-making.
+
+“Today, investment firms are dealing with more data than ever, which is changing how they operate. To keep up with fast-moving technologies and rising investor expectations, they need flexible operating models that help them adapt quickly,” said Julie Gerdeman, Global Head of Data and Analytics at BNY. “Just as we did for VFMC, our team is focused on staying ahead of client needs and delivering simple, scalable solutions that generate powerful insights to support smart decisions, spark innovation and drive growth.”
+
+Established
+
+1994
+
+Headquarters
+
+Victoria, Australia
+
+Assets Under Management
+
+$A98.8 billion, as of Sept. 30, 2025
+
+Client Since
+
+2019
+
+The Results
+
+Achieving the data-centric transformation, helped modernize workflows, changed the way VFMC operates and has delivered tangible outcomes.
+
+With nearly 75% of teams using the platform, VFMC unlocked over 800 days of productivity across 16 teams. The shift to self-service tools also empowered business and investment users to act on high-quality data independently, freeing up internal teams to focus on strategic priorities.
+
+“Our unified platform has allowed us to standardize risk metrics, automate reporting and deliver tailored dashboards to stakeholders across the business,” said Ben Graetzer, Head of Portfolio Risk and Solutions at VFMC. “The time saved on manual data curation has been redirected toward deeper analysis and strategic engagement.”
+
+Technical debt has been reduced by 80%, and significant cost savings have been realized by retiring legacy systems and streamlining change development.
+
+MEASURABLE IMPACT
+
+16
+
+teams using the platform
+
+800
+
+days of productivity unlocked
+
+80%
+
+reduction in technical debt
+
+Looking Ahead
+
+Going forward, VFMC is focusing on scaling cloud-based data-sharing with key stakeholders, expanding external manager data capabilities, and enabling business users to build and explore independently. VFMC is also exploring BNY’s suite of AI-enabled solutions to further enhance its data strategy.
+
+VFMC is targeting a 50% reduction in manual tasks across critical processes, and BNY remains a long-term partner in that journey.
+
+“VFMC is on a mission to become a more data-centric, insight-driven organization, and our role is to support that transformation,” said Marian Azer, Australia Country Executive at BNY. “That means not only being present and responsive locally but also bringing global ideas to their doorstep — helping them think through what’s possible and translating that into real, applicable outcomes for their business.”
+
+As VFMC continues to evolve, data remains at the heart of its strategy, helping drive better informed decision-making, more efficient execution and stronger outcomes for the State of Victoria.
+
+Related insights
+
+Discover how BNY's enterprise AI platform accelerates AI adoption, predictive analytics, and automation with strong governance and risk management.
+
+Private markets have become a cornerstone of institutional investment strategies. As allocations to alternative assets increase, the complexity of managing the associated data has grown exponentially. Explore how industry leaders are addressing these data management challenges unique to private market investments.
+
+Discover how the next wave of financial innovation is poised to reshape global markets. From near-instant settlement of U.S. Treasurys and tokenized securities to digital-asset custody and next-generation payment rails, learn how BNY’s unique position at the intersection of traditional and digital finance empowers institutions to accelerate growth, enhance transparency and unlock new efficiencies.
+
+Explore how asset owners are transforming portfolio resilience through data unification, AI integration, and total portfolio management. Key insights from BNY’s 2025 Summit highlight strategies to thrive amid volatility and unlock long-term growth.
+
+Ready to grow your business? Speak to our team.
+
+Ready to learn more?
+
+Ready to learn more?
+
+Please fill out the form below. Thank you for your interest in BNY.
+
+BNY is the corporate brand of The Bank of New York Mellon Corporation and may be used to reference the corporation as a whole and/or its various subsidiaries generally. This material and any products and services mentioned may be issued or provided in various countries by duly authorized and regulated subsidiaries, affiliates, and joint ventures of BNY. This material does not constitute a recommendation by BNY of any kind. The information herein is not intended to provide tax, legal, investment, accounting, financial or other professional advice on any matter, and should not be used or relied upon as such. The views expressed within this material are those of the contributors and not necessarily those of BNY. BNY has not independently verified the information contained in this material and makes no representation as to the accuracy, completeness, timeliness, merchantability or fitness for a specific purpose of the information provided in this material. BNY assumes no direct or consequential liability for any errors in or reliance upon this material.
+
+This material may not be reproduced or disseminated in any form without the express prior written permission of BNY. BNY will not be responsible for updating any information contained within this material and opinions and information contained herein are subject to change without notice. Trademarks, service marks, logos and other intellectual property marks belong to their respective owners.
+
+© 2026 BNY. All rights reserved. Member FDIC.
+
+BNY is the corporate brand of The Bank of New York Mellon Corporation and may be used to reference the corporation as a whole or its various subsidiaries generally. BNY.com provides information about services provided by BNY and its affiliates. Not all accounts, products, and services are available in all jurisdictions or to all customers. ©2026 BNY.
+
+Visit our websites around the world.

@@ -1,0 +1,67 @@
+{
+ "key": "181f76997930f956eb23389a0c87d56d6cc59e48469a0827ff020bae1846b0a6",
+ "model": "gemini-3.5-flash-lite",
+ "payload_sha256": "4c35f89034d234288f98e4266456f88e810e8e9d7a663ce1fe356b634e4b9411",
+ "prompt_sha256": "065bd458ace52ff274c72967cfe1b90c794a1ec8d3a3696ec78d7d8cf636df94",
+ "response": {
+  "claims": [
+   {
+    "action_level": "automated_action",
+    "ai_type": "agentic",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "run the orchestration itself"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P4",
+    "quote": "There is a second AI story worth being honest about: using automation, including emerging agentic approaches, to run the orchestration itself. This is real and useful, but it earns its place on the repeatable, well-defined work – provisioning, refreshes, routine remediation, the steps that follow a known pattern.",
+    "subject": "vendor_operations",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "none",
+    "ai_type": "unspecified",
+    "claim_kind": "not_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M4",
+      "span": "workload automation"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P7",
+    "quote": "AutomWorx specializes in workload automation, ai pipeline orchestration, and migration support.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "advisory",
+    "ai_type": "genai_llm",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [
+     "what failed yesterday",
+     "a job"
+    ],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "ask Automic what failed yesterday or describe a job in plain language and watch it get built"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P12",
+    "quote": "V26 is different in one major way: AI is now inside the workflow, not bolted on next to it. Connect your own LLM, ask Automic what failed yesterday or describe a job in plain language and watch it get built.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   }
+  ]
+ },
+ "role": "extract",
+ "schema_sha256": "f1cd07fdb8e496624608717927261043432a3bd93d84723a126b7c7d951d68df",
+ "seed": 1234
+}

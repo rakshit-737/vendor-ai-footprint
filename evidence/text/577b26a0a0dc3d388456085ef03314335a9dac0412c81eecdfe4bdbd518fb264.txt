@@ -1,0 +1,62 @@
+{
+  "hiringOrganization": {
+    "name": "PAYCO The Clearing House Payments Company L.L.C.",
+    "url": ""
+  },
+  "jobPostingInfo": {
+    "canApply": true,
+    "country": {
+      "descriptor": "United States of America",
+      "id": "bc33aa3152ec42d4995f4791a106ed09"
+    },
+    "externalUrl": "https://theclearinghouse.wd108.myworkdayjobs.com/TheClearingHouse/job/Charlotte-Office/Cloud-Database-Administrator--DBA--Engineer_JR100130",
+    "id": "898a21ef4c75100175510be222a00000",
+    "includeResumeParsing": true,
+    "jobDescription": "<p><b>Position Summary: </b>The Cloud Database Administrator Engineer is responsible for the architecture, engineering, automation, security, availability, and operational support of The Clearing House&#39;s enterprise database platforms across on-premises and cloud environments. This role serves as a senior technical leader responsible for Db2 LUW, Microsoft SQL Server, AWS database services, and database platform modernization initiatives.</p><p></p><p>The engineer will design and implement highly available, secure, automated, and scalable database solutions supporting mission-critical payment systems and corporate applications. This position requires deep expertise in database engineering, cloud infrastructure, Infrastructure as Code (IaC), automation, disaster recovery planning, and enterprise-scale database migrations.</p><p></p><p><b>About The Clearing House:</b> The Clearing House (TCH) is a banking association and payments company that is owned by the largest commercial banks in the United States. TCH owns and operates the core payments system infrastructure in the US and is currently working to modernize that infrastructure by launching a new, ubiquitous, real-time payment system. TCH is the only private-sector ACH and wire operator in the US, clearing and settling nearly $2 trillion in US dollar payments each day, representing half of all commercial ACH and wire volume. TCH has provided critical services to the banking industry since 1853, and today, our core products facilitate services including Direct Deposit of payroll, bill payments, and check image exchange.</p><p></p><p><b>Qualifications Required: </b></p><ul><li>Bachelor&#39;s degree in Computer Science, Information Systems, Engineering, or equivalent experience.</li><li>10&#43; years of enterprise database administration and engineering experience.</li><li>Expert-level experience administering Db2 LUW 11.5&#43; in Linux environments.</li><li>Expert-level experience administering Microsoft SQL Server 2019&#43;.</li><li>Extensive experience with Db2 HADR, Pacemaker clustering, and Q Replication.</li><li>Extensive experience with SQL Server Always On Availability Groups and related HA technologies.</li><li>Proven experience designing and supporting cloud database platforms within AWS.</li><li>Strong experience with AWS RDS, EC2, VPC, IAM, CloudWatch, KMS, and AWS Backup.</li><li>Expertise with Infrastructure as Code using Terraform.</li><li>Strong scripting experience using Python, PowerShell, Bash, or similar languages.</li><li>Experience leading large-scale database migration and modernization initiatives.</li><li>Strong understanding of database performance tuning and capacity management.</li><li>Experience supporting mission-critical production systems with stringent availability requirements.</li></ul><p></p><p><b>Qualifications desired:</b></p><ul><li>Master&#39;s Degree in Computer Science, Engineering, or related field.</li><li>AWS Certified Database Specialty.</li><li>AWS Solutions Architect Professional.</li><li>Microsoft Certified: Azure Database Administrator Associate.</li><li>IBM Db2 Professional Certification.</li><li>Experience with PostgreSQL and cloud-native PostgreSQL services.</li><li>Experience with Dell EMC Data Domain and PowerProtect Data Manager.</li><li>Experience with Kubernetes and containerized database workloads.</li><li>Familiarity with observability platforms including Prometheus, Grafana, Splunk, and Datadog.</li><li>Experience working within highly regulated financial services environments.</li></ul><p></p><p><b>Essential Functions and Responsibilities:</b></p><p><b>Database Platform Engineering</b></p><ul><li>Architect, deploy, administer, and optimize enterprise Db2 LUW and Microsoft SQL Server environments.</li><li>Manage database lifecycle activities including installation, upgrades, patching, performance tuning, capacity planning, backup and recovery, and security administration.</li><li>Ensure database platforms meet enterprise standards for availability, performance, scalability, and compliance.</li><li>Design and maintain database operational standards, procedures, and governance frameworks.</li></ul><p><b>Cloud Database Engineering</b></p><ul><li>Design, deploy, and administer cloud-native database services within AWS and Azure environments.</li><li>Engineer resilient and scalable database solutions utilizing AWS RDS, EC2-hosted databases, EBS storage, AWS Backup, CloudWatch, and related cloud services.</li><li>Develop cloud migration strategies for enterprise database workloads using replication-based migration methodologies and minimal downtime approaches.</li><li>Optimize cloud database performance, resiliency, and cost efficiency.</li></ul><p><b>High Availability &amp; Disaster Recovery</b></p><p>Design, implement, and maintain enterprise HA/DR solutions including:</p><p><b>Db2 LUW</b></p><ul><li>HADR (High Availability Disaster Recovery)</li><li>Pacemaker Cluster Manager</li><li>Q Replication (Uni-Directional and Bi-Directional)</li><li>Near-Zero Downtime maintenance solutions</li><li>Cross-site failover architectures</li></ul><p><b>SQL Server</b></p><ul><li>Always On Availability Groups</li><li>Distributed Availability Groups</li><li>Failover Cluster Instances (FCI)</li><li>Log Shipping</li><li>Transactional Replication</li></ul><p><b>Cloud HA/DR Patterns</b></p><ul><li>AWS RDS Multi-AZ deployments</li><li>Cross-Region Disaster Recovery</li><li>Pilot Light architectures</li><li>Warm Standby architectures</li><li>Active/Passive and Active/Active recovery strategies</li><li>Automated failover and recovery orchestration</li><li>Define and validate Recovery Time Objectives (RTO) and Recovery Point Objectives (RPO).</li><li>Lead disaster recovery testing, failover exercises, and business continuity planning.</li></ul><p><b>Infrastructure as Code &amp; Automation</b></p><ul><li>Develop Infrastructure as Code solutions using Terraform.</li><li>Automate database provisioning, configuration, patching, monitoring, backup validation, and recovery processes.</li><li>Utilize Ansible, Puppet, Python, PowerShell, and Shell scripting to improve operational efficiency.</li><li>Integrate database deployments into CI/CD pipelines and DevOps workflows.</li><li>Champion GitOps and automation-first operational models.</li></ul><p><b>Security &amp; Compliance</b></p><ul><li>Implement database security controls aligned with financial industry regulations and corporate standards.</li><li>Configure encryption at rest and in transit.</li><li>Implement least-privilege access models and database auditing solutions.</li><li>Support compliance requirements including PCI-DSS, FFIEC, SOC, and NIST frameworks.</li><li>Participate in security assessments, audits, and vulnerability remediation efforts.</li></ul><p><b>Technical Leadership</b></p><ul><li>Serve as senior technical advisor and subject matter expert for database technologies.</li><li>Mentor junior engineers and database administrators.</li><li>Lead architecture reviews, technology evaluations, and modernization initiatives.</li><li>Act as escalation point for complex database incidents and enterprise projects.</li><li>Communicate technical strategies and recommendations to executive leadership and governance committees.</li></ul><p><b>Success factors/job competencies:    </b></p><ul><li>Database Engineering</li><li>Cloud Architecture</li><li>High Availability &amp; Disaster Recovery</li><li>Infrastructure as Code</li><li>DevOps &amp; Automation</li><li>Security &amp; Compliance</li><li>Performance Engineering</li><li>Technical Leadership</li><li>Enterprise Architecture</li><li>Business Continuity Planning</li></ul><p></p><p><b>Physical demands and work environment: </b>Work is generally sedentary in nature. The working environment is generally favorable. Lighting and temperature are adequate, and there are no hazardous or unpleasant conditions caused by noise, dust, etc. Work is generally performed within an office environment, with standard office equipment available.</p><p></p><p>Employees in this position will report to the office 3 days per week. Onsite work requirements may change at any time.</p>",
+    "jobPostingId": "Cloud-Database-Administrator--DBA--Engineer_JR100130",
+    "jobPostingSiteId": "TheClearingHouse",
+    "jobReqId": "JR100130",
+    "jobRequisitionLocation": {
+      "country": {
+        "alpha2Code": "US",
+        "descriptor": "United States of America",
+        "id": "bc33aa3152ec42d4995f4791a106ed09"
+      },
+      "descriptor": "Charlotte Office"
+    },
+    "location": "Charlotte Office",
+    "posted": true,
+    "postedOn": "Posted 30+ Days Ago",
+    "questionnaireId": "416fc4b6e988100114d79736c4ff0000",
+    "startDate": "2026-06-10",
+    "timeType": "Full time",
+    "title": "Cloud Database Administrator (DBA) Engineer"
+  },
+  "similarJobs": [
+    {
+      "externalPath": "/job/Charlotte-Office/Cloud-Computing-Engineer---AWS_JR100196-4",
+      "locationsText": "Charlotte Office",
+      "postedOn": "Posted 4 Days Ago",
+      "startDate": "2026-09-28",
+      "timeType": "Full time",
+      "title": "Cloud Computing Engineer - AWS"
+    },
+    {
+      "externalPath": "/job/North-Carolina-Office/Senior-Technology-Architect---Hybrid-Infrastructure---Cloud_JR100187",
+      "locationsText": "2 Locations",
+      "postedOn": "Posted 23 Days Ago",
+      "startDate": "2026-09-09",
+      "timeType": "Full time",
+      "title": "Senior Technology Architect - Hybrid Infrastructure & Cloud"
+    },
+    {
+      "externalPath": "/job/North-Carolina-Office/Senior-Technology-Architect---Hybrid-Infrastructure---Cloud_JR100199-1",
+      "locationsText": "2 Locations",
+      "postedOn": "Posted 3 Days Ago",
+      "startDate": "2026-09-29",
+      "timeType": "Full time",
+      "title": "Senior Technology Architect - Hybrid Infrastructure & Cloud"
+    }
+  ],
+  "userAuthenticated": false
+}

@@ -1,0 +1,196 @@
+{
+  "AD": false,
+  "Answer": [
+    {
+      "TTL": 300,
+      "data": "\"DirectFedAuthUrl=https://login.microsoftonline.com/106bdeea-f616-4dfc-bc1d-6cbbf45e2011/saml2\"",
+      "name": "bnymellon.com",
+      "type": 16
+    },
+    {
+      "TTL": 300,
+      "data": "\"Dynatrace-site-verification=88440da1-f2de-4e60-8eef-6c72152d404d__ogi23ucvd8rf73d62ken738pke\"",
+      "name": "bnymellon.com",
+      "type": 16
+    },
+    {
+      "TTL": 300,
+      "data": "\"HdE0guMahYktPGymxt6yrf3TesPsUv0kbpuWz+CM9JfIft7zGqLjAVjVL6BC3UHxHqU/Rm5mIkCU7TJkm5VFCQ==\"",
+      "name": "bnymellon.com",
+      "type": 16
+    },
+    {
+      "TTL": 300,
+      "data": "\"MS=C1F0ADDE01CAD5D9D71A4FBF5F8717E67B9B2908\"",
+      "name": "bnymellon.com",
+      "type": 16
+    },
+    {
+      "TTL": 300,
+      "data": "\"MS=ms63723573\"",
+      "name": "bnymellon.com",
+      "type": 16
+    },
+    {
+      "TTL": 300,
+      "data": "\"ZOOM_verify_EPq5QfpARCyO_tktp-1xdA\"",
+      "name": "bnymellon.com",
+      "type": 16
+    },
+    {
+      "TTL": 300,
+      "data": "\"ZOOM_verify_sl551syzDCWI88qFBwyx3Z\"",
+      "name": "bnymellon.com",
+      "type": 16
+    },
+    {
+      "TTL": 300,
+      "data": "\"\\226\\128\\156atlassian-domain-verification=raXqO/mHlJ31yOUlnxgex/bbDDJU+TV8MYdm4uU+/0ZQn9aNAwJWdrosvvOwYJqZ\\226\\128\\157\"",
+      "name": "bnymellon.com",
+      "type": 16
+    },
+    {
+      "TTL": 300,
+      "data": "\"adobe-idp-site-verification=b0c2fab32d48b7209894a5e06b95ca82dcf2a2afe4efc7d4e606fcba2bffd1be\"",
+      "name": "bnymellon.com",
+      "type": 16
+    },
+    {
+      "TTL": 300,
+      "data": "\"apple-domain-verification=WQmdDacp95V2yO38\"",
+      "name": "bnymellon.com",
+      "type": 16
+    },
+    {
+      "TTL": 300,
+      "data": "\"ciscocidomainverification=46d34d278daeca1512cecf42197ccef1eefbfa617e0d93d4caeff2e65e564c40\"",
+      "name": "bnymellon.com",
+      "type": 16
+    },
+    {
+      "TTL": 300,
+      "data": "\"dell-technologies-domain-verification=bnymellon.com_3074cb33-609a-4de9-ad57-a9b235f96d55_1704359954\"",
+      "name": "bnymellon.com",
+      "type": 16
+    },
+    {
+      "TTL": 300,
+      "data": "\"docker-verification=b0decd94-8120-44cd-891b-33a8b43af8e2\"",
+      "name": "bnymellon.com",
+      "type": 16
+    },
+    {
+      "TTL": 300,
+      "data": "\"docusign=232fdc1a-0640-4f6a-b661-938c3d39cf4f\"",
+      "name": "bnymellon.com",
+      "type": 16
+    },
+    {
+      "TTL": 300,
+      "data": "\"docusign=33c04e87-ce77-4da5-ad27-10a8e49843bc\"",
+      "name": "bnymellon.com",
+      "type": 16
+    },
+    {
+      "TTL": 300,
+      "data": "\"dtm-domain-verification=tsXnmowfCpTiHJ4JqbFpLF4PHsPYx3cQD3KSTzE2cq8\"",
+      "name": "bnymellon.com",
+      "type": 16
+    },
+    {
+      "TTL": 300,
+      "data": "\"g7NGpLHsnPgtiFkQPBpQHWsJo1pjRXQcQF+s+TUkiLs=\"",
+      "name": "bnymellon.com",
+      "type": 16
+    },
+    {
+      "TTL": 300,
+      "data": "\"google-site-verification=EwxOE4bJ9BnITC3tw9v1YrEV0djU6L5grBqVGbEcuQc\"",
+      "name": "bnymellon.com",
+      "type": 16
+    },
+    {
+      "TTL": 300,
+      "data": "\"ibmid=8413b50a-c9b7-4239-bbb3-fb0d3a6ed010\"",
+      "name": "bnymellon.com",
+      "type": 16
+    },
+    {
+      "TTL": 300,
+      "data": "\"intersight=063920a9155a3903b56dbcbe9b6ae78e5712700054204f3bfd4ec2f58d827ef3\"",
+      "name": "bnymellon.com",
+      "type": 16
+    },
+    {
+      "TTL": 300,
+      "data": "\"intersight=197a7d3d66f6eba444a01cc85c9f8cae79e191bfe1d8bdaa717544c5456db257\"",
+      "name": "bnymellon.com",
+      "type": 16
+    },
+    {
+      "TTL": 300,
+      "data": "\"intersight=fa4fcf2da3a051290926d0387dceb9e5045a4ad413ff29354dbe08bf9bca0b8f\"",
+      "name": "bnymellon.com",
+      "type": 16
+    },
+    {
+      "TTL": 300,
+      "data": "\"jamf-site-verification=b24X7E1EZd6I-0hxbpXH0g\"",
+      "name": "bnymellon.com",
+      "type": 16
+    },
+    {
+      "TTL": 300,
+      "data": "\"mongodb-site-verification=ra5ekl8tnWIHpnffpD9gSfgBFMJPYaj9\"",
+      "name": "bnymellon.com",
+      "type": 16
+    },
+    {
+      "TTL": 300,
+      "data": "\"ms-domain-verification=2492305f-34fa-4d33-aab9-01355bfd1301\"",
+      "name": "bnymellon.com",
+      "type": 16
+    },
+    {
+      "TTL": 300,
+      "data": "\"onetrust-domain-verification=4f5c5864fe364155a2ed7981adb3034d\"",
+      "name": "bnymellon.com",
+      "type": 16
+    },
+    {
+      "TTL": 300,
+      "data": "\"smartsheet-site-validation=YSlXWbgjAx2wQlh5nQnHsKHv4qxgO7VT\"",
+      "name": "bnymellon.com",
+      "type": 16
+    },
+    {
+      "TTL": 300,
+      "data": "\"snowflake-verification=b75f7c5f-019f-1000-8024-0000000007d1\"",
+      "name": "bnymellon.com",
+      "type": 16
+    },
+    {
+      "TTL": 300,
+      "data": "\"tnlZL2hNyKDiP4oJRcHRo4F2/fBEvccDztEqrk37BsxTHTjoZVYG2YPuCPykGSuXFSlE51Fuvrl0kWwOuhc2vQ==\"",
+      "name": "bnymellon.com",
+      "type": 16
+    },
+    {
+      "TTL": 300,
+      "data": "\"v=spf1 include:%{ir}.%{v}.%{d}.spf.has.pphosted.com include:spf.bnymellon.com include:cvent-planner.com include:spf-00157d02.pphosted.com include:_spf.salesforce.com include:mktomail.com include:spfhost.messageprovider.com -all\"",
+      "name": "bnymellon.com",
+      "type": 16
+    }
+  ],
+  "CD": false,
+  "Question": [
+    {
+      "name": "bnymellon.com",
+      "type": 16
+    }
+  ],
+  "RA": true,
+  "RD": true,
+  "Status": 0,
+  "TC": false
+}

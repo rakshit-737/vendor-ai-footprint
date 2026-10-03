@@ -1,0 +1,240 @@
+{
+ "key": "f62708b009dcaa6f9fe408a90d78af782db5b55faaea7fe9191e2c07c8fec71d",
+ "model": "gemini-3.5-flash-lite",
+ "payload_sha256": "d377bb958f983dca9e8a8d5441836267191453cd78ee2144547e3a57a3783b58",
+ "prompt_sha256": "065bd458ace52ff274c72967cfe1b90c794a1ec8d3a3696ec78d7d8cf636df94",
+ "response": {
+  "claims": [
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "not_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M4",
+      "span": "artificial intelligence driven automation"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P1",
+    "quote": "Advances in technology, such as artificial intelligence driven automation, may lead to changes in the composition of our workforce.",
+    "subject": "vendor_staff_tools",
+    "temporal": "unclear"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M2",
+      "span": "could be adversely affected"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P2",
+    "quote": "If \nwe are unable to continue to attract, retain, develop and motivate highly qualified employees, or manage the workforce implications of our deployment of artificial intelligence, our performance, including our competitive position, could be adversely affected.",
+    "subject": "vendor_operations",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M2",
+      "span": "adoption of new and evolving technologies such as artificial intelligence"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P3",
+    "quote": "There are substantial risks and uncertainties associated with these efforts, including with respect to projects that involve the adoption of new and evolving technologies such as artificial intelligence.",
+    "subject": "vendor_operations",
+    "temporal": "planned"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "building and integrating artificial intelligence solutions into our daily operations"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P4",
+    "quote": "For example, we have devoted significant resources to building and integrating artificial intelligence solutions into our daily operations, as well as developing new technology solutions for our clients, including our initiatives related to real-time electronic payments and global collateral management, as well as Wove, our integrative wealth management advisory platform.",
+    "subject": "vendor_operations",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "not_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M4",
+      "span": "artificial intelligence, automation"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P5",
+    "quote": "Moreover, new or disruptive technologies, such as blockchain and other distributed ledgers, as well as the introduction of new financial products such as stablecoins or advances in artificial intelligence, automation and quantum computing, may quickly impact markets and the manner in which our clients interact and transact within markets.",
+    "subject": "other_or_industry",
+    "temporal": "unclear"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "genai_llm",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "generative artificial intelligence"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P6",
+    "quote": "the consequences of using emerging technologies, such as blockchain technology or generative artificial intelligence; alleged financial reporting irregularities involving ourselves or other large and well-known companies; perceived or actual conflicts of interest; any cybersecurity event impacting us or our customers",
+    "subject": "vendor_operations",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "development and use of artificial intelligence"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P8",
+    "quote": "the development and use of artificial intelligence present risks and challenges that may materially adversely impact our business;",
+    "subject": "vendor_operations",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G1",
+      "span": "Eliza"
+     },
+     {
+      "code": "G2",
+      "span": "enterprise artificial intelligence (AI) platform, Eliza"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P10",
+    "quote": "The bank's proprietary enterprise artificial intelligence (AI) platform, Eliza, sits at the centre of BNY's effort to scale its operations and handle increasing complexity across its platform businesses.",
+    "subject": "vendor_operations",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "advisory",
+    "ai_type": "agentic",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [
+     "payment validation",
+     "trade settlement",
+     "data analysis"
+    ],
+    "indicators": [
+     {
+      "code": "G1",
+      "span": "Eliza"
+     },
+     {
+      "code": "G2",
+      "span": "multi-agentic AI solutions that work alongside human staff to support workflows such as payment validation, trade settlement and data analysis"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P11",
+    "quote": "Eliza acts as an orchestrator for over 134 \"digital employees\" — multi-agentic AI solutions that work alongside human staff to support workflows such as payment validation, trade settlement and data analysis.",
+    "subject": "vendor_operations",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G11",
+      "span": "99% employee adoption in 2025"
+     },
+     {
+      "code": "G11",
+      "span": "more than 60 AI-related patent applications"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P11",
+    "quote": "The platform reached 99% employee adoption in 2025, and BNY filed more than 60 AI-related patent applications during the year.",
+    "subject": "vendor_operations",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "ai_partnership",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G1",
+      "span": "Google Cloud"
+     },
+     {
+      "code": "G1",
+      "span": "OpenAI"
+     }
+    ],
+    "named_providers": [
+     "Google Cloud",
+     "OpenAI"
+    ],
+    "passage_id": "P11",
+    "quote": "Partnerships with Google Cloud and OpenAI have further enhanced its capabilities for research, analytics and operational efficiency.",
+    "subject": "vendor_operations",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G1",
+      "span": "Eliza"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P12",
+    "quote": "“Eliza is unlocking capacity for our people, allowing them to focus on higher-value work for our clients,” he said.",
+    "subject": "vendor_operations",
+    "temporal": "in_production"
+   }
+  ]
+ },
+ "role": "extract",
+ "schema_sha256": "f1cd07fdb8e496624608717927261043432a3bd93d84723a126b7c7d951d68df",
+ "seed": 1234
+}

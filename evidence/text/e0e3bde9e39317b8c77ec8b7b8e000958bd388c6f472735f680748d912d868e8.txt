@@ -1,0 +1,19 @@
+Higher $10 Million RTP® Network Transaction Limit Empowers New Uses
+NEW YORK - The Clearing House, the operator of the RTP® network, the largest instant payments system in the United States, will raise the individual transaction limit to $10 million. The increased limit supports growth on the network in areas including real estate, supply chain payments, and business-to-business transactions that require larger transaction amounts.
+"We have heard from many of our corporate customers that they have a need to send higher-value instant payments to meet today's growing business demands," said Matt Richardson, Executive Vice President, Citizens. "Raising the RTP transaction limit to $10 million will allow our corporate customers to send larger payments for a variety of needs, including payments outside of traditional business hours."
+The new $10 million individual transaction limit will be effective February 9, 2025. The RTP transaction limit has been $1 million since April 2022, when the limit was increased from $100,000.
+"The $10 million transaction limit allows financial institutions and their customers to make larger payments in real time, continually enabling the RTP network to evolve to meet industry needs," said Margaret Weichert, Chief Product Officer, The Clearing House. "Customers already benefit from the system's around-the-clock availability, with 42% of transactions taking place overnight, on weekends, or holidays. This aligns with how businesses operate in today's 24/7 economy."
+The $10 million transaction limit on the RTP network provides the ability to send larger payments for many business reasons, including:
+- Real Estate/Title Insurance: Commercial and higher-value residential real estate payments can be sent instantly, 24/7, which allow for closings after business hours or on weekends.
+- Merchant Settlement: Larger merchants and retailers can receive daily instant payments, instead of more traditional merchant payouts that are received a day or more later.
+- Supply Chain: Manufacturers can pay suppliers instantly so products and supplies can be shipped sooner.
+- Cash Concentration: Businesses can move funds to a single account to optimize liquidity or consolidate funds at month or quarter end.
+More than 285,000 businesses each month send instant payments over the RTP network through financial institutions on the system. In November, the network surpassed half a trillion dollars ($500 billion) in instant payments since it launched seven years ago, and it now averages over 1 million payments per day. In October, the RTP network experienced a record 31.9 million transactions valued at $25.7 billion.
+###
+About The Clearing House
+The Clearing House operates U.S-based payments networks that clear and settle more than $2 trillion each day through wire, ACH, check image, and real-time payments. It is the nation's most experienced payments company, with a long track record of providing secure and reliable systems, payments innovation, and strategic thought leadership to financial institutions. In 2017, The Clearing House revolutionized U.S. payments by introducing the RTP® network, which supports the immediate clearing and settlement of payments, along with the ability to exchange related payment information across the same secure channel. These RTP capabilities enable all financial institutions to offer safer, faster, and smarter digital transaction services for their corporate and retail customers. Learn more at www.theclearinghouse.org.
+Media Contact:
+Greg MacSweeney
+The Clearing House
+212-612-9282
+Gregory.MacSweeney@theclearinghouse.org

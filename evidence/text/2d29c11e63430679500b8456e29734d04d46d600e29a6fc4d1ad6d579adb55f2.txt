@@ -1,0 +1,45 @@
+Type: 
+            
+                Webinar
+            
+            
+            Duration: 
+            
+                60 Minutes
+            
+            
+            
+                Date & Time: 
+                
+                
+            
+            
+            
+            
+            
+        
+            
+            Member Fee: 
+            
+                $0
+            
+            
+            Non-Member Fee: 
+            
+                $349
+            
+            
+            
+            
+                
+            
+            
+            Audience: 
+            
+                AAP Candidates, AAPs, APRP Candidates, APRPs, Operations, ACH Personnel
+            
+            
+        
+        
+             
+When should an ACH transaction be returned as a Stop Payment vs. Unauthorized Entry? Which return code is appropriate and when? We'll discuss the Receiving Depository Financial Institution's obligations for returning consumer and non-consumer entries for stop pay, unauthorized or authorization revoked and review the related return reason codes, written statement (WSUD) requirements and timeframes.

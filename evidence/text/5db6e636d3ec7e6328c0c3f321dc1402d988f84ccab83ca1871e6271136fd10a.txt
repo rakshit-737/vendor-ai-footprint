@@ -1,0 +1,40 @@
+NOC Technician (Operations Representative)
+| Position: | NOC Technician (Operations Representative) | 
+|---|---|
+| Reports To: | Director of Operations | 
+| Location: | Winston-Salem, NC | 
+Position Summary:
+The Operations Representative will ensure that all systems are functioning in a healthy state, along with ensuring that all data transmissions to and from The Clearing House are monitored and executed successfully through the system. This includes the identification, investigation, escalation, and resolution of all internal production or customer-related issues in a timely and efficient manner. The Operations Representative will ensure that all customer or third-party inquiries are answered in a timely, accurate and professional manner.
+Note: This role requires working a set schedule that ensures 24/7 coverage for TCH customers. Night shift, overtime and weekend hours may be required.
+Qualifications Required:
+- Bachelor's degree in Computer Science or Mathematics, or a combination of equivalent education and experience
+- Knowledge of Windows and UNIX operating systems
+- Understanding of data center hardware
+- Work knowledge of data center monitoring tools (SCOM, Solar winds)
+- Knowledge of network terminologies and concepts
+- Scripting language skills are a plus
+- Ability to communicate effectively with peers, users, and all management levels
+- 3 years of experience in a NOC environment
+- Strong organizational and problem-solving skills with the ability to make independent decisions
+- Must be detail oriented and organized in both thought and practice
+- Good verbal and written communication skills
+- Strong analytical and problem solving skills
+- Must have a professional demean our and be able to effectively work with external customers, vendors and staff
+- Ability to work under pressure and handle conflicting priorities
+- Good interpersonal and customer service skills
+- Must be reliable and dependable – proven attendance/punctuality; consistent performance
+Essential Functions and Responsibilities:
+- Assist in the administration of the system by using pre-determined commands and instructions including preparing the system for initial set up, executing and monitoring a schedule of activities, performing diagnostic tests and check-off lists on the computer systems and communications equipment throughout the day
+- Monitor all aspects of the network processing and file exchange schedules for all Clearing House products
+- Identify, investigate, track, escalate, resolve and document all internal or customer-related production issues; this may involve contacting customers or vendors directly, if our surveillance systems identify connectivity issues
+- Provide customer support and respond to inquiries from financial institution participants, third-party service providers, other network operators and the Federal Reserve Bank; this may include technical support in troubleshooting connectivity via MQ, C:D and FTP
+- Assist customer participants with the set-up of testing communications applications and testing certification
+- Provide coverage for 24/7 Computer Network Operations Center
+Physical Demands and Work Environment:
+Work is generally sedentary in nature, but may require standing and walking. The working environment is generally favorable. Lighting and temperature are adequate, and there are no hazardous or unpleasant conditions caused by noise, dust, etc. Work is generally performed within an office environment, with standard office equipment available.
+TCH places paramount importance on the health and safety of its employees, and, as such, we are taking all necessary steps to protect our workforce. Because this position requires working onsite and/or working in close contact with colleagues and other third parties, TCH is requiring that the employee(s) hired into this role present proof that they are fully vaccinated against COVID-19 during their first week of employment.
+Apply Below*:
+- A letter of interest describing your experience and interest in the position
+- Your resume
+- Names and contact information of three references, or three letters of reference
+* Please submit a single application per position.

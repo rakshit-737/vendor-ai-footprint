@@ -1,0 +1,167 @@
+{
+ "key": "6fbd5e9e876c92de64117bd92acea8aa6ddfe20cd36d6778bb66f0cb3d1258bb",
+ "model": "gemini-3.5-flash-lite",
+ "payload_sha256": "7f3faeb1c73444fcb1b1f0fde675321afa7a04b736392064beb41dcaf294b9ea",
+ "prompt_sha256": "065bd458ace52ff274c72967cfe1b90c794a1ec8d3a3696ec78d7d8cf636df94",
+ "response": {
+  "claims": [
+   {
+    "action_level": "none",
+    "ai_type": "unspecified",
+    "claim_kind": "ai_governance",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G3",
+      "span": "built out our AI training offerings"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P3",
+    "quote": "In 2025 we built out our AI training offerings so all employees can develop this important \nfuture skill and contribute to our “AI everywhere for everyone” philosophy.",
+    "subject": "vendor_staff_tools",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "ai_partnership",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G1",
+      "span": "Google Cloud"
+     },
+     {
+      "code": "G1",
+      "span": "Gemini Enterprise"
+     }
+    ],
+    "named_providers": [
+     "Google Cloud",
+     "Eliza",
+     "Gemini Enterprise"
+    ],
+    "passage_id": "P4",
+    "quote": "BNY Collaborates with Google Cloud to Advance its Eliza AI Platform with Gemini Enterprise",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "agentic",
+    "claim_kind": "ai_partnership",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G1",
+      "span": "Google Cloud"
+     },
+     {
+      "code": "G1",
+      "span": "Gemini Enterprise"
+     }
+    ],
+    "named_providers": [
+     "Google Cloud",
+     "Gemini Enterprise",
+     "Eliza"
+    ],
+    "passage_id": "P5",
+    "quote": "BNY (NYSE: BK) and Google Cloud today announced the integration of Gemini Enterprise – Google Cloud's agentic AI platform powered by its most advanced models – into BNY's enterprise AI platform, Eliza.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "advisory",
+    "ai_type": "agentic",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "agentic deep research capabilities for market analysis"
+     }
+    ],
+    "named_providers": [
+     "Eliza"
+    ],
+    "passage_id": "P5",
+    "quote": "This strategic integration is helping advance Eliza's agentic deep research capabilities for market analysis and equipping the company's global workforce with access to multimodal features.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "advisory",
+    "ai_type": "agentic",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [
+     "financial reports",
+     "relevant data",
+     "historical trends",
+     "complex financial information"
+    ],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "build AI agents to quickly process, synthesize, and analyze extensive financial reports, relevant data, and historical trends"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P6",
+    "quote": "BNY's employees can now build AI agents to quickly process, synthesize, and analyze extensive financial reports, relevant data, and historical trends to extract insights and navigate complex financial information more efficiently.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "automated_action",
+    "ai_type": "unspecified",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "automate routine, data-intensive tasks"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P6",
+    "quote": "The integration is also helping automate routine, data-intensive tasks.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G1",
+      "span": "Google Cloud's"
+     },
+     {
+      "code": "G1",
+      "span": "Gemini 3"
+     },
+     {
+      "code": "G1",
+      "span": "Veo 3"
+     }
+    ],
+    "named_providers": [
+     "Google Cloud",
+     "Gemini 3",
+     "Veo 3"
+    ],
+    "passage_id": "P8",
+    "quote": "BNY has been a long-time user of Google Cloud's AI capabilities and continues to leverage Google's newest models, including Gemini 3 and Veo 3, to enable diverse AI capabilities across its enterprise AI platform.",
+    "subject": "vendor_operations",
+    "temporal": "in_production"
+   }
+  ]
+ },
+ "role": "extract",
+ "schema_sha256": "f1cd07fdb8e496624608717927261043432a3bd93d84723a126b7c7d951d68df",
+ "seed": 1234
+}

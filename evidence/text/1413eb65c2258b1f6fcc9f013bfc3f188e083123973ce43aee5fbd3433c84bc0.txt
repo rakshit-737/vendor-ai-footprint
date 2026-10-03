@@ -1,0 +1,44 @@
+Type: 
+            
+                On Demand
+            
+            
+            Duration: 
+            
+                30 Minutes
+            
+            
+            
+                Date & Time: 
+                
+                
+            
+            
+            
+            
+            
+        
+            
+            Member Fee: 
+            
+                $0
+            
+            
+            Non-Member Fee: 
+            
+                $299
+            
+            
+            
+            
+                
+            
+            
+            
+            
+                
+            
+            
+        
+        
+            ACH authorization allow businesses to collect customer payments through the ACH network. Proper authorization is not only required for ACH compliance, but is also necessary. This session will cover what you need to know about authorization requirements, retention policies, and more, to help ensure you maintain compliance and your payment processes run smoothly.

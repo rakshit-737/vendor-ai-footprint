@@ -1,0 +1,12 @@
+[
+  [
+    "timestamp",
+    "original",
+    "statuscode"
+  ],
+  [
+    "20211102190823",
+    "https://www.globalcustodian.com/bny-mellon-selects-pelican-ai-for-sanctions-screening-and-financial-compliance/",
+    "200"
+  ]
+]

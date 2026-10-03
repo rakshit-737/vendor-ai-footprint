@@ -1,0 +1,180 @@
+{
+ "key": "0d7e7dedc2b99965834b8e616b1a50d39a931a6b01598d00dcfdd28af5a69526",
+ "model": "gemini-3.5-flash-lite",
+ "payload_sha256": "298055773e405204360a7401fa9e35359f773d73c8957318201939d9bb1d654f",
+ "prompt_sha256": "065bd458ace52ff274c72967cfe1b90c794a1ec8d3a3696ec78d7d8cf636df94",
+ "response": {
+  "claims": [
+   {
+    "action_level": "unknown",
+    "ai_type": "predictive_ml",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "anomaly detection and exception management across both cross-border and real-time rails"
+     },
+     {
+      "code": "G3",
+      "span": "operate within established compliance frameworks, reinforcing monitoring and control"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P1",
+    "quote": "In the payments environment, AI supports anomaly detection and exception management across both cross-border and real-time rails. Machine learning models operate within established compliance frameworks, reinforcing monitoring and control rather than bypassing governance structures.",
+    "subject": "vendor_operations",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "matching disbursements, identifying breaks and prioritising resolution across jurisdictions"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P2",
+    "quote": "Within liquidity and reconciliation processes, AI assists in matching disbursements, identifying breaks and prioritising resolution across jurisdictions.",
+    "subject": "vendor_operations",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "advisory",
+    "ai_type": "unspecified",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "consolidate information, prepare meeting agendas and surface relevant operational insights"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P3",
+    "quote": "AI is also applied to client engagement preparation. Coverage teams leverage AI tools to consolidate information, prepare meeting agendas and surface relevant operational insights ahead of institutional discussions.",
+    "subject": "vendor_staff_tools",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "live AI applications and roadmap discussions"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P4",
+    "quote": "Institutional clients visiting the centre are exposed to live AI applications and roadmap discussions, which in certain cases have triggered follow-on initiatives tied to specific operational use cases.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "AI roadmap and applied workflow use cases"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P5",
+    "quote": "Representatives from the client visited BNY's Singapore innovation centre and were exposed to the AI roadmap and applied workflow use cases.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "Transaction pattern recognition, anomaly identification and liquidity optimisation indicators"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P6",
+    "quote": "TreasuryEdge also operates as a layer through which AI-derived insights can be surfaced. Transaction pattern recognition, anomaly identification and liquidity optimisation indicators can be translated into operational prompts rather than remaining analytical outputs. In this sense, TreasuryEdge becomes the interface through which embedded AI functionalities are operationalised.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "reconciliation and anomaly detection to client engagement preparation"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P8",
+    "quote": "AI functionality is embedded within operational workflows — from reconciliation and anomaly detection to client engagement preparation — rather than positioned as external experimentation. To make AI ‘everywhere, for everything and for everyone’, BNY has integrated AI literacy into its manager development and analyst program to upskill employees.",
+    "subject": "vendor_operations",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "building applied AI solutions into our workflows and across the entire company"
+     },
+     {
+      "code": "G11",
+      "span": "tangible benefits"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P10",
+    "quote": "Investments in our people, infrastructure, platform and broader ecosystem have created a strong foundation on which we are building applied AI solutions into our workflows and across the entire company • AI-integration has started to show tangible benefits across the entire client lifecycle: innovating, prospecting, onboarding, transacting",
+    "subject": "vendor_operations",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "ai_governance",
+    "data_mentioned": [
+     "data"
+    ],
+    "indicators": [
+     {
+      "code": "G3",
+      "span": "availability, usability and quality of data"
+     },
+     {
+      "code": "M2",
+      "span": "expected benefits"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P12",
+    "quote": "Statements about our artificial intelligence initiatives, including the timing, implementation, efficacy and expected benefits, are subject to various factors, including third-party and vendor dependencies, the availability, usability and quality of data, evolving legal, regulatory and supervisory expectations, employee and client adoption, and our ability to deploy, monitor and scale such capabilities with appropriate governance and in an effective control environment.",
+    "subject": "vendor_operations",
+    "temporal": "planned"
+   }
+  ]
+ },
+ "role": "extract",
+ "schema_sha256": "f1cd07fdb8e496624608717927261043432a3bd93d84723a126b7c7d951d68df",
+ "seed": 1234
+}

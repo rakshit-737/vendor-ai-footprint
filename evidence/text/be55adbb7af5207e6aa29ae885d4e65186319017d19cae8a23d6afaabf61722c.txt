@@ -1,0 +1,120 @@
+{
+  "count": 1,
+  "hasMore": false,
+  "items": [
+    {
+      "ApplyWhenNotPostedFlag": null,
+      "BeFirstToApplyFlag": false,
+      "BusinessUnit": null,
+      "BusinessUnitId": 300000094081469,
+      "Category": "Technology and Cyber Risk Management",
+      "ContentLocale": "en",
+      "ContractType": null,
+      "CorporateDescriptionStr": "For over 230 years, the people of BNY Mellon have been at the forefront of finance, expanding the financial markets while supporting investors throughout the investment lifecycle. BNY Mellon can act as a single point of contact for clients looking to create, trade, hold, manage, service, distribute or restructure investments &amp; safeguards nearly one-fifth of the world's financial assets. BNY Mellon remains one of the safest, most trusted and admired companies. Every day our employees make their mark by helping clients better manage and service their financial assets around the world. Whether providing financial services for institutions, corporations or individual investors, clients count on the people of BNY Mellon across time zones and in 35 countries and more than 100 markets. It's the collective ambition, innovative thinking and exceptionally focused client service paired with a commitment to doing what is right that continues to set us apart. Make your mark: bnymellon.com/careers.",
+      "Department": null,
+      "DomesticTravelRequired": null,
+      "ExternalContactEmail": null,
+      "ExternalContactName": null,
+      "ExternalDescriptionStr": "<p>&nbsp;</p><p><span style=\"font-family: &quot;Avenir Next LT Pro&quot;, sans-serif;\">We are seeking a future team member for the role of <strong>Senior Specialist, AI Risk</strong> to join our <strong>Technology Risk Management (TRM)</strong> team. This role is located in Pittsburgh PA. This individual contributor role is focused on the hands-on execution required to build and sustain the newly established second line of defense AI Risk team. The Senior Associate will pivot across a broad portfolio of technical analysis, forward-looking research, risk issue management, metric breach analysis, and AI agent build activities.<span>&nbsp;</span>The role works closely with Technology, AI Hub, Engineering, Data, Risk &amp; Compliance, and business stakeholders on a new and rapidly changing risk area that requires foundational experience, analytical judgment, and strong interpersonal skills.</span></p><p><span style=\"font-family: &quot;Avenir Next LT Pro&quot;, sans-serif;\"><strong>In this role, you’ll make an impact in the following ways:&nbsp;&nbsp;</strong></span></p><p><span style=\"font-family: &quot;Avenir Next LT Pro&quot;, sans-serif;\"><strong>AI Risk Analysis &amp; Research:</strong></span></p><ul style=\"list-style-type: disc;\"><li><span style=\"font-family: &quot;Avenir Next LT Pro&quot;, sans-serif;\">Perform risk analysis across AI capabilities, use cases, platforms, and supporting technologies.</span></li><li><span style=\"font-family: &quot;Avenir Next LT Pro&quot;, sans-serif;\">Conduct forward-looking research on AI technology, risk, controls, regulatory expectations, and changes in the threat environment.</span></li><li><span style=\"font-family: &quot;Avenir Next LT Pro&quot;, sans-serif;\">Analyze AI risks and control considerations and translate findings into clear, auditable outputs for second line oversight.</span></li><li><span style=\"font-family: &quot;Avenir Next LT Pro&quot;, sans-serif;\">Support risk identification, assessment, measurement, and monitoring activities across the AI Risk portfolio.</span></li><li><span style=\"font-family: &quot;Avenir Next LT Pro&quot;, sans-serif;\">Prepare analysis and materials to support AI Risk decisions, governance, and stakeholder discussions.</span></li></ul><p>&nbsp;</p><p><span style=\"font-family: &quot;Avenir Next LT Pro&quot;, sans-serif;\"><strong>Issues &amp; Metrics:</strong></span></p><ul style=\"list-style-type: disc;\"><li><span style=\"font-family: &quot;Avenir Next LT Pro&quot;, sans-serif;\">Support AI risk issue management activities, including analysis, documentation, tracking, and remediation oversight.</span></li><li><span style=\"font-family: &quot;Avenir Next LT Pro&quot;, sans-serif;\">Analyze AI risk metric breaches, identify root causes, and support development and tracking of paths to green.</span></li><li><span style=\"font-family: &quot;Avenir Next LT Pro&quot;, sans-serif;\">Maintain clear documentation and evidence to support governance, regulatory, and audit needs.</span></li></ul><p style=\"margin-left: 0.5in;\">&nbsp;</p><p><span style=\"font-family: &quot;Avenir Next LT Pro&quot;, sans-serif;\"><strong>AI Innovation</strong></span></p><ul style=\"list-style-type: disc;\"><li><span style=\"font-family: &quot;Avenir Next LT Pro&quot;, sans-serif;\">Build, configure, test, or support AI agents used to strengthen or scale AI Risk activities.</span></li><li><span style=\"font-family: &quot;Avenir Next LT Pro&quot;, sans-serif;\">Pivot across priorities and execute assignments in a rapidly evolving AI business and risk environment.</span></li></ul><p>&nbsp;</p><p><span style=\"font-family: &quot;Avenir Next LT Pro&quot;, sans-serif;\"><strong>To be successful in this role, we're seeking the following:</strong></span></p><ul style=\"list-style-type: disc;\"><li><span style=\"font-family: &quot;Avenir Next LT Pro&quot;, sans-serif;\">2+ years of experience in technology risk, cyber risk, data risk, model risk, AI risk, automation, or a related analytical or technical role.</span></li><li><span style=\"font-family: &quot;Avenir Next LT Pro&quot;, sans-serif;\">Foundational knowledge of AI technologies, AI risks, controls, and the evolving business and threat environment.</span></li><li><span style=\"font-family: &quot;Avenir Next LT Pro&quot;, sans-serif;\">Experience performing technical analysis, research, issue management, metrics analysis, or related risk activities.</span></li><li><span style=\"font-family: &quot;Avenir Next LT Pro&quot;, sans-serif;\">Ability to analyze risk metric breaches, identify root causes, and support development of practical remediation paths.</span></li><li><span style=\"font-family: &quot;Avenir Next LT Pro&quot;, sans-serif;\">Hands-on experience building, configuring, testing, or supporting AI-enabled solutions or automation is preferred.</span></li><li><span style=\"font-family: &quot;Avenir Next LT Pro&quot;, sans-serif;\">Working knowledge of risk management concepts, including risk identification, assessment, monitoring, controls, metrics, governance, and issue management.</span></li><li><span style=\"font-family: &quot;Avenir Next LT Pro&quot;, sans-serif;\">Strong analytical skills and the ability to produce clear, accurate, and auditable outputs.</span></li><li><span style=\"font-family: &quot;Avenir Next LT Pro&quot;, sans-serif;\">Ability to pivot across a broad portfolio, manage changing priorities, and work effectively in a rapidly evolving area.</span></li><li><span style=\"font-family: &quot;Avenir Next LT Pro&quot;, sans-serif;\">Strong interpersonal and communication skills, with the ability to engage technology, risk, and business stakeholders.</span></li><li><span style=\"font-family: &quot;Avenir Next LT Pro&quot;, sans-serif;\">Relentless curiosity and a passion for enabling safe, high-impact innovation.</span></li></ul>",
+      "ExternalPostedEndDate": null,
+      "ExternalPostedStartDate": "2026-09-28T18:53:27+00:00",
+      "ExternalQualificationsStr": "",
+      "ExternalResponsibilitiesStr": "",
+      "GeographyId": 300000090220393,
+      "GeographyNodeId": 100010357090073,
+      "HiringManager": null,
+      "HotJobFlag": false,
+      "Id": "82073",
+      "InternalQualificationsStr": "",
+      "InternalResponsibilitiesStr": "",
+      "InternationalTravelRequired": null,
+      "JobFamilyId": 300010121311792,
+      "JobFunction": "Risk and Compliance",
+      "JobFunctionCode": "RC",
+      "JobGrade": null,
+      "JobLevel": null,
+      "JobSchedule": "Full time",
+      "JobShift": "Day",
+      "JobType": null,
+      "LegalEmployer": null,
+      "LegalEmployerId": 300000003582023,
+      "NumberOfOpenings": null,
+      "ObjectVerNumberProfile": null,
+      "Organization": null,
+      "OrganizationDescriptionStr": "<p>At BNY, our culture speaks for itself, check out the latest BNY news at&nbsp;<a href=\"https://www.bny.com/corporate/global/en/about-us/newsroom.html\" target=\"_blank\" rel=\"nofollow\">BNY Newsroom</a>&nbsp;&amp;&nbsp;<a href=\"https://www.linkedin.com/company/bnyglobal/posts/?feedView=all\" target=\"_blank\" rel=\"nofollow\">BNY LinkedIn</a></p>\n<p style=\"margin-bottom:0in\">&nbsp;Here’s a few of our recent awards:</p>\n<ul style=\"margin-top:0in\">\n <li style=\"margin-bottom:0in\">America’s Most Innovative Companies, Fortune, 2025</li>\n <li style=\"margin-bottom:0in\">World’s Most Admired Companies, Fortune 2025</li>\n <li style=\"margin-bottom:0in\">“Most Just Companies”, Just Capital and CNBC, 2025</li>\n</ul>\n<ul></ul>\n<p>Our Benefits and Rewards:</p>\n<p>BNY offers highly competitive compensation, benefits, and wellbeing programs rooted in a strong culture of excellence and our pay-for-performance philosophy. We provide access to flexible global resources and tools for your life’s journey. Focus on your health, foster your personal resilience, and reach your financial goals as a valued member of our team, along with generous paid leaves, including paid volunteer time, that can support you and your family through moments that matter.</p>\n<p>BNY is an Equal Employment Opportunity/Affirmative Action Employer - Underrepresented racial and ethnic groups/Females/Individuals with Disabilities/Protected Veterans.</p>\n<p>BNY assesses market data to ensure a competitive compensation package for our employees. The expected base salary for this position when employment commences can be found in the Job Info section at the bottom of the posting.&nbsp;</p>\n<p>Base salary offered may vary depending on multiple individualized factors, including market location, job-related knowledge, skills, and experience. Base salary is only part of the total rewards package, which may include eligibility for an annual discretionary incentive award. Subject to the terms and conditions of the applicable plans then in effect, eligible employees may enroll in a 401(k) plan as well as participate in Company-sponsored medical, dental, vision, and basic life insurance plans for the employee and the employee’s eligible dependents. Eligible employees also may receive other benefits (including various paid time off benefits, such as vacation and sick time), dependent on the position offered. Details of participation in these benefit plans will be provided if an employee receives an offer of employment.</p>\n<p>If hired, the employee will be in an “at will” position and the Company reserves the right to modify base salary (as well as any other discretionary payments or compensation programs) at any time, including for reasons related to individual performance, Company or individual department/team performance, and market factors.</p>",
+      "OrganizationId": 300000094762165,
+      "OtherRequisitionTitle": null,
+      "PrimaryLocation": "Pittsburgh, PA, United States",
+      "PrimaryLocationCountry": "US",
+      "RequisitionId": 300011074800533,
+      "RequisitionType": "Experienced",
+      "ShortDescriptionStr": "",
+      "StudyLevel": "Bachelor's Degree",
+      "Title": "Senior Specialist, AI Risk",
+      "TrendingFlag": true,
+      "WorkDays": null,
+      "WorkHours": null,
+      "WorkMonths": null,
+      "WorkYears": null,
+      "WorkerType": null,
+      "WorkplaceType": "Hybrid",
+      "WorkplaceTypeCode": "ORA_HYBRID",
+      "media": [],
+      "otherWorkLocations": [],
+      "primaryLocationCoordinates": [
+        {
+          "CountryCode": "US",
+          "GeographyId": 300000090220393,
+          "GeographyNodeId": 100010357090073,
+          "Latitude": "40.43851",
+          "Longitude": "-79.99734"
+        }
+      ],
+      "requisitionFlexFields": [
+        {
+          "ControlType": "TextArea",
+          "Prompt": "Base Salary Min",
+          "SequenceNumber": 12,
+          "Value": "59000"
+        },
+        {
+          "ControlType": "TextArea",
+          "Prompt": "Base Salary Max",
+          "SequenceNumber": 21,
+          "Value": "79000"
+        }
+      ],
+      "secondaryLocations": [],
+      "skills": [],
+      "workLocation": [
+        {
+          "AddressLine1": "500 Ross Street",
+          "AddressLine2": null,
+          "AddressLine3": null,
+          "AddressLine4": null,
+          "Building": null,
+          "Country": "US",
+          "Latitude": "40.43913498",
+          "LocationId": 300000129875553,
+          "LocationName": "500 Ross Street,Pittsburgh,PA",
+          "Longitude": "-79.99553016",
+          "PostalCode": "15262",
+          "Region1": "Allegheny",
+          "Region2": "PA",
+          "Region3": null,
+          "TownOrCity": "Pittsburgh"
+        }
+      ]
+    }
+  ],
+  "limit": 499,
+  "links": [
+    {
+      "href": "https://eofe.fa.us2.oraclecloud.com:443/hcmRestApi/resources/11.13.18.05/recruitingCEJobRequisitionDetails",
+      "kind": "collection",
+      "name": "recruitingCEJobRequisitionDetails",
+      "rel": "self"
+    }
+  ],
+  "offset": 0
+}

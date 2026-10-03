@@ -1,0 +1,24 @@
+Comprehensive Data Security and Risk Management
+Terrapin Technologies is dedicated to protecting customer data. Its robust security capabilities give customers peace of mind knowing that their digital assets are safe. As an aggregator of data, Terrapin is, by definition, entrusted with large amounts of highly confidential information and considers the security of that data critical.
+Terrapin works relentlessly to maintain customers’ confidence and stay abreast of all technical and procedural best practices regarding data security. Terrapin continuously enhances the tools and procedures used to enforce security and risk management policies. The following is an overview of the key components.
+SOC 2 Type II Audited
+The American Institute of Certified Public Accountants (AICPA) created the SOC 2 standards to govern how service providers, like Terrapin, protect client information. The SOC 2 has become the industry standard when it comes to service organizations having to perform annual compliance audits.
+Risk Mitigation
+Terrapin undergoes regular and rigorous internal security audits, penetration testing, and comprehensive customer risk assessments. An effective risk management program is an ongoing commitment within Terrapin and an essential component in identifying and mitigating threats to information assets.
+Data Encryption
+Encryption in Transit
+- TLS 1.2 and above
+- SFTP for secure file transmission
+- PGP encryption for data files
+- 2048-bit RSA certificates
+Encryption at Rest
+- Data is stored in the proprietary Oracle format
+- Customer data is stored on encrypted servers and storage
+Disaster Recovery
+Terrapin has multiple, geographically separated, data centers. All production data is replicated in the disaster recovery environment via real-time, bit-level data replication. In the event of a disaster, all operations run in the disaster recovery environment with all critical communication channels duplicated there. Terrapin’s disaster recovery plan undergoes rigorous testing three times a year.
+Recommended Resources:
+AICPA SOC for Service Organizations: Trust Services Criteria:  https://www.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report.html
+ISO/IEC 27001:  https://www.iso.org/standard/27001 
+NIST Cybersecurity Framework:  https://www.nist.gov/cyberframework
+FINRA Report on Selected Cybersecurity Practices – 2018:  https://www.finra.org/sites/default/files/Cybersecurity_Report_2018.pdf
+SIFMA Cybersecurity Resources:  https://www.sifma.org/cybersecurity-resources/

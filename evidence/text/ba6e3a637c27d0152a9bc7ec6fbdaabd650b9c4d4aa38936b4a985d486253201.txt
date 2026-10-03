@@ -1,0 +1,68 @@
+eDelivery
+Quick Facts
+Put electronic document delivery control directly in your customers' hands with a simple, powerful preference management system. Customers choose how they receive account, billing, and marketing communications, with timely email or text notifications when a statement is ready or payment is due. An integrated opt-in process drives eAdoption, while detailed reporting delivers actionable delivery and open rate insights.
+Expected Results
+Retain digitally-minded customers and increase satisfaction with multiple communication channels that meet every preference, now and in the future. Keep the payment and information cycle moving with quick access to documents and account details. Timely, targeted notifications reduce call center inquiries and help you stay compliant with time-sensitive communications.
+Choose one (1) minimum. Free cost and shipping on orders.
+Electronic Document Delivery and eNotifications
+Choose one (1) minimum. Free cost and shipping on orders.
+Preference Management
+It’s all about choices. When customers have the flexibility to manage their preferences, they can create their own user experience, making quick adjustments and updating their settings at any time. From selecting or changing the delivery method to adjusting notification settings, your customers have control over their choices, increasing satisfaction and the likelihood to stay opted into your electronic document services.
+- Document Delivery Preferences – Using an easy opt-in process, customers can choose between the paper and electronic delivery of important documents based on the method they prefer.
+- Notification Preferences – Customers who opt into electronic delivery can adjust the way they are notified about the statuses or updates of their documents, choosing between email and text notifications. When documents are ready, your enrolled customers are automatically alerted through branded emails or targeted text messages.
+Email Notifications
+Personalized email notifications keep your customers in touch and up to date with important financial, billing and marketing information. The templates are highly customizable to match your company branding, with variable data, targeted graphics and trackable links to your electronic presentment or payment site – increasing overall engagement and response rates. Real-time analytics provide 24/7 transparency with online tracking and reporting.
+- Personalized email templates for brand consistency
+- Custom text and graphics
+- Trackable links to an ePresentment site
+- Comprehensive email delivery and tracking report (delivery, bounce, click and open rates)
+- Capability to generate a mailpiece when an email recipient is unreachable
+Text Notifications
+SMS text messages are sent utilizing an integrated text messaging service that facilitates instant communication with customers regarding basic account notifications, marketing messages, bill pay and document delivery. Two-way texting provides instant communications between customers and customer service representatives.
+Fast outreach, immediate receipt and high response rates make text messaging a convenient and effective mobile notification option.
+- Template setups ensure regulatory compliance
+- Targeted variable data
+- Secure links to documents and/or payment portals
+- Convenient “pay by text” services
+- Short codes provide a shorter sequence of numbers than a typical mobile number
+- Real-time access to customer service representatives
+- Integrate text message opt-in prompts on printed documents
+Types of Email and Text Notifications
+Notifications are not limited to transactional or billing messages. You can strengthen your overall marketing strategy with targeted marketing messages, utilizing an omnichannel approach that includes text messaging for an optimized customer experience.
+All communication types are covered – past-due notices, document availability, marketing communication, compliance notices, e-bills, and more – so you can effectively deliver all critical communications in the way your customers select.
+- Transactional notifications are triggered by specific activities or actions that the user has opted to be alerted about via email or text; e.g., a bank statement is ready, payment is past due or payment is confirmed.
+- Billing notifications serve as reminders to help facilitate payments and accelerate the payment remittance cycle; reminding customers when a payment is due and providing a convenient link to your online payment platform.
+- Marketing notifications can strengthen your overall marketing strategy by offering additional ways to deliver targeted messages, including upsell, cross-sell, relationship-building and promotional communications.
+Security, Privacy and Compliance
+Comprehensive security and compliance protocols are a vital part of FSSI’s email and text notification solutions, ensuring that all communication efforts meet industry standards, and are delivered on time and according to best practices.
+- Predictable Delivery Schedule – Reliable and timely delivery of critical notifications ensures customers receive important communications when they’re expected.
+- Compliant Outreach – Notifications are only sent to customers who have opted in. Software management tools automatically determine text delivery, consent, and adherence to TCPA. Spam filtering and blacklisting are effectively addressed to limit risk of non-compliance.
+- Secure Notification – Email notification efforts meet ISP quality and overall reputation standards while text messages follow protocols to meet ever-changing regulations and security compliance.
+Robust Delivery Reports
+Track and manage delivery results with reports that provide analytics for all outreach efforts through interactive, online KPI dashboards – with real-time email data available via workStreamOne or text data from FSSI’s SMS partner.
+With powerful reporting tools, you have the information to effectively measure the delivery and open/read rates of both email and text notifications. Monitor, manage and generate a campaign activity report 24/7 with the pertinent data points.
+eNotify: Automated Emails and Text Alerts
+Your email and text alerts are sent via FSSI’s convenient eNotify platform, which delivers critical communications on time, every time – diverting spam filters and abiding by security protocols.
+A valuable feature of FSSI’s eStreamOne (ESO) solution, eNotify is a high-volume, permission-based service that automatically alerts enrolled customers, or those who have opted in, with timely transactional, billing and marketing-related notifications, encompassing many types of communications, from informing customers that a payment has cleared to providing targeted offers.
+Secure Text Message Services with Solutions by Text (SBT)
+FSSI partners with Solutions by Text (SBT) to integrate eStatement and electronic presentment services into its SMS Gateway Software – reducing startup costs and time to market. SBT provides a robust software platform that is continually updated to meet all TCPA and other compliance requirements for texting.
+We manage your data and SMS delivery requirements via a custom API with SBT. SBT assists with onboarding and ensures legal documentation and consent. Integrate your text messages into your existing print, mail and electronic document strategies and easily scale as needed.
+Customized Template Design
+Email and text alerts are created using fully-customizable templates that are designed to meet your specific requirements as well as meet regulatory compliance.
+Email Communications – FSSI’s design team works directly with you to develop an effective and consistently-designed template, including an email design that’s in line with company branding or copy that meets compliance standards. Highly-customizable templates support a wide range of colors, fonts and logos, in addition to variable data and graphics, so you can deliver relevant, aesthetically-pleasing emails – increasing overall response rates.
+Texts Communications – Text message templates focus on the content, instead of the design, ensuring that the language is approved prior to production and follows key regulatory compliance guidelines. Text alerts can also utilize targeted variable data for more specific outreach, ensuring that your messages are tailored to the recipient.
+What are the benefits of FSSI’s eDelivery capabilities?
+- Customized preference management for user control over the delivery and receipt of information
+- Reliable and timely delivery of email and text notifications
+- Higher contact and response rates due to meeting customers’ specific delivery preferences – communicating how and where they choose
+- Full transparency with 24/7, real-time online tracking and reporting
+- Secure and compliant outreach meets ISP (Internet Service Provider) quality and reputation standards while adhering to consent and TCPA requirements
+- Specialized development team continually enhances functionality based on industry best practices
+What type of customer communications are sent via email and/or text?
+Whether you are looking to send basic account notifications, marketing messages, allow customers to pay bills or view documents, it is all possible with FSSI’s email and SMS text message services.
+Account service messages include: past-due notices, disclosure documents and document availability notifications. Marketing messages include: acquisition campaigns, relationship building, cross-sells/upsells, drip campaigns and promotional messages.
+An additional capability with text messaging includes two-way texting, creating a conversation between you and your customers with automatic or real-time responses.
+How does FSSI ensure that eNotifications are secure and compliant?
+Comprehensive security and compliance measures are a vital part of FSSI’s email and text notification process, ensuring that all communications meet industry standards and are delivered according to best practices.
+Email notification efforts meet ISP quality and overall reputation standards while text messages follow protocols to meet ever-changing regulations. Notifications are only sent to customers who have opted into receiving communications. Email deliverability issues, such as spam filtering and blacklisting, are effectively addressed to limit risk of non-compliance; software management tools automatically determine text delivery, consent, and adherence to TCPA.
+Choose one (1) minimum. Free cost and shipping on orders.

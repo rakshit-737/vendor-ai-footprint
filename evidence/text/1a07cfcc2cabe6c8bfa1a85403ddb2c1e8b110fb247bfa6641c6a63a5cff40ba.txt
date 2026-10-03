@@ -1,0 +1,8 @@
+This session is intended for non-financial institution corporate payments professionals.
+Attendees will be introduced to the Automated Clearing House (ACH) network, its participants, and the Nacha Operating Rules & Guidelines ("ACH Rules") which govern the ACH network.  Topics discussed include:
+    - Navigating the ACH Rules 
+- Network Participants and Responsibilities
+- Rules Enforcement
+- Types of ACH Transactions (Standard Entry Class (SEC) Codes)
+- Returns, Notifications of Change and Prenotifications
+- ACH Use Cases for Consumers and Corporates

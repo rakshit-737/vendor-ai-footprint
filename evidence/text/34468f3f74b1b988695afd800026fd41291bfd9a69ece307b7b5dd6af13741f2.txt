@@ -1,0 +1,44 @@
+Type: 
+            
+                Webinar
+            
+            
+            Duration: 
+            
+                60 minute webinar
+            
+            
+            
+                Date & Time: 
+                
+                
+            
+            
+            
+            
+            
+        
+            
+            Member Fee: 
+            
+                $129
+            
+            
+            Non-Member Fee: 
+            
+                $229
+            
+            
+            
+            
+                
+            
+            
+            Audience: 
+            
+                AAP Candidates, ACH Personnel, Senior Payments Personnel, Audit, AAPs, Operations, Compliance, General ACH, Risk, Treasury, IT Personnel
+            
+            
+        
+        
+            This session will provide information on upcoming ACH Rule changes for 2019 and 2020. The review will also address 2018 Rule changes.  To help prepare for future Rule changes, an overview of NACHA Requests for Comment (RFC) or Requests for Information (RFI) related to the ACH Rules will also be referenced.

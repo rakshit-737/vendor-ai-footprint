@@ -1,0 +1,145 @@
+Protect The Clearing 
+House Real-time 
+Payments
+BROCHURE
+info@niceactimize.com   |   niceactimize.com/blog   |        @NICE_actimize   |      /company/actimize   |     NICEactimize
+Alleviate real-time jitters about real-time payments 
+with proven fraud prevention solutions
+The new Real-Time Payments (RTP) rail from The Clearing House 
+(TCH) has Financial Institutions (FIs) in a rush to roll out this offering and 
+excited to dream up new products to grow revenues and attract new 
+customers. But network operating rules dictate that fraud monitoring be 
+in place. Enterprise Fraud Directors and their teams may suffer sleepless 
+nights trying to work out how to implement comprehensive and effective 
+fraud monitoring in a matter of months. 
+The TCH RTP offering represents something new – not just immediate 
+payments that can be enjoyed by any segment the FI serves - but also 
+adoption of rich ISO 20022 messaging, which enables instant, robust 
+data exchange. All this means that fraudsters not only get their funds 
+faster, but also gives them the ability to leverage messages gathering 
+information and influencing unsuspecting victims. This ultimately 
+enables them to invent new ways to attack and steal from FIs and their 
+customers.
+NICE Actimize provides solutions and subject matter expertise that 
+helps fraud prevention teams rise to the challenge of protecting the TCH 
+RTP-based products swiftly and with confidence.
+Ready to get started? Get in touch: info@niceactimize.com
+
+DON’T START FROM SCRATCH – LEVERAGE NICE ACTIMIZE’S INDUSTRY EXPERTISE
+info@niceactimize.com   |   niceactimize.com/blog   |        @NICE_actimize   |      /company/actimize   |     NICEactimize
+ADVANCED MODELING 
+TECHNIQUES ENSURE 
+EFFECTIVE FRAUD SCORES
+Out-of-the-box behavioral profiles 
+and predictive variables (analytical 
+features) use knowledge of real 
+time and faster payment frauds 
+worldwide, and have been updated 
+for the specifics of the TCH RTP 
+offering. These pre-existing 
+capabilities reduce the time and 
+effort needed to prepare and deploy 
+a fraud detection analytical model.
+Cutting-edge machine learning 
+models position FIs to apply real-
+time declines on money-movement 
+and help NICE Actimize data 
+scientists to select the best algorithm 
+for the FI’s portfolio and fraud profile.
+FI Data Scientists are empowered 
+to create and execute their own 
+models in NICE Actimize’s Analytics 
+Authoring Environment. These 
+models complement the NICE 
+Actimize standard model and enable 
+the fraud analytics team to address 
+unique insights from the Financial 
+Institution’s own portfolio.
+NICE Actimize’s managed analytics 
+service provides proactive 
+optimization of analytic models to 
+ensure consistent performance, 
+despite shifting fraud patterns and 
+new fraud attack vectors. FIs gain 
+insights into their own portfolio as 
+well as trends in TCH RTP across 
+institutions. 
+MONITORING OF INCOMING 
+TRANSACTIONS STOPS 
+RECEIPT OF BAD FUNDS AND 
+SUSPICIOUS REQUESTS 
+Fraud strategy can be applied to 
+incoming messages before requests 
+for payment, information or return of 
+funds are presented to the customer, 
+and before funds are available 
+to beneficiaries. This protects all 
+customer segments doing business 
+on RTP .
+Fraud detection is improved, 
+providing an enhanced view of 
+customers and customer transaction 
+risks by “seeing” the incoming funds 
+and messages that precede or follow 
+a customer’s activity.
+ENABLE AUTOMATED AND 
+AGILE DEFENSES 
+Integration to customer servicing 
+channels enables analytical models 
+and strategy rules to leverage 
+channel-access information that 
+may indicate unauthorized access, 
+triggering an in-session interruption, 
+such as a prompt, for the customer 
+to re-authenticate.
+A robust strategy rule-writing 
+platform helps fraud strategists write 
+tactical rules for both monetary and 
+non-monetary RTP transactions 
+sent or received. These rules can 
+be updated in a matter of minutes 
+to rapidly address changing fraud 
+threats.
+STREAMLINE OPERATIONS 
+AND ENABLE CUSTOMER 
+SELF-TREATMENT OF ALERTS
+Reduce fraud operations teams’ 
+strain with integrated customer 
+outreach systems to allow 
+customer self-treatment of alerts 
+Flexible alert prioritization puts 
+the most critical alerts in front 
+of the most skilled operations 
+staff to help ensure timely and 
+accurate resolution 
+Configurable alert consolidation 
+and RTP-specific workflows 
+streamline the alert resolution 
+process, ensuring the operations 
+staff has a complete picture 
+of the customer’s activity and 
+doesn’t have to jump through 
+hoops to resolve alerts
+A virtual workforce of robots 
+reduces rote, manual tasks, 
+enabling fraud operations team 
+members to focus on tasks 
+requiring reasoning and analysis
+BOOST FRAUD SOLUTION 
+EFFECTIVENESS AND SATISFY 
+TCH NETWORK OPERATING 
+RULES
+Automatically leverage anticipated 
+TCH network-provided alerts, 
+scores and insights in analytics, 
+strategy and operations, adding a 
+network-wide view to the FIs local 
+fraud monitoring solution and 
+eliminating manual effort to do so
+Present alerts provided by 
+TCH alongside NICE Actimize 
+generated alerts to enhance 
+the alert resolution process, 
+while also meeting the network 
+requirement to act on these alerts
+Ready to get started? Get in touch: info@niceactimize.com

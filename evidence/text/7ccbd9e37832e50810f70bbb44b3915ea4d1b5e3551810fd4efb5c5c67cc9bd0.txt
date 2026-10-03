@@ -1,0 +1,81 @@
+Director, Product Engineering
+
+Position summary:
+
+The Clearing House (TCH) is the only private sector operator of core payments systems in the United States. We clear and settle nearly $2 trillion in U.S. dollar payments each day, representing half of all commercial ACH and Wire volume. Recently, The Clearing House launched RTP®, a real-time payment system and the first new national payments system in 40 years. TCH is continuing to develop innovative products and solutions for both domestic and international payments.
+
+This position is for a Director of Product Engineering for our core distributed systems development group. This is a hands-on management position leading a team of developers building and supporting core payment systems applications.
+
+The successful candidate will be responsible for maintaining, enhancing, and modernizing the distributed (Windows and Linux) applications that support our core payment networks. A key aspect of the role will be to support the migration to Cloud based computing.
+
+Qualifications required:
+
+Bachelor's degree or equivalent experience in the field of Computer Science, Information Systems, Computer Engineering or other related field
+
+10+ years related experience, at least 5 years in a management capacity
+
+Thorough knowledge of secure development practices
+
+Experience in .NET and JAVA development for mission critical applications
+
+Strong database experience
+
+Experience in both Agile and Waterfall development methodologies
+
+Knowledgeable in Project Management methods, processes and deliverables
+
+Experience tracking and reporting relevant development metrics (e.g., capacity, productivity, progress, quality)
+
+Excellent verbal and written communication skills
+
+Experience in building a solid team than can work across multiple applications.
+
+Experience in transformation: Moving .NET platforms to more current technologies.
+
+Experience with DevSecOps practices and tooling, including GitHub and Fortify.
+
+Experience with modern data engineering practices, methodologies, and toolsets
+
+Participate in the development and maintenance of an Enterprise Application Architecture.
+
+Qualifications desired:
+
+Experience in wholesale banking, particularly with payments (ACH, Wires) would be helpful.
+
+Experience developing and/or migrating applications to the cloud (AWS or Azure)
+
+Knowledgeable in test automation and CI/CD process and tool sets
+
+Experience with large Data warehouses, reporting and Business Intelligence
+
+Certifications are a plus; MCP, MCSD
+
+Essential functions and responsibilities:
+
+Collaborate with the IT infrastructure team, the Planning and Execution team, the third-party vendors, and other Business Groups in the development / delivery of business application
+
+Develop and execute an appropriate delivery team model (e.g., resources, skills, process management) to meet current and projected needs/constraints
+
+Ensure on-time, on-budget, and high-quality code delivery
+
+Effective resource management and planning
+
+Develop and implement strong Application development techniques and effective methodologies
+
+Responsible for providing backend support for the development, testing and other production issues and new projects
+
+Manage deployments for Coding, Patching, etc.
+
+Enterprise Testing - Support the coordination of Component/Unit Testing (dev)
+
+Advanced knowledge and understanding of information processing principles and practices
+
+Basic knowledge of core enterprise IT infrastructure
+
+Basic knowledge of applicable data privacy practices and laws as relevant to IT compliance
+
+Application/Infrastructure Lifecycle
+
+Physical demands and work environment: Work is generally sedentary in nature. The working environment is generally favorable. Lighting and temperature are adequate, and there are no hazardous or unpleasant conditions caused by noise, dust, etc. Work is generally performed within an office environment, with standard office equipment available.
+
+Employees in this position will report to the office 2-3 days per week.

@@ -1,0 +1,70 @@
+COMPREHENSIVE
+VALIDATION SERVICES
+GLOBAL PAYMENTS & TRADE
+Tools to Strengthen
+Your Payment Controls
+BEFORE YOU SEND A PAYMENT INSTRUCTION
+Mitigate risk by identifying invalid beneficiary account numbers before a payment instruction is sent.
+Comply with network rule requirements.
+Lower return rates and avoid costly fees associated with return processing. 
+Simplify manual and cumbersome validation processes.
+Cover both U.S. domestic and international accounts. 
+Reach 99% of all consumer accounts in U.S with Bankify  Open Banking solution.SM
+Easily access the service with flexible options including TreasuryEdge , API and file upload.SM
+Preventing erroneous or unauthorized transactions across multiple payment types and channels is necessary
+for a secure, cost-effective payments operation; the technology and operational costs and effort to put those
+processes in place can be prohibitive. BNY can help.
+Our validation tools are designed to mitigate the risk of problematic payments— on both the sending and
+receiving sides—without requiring you to make significant technology investments.
+AFTER WE RECEIVEYOUR PAYMENT INSTRUCTION
+Our Account Validation Services validate the receiving account owner and routing number
+with up-to-date information in real time. The solution is designed to help you:
+Our Payment Validation Services validate the transaction details against rules you’ve created based on your normal
+business activity. You receive alerts if a payment instruction breaks your rules, giving you the opportunity to confirm or
+cancel the payment before it’s released. The solution is currently available for Wire payments originated via SWIFT and
+ACH payments originated with BNY. Additional payment types and origination points are also in development for the
+service, which is designed to help you:
+Identify potentially erroneous or unauthorized payment instructions.
+Easily incorporate our rule recommendations into your existing operations.
+Subscribe to receive alerts and notifications for rule creation and payment decisioning.
+Automate repetitive manual tasks associated with recall handling.
+Automatically block unwanted ACH transactions or designate only those transactions you wish to accept. 
+Create and manage your rules and set default actions to approve or cancel payments via TreasuryEdge  and API.SM
+Discover more at bny.com/global-payments-and-trade or contact your relationship manager today.
+
+COMPREHENSIVE VALIDATION SERVICES
+BNY is the corporate brand of The Bank of New York Mellon Corporation and may also be used as a generic term to reference the corporation as a whole or its various subsidiaries generally
+and may include The Bank of New York Mellon, a banking corporation organized and existing pursuant to the laws of the State of New York. 
+This material and any products and services may be issued or provided under various brand names in various countries by duly authorised and regulated branches, subsidiaries, affiliates, and
+joint ventures of BNY, which may include any of the following: The Bank of New York Mellon, operating in the United States at 240 Greenwich Street, New York, NY 10286 and operating in the
+UK and EU through its branches The Bank of New York Mellon -London Branch  at 160 Queen Victoria Street, London EC4V 4LA, England, registered in England and Wales with numbers
+FC005522 and BR025038.The Bank of New York Mellon Frankfurt Branch at Friedrich-Ebert-Anlage 49, 60327 Frankfurt am Main Germany, registered in Germany with Registration No. HRB
+12731.
+The Bank of New York Mellon is supervised and regulated by the New York State Department of Financial Services and the US Federal Reserve and authorised by the Prudential Regulation
+Authority. The Bank of New York Mellon, London Branch is subject to regulation by the Financial Conduct Authority and the Prudential Regulation Authority. The Bank of New York Mellon
+Frankfurt Branch is bank under the German Banking Act and subject to regulation by BaFin. BNY has various subsidiaries, affiliates, branches and representative offices in the Asia Pacific
+Region which are subject to regulation by the relevant local regulator in that jurisdiction. The Bank of New York Mellon, Singapore Branch, subject to regulation by the Monetary Authority of
+Singapore. The Bank of New York Mellon, Hong Kong Branch, subject to regulation by the Hong Kong Monetary Authority and the Securities & Futures Commission of Hong Kong. If this
+material is distributed in Japan, it is distributed by The Bank of New York Mellon Securities Company Japan Ltd, as intermediary for The Bank of New York Mellon. If this material is distributed
+in, or from, the Dubai International Financial Centre (“DIFC”), it is communicated by The Bank of New York Mellon, DIFC Branch, regulated by the DFSA and located at DIFC, The Exchange
+Building 5 North, Level 6, Room 601, P.O. Box 506723, Dubai, UAE, on behalf of The Bank of New York Mellon, which is a wholly-owned subsidiary of The Bank of New York Mellon Corporation.
+The Bank of New York Mellon is regulated by the Australian Prudential Regulation Authority and also holds an Australian Financial Services Licence No. 527917 issued by the Australian
+Securities and Investments Commission to provide financial services to wholesale clients in Australia.
+BNY has various subsidiaries, affiliates, branches and representative offices in the Latin America Region which are subject to specific regulation by the relevant local regulator in each
+jurisdiction. This material does not constitute an offer to sell or the solicitation of an offer to buy any products or services in the People’s Republic of China (PRC) to any person to whom it is
+unlawful to make the offer or solicitation in the PRC. BNY does not represent that this material may be lawfully distributed, or that any products may be lawfully offered, in compliance with
+any applicable registration or other requirements in the PRC, or pursuant to an exemption available thereunder, or assume any responsibility for facilitating any such distribution or offering. In
+particular, no action has been taken by the issuer which would permit a public offering of any products or distribution of this material in the PRC. Accordingly, the products are not being
+offered or sold within the PRC by means of this material or any other document. Neither this material nor any advertisement or other offering material may be distributed or published in the
+PRC, except under circumstances that will result in compliance with any applicable laws and regulations. Products may be offered or sold to PRC investors outside the territory of the PRC
+provided that such PRC investors are authorized to buy and sell the products in the offshore market. Potential PRC investors are responsible for obtaining all relevant approvals from the PRC
+government authorities, including but not limited to the State Administration of Foreign Exchange, and compliance with all applicable laws and regulations, including but not limited to those
+of the PRC, before purchasing the products.
+The information contained in this material is for use by wholesale clients only and is not to be relied upon by retail clients. Not all products and services are offered at all locations. This
+material, which may be considered advertising, is for general information and reference purposes only and is not intended to provide legal, tax, accounting, investment, financial or other
+professional advice on any matter, and is not to be used as such. BNY does not warrant or guarantee the accuracy or completeness of, nor undertake to update or amend the information or
+data contained herein. BNY expressly disclaims any liability for any loss arising from or in reliance upon any of this information or data. 
+Trademarks and logos belong to their respective owners. 
+© 2025 The Bank of New York Mellon. All rights reserved. Member FDIC. 
+11/2025
+DISCLOSURES & DISCLAIMERS

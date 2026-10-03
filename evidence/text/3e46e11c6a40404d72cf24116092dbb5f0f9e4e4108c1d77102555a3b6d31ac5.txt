@@ -1,0 +1,29 @@
+{
+  "AD": false,
+  "Answer": [
+    {
+      "TTL": 600,
+      "data": "10 mxa-00157d02.gslb.pphosted.com.",
+      "name": "bnymellon.com.",
+      "type": 15
+    },
+    {
+      "TTL": 600,
+      "data": "10 mxb-00157d02.gslb.pphosted.com.",
+      "name": "bnymellon.com.",
+      "type": 15
+    }
+  ],
+  "CD": false,
+  "Comment": "Response from 172.64.33.142.",
+  "Question": [
+    {
+      "name": "bnymellon.com.",
+      "type": 15
+    }
+  ],
+  "RA": true,
+  "RD": true,
+  "Status": 0,
+  "TC": false
+}

@@ -1,0 +1,30 @@
+{
+ "key": "908fb236299b458cd0d1639afebec1200262243071f67695d5e4096a1038898c",
+ "model": "gemini-3.5-flash-lite",
+ "payload_sha256": "16985676863414c38d69e3cbb1a097a2b04262bae5b875e1ab903f664d276724",
+ "prompt_sha256": "065bd458ace52ff274c72967cfe1b90c794a1ec8d3a3696ec78d7d8cf636df94",
+ "response": {
+  "claims": [
+   {
+    "action_level": "unknown",
+    "ai_type": "agentic",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "using automation, including emerging agentic approaches, to run the orchestration itself"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P5",
+    "quote": "There is a second AI story worth being honest about: using automation, including emerging agentic approaches, to run the orchestration itself. This is real and useful, but it earns its place on the repeatable, well-defined work – provisioning, refreshes, routine remediation, the steps that follow a known pattern.",
+    "subject": "vendor_operations",
+    "temporal": "in_production"
+   }
+  ]
+ },
+ "role": "extract",
+ "schema_sha256": "f1cd07fdb8e496624608717927261043432a3bd93d84723a126b7c7d951d68df",
+ "seed": 1234
+}

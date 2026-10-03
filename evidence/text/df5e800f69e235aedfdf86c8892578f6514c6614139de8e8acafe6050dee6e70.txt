@@ -1,0 +1,9 @@
+The Real Difference Between Faster Payments and Real-Time Payments
+The adoption of real-time payments is not just fighting indecision and technological hurdles inside of banks. There are plenty of misconceptions clouding the judgement of the senior executives tasked with adopting real time payments, according to Colleen Taylor, Executive Vice President, New Payment Flows at Mastercard.
+In a recent Payments Journal podcast, Taylor argues that there are minute but important differences between faster payments and real-time payments that are not helping adoption.
+“Understanding this distinction and other terminology around real-time and faster payments will make for a more productive conversation in this ‘year of adoption,’” she says.
+For starters, here’s what payments professional need to know about the differences between the two. First, faster payment is a “monetary transaction sent and received more quickly than it has been in the past. For example, same-day ACH allows funds to be received in a single day as opposed to Legacy ACH, which could take multiple days.”
+Meanwhile, real-time payment is a “sub-set of faster payments, these monetary transactions are typically sent and received within seconds and come with supporting details that provide greater transaction transparency than in the past. The funds can be sent or received any time, any day. The payee has immediate access to use those funds.”
+Taylor continued to say that “settlement of the bond between financial institutions does not take place in real time,” but TCH notes that on its RTP network, settlement is performed in real-time between participants, 24/7.
+Taylor’s podcast continues with a helpful real-time primer that will get executives and decision-makers up-to-speed in the real-time payments debate.
+Listen to the entire “Mastercard real talk on real-time payments” or read a comprehensive summary on Payments Journal.

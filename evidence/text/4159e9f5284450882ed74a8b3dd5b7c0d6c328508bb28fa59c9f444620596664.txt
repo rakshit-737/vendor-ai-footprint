@@ -1,0 +1,41 @@
+Automic Extended Support
+Extend existing support plans for your Automic, UC4, or AppWorx environment.
+AutomWorx offers support by phone, email, and web meeting.
+AutomWorx Support Offerings for Automic
+Do you need responsive and proficient technical assistance on Automic software how-tos, technical recommendations, or just some extra assistance in case you run into issues? AutomWorx can help with extended support by phone, over email, and via web meetings.
+Whether you have a special project or you are running an unsupported version of Automic and need reassurance in the event of a failure, we are here to help.
+You Choose Your Extended Support Plan
+Month-to-month, quarterly, semi-annual, and annual subscription plans are available so that you can select what is right for your business. We’ll work with you to choose a plan, preferred communication channels, and to determine your target SLAs.
+AutomWorx Support Staff
+Clients are assigned an Extended Support Account Manager who is a proactive resource who understands your environment and will establish a meeting cadence with you to keep an open line of communication.
+The technical personnel you will have access to are skilled in Automic , AppWorx, and UC4. This includes proficiency in various agents, as well as Ellucian Banner Student, Informatica Data Management, Oracle E-Business Suite and Oracle Applications, Oracle Customer Services and Billing (CC&B), Oracle Utilities Customer to Meter (C2M), Oracle PeopleSoft, Oracle JD Edwards, Oracle Retail, and SAP.
+Our support offering extends into the operating systems, database management systems, and third-party utilities required to sustain your Automic environments.
+Getting Started
+Receive a complimentary environmental assessment once you initiate your Extended Support plan with AutomWorx to document your non-production and production environments, software versions, and other configuration settings.
+Choose a Standard SLA That's Right For You | Customize to Fit Your Needs
+Severity 1
+Critical Business Impact
+24×7 Anytime Support
+2 Hour Response Time
+Severity 2
+Moderate Business Impact
+9am to 6pm Eastern
+24 Hour Response Time
+Severity 3
+Minor Troubleshooting & Technical Advisory
+9am to 6pm Eastern
+24-48 Hour Response Time
+Automic Software Product Support End Dates
+| Product | Release Date | End of Maintenance | End of Product Support | 
+|---|---|---|---|
+| Continuous Delivery Automation 24 | 2/15/2024 | 2/15/2029 | 2/15/2029 | 
+| Automic Automation 24 | 2/15/2024 | 2/15/2029 | 2/15/2029 | 
+| Automic Automation Kubernetes Edition 24 | 2/15/2024 | 2/15/2029 | 2/15/2029 | 
+| Automation Analytics & Intelligence 6.5 | 9/28/2023 | TBA | TBA | 
+| Applications Manager 9.5 | 8/1/2023 | 8/29/2026 | 8/29/2027 | 
+| Dollar Universe Automation Solution 7.00 | 3/31/2022 | 3/31/2026 | 3/21/2027 | 
+| Applications Manager 9.4 | 10/29/2021 | 10/29/2024 | 10/29/2025 | 
+| Continuous Delivery Automation 21.0 | 9/30/2021 | 9/30/2025 | 9/30/2025 | 
+| Automic Automation 21.0 | 9/30/2021 | 9/30/2025 | 9/30/2025 | 
+| Automic Automation Kubernetes Edition 21.0 | 9/30/2021 | 9/30/2025 | 9/30/2025 | 
+| Dollar Universe Automation Solution 6.10 | 5/29/2019 | 3/31/2024 | 3/31/2026 |

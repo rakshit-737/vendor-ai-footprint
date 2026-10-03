@@ -1,0 +1,12 @@
+[
+  [
+    "timestamp",
+    "original",
+    "statuscode"
+  ],
+  [
+    "20260225124740",
+    "https://www.sec.gov/Archives/edgar/data/1390777/000139077726000033/bk-20251231_d2.htm",
+    "200"
+  ]
+]

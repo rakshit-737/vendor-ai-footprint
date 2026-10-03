@@ -1,0 +1,85 @@
+Migrations
+
+Migrations
+
+Migration services for Automic Software and Platforms.
+
+Contact Us
+
+Work with highly experienced solution architects, consultants, and project managers.
+
+AutomWorx Migration Services Offerings
+
+Workload automation helps enterprises manage complex workflows across different applications and ERPs. Automic Automation is an industry-leading platform that automates across your entire IT stack.
+
+AutomWorx can help any organization that is interested in moving to Automic Automation.
+
+We can also help you switch to new operating systems or database platforms; for example, Windows, Linux, and UNIX distributions.
+
+The Automic Workload application is the leading workload automation software in the market today, and AutomWorx consultants have been migrating customers to this platform for nearly a decade.
+
+Software Evaluation
+
+Ensure there is a full understanding of your application landscape.
+
+Data Migration
+
+We’ll help bring over all of your critical data so that your business doesn’t skip a beat.
+
+Education
+
+We empower users to learn as much about their workload products as possible.
+
+Integration Services
+
+Connect all of your applications, on prem or cloud, mainframe or microservice.
+
+How We Work On AppWorx, UC4, and Automic Migrations
+
+Start with an In-depth architectural analysis, business requirements gathering, job configuration, and report mapping
+
+AutomWorx works with your team on technical sizing around the hardware, operating systems, database management systems, and any third-party utilities required to sustain your new Automic environments
+
+New software installation in your non-production and production environments
+
+Proprietary, custom-written migration utilities in the event you need to map your existing job configurations to your new Automic environments
+
+Establishing a Disaster Recovery plan and configuration with you
+
+Creating test scripts and assisting you with your testing & issue remediation efforts​
+
+Go-live assistance
+
+End user and administrator workshops to become familiar with new features and capabilities in later versions of Automic software
+
+Formal education and training services
+
+Project management oversight with a specialization in Automic software upgrades
+
+Considerations for AppWorx Users
+
+Depending on the version of AppWorx software that you may have in place, AutomWorx consultants may recommend that you migrate your existing job configurations to the Automic Workload Automation platform. Our senior consultants have written and successfully deployed the migration utilities needed to mitigate business disruption.
+
+Implement Workload Automation for Applications
+
+Oracle JD Edwards
+
+Oracle E-Business Suite
+
+Oracle Retail
+
+Oracle PeopleSoft
+
+Oracle Utilities Customer Care & Billing
+
+Oracle Applications
+
+AMISYS
+
+Banner ERP / Ellucian for Higher Ed
+
+Informatica
+
+SAP Supply Chain Solutions
+
+Download the Brochure

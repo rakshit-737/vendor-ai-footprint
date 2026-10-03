@@ -1,0 +1,22 @@
+{
+  "AD": false,
+  "Authority": [
+    {
+      "TTL": 3600,
+      "data": "ns05.domaincontrol.com. dns.jomax.net. 2026091717 28800 7200 604800 3600",
+      "name": "terrapintech.com",
+      "type": 6
+    }
+  ],
+  "CD": false,
+  "Question": [
+    {
+      "name": "terrapintech.com",
+      "type": 5
+    }
+  ],
+  "RA": true,
+  "RD": true,
+  "Status": 0,
+  "TC": false
+}

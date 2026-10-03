@@ -1,0 +1,14 @@
+TCH Raises RTP® Network Transaction Limit to $100,000
+New York — The Clearing House (TCH) announced it is increasing the general transaction value limit to $100,000 for a payment on the RTP® network, effective February 1, 2020. The current value limit is $25,000.
+TCH, the operator of the RTP network, is increasing the value limit for payments on the network as the transaction volume and number of users on the RTP network continues to grow. Certain RTP payments from financial institutions and corporate users, such as business-to-business payments or large disbursements, will benefit from the higher value limit.
+“Increasing the transaction value limit to $100,000 is the next logical step for the growing RTP network,” said Steve Ledford, senior vice president of Product Strategy and Development for The Clearing House. “Businesses and consumers often want to send higher value payments and the $100,000 limit helps to address their needs.”
+The RTP Business Committee, which includes representatives from community banks, credit unions, and TCH member banks, approved the transaction limit increase. The RTP Business Committee meets monthly and has numerous responsibilities, including setting the rules for the RTP network, and providing input and guidance to the strategic execution of the RTP network, among other duties.
+Under the new rules, depository institutions on the RTP network are required to accept payments up to $100,000. However, individual participants may set a lower value limit for payments they originate.
+The change in the transaction limit is included in the updated RTP System Operating Rules, which can be found in the RTP network document library on TCH's website.
+About The Clearing House
+Since its founding in 1853, The Clearing House has delivered safe and reliable payments systems, facilitated bank-led payments innovation, and provided thought leadership on strategic payments issues. The Clearing House continues to leverage its unique capabilities to support bank-led innovation, including launching the RTP® network, a real-time payment system that modernizes core payments capabilities for all federally-insured U.S. depository institutions. The Clearing House is owned by 23 financial institutions and supports hundreds of banks and credit unions through its core systems and related services. Learn more at www.theclearinghouse.org.
+Media Contact:
+Greg MacSweeney
+The Clearing House
+212.612.9282
+gregory.macsweeney@theclearinghouse.org

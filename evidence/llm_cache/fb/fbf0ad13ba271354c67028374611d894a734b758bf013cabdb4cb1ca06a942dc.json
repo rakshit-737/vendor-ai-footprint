@@ -1,0 +1,108 @@
+{
+ "key": "fbf0ad13ba271354c67028374611d894a734b758bf013cabdb4cb1ca06a942dc",
+ "model": "gemini-3.5-flash-lite",
+ "payload_sha256": "d7de0177c78bb7a790e4da89e8fb77127b476dc1dccd2236418ff57bf578a371",
+ "prompt_sha256": "065bd458ace52ff274c72967cfe1b90c794a1ec8d3a3696ec78d7d8cf636df94",
+ "response": {
+  "claims": [
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "not_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M4",
+      "span": "AI Enablement in Automic Workload Automation"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P2",
+    "quote": "What is AI Enablement in Automic Workload Automation?",
+    "subject": "vendor_product",
+    "temporal": "unclear"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M1",
+      "span": "AI-enabled"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P8",
+    "quote": "AutomWorx specializes in Automic workload automation, orchestration, and AI-enabled infrastructure modernization consulting.",
+    "subject": "vendor_operations",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M1",
+      "span": "AI"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P11",
+    "quote": "Customer-side AI on every engagement.",
+    "subject": "vendor_operations",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "generic_ai_marketing",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M4",
+      "span": "workload automation"
+     },
+     {
+      "code": "M1",
+      "span": "AI-enabled"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P12",
+    "quote": "The next generation of enterprise workload automation is already here. It is human-led and AI-enabled.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [
+     "customer data"
+    ],
+    "indicators": [
+     {
+      "code": "G11",
+      "span": "250+ Fortune 1000 accounts"
+     },
+     {
+      "code": "G3",
+      "span": "customer data"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P12",
+    "quote": "Twenty years of platform depth across 250+ Fortune 1000 accounts gets extended by AI infrastructure built to run where customer data runs.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   }
+  ]
+ },
+ "role": "extract",
+ "schema_sha256": "f1cd07fdb8e496624608717927261043432a3bd93d84723a126b7c7d951d68df",
+ "seed": 1234
+}

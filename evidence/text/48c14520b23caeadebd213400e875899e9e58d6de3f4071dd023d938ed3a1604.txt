@@ -1,0 +1,22 @@
+{
+  "AD": false,
+  "Authority": [
+    {
+      "TTL": 300,
+      "data": "dns2.p07.nsone.net. domainadmin.firstdata.com. 763100986 1200 180 604800 300",
+      "name": "fiserv.com",
+      "type": 6
+    }
+  ],
+  "CD": false,
+  "Question": [
+    {
+      "name": "fiserv.com",
+      "type": 5
+    }
+  ],
+  "RA": true,
+  "RD": true,
+  "Status": 0,
+  "TC": false
+}

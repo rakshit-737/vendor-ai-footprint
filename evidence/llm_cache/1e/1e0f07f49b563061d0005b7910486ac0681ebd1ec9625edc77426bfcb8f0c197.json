@@ -1,0 +1,190 @@
+{
+ "key": "1e0f07f49b563061d0005b7910486ac0681ebd1ec9625edc77426bfcb8f0c197",
+ "model": "gemini-3.5-flash-lite",
+ "payload_sha256": "657060bb45fe45cfaf46b366a4b3b9c871af143ca5ca5192080392519a761dd9",
+ "prompt_sha256": "065bd458ace52ff274c72967cfe1b90c794a1ec8d3a3696ec78d7d8cf636df94",
+ "response": {
+  "claims": [
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "Payment Code Generated"
+     },
+     {
+      "code": "G2",
+      "span": "Automated Migration"
+     },
+     {
+      "code": "G2",
+      "span": "Automated Testing"
+     },
+     {
+      "code": "G11",
+      "span": "~80%"
+     },
+     {
+      "code": "G11",
+      "span": "90%+"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P1",
+    "quote": "AI is Driving a Step Change in Speed and Productivity AI-ACCELERATED DELIVERY TIMELINES ACCELERATED AI DEPLOYMENT Engineers Using Select Standard AI Timeline 2 1 AI Daily Initiatives Baseline Acceleration Reduction 100% Developer Portal Quarters Weeks ~80% DEMO Clover Quarters Weeks ~80% Consumer App DEMO 2025 2026YE Alternate Methods Quarters Weeks ~70% of Payment Code Generated 3 With AI 90%+ Automated Migration 24 Months 6 Months ~75% to Cloud (e.g. Biller Platform) Automated Testing Continuous AI-Generated, ~50% and Validation Manual Cycles Parallelized 2025 2026YE Not drawn to scale 1.",
+    "subject": "vendor_operations",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "predictive_ml",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [
+     "Transactions",
+     "Pre- and post-sale behavioral information"
+    ],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "Graph neural network"
+     },
+     {
+      "code": "G2",
+      "span": "model real-time Frictionless Checkout consumer identity"
+     },
+     {
+      "code": "G3",
+      "span": "data governance"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P2",
+    "quote": "Graph neural network 1 125B+ Transactions to model real-time Frictionless Checkout consumer identity 95% of U.S. Households and behavior Personalization and Loyalty Use cases controlled with 90% of U.S. SMBs robust data governance Insights for Growth Pre- and post-sale behavioral information 1.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "AI-Powered Servicing"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P4",
+    "quote": "Transforming the Customer Service Experience 6 Strengthen Retention Through AI-Powered Servicing Scaling International Growth Through Proven Partnerships 7 Launch and Grow Select International Markets Accelerating Conversion of Non-Clover Clients 8 Migrate Non-Clover Clients With High-Value Offers",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "AI- and Biometrics-Enabled Hardware"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P5",
+    "quote": "EXPANDED USE CASES KEY INITIATIVES Larger SMBs AI- and Biometrics-Enabled Hardware Live Today DEMO Enterprise Clients Terminal Management Support 2H '26 International Expanded Manufacturing Partnerships 2H '26 Non-Clover Conversion Hardware-Agnostic Clover 1H '27",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "AI-Sourced"
+     },
+     {
+      "code": "M2",
+      "span": "by Year-End"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P7",
+    "quote": "Channel New Outlets Revenue Growth Rate Leads AI-Sourced by Year-End Direct ~40% ~80% 10%+ Bank/Partner of Top 100 50 Banks With Digital Onboarding by Year-End ISV ~1% ~5% ~50% ISO/Agent ~60% ~40% 15%+",
+    "subject": "vendor_operations",
+    "temporal": "planned"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "predictive_ml",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "AI/ML Across Days / Investigation Service Workflows"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P8",
+    "quote": "AI/ML Across Days / Investigation Service Workflows",
+    "subject": "vendor_operations",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "agentic",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "agentic onboarding"
+     },
+     {
+      "code": "G2",
+      "span": "Agent sources inventory, delivery times, and prices"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P10",
+    "quote": "Simple, agentic onboarding on Agent sources inventory, Sell to Buy from 6 7 Platforms Platforms multiple platforms leveraging delivery times, and prices an existing settlement account from multiple platforms Platform Sellers Turn Into Clover Merchants 8",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "generic_ai_marketing",
+    "data_mentioned": [
+     "Every Transaction and Every Interaction"
+    ],
+    "indicators": [
+     {
+      "code": "G3",
+      "span": "Data Intelligence"
+     },
+     {
+      "code": "M1",
+      "span": "AI Powers Data Intelligence"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P11",
+    "quote": "AI Powers Data Intelligence, in Every Transaction and Every Interaction 2",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   }
+  ]
+ },
+ "role": "extract",
+ "schema_sha256": "f1cd07fdb8e496624608717927261043432a3bd93d84723a126b7c7d951d68df",
+ "seed": 1234
+}

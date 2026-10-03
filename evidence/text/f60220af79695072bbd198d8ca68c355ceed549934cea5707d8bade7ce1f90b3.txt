@@ -1,0 +1,23 @@
+Topic: 
+                
+            
+            
+            Type: 
+                ACH, Audit & Compliance
+            
+        
+                                
+             Member Fee: 
+                 $0
+            
+            
+            Non-Member Fee: 
+                $50
+            
+            
+            
+                
+            
+        
+        
+            This quick reference guide explains how regulations and certain regulatory bodies affect the ACH Network. Included are links to these governing bodies and/or regulations for quick access as you become more familiar with the ins and outs of the ACH Network. This is an especially helpful resource to have on hand as you are building out your ACH program.

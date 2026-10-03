@@ -1,0 +1,231 @@
+VP, Enterprise & Digital Platforms
+
+Position summary:
+
+The VP, Enterprise & Digital Platforms is accountable for the strategy, governance, delivery, operation, and continuous improvement of the company’s core enterprise and digital technology platforms within a regulated financial payments environment. The portfolio includes ServiceNow, Workday, Salesforce, SAP Ariba, the corporate website powered by Storyblok, Shopify, and enterprise observability capabilities including Dynatrace.
+
+This role combines enterprise platform leadership, process engineering, workflow automation, observability, IT asset lifecycle management, digital experience, operational resilience, and technology risk management. The VP will ensure platforms are secure, resilient, cost-effective, well-controlled, integrated, and aligned with business growth.
+
+Operating within a lean technology organization, this leader will balance strategic leadership with hands-on engagement and partner closely with Technology, Operations, Finance, HR, Procurement, Sales, Marketing, Risk, Compliance, Security, Legal, and Audit.
+
+Essential Functions and Responsibilities:
+
+Enterprise & Digital Platform Strategy
+
+Define and execute the enterprise platform strategy, roadmap, and investment priorities aligned with company growth, business objectives, regulatory requirements, and risk appetite.
+
+Provide executive technology ownership and governance for ServiceNow, Workday, Salesforce, SAP Ariba, Storyblok, Shopify, Dynatrace, and associated capabilities.
+
+Establish clear standards for platform ownership, architecture, integration, security, data, configuration, customization, lifecycle management, and controls.
+
+Drive simplification of the technology landscape by reducing unnecessary applications, integrations, customization, and technical debt.
+
+Establish an out-of-the-box-first, configuration-over-customization approach across strategic SaaS platforms.
+
+Maintain a pragmatic multi-year roadmap balancing business demand, innovation, risk, technical debt, cost, and available resources.
+
+Platform Ownership & Business Enablement
+
+ServiceNow: Lead strategy across ITSM, ITOM, ITAM, CMDB, service mapping, workflow automation, event management, and related enterprise capabilities.
+
+Workday: Partner with HR to optimize employee lifecycle processes, workflow, reporting, data quality, controls, and employee experience.
+
+Salesforce: Partner with commercial teams to improve CRM, customer lifecycle management, sales effectiveness, service, workflow automation, and customer insights.
+
+SAP Ariba: Partner with Finance and Procurement to improve sourcing, purchasing, supplier management, spend visibility, controls, and source-to-pay processes.
+
+Storyblok / Corporate Website: Partner with Marketing and Communications to deliver secure, high-performing, accessible, and flexible corporate digital experiences.
+
+Shopify: Provide technology leadership for digital commerce capabilities, ensuring appropriate security, scalability, payment integration, and operational controls.
+
+Process Engineering, Automation & AI
+
+Lead process engineering and optimization initiatives across the platform portfolio, identifying manual processes, control gaps, service failure points, and opportunities for standardization.
+
+Design scalable and auditable workflows integrating business, service, asset, customer, employee, and operational data.
+
+Leverage native platform automation capabilities before introducing additional applications or custom development.
+
+Identify high-value opportunities to apply AI, generative AI, and intelligent automation across employee, customer, procurement, sales, and technology workflows.
+
+Partner with Security, Risk, Compliance, Legal, and Data teams to ensure appropriate governance of AI-enabled capabilities.
+
+Measure automation and AI investments through productivity, service, customer experience, risk-reduction, and financial outcomes.
+
+IT Asset Management, Observability & Operational Resilience
+
+Provide governance over hardware, software, cloud, virtual, and other technology asset lifecycle processes within ServiceNow.
+
+Ensure asset information supports CMDB integrity, service mapping, security, financial management, license compliance, and operational decision-making.
+
+Partner with Finance, Procurement, Security, and Vendor Management to improve asset utilization, cost transparency, and software license optimization.
+
+Establish the enterprise approach to observability, monitoring, event management, and service health.
+
+Own ServiceNow ITOM Event Management capabilities, including event ingestion, correlation, prioritization, noise reduction, and automated response.
+
+Integrate Dynatrace and other monitoring technologies with ServiceNow to provide application, infrastructure, service, and digital-experience visibility.
+
+Ensure monitoring and observability support incident management, root-cause analysis, business continuity, disaster recovery, and operational resilience.
+
+Architecture, Integration & Data
+
+Establish practical architecture and engineering standards across the enterprise platform portfolio.
+
+Promote secure, reusable, API-first integration patterns and reduce fragile point-to-point integrations.
+
+Establish standards for identity and access, data exchange, integrations, APIs, environments, and platform configuration.
+
+Ensure platform data is accurate, governed, and available for operations, reporting, analytics, automation, and AI.
+
+Partner with Architecture, Cybersecurity, Infrastructure, Data, and Engineering teams to maintain a scalable target-state architecture and manage technical debt.
+
+Security, Risk & Compliance
+
+Embed security, regulatory, privacy, risk, and audit requirements into platform architecture, workflows, integrations, and lifecycle processes.
+
+Partner closely with Cybersecurity, Risk, Compliance, Legal, Privacy, Internal Audit, and external auditors.
+
+Ensure effective identity and access management, privileged access, segregation of duties, data protection, change controls, and audit trails.
+
+Support audits, risk assessments, regulatory examinations, and remediation activities with appropriate documentation and system evidence.
+
+Support applicable requirements including PCI DSS, SOX, SOC, data privacy, and internal technology-control standards.
+
+Ensure critical platforms meet established business continuity, disaster recovery, and operational resilience requirements.
+
+Delivery & Operational Excellence
+
+Accountable for platform availability, performance, reliability, security, and supportability.
+
+Establish appropriate SLAs, SLOs, KPIs, operational dashboards, and escalation procedures.
+
+Oversee demand intake, prioritization, solution design, development, testing, release, and post-implementation validation using pragmatic Agile/SDLC practices.
+
+Ensure upgrades, patches, and releases receive appropriate testing, validation, security review, and business sign-off.
+
+Drive effective incident, problem, change, release, and root-cause management.
+
+Balance delivery speed with appropriate security, risk, regulatory, and operational controls.
+
+Team, Vendor & Financial Leadership
+
+Build and lead a lean, high-performing enterprise and digital platforms organization with clear accountability and strong business alignment.
+
+Develop platform owners, administrators, developers, analysts, and process engineers while determining the appropriate balance of internal capabilities and external partners.
+
+Manage strategic SaaS providers, systems integrators, managed service providers, consultants, and technology partners.
+
+Hold vendors accountable for service quality, security, delivery, contractual obligations, cost, and business outcomes.
+
+Partner with Finance and Procurement on licensing, renewals, negotiations, and investment decisions.
+
+Optimize license utilization and total cost of ownership while avoiding excessive vendor dependency.
+
+Develop talent, succession plans, and a culture of ownership, collaboration, continuous improvement, and accountability.
+
+Stakeholder Engagement & Performance Management
+
+Serve as a trusted technology advisor to senior business and technology leaders.
+
+Translate business, operational, financial, security, and regulatory requirements into scalable technology capabilities.
+
+Communicate platform health, resilience, risk, delivery, investment priorities, and cost optimization to executive leadership.
+
+Establish meaningful KPIs covering platform reliability, asset and CMDB health, event quality, process automation, delivery performance, security and audit findings, adoption, vendor performance, and cost.
+
+Use platform and observability data to drive problem management, root-cause analysis, optimization, and continuous improvement.
+
+undefined
+
+undefined
+
+Additional responsibilities include:
+
+Work closely with internal and external partners to guarantee continuous infrastructure availability
+
+Suggest and implement continuous improvement, automation efforts across the end user ecosystem.
+
+First contact to stakeholders and clients pertaining to user support requests.
+
+Provide technical advice and industry best practices related to end user computing technologies.
+
+Perform special projects and initiatives as assigned
+
+undefined
+
+Qualifications Required:
+
+Bachelor’s degree in Computer Science, Information Technology, Engineering, Business, or a related field, or equivalent professional experience.
+
+Typically 12+ years of progressive technology experience, including significant leadership responsibility for enterprise applications, SaaS platforms, infrastructure services, or digital technology.
+
+Technology leadership experience within financial services, payments, fintech, banking, insurance, or another regulated environment.
+
+Strong experience with ServiceNow and enterprise service management, with broader experience across enterprise SaaS and digital platforms.
+
+Experience with several of the following or comparable technologies: ServiceNow, Dynatrace, Workday, Salesforce, SAP Ariba, Storyblok, and Shopify.
+
+Strong understanding of ITSM, ITIL, ITOM, IT Asset Management, CMDB, observability, operational resilience, workflow automation, and service lifecycle management.
+
+Strong understanding of SaaS architecture, integrations, APIs, identity and access management, data, cloud, and cybersecurity principles.
+
+Experience operating within technology risk, security, audit, and regulatory-control frameworks.
+
+Experience managing technology vendors, systems integrators, managed services, licensing, and technology investments.
+
+Demonstrated ability to lead complex initiatives and teams in a fast-paced environment with competing priorities.
+
+Strong strategic thinking, problem-solving, executive communication, and stakeholder-management skills.
+
+Ability to travel up to 20%, as required.
+
+Key Skills
+
+IT Asset Lifecycle Management
+
+ServiceNow–Dynatrace integration
+
+Process engineering and workflow automation
+
+Event correlation and noise reduction
+
+Risk, financial, and control design
+
+Operational resilience and service lifecycle management
+
+Qualifications Desired:
+
+ServiceNow CSA (required); CIS, CAD, ITOM, ITAM, or GRC certifications preferred
+
+Hands-on experience with ServiceNow
+
+Hands-on experience with Dynatrace observability platforms
+
+Financial services experience (banking, payments, insurance, or capital markets)
+
+Experience supporting audits and regulatory exams
+
+Technical Project Management Experience
+
+Proficient with the MS Office Suite with a focused ability to create concise and compelling presentations in PowerPoint in a demanding and quick paced environment (Flash Reports in PowerPoint, Excel Workbooks, etc.)
+
+Collaborative team player with the ability to connect across groups with proven ability to influence stakeholders
+
+Demonstrates commitment to excellence anticipating needs, mitigating risks and minimizing challenges
+
+Strong attention to detail
+
+Communicates crisply and candidly
+
+Proficient in multiple infrastructure disciplines and functions
+
+Experience with agile methodologies.
+
+Experience working across large infrastructure environments and distributed across multiple data centers
+
+Physical Demands and Work Environment: The working environment is generally favorable. Lighting and temperature are adequate, and there are no hazardous or unpleasant conditions caused by noise, dust, etc. Work is generally performed within an office environment, with standard office equipment available. Travel may be required. Candidates will report to the office three days each week. Onsite work requirements may change at any time.
+
+The anticipated annual salary range for NY-based candidates is $200,000 - $250,000. Base salary will be determined by the role, experience, skill set and location. For eligible positions, discretionary incentive compensation may be awarded contingent on personal and company performance. Our benefits program includes medical, dental, vision, life insurance, 401(k) plan with company contribution and company match, tuition reimbursement and more.
+
+About The Clearing House: The Clearing House Payments Company L.L.C. is a bank-owned industry utility that shapes the payments landscape and provides infrastructure for safe, reliable, and efficient payments. We see an economy where everyone is connected and a future where modern payments make life easier. The Clearing House operates four payment systems: a high-value wire-transfer system (the CHIPS® network), the country’s first and largest instant payments system (the RTP® network), an automated clearinghouse network (the EPN® network), and a check image exchange network (the Image Exchange Network). TCH also operates a bank account number tokenization service, runs a payments association known as the TCH Payments Authority, and maintains the rules for private-sector check image exchange through its ECCHO® business line.

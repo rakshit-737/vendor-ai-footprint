@@ -1,0 +1,44 @@
+Type: 
+            
+                On Demand
+            
+            
+            Duration: 
+            
+                32 Minutes
+            
+            
+            
+                Date & Time: 
+                
+                
+            
+            
+            
+            
+            
+        
+            
+            Member Fee: 
+            
+                $0
+            
+            
+            Non-Member Fee: 
+            
+                $279
+            
+            
+            
+            
+                
+            
+            
+            Audience: 
+            
+                AAP Candidates, AAPs, ACH Personnel, APRP Candidates, Audit, Cash Management, Compliance, General ACH, Operations, Payments Personnel, Retail/Frontline, Risk, Risk Managers, Senior Payments Personnel, Treasury
+            
+            
+        
+        
+            Learn the difference between consumer and non-consumer ACH stop payments as well as the ACH rules for unauthorized and revoked transactions with the help of real life scenarios and examples.  ODFI risk monitoring for unauthorized returns will also be discussed.

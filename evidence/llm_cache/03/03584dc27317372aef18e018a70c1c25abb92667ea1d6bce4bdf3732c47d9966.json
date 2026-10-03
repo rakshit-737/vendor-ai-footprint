@@ -1,0 +1,43 @@
+{
+ "key": "03584dc27317372aef18e018a70c1c25abb92667ea1d6bce4bdf3732c47d9966",
+ "model": "gemini-3.5-flash-lite",
+ "payload_sha256": "8156e89b9625f089ad0b9f931c16ad7ded25b1943e9b412f6954af89065834d9",
+ "prompt_sha256": "39cf8aaf00e873db502e5bf775befd08cd90b405cd5cbb72410c24f061d42c7b",
+ "response": {
+  "items": [
+   {
+    "id": "R1",
+    "priority": "high",
+    "reason": "ai_in_products"
+   },
+   {
+    "id": "R3",
+    "priority": "high",
+    "reason": "ai_in_operations"
+   },
+   {
+    "id": "R4",
+    "priority": "medium",
+    "reason": "ai_filing"
+   },
+   {
+    "id": "R5",
+    "priority": "medium",
+    "reason": "ai_filing"
+   },
+   {
+    "id": "R7",
+    "priority": "medium",
+    "reason": "ai_filing"
+   },
+   {
+    "id": "R9",
+    "priority": "medium",
+    "reason": "ai_filing"
+   }
+  ]
+ },
+ "role": "triage",
+ "schema_sha256": "bfa518f5696a8a888caa1694ae1f4e6c5352444eba62055f162e4368869b27d3",
+ "seed": 1234
+}

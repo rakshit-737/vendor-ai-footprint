@@ -1,0 +1,132 @@
+DATA SHEET 
+ 
+ 
+ 
+AutomWorx  
+Data & Automation Software  
+Migration Services   
+ 
+AutomWorx is an independent consulting company staffed with a team of highly experienced solution 
+architects, consultants, and project managers with extensive workload automation  software expertise 
+across multiple platforms.  
+ 
+Migration Services  
+Depending on the version AppWorx, UC4, or Automic Automation 
+software you have in place, you may need to migrate your existing 
+job configurations to the Automic Workload Automation platform. 
+Our senior consultants have written and successfully deployed the 
+migration utilities needed to mitigate business disruption. 
+ 
+AutomWorx is not just focused on Automic to Automic migrations: 
+we have also assisted customers that are considering a switch to 
+the Automic platform from alternative job scheduling programs.  
+ 
+In addition to Automic software migrations, our consultants are 
+also highly proficient at helping you switch to new operating 
+systems and/or database platforms; i.e., Windows, Linux and UNIX 
+distributions. 
+ 
+End to End Migration Expertise  
+• In-depth architectural analysis, business requirements 
+gathering, job configuration and report mapping 
+• Technical and sizing consultation around the hardware, 
+operating systems, database management systems & third-
+party utilities required to sustain your new Automic 
+environments 
+• New software installation in your non-production and 
+production environments 
+• Proprietary, custom-written migration utilities to map your 
+existing job configurations to your new Automic environments 
+• Establishing a Disaster Recovery plan and configuration 
+• Testing and issue remediation  
+ 
+AutomWorx Benefits 
+• Maximize your Automic® 
+Automation investment by 
+understanding and 
+leveraging more product 
+capabilities 
+• AutomWorx is an authorized 
+Broadcom software reseller 
+and offers software 
+subscriptions, including SaaS, 
+license renewals, and 
+Extended Support plans 
+• We develop custom solutions, 
+including proprietary 
+migration utilities 
+• Extensive Automic software 
+implementation experience
+
+• Go-live assistance 
+• Project management oversight with a specialization in 
+migrations 
+Are You Ready To Migrate?  
+• The Automic Automation application is Broadcom’s go to 
+market recommendation software and is heavily developed 
+so that customers can take advantage of the latest 
+technologies 
+• Broad support of automation software across multiple 
+vendors 
+• AutomWorx will assist you with a successful migration from 
+AppWorx to Automic Workload 
+• AutomWorx consultants have been migrating customers for 
+over a decade 
+• AutomWorx offers product installation, education, data 
+migration and integration services as part of your Automic 
+migration services offering 
+• Automic Automation is a true enterprise software product 
+that introduces many features that do not exist in AppWorx 
+or other workload automation software products. 
+Automation Features Include: 
+• Active/active Automation Engine (master) configuration as 
+a high availability solution 
+• Support for multiple databases (Oracle [AppWorx Master], 
+Microsoft SQL Server, PostgreSQL and DB2) 
+• Support for the majority of OS hardware in the market 
+• Multi-client technology to help minimize the requirements of 
+multiple non-production masters/environments 
+• Analytics Reporting and Dashboards 
+• OS agents run with lower Automic software versions so 
+there is no need to upgrade all your components at once 
+• Zero Down-time Upgrade (ZDU) 
+• Centralized Agent Upgrade (CAU) to help you schedule OS 
+agent upgrades 
+• Updated Rapid Automation Agents, including: 
+o WebServices for both REST and SOAP 
+o Oracle E-Business Suite, Oracle PeopleSoft, Oracle 
+Hyperion, Oracle JD Edwards 
+o Ellucian Banner 
+o FTP, Informatica and others 
+o API-enabled 
+ 
+ 
+ 
+Service Offerings 
+• Architecture & Design 
+• Assessment and Health Check 
+• Implementation 
+• Migration and Data Conversion 
+• Policy Development 
+• Pre-sales & POC 
+• Training & Education 
+• Transformation Services 
+ 
+About AutomWorx 
+AutomWorx specializes in helping 
+organizations get the most out of 
+workload automation investments. 
+Automation and application integration 
+is our passion, and it’s the sole focus of 
+our practice. How can we help you? 
+ 
+Contact 
+ 
+  Phone 
+  800.420.6176 
+ 
+  Web 
+  www.automworx.com 
+ 
+  Email 
+  info@automworx.com

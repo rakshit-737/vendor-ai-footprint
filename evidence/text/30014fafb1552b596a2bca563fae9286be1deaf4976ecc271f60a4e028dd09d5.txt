@@ -1,0 +1,45 @@
+Type: 
+            
+                On Demand
+            
+            
+            Duration: 
+            
+                56 Minutes
+            
+            
+            
+                Date & Time: 
+                
+                
+            
+            
+            
+            
+            
+        
+            
+            Member Fee: 
+            
+                $0
+            
+            
+            Non-Member Fee: 
+            
+                $349
+            
+            
+            
+            
+                
+            
+            
+            Audience: 
+            
+                Corporate Payments Professionals
+            
+            
+        
+        
+            This session is intended for non-financial institution corporate payments professionals.
+This session will define the ACH Security Requirement rule and explore techniques to help mitigate security risks regarding ACH processes. We will discuss Originator obligations and considerations for an ACH security assessment, internal controls and policies and procedures.

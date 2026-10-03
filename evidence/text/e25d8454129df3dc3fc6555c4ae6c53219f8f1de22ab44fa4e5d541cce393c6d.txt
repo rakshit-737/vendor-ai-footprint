@@ -1,0 +1,75 @@
+DevOps Junior Engineer
+
+Position Summary:
+
+This position is for a DevOps Engineer focused on CI/CD tooling for the on-premises and AWS infrastructure. This position will work closely with developers, QC and infrastructure teams to build out our in-house and cloud CI/CD pipelines so that developers can build and deploy applications in a secure manner. This position will also maintain current DevOps tooling at TCH.
+
+About The Clearing House:
+
+The Clearing House (TCH) is a banking association and payments company that is owned by the largest commercial banks in the United States. TCH owns and operates the core payments system infrastructure in the US and is currently working to modernize that infrastructure by launching a new, ubiquitous, real-time payment system. TCH is the only private-sector ACH and wire operator in the US, clearing and settling nearly $2 trillion in US dollar payments each day, representing half of all commercial ACH and wire volume. TCH has provided critical services to the banking industry since 1853, and today, our core products facilitate services including Direct Deposit of payroll, bill payments, and check image exchange.
+
+Qualifications Required:
+
+Develop and maintain Ansible playbooks and roles for automated configuration and deployments
+
+Support infrastructure provisioning and configuration management across environments (dev, QA, staging, production)
+
+Collaborate with engineering teams to automate repetitive operational tasks
+
+Help manage CI/CD pipelines (e.g., GitHub Actions, Jenkins, Azure DevOps, GitLab CI)
+
+Monitor system performance and assist in troubleshooting deployment issues
+
+Maintain documentation for infrastructure, automation workflows, and deployment processes
+
+Participate in improving security, scalability, and reliability of systems
+
+Qualifications desired:
+
+Bachelor’s degree or equivalent professional experience
+
+Minimum 1 years in a DevOps, with a track record of managing high -traffic production environments
+
+Initial level proficiency in AWS and/or Azure
+
+Basic expertise in Docker and Certified Kubernetes skills
+
+Basic proficiency in Python, Go, or Ruby for creating custom automation tooling and APIs
+
+Basic understanding of Linux system administration, kernel tuning, and networking protocols (TCP/IP, HTTP/S, DNS)
+
+Essential Functions and Responsibilities:
+
+Exposure to cloud platforms (AWS, Azure, or GCP)
+
+Knowledge of Docker or containerization
+
+Familiarity with Terraform or other IaC tools
+
+Understanding of YAML/JSON configuration formats
+
+Experience with monitoring tools (Prometheus, Grafana, etc.)
+
+Success factors/job competencies:
+
+The successful candidate will have strong technical expertise on a variety of platforms and will be able to contribute to the design, test and implementation of the application. The candidate will need to be detail oriented but also able to understand the overall environment (internally and externally) and interact with and communicate effectively with all levels of the organization and external clients at all levels. The candidate should be a strong team player. The ability to work effectively cross-organizationally and with external clients will be a key factor to success in this role.
+
+Performance standards:
+
+Complete tasks and projects in a timely manner.
+
+Demonstrate high levels of professionalism and decorum.
+
+Demonstrate effective team work.
+
+Adhere to and support all Tech & Ops and TCH strategic goals.
+
+Communicate effectively with internal personnel at all levels and with vendors and external clients.
+
+Physical demands and work environment:
+
+Work is generally sedentary in nature. The working environment is generally favorable. Lighting and temperature are adequate, and there are no hazardous or unpleasant conditions caused by noise, dust, etc. Work is generally performed within an office environment, with standard office equipment available.
+
+Employees in this position will report to the office 3 days per week.
+
+Occasional travel may be required. Onsite work requirements may change at any time.

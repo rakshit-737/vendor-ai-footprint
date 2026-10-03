@@ -1,0 +1,9 @@
+Kyriba Launches RTP Network Integration via JPMorgan API
+Support for The Clearing House’s RTP network is growing. Cloud treasury and finance solutions provider Kyriba launched a new service that allows JPMorgan clients to send real-time payments in the US via TCH’s RTP network.
+Users of the Kyriba service will now be able to transfer funds via the JPMorgan API if they are JPMorgan clients.
+“Kyriba’s vision to broaden the payment choices available to corporate CFOs and treasurers aligns with J.P. Morgan’s open banking initiatives. Our clients value the option to transmit real-time payments, and the API integration we have implemented with Kyriba enables these payments to be processed and confirmed within seconds,” said Sairam Rangachari, global head of Open Banking at JPMorgan in a press statement.
+He added, “Together we have launched the next generation of payments technology to truly modernize the payments experience for our joint clients.”
+According to Kyriba, it is the first treasury management provider and first payments hub solution to offer real-time payments to JPMorgan corporate customers through API integration.
+“The speed and frictionless experience that the integration with JPMorgan offers is a breakthrough for our clients who want to extend real-time payment automation to their ERP and treasury systems,” said Bob Stark, vice president of strategy for Kyriba.
+Kyriba processes more than 83 million bank transactions, 30 million payments and 530 million ERP transactions on behalf of its clients each month, according to the company.
+Read the entire Kyriba RTP press statement on Yahoo Finance.

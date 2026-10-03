@@ -1,0 +1,31 @@
+EMTransfer Streamlines Real Estate Transactions with Instant Payments over the RTP® Network
+New York – EMTransfer, a provider of a real-estate specific cash management platform, is revolutionizing the real estate industry by offering real-time payments over The Clearing House’s RTP® network through new APIs provided by KeyBank.
+EMTransfer is one of the first businesses to use KeyBank’s APIs. The APIs allow real-time payments to be sent over the RTP network, which is a first for the real estate market. It took less than two weeks to fully integrate RTP functionality into EMTransfer’s systems.
+“This is an exciting time for EMTransfer to be teamed up with The Clearing House and KeyBank to truly revolutionize how money moves in real estate transactions,” said Bob Beams, EMTransfer Founder and CEO.  “By aligning our platforms to work together, EMTransfer is providing an industry-specific banking solution to settlement companies that will allow them to work both more efficiently and securely.” 
+The RTP network provides additional features and capabilities that streamline EMTransfer’s real-estate payment process, including:
+- Fraud Prevention: Immediate confirmation of receipt provides notification to all parties in the real-estate transaction that the funds were received;
+- Eliminate Paying Per Diems: Since the RTP network operates 24/7, it eliminates the concern of missing wire cutoff times, and having to pay a per diem fee on the seller’s payoff amount;
+- Agent Commissions: Disburse agent commissions over the RTP network at any time of the day, or any day of the week, and remove the need to a send a check;
+- Split-Closing States: For States that allow for buyers and sellers to use different title & escrow companies, the RTP network will allow the two companies to instantly move money between their trust accounts if their financial institutions are on the RTP network; and
+- Request for Payment: Utilize the RTP network’s “Request For Payment” functionality to request and receive cash to close.
+Real estate transactions are traditionally paper-based processes that involve intermediary service companies to perform many manual tasks, leaving room for costly errors. The primary forms of payment in real estate, checks or wires, come with many challenges. Wire transfers can be risky, from malicious wire fraud to just simple human error. And both wires and checks are limited by business days and cutoff hours.
+“We are proud to be part of the revolutionizing efforts underway within the real estate industry by empowering developers to seamlessly embed banking services into their applications,” said Jon Briggs, Head of Commercial Product at KeyBank. “The KeyBank Developer Portal and our engineers offer comprehensive resources and guidance, enabling developers to efficiently integrate and leverage KeyBank’s financial services, ultimately enhancing customer experiences and driving innovation in the fintech sector."
+With APIs from KeyBank's API Developer portal, EMTransfer provides a cash management experience that is integrated with the customer's KeyBank trust account. This allows customers to:
+- Create and categorize the transfer of funds (i.e., earnest money collection, seller proceeds, and agent commissions disbursements) as needed;
+- Electronically and securely collect bank account information/written authorization/e-signed lien waivers from consumers in a familiar P2P user experience;
+- Initiate the transfer of funds directly to and from their trust accounts using the appropriate payment rail (RTP, Wire, ACH) without requiring a third-party processor to be involved;
+- Automatically keep all parties informed about the status of the electronic movement of their funds; and
+Fully document the transfer of funds throughout the real estate transaction with client and bank receipts.
+As the RTP network matures, TCH continues to roll out new functionality to increase the capabilities for financial institutions and their customers. Recent expansion of capabilities on the RTP network that are important to the real-estate industry include:
+- Request for Payment (RfP): RfP allows customers, such as title insurance companies, to request a payment from escrow companies or buyers;
+- Document Exchange: Document exchange enhances the RTP network’s capabilities by providing easy access to documents, such as real-estate contracts, invoices, and remittances, in the same transaction flow with the payment or payment request;
+- Enhanced Account Security: Tokenization protects sensitive account numbers used to request or make payments; and
+- Higher transaction limit: The value limit for payments in the RTP network is $1 million, which allows for higher value payments for real estate closings, commercial loan funding, and more.
+"The RTP network’s $1 million transaction limit along with its newer features provides a way for real-estate payments to happen in a more secure and streamlined process," said Rusiru Gunasena, Senior Vice President, RTP Product Management and Strategy, The Clearing House. "With RfP, Document Exchange, and tokenization, the parties involved in the real-estate closing process can do more with real-time payments by requesting closing payments, sending contracts or invoices, all on a network that provides enhanced security through account tokenization."
+About The Clearing House  
+The Clearing House operates U.S-based payments networks that clear and settle more than $2 trillion each day through wire, ACH, check image, and real-time payments. It is the nation’s most experienced payments company, with a long track record of providing secure and reliable systems, payments innovation, and strategic thought leadership to financial institutions. In 2017, The Clearing House revolutionized U.S. payments by introducing the RTP® network, which supports the immediate clearing and settlement of payments, along with the ability to exchange related payment information across the same secure channel. These RTP capabilities enable all financial institutions to offer safer, faster, and smarter digital transaction services for their corporate and retail customers. Learn more at www.theclearinghouse.org.
+Media Contact:
+Greg MacSweeney
+The Clearing House 
+212-612-9282
+Gregory.MacSweeney@theclearinghouse.org

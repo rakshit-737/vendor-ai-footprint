@@ -1,0 +1,120 @@
+Presented by Broadcom
+I. Introduction to Automic and SAP Partnership
+- Automic’s 20+ years as a trusted partner to SAP clients
+  - Delivering powerful automation and orchestration solutions
+  - Streamlining business processes and driving efficiency
+- Continued support for SAP Rise and SAP Grow journeys
+- Automic Automation and Automic SaaS accelerate operational success
+  - Modernizing SAP environments
+  - Ensuring business continuity with hybrid (on-premises or cloud) deployments
+- Kaj Wierda (Product Manager for Automic at Broadcom) clarifies:
+  - Automation choices are not limited
+  - Broadcom is deeply invested in SAP Cloud journey success
+II. Broadcom’s Commitment to SAP Customers
+- SAP ERP Central Component (ECC) End of Life (end of 2027)
+  - Migration to SAP cloud is a top priority for SAP customers
+  - Rise with SAP and Grow with SAP programs are key
+- Automic’s automation covers all SAP Cloud Journey options for decades
+- Support for business-critical SAP processes:
+  - Order to cash
+  - Procure to pay
+  - Supply chain
+  - Financial transformation
+- Continuous updates and SAP certification for Automic’s integration to SAP landscape
+- Investment in SAP ensures success across deployment types:
+  - On-premises SAP
+  - SAP real estate moved to cloud
+  - SAP’s Cloud Native solutions built on SAP Business Technology Platform
+- Analyst community recognizes Broadcom as a leader for workload automation and orchestration for ERP and other business-critical applications in hybrid/multi-cloud environments
+III. Customer Success Story: Global SAP Implementation
+- One of the world’s largest SAP implementations
+  - Digital transformation focused on global SAP environment
+  - 11 divisions, 50+ countries
+- Long-standing use of Automic’s automation platform for SAP and wider application landscape
+  - Gaining visibility and control of entire environment and business processes
+- Recent divestiture scenario:
+  - Sold division using Automic’s platform for SAP processes
+  - Division transitioned to Automic SaaS for business continuity
+  - SAP workloads moved to a Broadcom hosted and operated environment
+IV. How Automic Improves SAP Automation
+- End-to-End Observability
+  - Enables visibility of SAP processing within wider business process context
+  - Automic’s full SAP observability with automation analytics
+    - Visualization of all workloads and their impact on SLAs
+    - Tracks execution against critical business deadlines
+    - Provides intelligent insights leveraging historical runtime data to detect anomalies (proactive vs. reactive)
+    - Dynamic critical path capabilities
+- Unifying Operational Control
+  - Eliminates latency between processing
+  - Ensures customers meet SLAs
+  - Single automation platform for all SAP and non-SAP workloads
+    - Centralized audit and regulatory compliance
+    - Built-in end-to-end operational control (cloud-native, ERP, data pipelines)
+    - Advanced scheduling and event-based automation
+    - Access to a wide catalog of cloud integrations
+- Integrating and Orchestrating All Systems and Applications
+  - Simplifies business processing (SAP, wider SAP ecosystem, on-premises, cloud applications)
+  - Extensive integration capabilities through the Automation Marketplace (free of charge)
+    - Extends Automic’s power beyond the SAP ecosystem
+V. Automic’s Continued Investment in SAP Ecosystem
+- Continuously updated and SAP-certified pre-existing SAP agent
+- Investment in building for SAP Clean Core
+  - New integration plugins for SAP Business Technology Platform, Integrated Business Planning, etc.
+  - Leveraging latest SAP APIs
+- Connects broader enterprise applications and optimizes workflows end-to-end
+  - Drives efficiency, reduces silos, empowers seamless automation, monitoring, and control
+- Support for all SAP system deployments:
+  - On-premises
+  - Private cloud (Automic Automation Kubernetes Edition)
+  - Broadcom hosted and operated Automic SaaS
+VI. Transitioning to Automic SaaS
+- Ability to operate and orchestrate workloads for Rise with SAP or Grow with SAP from current on-premises Automic Solution
+- Benefits of transitioning from Automic on-premises to Automic SaaS:
+  - Cost Reductions:
+    - Infrastructure and database licensing
+    - Significant staffing cost savings (no upgrades, patches, or administrative activities)
+  - Soft Savings:
+    - Access to latest innovation
+    - Faster security compliance
+    - High availability as standard
+    - Dynamically expands to meet peak performance needs
+  - Focus more time on delivering value, less on running the platform
+- Cost Reductions:
+- Simple transition process:
+  - As easy as applying a new system upgrade
+  - Can move in one go or phased approach
+  - Relies on Automic’s tried and tested transport case mechanism
+- Broadcom’s partner ecosystem available for assistance
+- Seamless commercial transition:
+  - Several approaches for adopting Automic SaaS (hybrid or full cloud)
+- Automic’s integration to SAP ecosystem is fully SAP certified (whether on-premises or SaaS)
+- Future hosting of SAP agent on Automic SaaS (full stack SAP orchestration capabilities)
+VII. Automic and SAP Deployment Scenarios
+- Automic and SAP On-Premises:
+  - Multiple agents deployed on-premises or in the cloud
+  - Certified SAP agent orchestrates SAP
+  - OS agent handles file transfer (data in/out of SAP)
+- SAP Rise with Automic:
+  - SAP system moves to the cloud (private cloud edition/SAP Cloud ERP Private Edition or public cloud version)
+  - SAP does not allow third-party software (including Automic agent) in the SAP environment itself
+  - Automic’s SAP agent continues to work (APIs supported, fully certified for this scenario)
+  - Choice to deploy SAP agent on-premises or in the cloud
+  - Same for Automic SaaS
+  - Alternative options for moving data (since Automic OS agent cannot be in SAP environment):
+    - Secure FTP
+    - NFS file share mounts
+    - Cloud storage (S3 and other leading cloud vendors)
+- Automic SAP Agent in the Cloud with Automic SaaS:
+  - Broadcom will provide hosted and managed agent real estate in the near future
+  - Starting with existing SAP agent, also offering cloud integrations and other agent types for full stack SaaS experience
+VIII. Summary and Key Takeaways
+- No matter your SAP cloud journey, Broadcom has you covered.
+- Broadcom continues to invest in ensuring SAP success.
+- Automic Automation comes with up-to-date and SAP-certified integrations.
+- Successful transition of numerous Automic customers to SAP Rise in partnership with SAP.
+- World’s largest and most complex SAP deployments rely on Automic for orchestrating business-critical SAP processes.
+- Automic maximizes the value that AI delivers to your business.
+  - Broadcom’s leadership in AI (chip design, private AI via VMware)
+  - AI built into Automic solution
+  - Orchestration of data pipelines (on-premises and cloud data/analytics services like Databricks)
+  - Ideal partner for SAP’s AI journey

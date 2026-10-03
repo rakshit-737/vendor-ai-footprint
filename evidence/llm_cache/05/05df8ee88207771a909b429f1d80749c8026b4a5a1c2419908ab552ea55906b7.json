@@ -1,0 +1,206 @@
+{
+ "key": "05df8ee88207771a909b429f1d80749c8026b4a5a1c2419908ab552ea55906b7",
+ "model": "gemini-3.5-flash-lite",
+ "payload_sha256": "5c83eacea397a4f1675641ecd89aba4b1ca9fb501789b0047f11cda66a0b9f74",
+ "prompt_sha256": "065bd458ace52ff274c72967cfe1b90c794a1ec8d3a3696ec78d7d8cf636df94",
+ "response": {
+  "claims": [
+   {
+    "action_level": "unknown",
+    "ai_type": "agentic",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G1",
+      "span": "Eliza"
+     },
+     {
+      "code": "G2",
+      "span": "building AI agents"
+     },
+     {
+      "code": "G11",
+      "span": "Approximately 50% of employees are daily users of AI"
+     }
+    ],
+    "named_providers": [
+     "Eliza"
+    ],
+    "passage_id": "P1",
+    "quote": "capabilities through Eliza, BNY’s AI platform • Approximately 50% of employees are daily users of AI and over 50% are building AI agents, supported by our global AI talent development programs that train our people – both engineers and employees without a technical background – to embed AI directly into daily workflows",
+    "subject": "vendor_staff_tools",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "automated_action",
+    "ai_type": "unspecified",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [
+     "multi-currency payments processing",
+     "complex financial activities",
+     "anomaly detection"
+    ],
+    "indicators": [
+     {
+      "code": "G11",
+      "span": "~220 enterprise AI solutions in production"
+     },
+     {
+      "code": "G2",
+      "span": "automate at scale, e.g., multi-currency payments processing"
+     },
+     {
+      "code": "G2",
+      "span": "applying domain-trained AI to complex financial activities, e.g., anomaly detection"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P2",
+    "quote": "• ~220 enterprise AI solutions in production, and ~140 digital employees • Enhanced security and resilience • Deepening process excellence across: – High-volume workflows – embedding AI to automate at scale, e.g., multi-currency payments processing – Specialized products – applying domain-trained AI to complex financial activities, e.g., anomaly detection in",
+    "subject": "vendor_operations",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "human_reviewed_decision",
+    "ai_type": "unspecified",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [
+     "annual account plan",
+     "new onboardings",
+     "restricted party screening for payments",
+     "custody settlement transaction status inquiries"
+    ],
+    "indicators": [
+     {
+      "code": "G11",
+      "span": "~50% Of any annual account plan is drafted using AI as of 2025"
+     },
+     {
+      "code": "G11",
+      "span": "~25% Of new onboardings supported with an AI- enabled process in 1Q26"
+     },
+     {
+      "code": "G11",
+      "span": "~70% Of restricted party screening for payments reviewed by AI"
+     },
+     {
+      "code": "G11",
+      "span": ">10% Of custody settlement transaction status inquiries addressed by AI as of 1Q26"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P3",
+    "quote": "~50% Of any annual account plan is drafted using AI as of 2025 ~60% Faster client account plan completion in 2025 vs. 2024 ~25% Of new onboardings supported with an AI- enabled process in 1Q26 >20% Faster completion of certain onboarding processes for corporate clients in 1Q26 vs. 1Q25 ~70% Of restricted party screening for payments reviewed by AI >30% Faster resolution of restricted party screening when reviewed by AI >10% Of custody settlement transaction status inquiries addressed by AI as of 1Q26 >80% Faster investigation of settlement",
+    "subject": "vendor_operations",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "advisory",
+    "ai_type": "unspecified",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [
+     "code"
+    ],
+    "indicators": [
+     {
+      "code": "G11",
+      "span": ">40% Of code authored by AI in 1Q26"
+     },
+     {
+      "code": "M1",
+      "span": "Reimagining BNY with AI at our Core"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P4",
+    "quote": "inquiries when addressed by AI in 1Q26 vs. 1Q25 >40% Of code authored by AI in 1Q26 >10% Increase in software releases in 1Q26 vs. 1Q25 $338 $339 $355 $401 2022 2023 2024 2025 $99 $103 $116 $143 2022 2023 2024 2025 Our Strategy and Execution: Reimagining BNY with AI at our Core Breadth and depth of adoption enables deep",
+    "subject": "vendor_staff_tools",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "generic_ai_marketing",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M2",
+      "span": "will increasingly be enabled by AI"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P6",
+    "quote": "Our work to reimagine BNY is showing results, and will increasingly be enabled by AI (a) Represents a non-GAAP measure.",
+    "subject": "vendor_operations",
+    "temporal": "planned"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "ai_governance",
+    "data_mentioned": [
+     "data"
+    ],
+    "indicators": [
+     {
+      "code": "G3",
+      "span": "availability, usability and quality of data"
+     },
+     {
+      "code": "G3",
+      "span": "deploy, monitor and scale such capabilities with appropriate governance"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P9",
+    "quote": "Statements about our artificial intelligence initiatives, including the timing, implementation, efficacy and expected benefits, are subject to various factors, including third-party and vendor dependencies, the availability, usability and quality of data, evolving legal, regulatory and supervisory expectations, employee and client adoption, and our ability to deploy, monitor and scale such capabilities with appropriate governance and in an effective control environment.",
+    "subject": "vendor_operations",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "artificial intelligence deployment"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P10",
+    "quote": "Within this operating base, artificial intelligence deployment, integrated foreign exchange execution, virtual account structures, trade digitisation and tokenised deposit exploration are embedded into execution workflows.",
+    "subject": "vendor_operations",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "agentic",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G1",
+      "span": "Eliza"
+     },
+     {
+      "code": "G2",
+      "span": "supports multi-agentic functionality"
+     }
+    ],
+    "named_providers": [
+     "Eliza"
+    ],
+    "passage_id": "P11",
+    "quote": "Eliza is BNY’s proprietary enterprise AI platform that is general-intelligence-model-agnostic and supports multi-agentic functionality as a foundation for the bank’s AI-enabled workforce.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   }
+  ]
+ },
+ "role": "extract",
+ "schema_sha256": "f1cd07fdb8e496624608717927261043432a3bd93d84723a126b7c7d951d68df",
+ "seed": 1234
+}

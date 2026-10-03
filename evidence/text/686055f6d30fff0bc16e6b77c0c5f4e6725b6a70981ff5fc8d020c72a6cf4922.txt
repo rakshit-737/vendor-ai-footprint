@@ -1,0 +1,53 @@
+Type: 
+            
+                Webinar
+            
+            
+            Duration: 
+            
+                90 Minutes
+            
+            
+            
+                Date & Time: 
+                
+                
+            
+            
+            
+            
+            
+        
+            
+            Member Fee: 
+            
+                $179.00
+            
+            
+            Non-Member Fee: 
+            
+                $279.00
+            
+            
+            
+            
+                
+            
+            
+            Audience: 
+            
+                AAP Candidates, AAPs, ACH Personnel, APRP Candidates, APRPs, Audit, BSA Investigators_Analysts, BSA Officers, Card Personnel, Cash Management, Compliance, Controllers , Credit_Lending, General ACH, IT Personnel, Operations, Payments Personnel, Payments Strategists, Retail/Frontline, Risk, Risk Managers, Sales, Senior Payments Personnel, Treasury
+            
+            
+        
+        
+            Significant savings are available on NACHA webinars when you register via The Clearing House Payments Authority!  
+Recent amendments to Regulation E (the Prepaid Rule), which take effect on April 1, 2019, expanded the scope of the regulation to cover electronic fund transfers to and from a newly defined category of “prepaid accounts.” The Prepaid Rule not only provides new protections for accounts traditionally thought of as “prepaid,” but also covers certain digital and mobile wallets and related PtoP services.
+Financial institutions must not only understand these new regulations, but also their potential impacts on emerging technologies and payment service providers that interface with the institutions.  Join this webinar as the speakers discuss the looming implementation of the Prepaid Rule, including the liabilities and responsibilities of both account holders and FIs, and the potential issues they raise.
+Gain Knowledge and Understanding
+Speakers provide insights on:
+    - the specific time requirements for fraud investigation and resolution; 
+- new disclosure requirements;
+- the impacts of the Prepaid Rule on card-based and wallet-based products;
+- ways financial institutions can educate their account holders; and
+- how institutions can stay in compliance and minimize financial losses.

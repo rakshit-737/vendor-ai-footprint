@@ -1,0 +1,136 @@
+{
+  "count": 1,
+  "hasMore": false,
+  "items": [
+    {
+      "ApplyWhenNotPostedFlag": false,
+      "BeFirstToApplyFlag": false,
+      "BusinessUnit": null,
+      "BusinessUnitId": 300000094081066,
+      "Category": "AI / Machine Learning Software Engineering",
+      "ContentLocale": "en",
+      "ContractType": null,
+      "CorporateDescriptionStr": "<p>At BNY, our culture allows us to run our company better and enables employees’ growth and success. As a leading global financial services company at the heart of the global financial system, we influence nearly 20% of the world’s investible assets. Every day, our teams harness cutting-edge AI and breakthrough technologies to collaborate with clients, driving transformative solutions that redefine industries and uplift communities worldwide.</p>Recognized as a top destination for innovators, BNY is where bold ideas meet advanced technology and exceptional talent. Together, we power the future of finance – and this is what #LifeAtBNY is all about. Join us and be part of something extraordinary.",
+      "Department": null,
+      "DomesticTravelRequired": null,
+      "ExternalContactEmail": null,
+      "ExternalContactName": null,
+      "ExternalDescriptionStr": "<p><span style=\"font-family: &quot;Avenir Next LT Pro&quot;, sans-serif;\"><span lang=\"EN-US\" style=\"font-size: 9pt; line-height: 107%;\">We’re seeking a future team member for the role of <strong>Director, AI / Machine Learning Software Engineer</strong></span></span><span style=\"color: rgb(192, 0, 0); font-family: &quot;Avenir Next LT Pro&quot;, sans-serif;\"><span lang=\"EN-US\" style=\"font-size: 9pt; line-height: 107%;\">&nbsp;</span></span><span style=\"font-family: &quot;Avenir Next LT Pro&quot;, sans-serif;\"><span lang=\"EN-US\" style=\"font-size: 9pt; line-height: 107%;\">to join our team. This role is located in <strong>Manchester or London.</strong></span></span></p><p><span style=\"font-family: &quot;Avenir Next LT Pro&quot;, sans-serif;\"><span lang=\"EN-US\" style=\"font-size: 9pt; line-height: 107%;\">Role Summary:&nbsp;</span></span></p><p><span style=\"font-family: &quot;Avenir Next LT Pro&quot;, sans-serif;\"><span lang=\"EN-US\" style=\"font-size: 9pt; line-height: 107%;\">The AI/ML Software Engineering within the Enterprise Transformation Hub will help drive the acceleration of AI-enabled solution delivery across the ecosystem. This role is responsible for designing and building high-quality, usable solutions that strengthen connectivity across platforms, data sets, and AI capabilities. The individual will create linkages that improve context, reuse, and scalability, while applying strong technical judgement and strategic vision to move solutions forward. They will play a key role in shaping reusable skills, patterns, and engineering practices that help BNY deliver more integrated and effective AI outcomes.</span></span></p><p><span style=\"font-family: &quot;Avenir Next LT Pro&quot;, sans-serif;\"><span lang=\"EN-US\" style=\"font-size: 9pt; line-height: 107%;\">In this role, you’ll make an impact in the following ways:&nbsp;</span></span></p><ul style=\"list-style-type: disc; padding-left: 48px;\"><li><p style=\"margin-bottom: 0cm; margin-right: 0cm; margin-top: 0cm;\"><span style=\"font-family: &quot;Avenir Next LT Pro&quot;, sans-serif;\"><span lang=\"EN-US\" style=\"font-size: 9pt; line-height: 107%;\">Leads complex machine learning initiatives with direct strategic impact, applying deep knowledge of machine learning concepts and their practical business applications</span></span></p></li><li><p style=\"margin-bottom: 0cm; margin-right: 0cm; margin-top: 0cm;\"><span style=\"font-family: &quot;Avenir Next LT Pro&quot;, sans-serif;\"><span lang=\"EN-US\" style=\"font-size: 9pt; line-height: 107%;\">Directly contributes to strategic goals and corporate direction through innovative AI and machine learning solutions</span></span></p></li><li><p style=\"margin-bottom: 0cm; margin-right: 0cm; margin-top: 0cm;\"><span style=\"font-family: &quot;Avenir Next LT Pro&quot;, sans-serif;\"><span lang=\"EN-US\" style=\"font-size: 9pt; line-height: 107%;\">Provides organizational leadership and develops proposals that help move the business forward.</span></span></p></li><li><p style=\"margin-bottom: 0cm; margin-right: 0cm; margin-top: 0cm;\"><span style=\"font-family: &quot;Avenir Next LT Pro&quot;, sans-serif;\"><span lang=\"EN-US\" style=\"font-size: 9pt; line-height: 107%;\">Builds and strengthens partnerships with internal and external stakeholders across BNY</span></span></p></li><li><p style=\"margin-bottom: 0cm; margin-right: 0cm; margin-top: 0cm;\"><span style=\"font-family: &quot;Avenir Next LT Pro&quot;, sans-serif;\"><span lang=\"EN-US\" style=\"font-size: 9pt; line-height: 107%;\">Conducts studies and analysis to provide the facts needed to support informed strategic decisions.</span></span></p></li><li><p style=\"margin-bottom: 0cm; margin-right: 0cm; margin-top: 0cm;\"><span style=\"font-family: &quot;Avenir Next LT Pro&quot;, sans-serif;\"><span lang=\"EN-US\" style=\"font-size: 9pt; line-height: 107%;\">Builds AI-enabled solutions that move from concept to production use</span></span></p></li><li><p style=\"margin-bottom: 0cm; margin-right: 0cm; margin-top: 0cm;\"><span style=\"font-family: &quot;Avenir Next LT Pro&quot;, sans-serif;\"><span lang=\"EN-US\" style=\"font-size: 9pt; line-height: 107%;\">Connects data, models, and systems to ensure solutions operate effectively within the broader technology ecosystem</span></span></p></li><li><p style=\"margin-bottom: 0cm; margin-right: 0cm; margin-top: 0cm;\"><span style=\"font-family: &quot;Avenir Next LT Pro&quot;, sans-serif;\"><span lang=\"EN-US\" style=\"font-size: 9pt; line-height: 107%;\">Improves quality, usability, and reliability so outcomes are practical, trusted, and effective for users.</span></span></p></li><li><p style=\"margin-bottom: 0cm; margin-right: 0cm; margin-top: 0cm;\"><span style=\"font-family: &quot;Avenir Next LT Pro&quot;, sans-serif;\"><span lang=\"EN-US\" style=\"font-size: 9pt; line-height: 107%;\">Creates reusable components and patterns that accelerate future delivery</span></span></p></li><li><p style=\"margin-bottom: 0cm; margin-right: 0cm; margin-top: 0cm;\"><span style=\"font-family: &quot;Avenir Next LT Pro&quot;, sans-serif;\"><span lang=\"EN-US\" style=\"font-size: 9pt; line-height: 107%;\">Drives innovation by identifying opportunities where AI can create meaningful value</span></span><br>&nbsp;</p></li></ul><p><span style=\"font-family: &quot;Avenir Next LT Pro&quot;, sans-serif;\"><span lang=\"EN-US\" style=\"font-size: 9pt; line-height: 107%;\">To be successful in this role, we’re seeking the following:&nbsp;</span></span></p><ul style=\"list-style-type: disc; padding-left: 48px;\"><li><p style=\"margin-bottom: 0cm; margin-right: 0cm; margin-top: 0cm;\"><span style=\"font-family: &quot;Avenir Next LT Pro&quot;, sans-serif;\"><span lang=\"EN-US\" style=\"font-size: 9pt; line-height: 107%;\">Bachelor’s degree in computer science, engineering, or a related discipline, or equivalent work experience required; advanced degree is beneficial</span></span></p></li><li><p style=\"margin-bottom: 0cm; margin-right: 0cm; margin-top: 0cm;\"><span style=\"font-family: &quot;Avenir Next LT Pro&quot;, sans-serif;\"><span lang=\"EN-US\" style=\"font-size: 9pt; line-height: 107%;\">Significant related experience required; experience in the securities or financial services industry is a plus.</span></span></p></li><li><p style=\"margin-bottom: 0cm; margin-right: 0cm; margin-top: 0cm;\"><span style=\"font-family: &quot;Avenir Next LT Pro&quot;, sans-serif;\"><span lang=\"EN-US\" style=\"font-size: 9pt; line-height: 107%;\">Strong proficiency in Python and SQL required, with working knowledge of JavaScript/TypeScript; knowledge of Angular is beneficial</span></span></p></li><li><p style=\"margin-bottom: 0cm; margin-right: 0cm; margin-top: 0cm;\"><span style=\"font-family: &quot;Avenir Next LT Pro&quot;, sans-serif;\"><span lang=\"EN-US\" style=\"font-size: 9pt; line-height: 107%;\">Strong communication, organization, teamwork, and interpersonal skills, with the ability to support mentoring and collaborate effectively with cross-functional teams</span></span></p></li><li><p style=\"margin-bottom: 0cm; margin-right: 0cm; margin-top: 0cm;\"><span style=\"font-family: &quot;Avenir Next LT Pro&quot;, sans-serif;\"><span lang=\"EN-US\" style=\"font-size: 9pt; line-height: 107%;\">Advanced degree in STEM, Engineering, or a related field, or equivalent work experience preferred</span></span></p></li><li><p style=\"margin-bottom: 0cm; margin-right: 0cm; margin-top: 0cm;\"><span style=\"font-family: &quot;Avenir Next LT Pro&quot;, sans-serif;\"><span lang=\"EN-US\" style=\"font-size: 9pt; line-height: 107%;\">Expertise in AI and machine learning software development</span></span></p></li><li><p style=\"margin-bottom: 0cm; margin-right: 0cm; margin-top: 0cm;\"><span style=\"font-family: &quot;Avenir Next LT Pro&quot;, sans-serif;\"><span lang=\"EN-US\" style=\"font-size: 9pt; line-height: 107%;\">Strong problem-solving skills with the ability to manage complex data processes</span></span></p></li></ul>",
+      "ExternalPostedEndDate": null,
+      "ExternalPostedStartDate": "2026-09-07T10:52:21+00:00",
+      "ExternalQualificationsStr": "",
+      "ExternalResponsibilitiesStr": "",
+      "GeographyId": 300000068188907,
+      "GeographyNodeId": 100010357091006,
+      "HiringManager": null,
+      "HotJobFlag": false,
+      "Id": "81149",
+      "InternalQualificationsStr": "",
+      "InternalResponsibilitiesStr": "",
+      "InternationalTravelRequired": null,
+      "JobFamilyId": 300004319452391,
+      "JobFunction": "AI Engineering",
+      "JobFunctionCode": "AIENG",
+      "JobGrade": null,
+      "JobLevel": null,
+      "JobSchedule": "Full time",
+      "JobShift": "Day",
+      "JobType": null,
+      "LegalEmployer": null,
+      "LegalEmployerId": 300000003581179,
+      "NumberOfOpenings": null,
+      "ObjectVerNumberProfile": null,
+      "Organization": null,
+      "OrganizationDescriptionStr": "<p>At BNY, our culture speaks for itself, check out the latest BNY news at:&nbsp;<a href=\"https://www.bny.com/corporate/global/en/about-us/newsroom.html\" target=\"_blank\" rel=\"nofollow\">BNY Newsroom</a>&nbsp;&amp;&nbsp;<a href=\"https://www.linkedin.com/company/bnyglobal/posts/?feedView=all\" target=\"_blank\" rel=\"nofollow\">BNY LinkedIn</a></p>\n<p style=\"margin-bottom:0in\">&nbsp;Here’s a few of our recent awards:</p>\n<ul style=\"margin-top:0in\">\n <li style=\"margin-bottom:0in\">America’s Most Innovative Companies, Fortune, 2025</li>\n <li style=\"margin-bottom:0in\">World’s Most Admired Companies, Fortune 2025</li>\n <li style=\"margin-bottom:0in\">“Most Just Companies”, Just Capital and CNBC, 2025</li>\n</ul>\n<p style=\"margin-bottom:0in\">Our Benefits and Rewards:</p>\n<p style=\"margin-bottom:0in\">BNY offers highly competitive compensation, benefits, and wellbeing programs rooted in a strong culture of excellence and our pay-for-performance philosophy. We provide access to flexible global resources and tools for your life’s journey. Focus on your health, foster your personal resilience, and reach your financial goals as a valued member of our team, along with generous paid leaves, including paid volunteer time, that can support you and your family through moments that matter.</p>\n<p style=\"margin-bottom:0in\">BNY is an Equal Employment Opportunity/Affirmative Action Employer - Underrepresented racial and ethnic groups/Females/Individuals with Disabilities/Protected Veterans.</p>",
+      "OrganizationId": 300005815076161,
+      "OtherRequisitionTitle": null,
+      "PrimaryLocation": "London, United Kingdom",
+      "PrimaryLocationCountry": "GB",
+      "RequisitionId": 300010840712535,
+      "RequisitionType": "Experienced",
+      "ShortDescriptionStr": "",
+      "StudyLevel": null,
+      "Title": "Director, AI / Machine Learning Software Engineer",
+      "TrendingFlag": true,
+      "WorkDays": null,
+      "WorkHours": null,
+      "WorkMonths": null,
+      "WorkYears": null,
+      "WorkerType": null,
+      "WorkplaceType": "",
+      "WorkplaceTypeCode": null,
+      "media": [],
+      "otherWorkLocations": [
+        {
+          "AddressLine1": "1 Piccadilly Gardens",
+          "AddressLine2": null,
+          "AddressLine3": null,
+          "AddressLine4": null,
+          "Building": null,
+          "Country": "GB",
+          "Latitude": "53.48054",
+          "LocationId": 300000129875607,
+          "LocationName": "1 Piccadilly Gardens,Manchester,UK",
+          "Longitude": "-2.2366",
+          "PostalCode": "M1 1RN",
+          "Region1": null,
+          "Region2": "GT MAN",
+          "Region3": null,
+          "RequisitionWorkLocationId": 300010898307563,
+          "TownOrCity": "Manchester"
+        }
+      ],
+      "primaryLocationCoordinates": [
+        {
+          "CountryCode": "GB",
+          "GeographyId": 300000068188907,
+          "GeographyNodeId": 100010357091006,
+          "Latitude": "51.50642",
+          "Longitude": "-0.12721"
+        }
+      ],
+      "requisitionFlexFields": [],
+      "secondaryLocations": [
+        {
+          "CountryCode": "GB",
+          "GeographyId": 300007717436891,
+          "GeographyNodeId": 300007812108790,
+          "Latitude": "53.48473",
+          "Longitude": "-2.19778",
+          "Name": "Manchester, Greater Manchester, United Kingdom",
+          "RequisitionLocationId": 300010898307555
+        }
+      ],
+      "skills": [],
+      "workLocation": [
+        {
+          "AddressLine1": "160 Queen Victoria Street",
+          "AddressLine2": null,
+          "AddressLine3": null,
+          "AddressLine4": null,
+          "Building": null,
+          "Country": "GB",
+          "Latitude": "51.51219",
+          "LocationId": 300000129873209,
+          "LocationName": "160 Queen Victoria Street,London,UK",
+          "Longitude": "-0.10252",
+          "PostalCode": "EC4V 4LA",
+          "Region1": null,
+          "Region2": "GT LON",
+          "Region3": null,
+          "TownOrCity": "London"
+        }
+      ]
+    }
+  ],
+  "limit": 499,
+  "links": [
+    {
+      "href": "https://eofe.fa.us2.oraclecloud.com:443/hcmRestApi/resources/11.13.18.05/recruitingCEJobRequisitionDetails",
+      "kind": "collection",
+      "name": "recruitingCEJobRequisitionDetails",
+      "rel": "self"
+    }
+  ],
+  "offset": 0
+}

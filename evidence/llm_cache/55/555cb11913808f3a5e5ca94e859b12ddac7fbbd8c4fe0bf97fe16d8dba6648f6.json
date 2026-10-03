@@ -1,0 +1,125 @@
+{
+ "key": "555cb11913808f3a5e5ca94e859b12ddac7fbbd8c4fe0bf97fe16d8dba6648f6",
+ "model": "gemini-3.5-flash-lite",
+ "payload_sha256": "d515ee482d30ad07aafdb8016dc0e01bef56aefe1af229dc7add87dbbe3f56fc",
+ "prompt_sha256": "065bd458ace52ff274c72967cfe1b90c794a1ec8d3a3696ec78d7d8cf636df94",
+ "response": {
+  "claims": [
+   {
+    "action_level": "automated_action",
+    "ai_type": "agentic",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "agentic aid to answer the question"
+     },
+     {
+      "code": "G11",
+      "span": "stats coming down, service is up, margins are up, and the potential for ARPC is up"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P7",
+    "quote": "Once tickets created, the tickets never created because you have the agentic aid to answer the question and you’ve seen the stats coming down, service is up, margins are up, and the potential for ARPC is up.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "leverage AI to do make it go a lot faster than Fiserv was ever built any products before"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P8",
+    "quote": "And then as Mike talked about, investing in across our product base, across service, across, across call center, across every area to say, how can we leverage AI to do make it go a lot faster than Fiserv was ever built any products before, and do it in a way where clients are actually beginning to feel the impact of, oh, I had an issue and it got solved like pretty much right away.",
+    "subject": "vendor_staff_tools",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "automated_action",
+    "ai_type": "unspecified",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [
+     "questions"
+    ],
+    "indicators": [
+     {
+      "code": "M2",
+      "span": "should be solved by AI"
+     },
+     {
+      "code": "G11",
+      "span": "90% of the questions"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P9",
+    "quote": "The second 90 is then 90% of the questions that do come in should be solved by AI, and then you go back to the, you know, ten of the 10%, the 1%.",
+    "subject": "vendor_operations",
+    "temporal": "planned"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "bring in the technology to collapse the timelines test easier, make it less painful"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P10",
+    "quote": "There’s, there’s areas where you can bring in the technology to collapse the timelines test easier, make it less painful.",
+    "subject": "vendor_staff_tools",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M2",
+      "span": "our ability to use"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P11",
+    "quote": "our ability to use artificial intelligence to improve our products and services and enhance our operations; the effect of proposed and enacted legislative and regulatory actions affecting us or the financial services industry as a whole; our ability to comply with government regulations and applicable card association and network rules; the protection and validity of",
+    "subject": "vendor_operations",
+    "temporal": "unclear"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "predictive_ml",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "machine learning-based predictive technology"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P12",
+    "quote": "We also provide security, risk and fraud management solutions, which incorporate machine learning-based predictive technology, that help financial institutions operate and grow their business by preventing fraud.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   }
+  ]
+ },
+ "role": "extract",
+ "schema_sha256": "f1cd07fdb8e496624608717927261043432a3bd93d84723a126b7c7d951d68df",
+ "seed": 1234
+}

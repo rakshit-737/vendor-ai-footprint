@@ -1,0 +1,57 @@
+AI that knows your customer: Smarter experiences start here
+AI is everywhere. Results aren’t. Put AI to work with Experience Aviator and speed up content, communications, and digital assets generation.
+A global survey of IT leaders shows that AI experimentation is nearly universal: 95% of organizations are at least testing AI technology.
+The gap is in outcomes. In the same research, 69% of mature adopters reported being satisfied with their return on AI investment (ROAI), compared with 42% of newer adopters.
+For customer experience (CX) teams, the pressure is straightforward: produce more content with fewer cycles. Every request creates a ripple effect: new copy, new formats, new asset variants, and new web updates, plus reviews, revisions, and last-minute fixes when something is outdated or off-brand.
+That’s where teams feel the difference: Faster first drafts, fewer rewrites, quicker repurposing, and fewer last-minute scrambles to swap outdated assets.
+In this post, I’ll walk through the latest AI innovations we’ve incorporated into OpenText™ Experience Cloud across content, communications, and digital assets workflows.
+OpenText™ Experience Aviator brings AI to where CX work happens
+Experience Aviator applies AI where CX teams spend their time:
+- Content that creates connection
+- Communications that scale securely
+- Design that adapts in real-time
+- Assets that stay current and compliant
+Built into the OpenText Experience Cloud, it’s AI for the full content-to-experience lifecycle, including text, image, structure, and system.
+Create better content, not just faster communications
+Whether you’re personalizing a template or rewriting regulatory copy, GenAI shouldn’t add risk or rework. Experience Aviator helps marketers and communicators generate faster first drafts, adapt tone and structure, and repurpose content across formats right from the authoring interface. With rich media analysis (RMA), readability scores, and summary previews, teams get practical signals to refine and govern at scale.
+Generate policy disclosures or billing notices in compliant language using Experience Aviator for OpenText™ Communications, reducing review cycles while maintaining control.
+If your communications span marketing, service, and support, this matters. It helps teams keep a consistent voice across templates and channels while moving faster at enterprise scale.
+From DAM to dynamic delivery: Assets that evolve with AI
+Keeping your asset library usable and up to date is a full-time job. Experience Aviator for OpenText™ Digital Asset Management (DAM) makes it easier to:
+- Generate images from text prompts, route to creative teams
+- Auto-tag assets for discoverability across distributed teams
+- Track AI-generated content with built-in governance metadata and watermarks
+- Flag outdated branding or expired rights with machine-learning-based recognition
+This is the difference between “more content” and “more usable content.” It helps teams avoid last-minute asset swaps and reduces the risk of publishing outdated content.
+Design, iterate, and publish without starting from scratch
+Web teams get pulled in every direction: refresh this page, localize that message, turn the webinar into a landing page, then make it all consistent across regions. Repurposing is a constant request, but it can eat up time.
+Experience Aviator for OpenText™ Web CMS turns approved Figma designs into real web pages automatically. By removing manual rebuilds and developer dependency, teams can launch, personalize, and iterate digital experiences faster than ever. It helps marketers and designers reuse and adapt templates and layouts with smart, component-aware GenAI. You can:
+- Auto-generate layouts based on campaign type, audience, or tone
+- Repurpose webinars, whitepapers, or blogs into mobile-first landing pages
+- Maintain brand control with AI that understands governance rules
+This AI doesn’t just suggest layouts; it knows what works in your brand system. That combination is especially useful when you’re working across large sites, multiple brands, or distributed teams that need to find the right approved content fast.
+Remove the friction from regulated communications
+Fax isn’t dead, especially for regulated industries where it’s critical. But the experience doesn’t have to feel ancient.
+OpenText™ Fax Aviator, now part of Experience Aviator, modernizes workflows with:
+- Intelligent upload & routing to reduce manual handling
+- Branded, guided interfaces that reduce rekeying and support requests
+- Privacy-aware GenAI to extract and summarize key data for action
+Experience Aviator also supports intelligent document upload via OpenText™ Fax, which helps reduce manual handling at the front end of the process.
+When AI is involved, privacy still matters
+Many teams want the speed gains of AI while also keeping proprietary information out of public domains.
+Experience Aviator is designed to bring vetted LLMs to your private dataset. For OpenText Private Cloud customers, it also supports experimentation in a sandbox environment to try new use cases. Templates and workflows are built to support privacy and compliance needs, especially in financial services, healthcare, and government environments.
+Where this shows up first: Four real-world use cases
+Experience Aviator maps well to scenarios where content volume, oversight, and speed all matter.
+Financial services
+Marketing materials face tight regulatory constraints. AI can help review content for potential regulatory issues, generate compliant disclaimers, and produce automated reports that support adherence.
+Healthcare
+Enable claims adjudicators to triage, summarize, and route claims faster – with accuracy and auditability. With summaries, extracted data, and the original fax unified in one view, teams cut intake time, reduce errors, and accelerate underwriting decisions.
+Retail
+Personalization drives conversion. AI can analyze browsing and purchase history to recommend products, styles, or collections that align with individual preferences.
+Hospitality and tourism
+Packaging the right experience takes time. AI can analyze traveler profiles to suggest customized itineraries, including accommodations, activities, and dining options.
+When you want momentum, support can help you move faster
+AI programs rarely stay still. New use cases emerge, teams evolve, and workflows need to keep up.
+OpenText Professional Services can help identify the highest-value use cases and models for your environment, then shape the right workflows to put them into day-to-day practice.
+Build smarter experiences with AI that knows your customer
+Experience Aviator is part of the OpenText™ Aviator portfolio, AI built for business. By embedding generative AI, image AI, and intelligent automation into Experience Cloud, teams can create and deliver customer experiences with less rework and faster cycles.

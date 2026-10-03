@@ -1,0 +1,46 @@
+{
+  "hiringOrganization": {
+    "name": "PAYCO The Clearing House Payments Company L.L.C.",
+    "url": ""
+  },
+  "jobPostingInfo": {
+    "canApply": true,
+    "country": {
+      "descriptor": "United States of America",
+      "id": "bc33aa3152ec42d4995f4791a106ed09"
+    },
+    "externalUrl": "https://theclearinghouse.wd108.myworkdayjobs.com/TheClearingHouse/job/Charlotte-Office/M365-Communication-Systems-Engineer_JR100181",
+    "id": "c90a6f471d131000c0eacfc4bb830000",
+    "includeResumeParsing": true,
+    "jobDescription": "<p><b><u>Position summary:</u></b></p><p>We are seeking a highly skilled Microsoft 365 and Entra Identity Administrator to serve as the technical owner of our Microsoft cloud identity platform. This position will be responsible for the day-to-day administration, maintenance, optimization, governance, and security of Microsoft Entra ID, Conditional Access, authentication services, identity lifecycle management, and enterprise application integrations. The ideal candidate will possess deep expertise in modern identity and access management technologies, including SAML, OAuth, OpenID Connect (OIDC), Multifactor Authentication (MFA), and Single Sign-On (SSO), while maintaining strong knowledge of Active Directory, DNS, DHCP, Group Policy, and hybrid identity architecture. Experience supporting cloud platforms such as AWS is highly desirable.</p><br /><p><b>About The Clearing House: </b>The Clearing House Payments Company L.L.C. is a bank-owned industry utility that shapes the payments landscape and provides infrastructure for safe, reliable, and efficient payments. We see an economy where everyone is connected and a future where modern payments make life easier. The Clearing House operates four payment systems: a high-value wire-transfer system (the CHIPS® network), the country’s first and largest instant payments system (the RTP® network), an automated clearinghouse network (the EPN® network), and a check image exchange network (the Image Exchange Network). TCH also operates a bank account number tokenization service, runs a payments association known as the TCH Payments Authority, and maintains the rules for private-sector check image exchange through its ECCHO® business line. </p><br /><p> </p><p><b><u>Responsibilities</u></b></p><ul><li>Serve as the primary administrator and technical owner of the Microsoft Entra ID environment.</li></ul><ul><li>Administer and maintain user lifecycle management, identity governance, authentication methods, and directory services.</li></ul><ul><li>Design, implement, and maintain enterprise identity and access management solutions.</li></ul><ul><li>Configure, support, and troubleshoot Single Sign-On (SSO) integrations utilizing SAML 2.0, OAuth 2.0, OpenID Connect (OIDC), and other modern authentication protocols.</li></ul><ul><li>Administer Enterprise Applications, App Registrations, service principals, and API permissions within Microsoft Entra.</li></ul><ul><li>Manage and optimize Multifactor Authentication (MFA) solutions, including Microsoft Authenticator, authentication strengths, passwordless authentication, and self-service password reset capabilities.</li></ul><ul><li>Develop and maintain Conditional Access policies aligned with security, compliance, and business requirements.</li></ul><ul><li>Monitor identity-related health, security posture, and access trends while proactively identifying opportunities for improvement and optimization.</li></ul><ul><li>Partner with application owners, cybersecurity teams, and vendors to integrate applications securely with Microsoft Entra ID.</li></ul><ul><li>Maintain and troubleshoot hybrid identity solutions including Entra Connect and Active Directory synchronization services</li><li>Administer and maintain Active Directory infrastructure, including users, groups, organizational units (OUs), delegation models, and directory services.</li><li>Design, implement, and troubleshoot Group Policy Objects (GPOs) to support security, compliance, and operational requirements.</li></ul><ul><li>Manage and maintain hybrid identity infrastructure supporting synchronization between Active Directory and Microsoft Entra ID.</li></ul><ul><li>Administer and troubleshoot Microsoft Entra Connect, synchronization services, identity provisioning, and directory-related issues.</li></ul><ul><li>Manage and maintain DNS and DHCP services supporting enterprise authentication and application connectivity.</li></ul><ul><li>Perform certificate lifecycle management activities, including certificate renewals, replacements, and troubleshooting for authentication, federation, and secure communications.</li></ul><ul><li>Support Public Key Infrastructure (PKI) and certificate-based authentication solutions where applicable.</li></ul><ul><li>Assist with identity-related disaster recovery planning, testing, and operational readiness activities.</li></ul><ul><li>Collaborate with infrastructure, cybersecurity, and application teams to ensure secure and reliable identity services across on-premises and cloud environments.</li></ul><ul><li>Monitor and maintain the health, availability, and performance of identity-related infrastructure components.</li></ul><ul><li>undefined</li></ul><p><b> </b></p><p><b><u>Qualifications</u></b></p><br /><ul><li>Strong expertise in Microsoft 365 administration, Microsoft Entra ID, hybrid identity, and directory services.</li><li>Deep understanding of authentication and federation technologies including SAML 2.0, OAuth 2.0, OpenID Connect (OIDC), Single Sign-On (SSO), and Multifactor Authentication (MFA).</li><li>Experience administering and troubleshooting Enterprise Applications, App Registrations, service principals, and API permissions within Microsoft Entra</li><li>Strong understanding of Conditional Access, authentication methods, identity governance, and modern identity security practices.</li><li>Advanced knowledge of Active Directory, Group Policy, DNS, DHCP, Microsoft Entra Connect, and hybrid identity architectures.</li><li>Experience managing and troubleshooting identity synchronization between Active Directory and Microsoft Entra ID. </li><li>Knowledge of Public Key Infrastructure (PKI), certificate lifecycle management, and certificate-based authentication services.</li><li>Proficiency with PowerShell automation and Microsoft Graph API administration.</li><li>Knowledge of disaster recovery planning, testing, and validation methodologies, with willingness to participate in recovery exercises when required.</li><li>Experience supporting Microsoft Intune, endpoint management, and device-based access controls is a plus.</li><li>Familiarity with AWS identity integrations, IAM, and Amazon Route 53 DNS administration is preferred.</li><li>Must be comfortable working within a strict and highly governed change management environment.</li><li>Must be committed to maintaining security, risk, and compliance controls within a regulated industry environment.</li><li>Ability to create and maintain technical documentation, operational procedures, and knowledge transfer materials.</li><li>Demonstrated ability to troubleshoot complex technical issues, take ownership of problems, and drive resolutions through completion.</li><li>Excellent communication, analytical, and problem-solving skills.</li><li>Strong attention to detail, organizational skills, and operational discipline.</li></ul><p> </p><p><b><u>Work Conditions &amp; Expectations</u></b></p><ul><li>Hybrid Schedule: 3 days onsite (Charlotte NC preferred, occasional asks to report to Winston-Salem NC as needed); On-site work requirements can change at any time. </li><li>Operational Flexibility: Ability to perform after-hours changes and participate in on-call rotations when required.</li><li>Dynamic Environment: Work involves frequent troubleshooting, collaboration across teams, and adapting to evolving technologies.</li><li>Security &amp; Compliance: Must adhere to strict Change Management processes and participate in security reviews as needed.</li><li>Standard Office Setup: Role primarily uses standard IT equipment (laptops, conferencing tools, monitoring systems) with occasional interaction with server rooms or networking hardware.</li></ul>",
+    "jobPostingId": "M365-Communication-Systems-Engineer_JR100181",
+    "jobPostingSiteId": "TheClearingHouse",
+    "jobReqId": "JR100181",
+    "jobRequisitionLocation": {
+      "country": {
+        "alpha2Code": "US",
+        "descriptor": "United States of America",
+        "id": "bc33aa3152ec42d4995f4791a106ed09"
+      },
+      "descriptor": "Charlotte Office"
+    },
+    "location": "Charlotte Office",
+    "posted": true,
+    "postedOn": "Posted 10 Days Ago",
+    "questionnaireId": "416fc4b6e988100114d79736c4ff0000",
+    "startDate": "2026-09-22",
+    "timeType": "Full time",
+    "title": "M365 Engineer - Entra"
+  },
+  "similarJobs": [
+    {
+      "externalPath": "/job/Charlotte-Office/M365-Engineer---Exchange_JR100200-1",
+      "locationsText": "Charlotte Office",
+      "postedOn": "Posted 4 Days Ago",
+      "startDate": "2026-09-28",
+      "timeType": "Full time",
+      "title": "M365 Engineer - Exchange"
+    }
+  ],
+  "userAuthenticated": false
+}

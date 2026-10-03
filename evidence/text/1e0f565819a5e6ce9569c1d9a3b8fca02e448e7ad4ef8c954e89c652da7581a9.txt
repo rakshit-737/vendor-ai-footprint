@@ -1,0 +1,12 @@
+The U.S. Is Ready for Real-Time Payments, Says Bottomline Tech Exec
+The time for faster payments is now. According to Jessica Cheney, Vice President of Product Management and Strategic Solutions for business payments solution provider Bottomline Technologies, “The stage is set for the U.S. to fully embrace real-time payments for both B2B and B2C activity.”
+In a recent interview with PYMNTS, Cheney says that the U.S. payments arena “has been ripe for something innovative to come along -- and RTP has been the most innovative advancement to happen in this space in decades.”
+She continues, “The regulatory environment is different in the U.S. than elsewhere around the globe, but the pace of innovation and regulatory change (in terms of mindset) has accelerated here. The rollout of Same Day ACH several years ago served to kick-start the process.”
+Tech-savvy and time-harried consumers are pushing what she describes as a “grassroots movement” for real-time payments, thanks to the adoption of P2P payment services, such as Zelle and Venmo. Speed is key, she says.
+“The Clearing House’s RTP offering has also solved for other payment inefficiencies, as well as for decreased transaction times,” she adds.
+“The sky is the limit with RTP,” she declares. For example, the RTP network could speed up and simplify instant insurance claims payments and retail returns. Further, Request for Payment (RFP) “has the potential to change the way we think about bill payments in the United States today,” she says.
+As she explains:
+Bill payment is a fractured process, where some firms are able to present bills to consumers online, and, in some cases, consumers may have to enlist the offerings of a separate bill payment service. When payment is made, she noted, billers have to find ways to match the payment to the actual invoice. However, RFP is directly linked to payments made as a result of the request — an advantage that can streamline the whole process for a range of companies, from the smallest firms to the largest mortgage services and telecom giants like Verizon.
+The RTP network “fits in with the fundamental change we are seeing with banks, where they are trying to transition toward systems of engagement. The formerly transactional mindset of banks serving corporate clients has been shifting toward building and cementing relationships, and increasing their trusted, strategic partner status,” she says.
+“RTP isn’t just another payment type a bank can offer.”
+Read the entire Jessica Cheney interview at PYMNTS.

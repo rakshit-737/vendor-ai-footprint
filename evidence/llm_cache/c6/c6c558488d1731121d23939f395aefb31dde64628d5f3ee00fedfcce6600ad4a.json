@@ -1,0 +1,395 @@
+{
+ "key": "c6c558488d1731121d23939f395aefb31dde64628d5f3ee00fedfcce6600ad4a",
+ "model": "gemini-3.5-flash-lite",
+ "payload_sha256": "74ed318b56934fde225daad83c0dd0e9e9c952a030bb4682d0befc7627db8f73",
+ "prompt_sha256": "065bd458ace52ff274c72967cfe1b90c794a1ec8d3a3696ec78d7d8cf636df94",
+ "response": {
+  "claims": [
+   {
+    "action_level": "unknown",
+    "ai_type": "agentic",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "AI-agnostic architecture, including Model Context Protocol (MCP) client and server functionality"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P1",
+    "quote": "Automic V26 is primarily focused on securely bridging the gap between non-deterministic AI reasoning and deterministic enterprise execution. Here are two key capabilities that support this objective: Enterprise AI flexibility and control: Rather than building closed, vendor-locked AI integrations, Automic V26 provides an AI-agnostic architecture, including Model Context Protocol (MCP) client and server functionality.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [
+     "general automation tasks"
+    ],
+    "indicators": [
+     {
+      "code": "G1",
+      "span": "Claude"
+     },
+     {
+      "code": "G1",
+      "span": "Gemini"
+     },
+     {
+      "code": "G1",
+      "span": "OpenAI"
+     },
+     {
+      "code": "G2",
+      "span": "route general automation tasks to public models, such as Claude, Gemini, and OpenAI"
+     }
+    ],
+    "named_providers": [
+     "Claude",
+     "Gemini",
+     "OpenAI"
+    ],
+    "passage_id": "P1",
+    "quote": "This \"bring-your-own-model\" (BYOM) architecture allows you to route general automation tasks to public models, such as Claude, Gemini, and OpenAI.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [
+     "sensitive operational workloads"
+    ],
+    "indicators": [
+     {
+      "code": "G1",
+      "span": "VMware Private AI"
+     },
+     {
+      "code": "G2",
+      "span": "secures sensitive operational workloads strictly within self-hosted, private models, including models running on VMware Private AI"
+     }
+    ],
+    "named_providers": [
+     "VMware Private AI"
+    ],
+    "passage_id": "P2",
+    "quote": "At the same time, it secures sensitive operational workloads strictly within self-hosted, private models, including models running on VMware Private AI.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "automated_action",
+    "ai_type": "agentic",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "dedicated job type that encapsulates AI decision-making within our rigorous, audit-ready object definitions"
+     },
+     {
+      "code": "G4",
+      "span": "We have introduced"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P2",
+    "quote": "We have introduced a dedicated job type that encapsulates AI decision-making within our rigorous, audit-ready object definitions. This allows IT operations to deploy intelligent, dynamic jobs—such as complex remediation—while strictly enforcing role-based access control (RBAC), logging, and security protocols within the Automic engine.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "agentic",
+    "claim_kind": "industry_commentary",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M3",
+      "span": "EMA recognized Broadcom as a value leader and a pioneer in agentic AI in its 2025 Radar™ for Workload Automation and Orchestration"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P3",
+    "quote": "See why EMA recognized Broadcom as a value leader and a pioneer in agentic AI in its 2025 Radar™ for Workload Automation and Orchestration.",
+    "subject": "other_or_industry",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "predictive_ml",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [
+     "complex data pipelines"
+    ],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "natively execute machine learning models and complex data pipelines directly within Automic"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P4",
+    "quote": "This allows data engineers to natively execute machine learning models and complex data pipelines directly within Automic, eliminating the friction of fragile, \"shell-to-Python\" wrapper scripts.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "advisory",
+    "ai_type": "genai_llm",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "AI-powered code assist feature that provides intelligent code completion, script generation, and logic optimization directly within the platform"
+     },
+     {
+      "code": "G4",
+      "span": "We have embedded"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P4",
+    "quote": "AI-driven code assist: We have embedded an AI-powered code assist feature that provides intelligent code completion, script generation, and logic optimization directly within the platform.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "automated_action",
+    "ai_type": "genai_llm",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [
+     "business intent in natural language"
+    ],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "describe their business intent in natural language to instantly generate fully configured, compliant workflows"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P5",
+    "quote": "Generative \"text-to-workflow\" control: Business analysts and non-experts can now describe their business intent in natural language to instantly generate fully configured, compliant workflows, removing traditional IT bottlenecks.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "advisory",
+    "ai_type": "genai_llm",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [
+     "specific job errors",
+     "native product documentation"
+    ],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "embedded assistant that analyzes the context of specific job errors and compares them against native product documentation"
+     },
+     {
+      "code": "G3",
+      "span": "analyzes the context of specific job errors and compares them against native product documentation"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P5",
+    "quote": "Context-aware generative AI assistant: To reduce mean time to resolution (MTTR), Automic V26 includes an embedded assistant that analyzes the context of specific job errors and compares them against native product documentation.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "agentic",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "transition from deterministic scheduling to agentic AI execution"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P8",
+    "quote": "Automic V26 enables teams to transition from deterministic scheduling to agentic AI execution. The platform can support non-deterministic AI reasoning within a secure, policy-bounded framework.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G1",
+      "span": "Claude"
+     },
+     {
+      "code": "G1",
+      "span": "Gemini"
+     },
+     {
+      "code": "G1",
+      "span": "OpenAI"
+     },
+     {
+      "code": "G2",
+      "span": "route tasks to public models, such as Claude, Gemini, and OpenAI"
+     }
+    ],
+    "named_providers": [
+     "Claude",
+     "Gemini",
+     "OpenAI"
+    ],
+    "passage_id": "P8",
+    "quote": "This release introduces an AI-agnostic architecture that supports a bring-your-own-model (BYOM) approach. With the platform, you can route tasks to public models, such as Claude, Gemini, and OpenAI.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [
+     "sensitive workloads"
+    ],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "route sensitive workloads to private, self-hosted models"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P9",
+    "quote": "In addition, you can route sensitive workloads to private, self-hosted models.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "automated_action",
+    "ai_type": "agentic",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "dedicated \"agentic AI\" job type that applies enterprise-grade security, logging, and role-based access control (RBAC) to AI-driven decision-making"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P9",
+    "quote": "The platform now includes a dedicated \"agentic AI\" job type that applies enterprise-grade security, logging, and role-based access control (RBAC) to AI-driven decision-making.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "predictive_ml",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [
+     "data pipelines"
+    ],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "native Python execution. This enables engineers to run machine learning models and data pipelines directly"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P10",
+    "quote": "The update introduces native Python execution. This enables engineers to run machine learning models and data pipelines directly, without having to use fragile, shell-to-Python wrapper scripts.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "advisory",
+    "ai_type": "genai_llm",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "embedded AI-powered code assist for intelligent script generation, code completion, and logic optimization"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P10",
+    "quote": "Developers can use an embedded AI-powered code assist for intelligent script generation, code completion, and logic optimization.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "automated_action",
+    "ai_type": "genai_llm",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [
+     "intent in natural language"
+    ],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "describe their intent in natural language, and have the platform instantly generate compliant workflows"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P11",
+    "quote": "With this capability, business analysts can describe their intent in natural language, and have the platform instantly generate compliant workflows.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "advisory",
+    "ai_type": "genai_llm",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [
+     "job logs",
+     "native documentation"
+    ],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "context-aware AI assistant is also embedded to help operators troubleshoot errors"
+     },
+     {
+      "code": "G3",
+      "span": "compares job logs against native documentation to provide immediate root-cause analysis"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P11",
+    "quote": "A context-aware AI assistant is also embedded to help operators troubleshoot errors. This assistant compares job logs against native documentation to provide immediate root-cause analysis.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "genai_llm",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [
+     "operational data"
+    ],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "natural-language interface for exploring operational data, and frontier AI led security process"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P12",
+    "quote": "AAI v26 introduces precise cost attribution and chargeback reporting, a natural-language interface for exploring operational data, and frontier AI led security process.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   }
+  ]
+ },
+ "role": "extract",
+ "schema_sha256": "f1cd07fdb8e496624608717927261043432a3bd93d84723a126b7c7d951d68df",
+ "seed": 1234
+}

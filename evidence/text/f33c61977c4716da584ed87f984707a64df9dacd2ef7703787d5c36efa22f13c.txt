@@ -1,0 +1,13 @@
+Nacha’s new risk management framework calls for a new way of thinking about fraud prevention, detection and recovery, and a cultural change in the industry about fraud information sharing.
+Nacha’s previous risk management strategies for the ACH Network have focused on protecting consumers and organizations, and their account-holding financial institutions, from fraud due to unauthorized debits that pull money from their accounts.  Now, however, the most significant fraud threats to bank account holders involve frauds and scams that result in money being sent out of their accounts.
+This Risk Management Framework identifies current fraud threats and provides direction on opportunities to improve fraud detection, prevention, and the recovery of funds.  
+This important webinar explores the objectives, themes and areas of focus as detailed in the Risk Management Framework. 
+Gain Insight & Understanding
+During this webinar, you will learn about:
+    - Major themes of the new strategy and why the change in focus is critical to the payments industry
+- Areas of focus for future risk management initiatives
+- Industry guidance from Nacha’s Risk Management Advisory Group (RMAG)
+Speakers
+    - Jordan Bennett, Senior Director, Network Risk Management, Nacha
+- Jeanette Fox, Senior Director, Risk Investigation & ACH Network Risk Management, Nacha
+- Michael Herd, Senior Vice President, ACH Network Administration, Nacha

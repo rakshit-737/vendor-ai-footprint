@@ -1,0 +1,36 @@
+Type: 
+            
+                Webinar
+            
+            
+            Duration: 
+            
+                50 Minutes
+            
+            
+            
+                Date & Time: 
+                
+                
+            
+            
+            
+            
+            
+        
+            The RTP® Ready Webinar Series is a 6-week program that will help community banks and credit unions move from the planning stage to execution. Registrants will participate in six webinars that address key concepts related to becoming a RTP® Participant. This is the perfect program for those who need to fully understand the specifics of RTP® and are ready to move from the conceptual to the practical. Each webinar is part of a series and culminate with an action plan for implementing RTP®
+    - Each webinar is 50 minutes in length and offered over a 6-week period that runs from October 10 - November 14, 2018
+- All webinars begin at 2:00 p.m. ET
+- Webinar series may be eligible for continuing education credits
+October 10, 2018 | Understanding the Faster Payments Landscape and RTP® 
+Speed has become the standard. Whether its Same Day ACH or credit push payments over the debit card rails, the payments industry has focused on getting transactions from one account to another faster. Join us for the first webinar in this series that will help to provide the foundation attendees will need to appreciate fully the value proposition of RTP®. Attendees will learn how increasing the clearing and settlement for ACH provides value for real-time payments. Additionally participants will explore the way the debit card rails support faster payments. The program will wrap up with a discussion on how RTP® fits into this new payments eco-system.
+October 17, 2018 | RTP® Function and Capabilities
+RTP® is the new payments network in over 40 years. This webinar will review the functions that make it unique including its speed and extensibility. The program will begin with a review of the message flows for RTP®. Participants will then review the messages supported by the network and gain an understanding of the value they bring to RTP®. In addition, participants will learn how RTP® credits are settled. This webinar will provide attendees with a solid understanding of the capabilities of this network.
+October 24, 2018 | RTP® Clearing and Settlement Implications
+The RTP® network requires network participants to receive messages around the clock and every day of the year. Operating in this type of a processing environment requires participants to pay special attention to certain processes to support continuous clearing and settlement of payments. This webinar will highlight those areas that financial institutions will need to take into consideration. From providing accountholders with immediate funds availability to adapting to real-time settlement this webinar will give participants insight into those back-office processes that will need to be adapted.
+October 31, 2018 | Back-Office Considerations for RTP®
+RTP® requires back-office processes that can support continuous processing, delivery of payment-related data and accelerate posting decisions. This webinar will review the issues that financial institutions will need to incorporate into their operational processes. Participants will gain an understanding of the requirements for handling inbound RTP® credits as well as payment-related messages. Additionally we will review the operational considerations for sending RTP® messages. Participants will also learn about RTP® exceptions handling. This webinar will provide a good foundation for understanding how RTP® will affect back-office operations.
+November 7, 2018 | RTP® and Risk Management
+Every payments network requires effective risk management and RTP® is no different. This webinar will explore the risk characteristics of RTP®. Participants will learn how the credit push nature of RTP® reduces its risk profile and which risk management strategies financial institutions should consider when implementing RTP®. This program will also provide financial institutions with insights on how the risk management capabilities of the nature can augment individual risk management strategies.
+November 14, 2018 | Successfully Implementing RTP®: An Action Plan
+The culminating program of this webinar series will provide attendees with an action plan for implementing RTP®. This webinar will review the various considerations associated with implementing RTP® and give participants an action plan for executing an implementation strategy. The program will highlight the integration points and the type solution providers that a financial institution should engage in order to go-live. The program will review a five-step action plan that attendees can follow to move their RTP® strategy from planning to execution.

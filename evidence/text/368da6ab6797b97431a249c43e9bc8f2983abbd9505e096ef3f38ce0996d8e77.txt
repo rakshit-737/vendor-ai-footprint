@@ -1,0 +1,65 @@
+DNS records for fiserv.com (DoH: dns.google, cloudflare-dns.com)
+TXT	00DA0000000Yhcv=1TBUJ0000000Fa9
+TXT	00DRL00000GkGyg=1TBRL0000000Io9
+TXT	17816170
+TXT	18115065
+TXT	73f21cb821420b941dfa4c9abb0d4738448a6e9e08e12ff6e01a2fdac690dcdf
+TXT	Docusign=docusign=0371d67d-bccd-48bd-8581-a4011ab45fd8
+TXT	Dynatrace-site-verification=6702af45-fdc3-4e5b-8e4e-c9b0571968f3__vr9j5nn7e4vvbtubo94gu526h9
+TXT	I1BDJ/f8alg9s+nmYeCH+3d7ksEsAfPy71FlELanJAR9pjmx3McFNW+nJSzQJAzd08J2qY79q+rHcYDCeYdXlw==
+TXT	MS=ms16798604
+TXT	MS=ms21998472
+TXT	MS=ms28448833
+TXT	MS=ms52021924
+TXT	MS=ms64210103
+TXT	_thgywd2rpx9hgqed7jc8qnzcrw4x1yf
+TXT	_uuksxgbjbs15u8hqlmming028cc3qlu
+TXT	_vv7xn63cbo5isfeqmeabw5d64p404bq
+TXT	_vvx4goxq3kx13ccg1dcwpx5aoa7posb
+TXT	adobe-idp-site-verification=463b510d83ded0c6f6c18a6b69641df700cd806ac1e9dc15a39c537d5bbb2c91
+TXT	anthropic-domain-verification-zmvjvn=xzTk6WAnm9pKPFIDLdlw4icpM
+TXT	apple-domain-verification=nVMmNhm1yw2oMhvA
+TXT	atlassian-domain-verification=4DD5xow20HdsTyFCBc0Ndpi/eVc0ZhsBsB3yI3ZSXLcOpG0HW9TqE82vamXfylRO
+TXT	atlassian-domain-verification=HrlQKJmTa7huoM91otWhTMt8iuvJexiWdrAMFkuc7xaDCzoHmZiovBUKLGuqZFGO
+TXT	atlassian-domain-verification=UUQbbVvMvjF4/Haa4wZPYq9FxrYqfMLH3E6gI2ri2gGiM1YehJSYASzKT5Kfz2hn
+TXT	atlassian-domain-verification=YAhqS9SVBU9hqZzapXziOasqaHmr6K/t1VQyFO6/fag9ObcDMKMA87s647RXr1Q2
+TXT	calendly-site-verification=UjVC4Dr8mmigGznR3cq9QlScDEMiX5jllkqkErDph
+TXT	cisco-ci-domain-verification=36496db70cd00a0d2b0080444fe50f9768c761347afce669dd8fcb03adb96a42
+TXT	ddc4c422-c2aa-4b9e-a71c-1f781faa5cc5
+TXT	docker-verification=e324deec-96a4-4285-86ed-b44fbe28a45e
+TXT	docusign=0371d67d-bccd-48bd-8581-a4011ab45fd8
+TXT	docusign=7cafbe80-deea-4662-8a2f-1b65f4bf1530
+TXT	flexera-domain-verification-zhhplnnzgomfpypr
+TXT	google-gws-recovery-domain-verification=55860565
+TXT	google-site-verification=b5nZvs7RMeBwCHBH_DUCJbksBxallgTMmqUY2dosvn8
+TXT	google-site-verification=pY6PSz8aLpZa4dM9SXh89JqnL8ldTSrPWBLEXvJpT04
+TXT	google-site-verification=ynXfaWL1dv3_HHZ2XOCbC7Gr_3LivbK1aRt6TJq70x8
+TXT	h1-domain-verification=agZJZTpsF1CE9svirVCKqHU5FBuEzCPPkHs2NzVmKf5KY6wG
+TXT	hcp-domain-verification=d7eeb26b7066067aabfb44e977a62f8629c2c4003e4b5ff27e8296a60e74b8d2
+TXT	ibmid=6e4a213b-e42f-44b3-8fcb-adc839f378b1
+TXT	jamf-site-verification=CgoRYdNnnRd96I3o_HFGlw
+TXT	jamf-site-verification=q11x7bw2-61hvjiAlRH-MA
+TXT	klaviyo-site-verification=ULTxtq
+TXT	miro-verification=1f3759e11be6ef2f755b87e65f93699bea6b74ed
+TXT	onetrust-domain-verification=c2df4c4d7918479caeffad0d63d97376
+TXT	onetrust-domain-verification=f0266e443f264394815154216d01be44
+TXT	openai-domain-verification=dv-6OGUWNNYoi7eZykFaMojyXDt
+TXT	pexip-ms-tenant-domain-verification=ef008caa-325a-491d-94c8-20fa87367151
+TXT	pexip-ms-tenant-domain-verification=value1,ef008caa-325a-491d-94c8-20fa87367151
+TXT	postman-domain-verification=44b89265aa1f6208ef132bb7d29d89729d3199b131b8ac72d6d365a28709b243b268377a291059cf9427976c869730c9e6cf283c18569adcc1341a6fe854faec
+TXT	v=spf1 include:%{ir}.%{v}.%{d}.spf.has.pphosted.com ~all
+TXT	webexdomainverification.1TZGB=c6da537b-9979-44d0-997a-4d8aae81f836
+TXT	webexdomainverification.4C675B87894CB136E053AB06FC0A3F65=9c402228-b6d3-41f8-924f-f2dae03b7fb3
+TXT	webexdomainverification.4C675B87A9E9B136E053AB06FC0A3F65=06144af7-42ac-437e-bd04-8b76890c5cb3
+TXT	webexdomainverification.4C675B8B3013B136E053AB06FC0A3F65=7f825ad8-afbd-4387-8b1d-50ce111e6c26
+TXT	webexdomainverification.4C675B8BBA3DB136E053AB06FC0A3F65=b60a76e1-3a2b-4758-a56b-537dc796b69a
+TXT	webexdomainverification.68e7ebd06891d6cee053ad06fc0a97a5=9f558815-85bc-49e6-a1d0-6d48961bb66a
+TXT	wiz-domain-verification=74fc5d21018494a6fdd53bfffe6018f2ab2f78e8be60ad639ba5f4798726106f
+TXT	workbrew-domain-verification-efjr2d=\208\181\209\128\208\156CEyW2EIECnxzPnuXQ9U3gc
+TXT	workbrew-domain-verification-efjr2d=ерМCEyW2EIECnxzPnuXQ9U3gc
+MX	10 mxa-00265f01.gslb.pphosted.com
+MX	10 mxb-00265f01.gslb.pphosted.com
+SPF	v=spf1 include:%{ir}.%{v}.%{d}.spf.has.pphosted.com ~all
+AI_TOKEN	Anthropic	anthropic-domain-verification-zmvjvn=xzTk6WAnm9pKPFIDLdlw4icpM
+AI_TOKEN	OpenAI	openai-domain-verification=dv-6OGUWNNYoi7eZykFaMojyXDt
+RESOLVER_DISAGREEMENT	TXT

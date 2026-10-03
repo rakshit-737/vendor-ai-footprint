@@ -1,0 +1,63 @@
+{
+ "key": "829aaddb376b85722747b00df356a2d233a816cfc40021fdefb25ea0727aeed8",
+ "model": "gemini-3.5-flash-lite",
+ "payload_sha256": "6db473d9f15dc3173cebb4dc2e6adecb802aae98561efe21fa5e1dd6dae81f33",
+ "prompt_sha256": "065bd458ace52ff274c72967cfe1b90c794a1ec8d3a3696ec78d7d8cf636df94",
+ "response": {
+  "claims": [
+   {
+    "action_level": "unknown",
+    "ai_type": "genai_llm",
+    "claim_kind": "ai_governance",
+    "data_mentioned": [],
+    "indicators": [],
+    "named_providers": [],
+    "passage_id": "P1",
+    "quote": "Model Risk Management’s framework includes use cases employing artificial intelligence, including large language models, and Model Risk Management is among the functions integrated into the Company’s broader, cross-functional artificial intelligence risk management framework.",
+    "subject": "vendor_operations",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "ai_governance",
+    "data_mentioned": [],
+    "indicators": [],
+    "named_providers": [],
+    "passage_id": "P5",
+    "quote": "BNY has evaluated the impact of the AI Act and has established an implementation program designed to operationalize the regulatory requirements.",
+    "subject": "vendor_operations",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "ai_governance",
+    "data_mentioned": [
+     "non-public information"
+    ],
+    "indicators": [],
+    "named_providers": [],
+    "passage_id": "P6",
+    "quote": "The NYSDFS requires financial institutions regulated by NYSDFS, including The Bank of New York Mellon, to establish a cybersecurity program, adopt a written cybersecurity policy, designate a chief information security officer, address artificial intelligence risks related to cybersecurity, and have policies and procedures in place to ensure the security of information systems and non-public information accessible to, or held by, third parties.",
+    "subject": "vendor_operations",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [],
+    "indicators": [],
+    "named_providers": [],
+    "passage_id": "P11",
+    "quote": "Our reliance on third-party service providers, as well as our increasing adoption of artificial intelligence solutions, employees’ usage of mobile and cloud technologies and our remote access systems, leave our networks susceptible to greater access points for attackers to exploit.",
+    "subject": "vendor_operations",
+    "temporal": "in_production"
+   }
+  ]
+ },
+ "role": "extract",
+ "schema_sha256": "f1cd07fdb8e496624608717927261043432a3bd93d84723a126b7c7d951d68df",
+ "seed": 1234
+}

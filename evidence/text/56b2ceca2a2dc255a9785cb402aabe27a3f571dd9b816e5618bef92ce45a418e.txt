@@ -1,0 +1,19 @@
+CEOs Support Intelligent Bill Pay Capability on the RTP® Network
+The CEOs from 23 banks on the RTP® network, as well as the chief executives from Jack Henry and Fiserv, have signed a letter to their customers committing to bring intelligent bill-payment capabilities to market.
+To our valued customers:
+Recognizing the necessity and societal benefits of real-time payments, The Clearing House and its member banks have invested over $320 million to deliver the RTP® network. Since its launch in 2017, the RTP network has ushered in a new era in payments and now reaches approximately 60% of customer accounts. Consumers and businesses are benefiting from the flexibility of the RTP network and new use cases continue to emerge. Employers are utilizing real-time capabilities to pay employees on demand, such as at the end of every shift. Insurance companies are expediting payment of claims, and merchant acquirers are providing merchants the option of settlement over the RTP network, improving their cash flow.
+Now, enabled by the RTP network, we are committing to deliver the next revolution in how we present and pay bills through a smarter, safer, and more transparent digital experience.
+We are making the investments needed to deliver a new bill-pay experience in our customer mobile and online channels. Billers will be able to present a bill securely through a bank’s digital channel using a RfP (Request for Payment) message over the RTP network. Customers will review the bill, pay immediately, or schedule the payment for a future date. For billers this represents an opportunity to reimagine their customers’ payment experience, providing added convenience, while delivering meaningful processing efficiencies.
+Later this year, 40% of digitally enabled U.S. consumer accounts are expected to support this new customer experience. Core technology and bill pay providers are also introducing this capability and will make it available to their bank and credit union clients.
+We encourage all financial institutions, bill pay providers and billers to work together to bring the reimagined bill payment capability to your customers. Please join us in making the bill payments experience better for all consumers.
+New participants are joining the RTP network every month providing their customers faster access to, and greater control of, their funds. We encourage all depository financial institutions to join the RTP network.
+Sincerely,
+| Brian Moynihan, Bank of America | Nandita Bakhshi, Bank of the West | Ashok Vaswani, Barclays | 
+| Todd Gibbons, BNY Mellon | Richard D. Fairbank, CapitalOne | Jane Fraser, Citigroup, Inc. | 
+| Bruce Van Saun, Citizens FinancialGroup, Inc. | Curtis C. Farmer, Comerica | Christiana Riley, Deutsche Bank | 
+| Greg Carmichael, Fifth Third Bank | Michael M. Roberts, HSBC | Steve Steinour, The Huntington National Bank | 
+| Gordon Smith, JPMorgan Chase & Co. | Christopher M. Gorman, KeyCorp | Rene F. Jones, M&T Bank | 
+| Kevin Cronin, MUFG Americas Holdings Corp. | William S. Demchak, PNC Financial Services Group | John Turner, Regions Financial Corp. | 
+| Tim Wennes, Santander Holding, USA Inc. | Bharat B. Masrani, TD Bank Group | Kelly S King, Truist | 
+| Andrew Cecere, U.S. Bancorp | Charles W. Scharf, Wells Fargo & Co. | Frank Bisignano, Fiserv | 
+| David Foss, Jack Henry & Associates |  |  |

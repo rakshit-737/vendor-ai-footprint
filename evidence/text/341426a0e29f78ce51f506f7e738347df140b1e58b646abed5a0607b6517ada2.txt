@@ -1,0 +1,44 @@
+Type: 
+            
+                Webinar
+            
+            
+            Duration: 
+            
+                60 Minutes
+            
+            
+            
+                Date & Time: 
+                
+                
+            
+            
+            
+            
+            
+        
+            
+            Member Fee: 
+            
+                $0
+            
+            
+            Non-Member Fee: 
+            
+                $349
+            
+            
+            
+            
+                
+            
+            
+            Audience: 
+            
+                ACH Personnel, AAP Candidates, AAPs, APRP Candidates, APRPs, General ACH, Payments Personnel
+            
+            
+        
+        
+            When returning an ACH transaction, operating in compliance with the ACH Rules and choosing the appropriate return reason code is crucial as it lets the Originator know why it is being returned. This session focuses on the handling of ACH exceptions from the Receiving Depository Financial Institution (RDFI) perspective, including the proper use of Return Reason Codes.

@@ -1,0 +1,65 @@
+{
+  "hiringOrganization": {
+    "name": "PAYCO The Clearing House Payments Company L.L.C.",
+    "url": ""
+  },
+  "jobPostingInfo": {
+    "additionalLocations": [
+      "Charlotte Office"
+    ],
+    "canApply": true,
+    "country": {
+      "descriptor": "United States of America",
+      "id": "bc33aa3152ec42d4995f4791a106ed09"
+    },
+    "externalUrl": "https://theclearinghouse.wd108.myworkdayjobs.com/TheClearingHouse/job/North-Carolina-Office/Senior-Engineer--Application-Support_JR100160-5",
+    "id": "e446b9ec76cf100111c65ca4d1040000",
+    "includeResumeParsing": true,
+    "jobDescription": "<p><b>Position Summary:</b> The Senior Application Support role will focus on the responsibilities for the support of applications/systems which consist of payments/transactions processing, daily technical support, tasks, changes related to TCH projects, and initiatives focused on operational improvements and platform stability. The person in this role will ensure TCH platform and payment systems deliver services to customers as expected by ensuring the systems are effectively and efficiently monitored, identifying, triaging, logging, analyzing, and resolving issues, including all of CHIP payment support activities and escalations to third-level support groups. This position requires availability in a 24x7x365 to support system alerts, critical/major escalations, and triage/troubleshoot with cross functional teams.</p><br /><p><b>Essential Functions and Responsibilities: </b></p><ul><li>Ensure co-workers and technical support teams are accurately trained and prepared for daily operational and application support activities</li><li>Identify opportunities for improvement of Operations tasks and services through automation, optimization, and process enhancement</li><li>Oversee issue triage activities and ensure timely escalation and resolution of incidents impacting business applications and payment systems</li><li>Support project activities and collaborate with internal teams on VHIPS related to technical support matters</li><li>Manage and implement changes and releases including Weekend Maintenance window activities</li><li>Coordinate and participate in Disaster Recovery exercises</li><li>Contribute to the development, and eventually assume the role, of Problem Manager</li><li>Ensure Incident tickets with open escalation assignments are being addressed promptly and effectively</li><li>Ensure technology is transitioned in and out of the data center according to established Asset Management processes</li><li>Assist on various TCH and Operations projects</li></ul><br /><p><b>Qualifications Required: </b></p><ul><li>Bachelor&#39;s degree or equivalent combination of education and experience.</li><li>Strong analytical, troubleshooting, and problem-solving skills, including issue identification, triage, root cause analysis, and resolution management.</li><li>Experience providing application support in a fast-paced, high-availability production environment.</li><li>Experience supporting payment systems, transaction processing platforms, and operational workflows.</li><li>Experience handling system incidents, payment investigations, technical escalations, and support activities.</li><li>Ability to manage multiple priorities and perform effectively under pressure.</li><li>Excellent verbal and written communication skills with the ability to interact professionally with customers, vendors, management, and technical teams.</li><li>Strong attention to detail and organizational skills.</li><li>Ability to work independently, make sound decisions, and collaborate effectively across cross-functional teams.</li><li>Ability to lead the team in the absence of the manager.</li><li>Technical expertise supporting Windows and Linux environments, network technologies, and enterprise integration solutions such as IBM MQ, Connect (Direct, and SFTP).</li><li>Commitment to operational excellence, platform stability, and service reliability.</li><li>Availability to participate in a 24x7x365 support model, including system alerts, critical incident response, and weekend maintenance activities.</li></ul><br /><p><b>Qualifications Preferred: </b></p><ul><li>Experience supporting real-time payments, ACH, wire, or other financial transaction processing systems.</li><li>Experience driving operational improvements through automation, process optimization, and continuous improvement initiatives.</li><li>Experience participating in disaster recovery planning, testing, and execution.</li><li>Knowledge of ITIL processes, including Incident, Problem, and Change Management.</li><li>Experience managing application releases and production change implementations.</li><li>Previous experience mentoring team members or serving in a technical lead capacity.</li><li>Experience within financial services, banking, or payments industry environments.</li></ul><br /><p><b>Physical Demands and Work Environment: </b>Work is generally sedentary in nature. The working environment is generally favorable. Lighting and temperature are adequate, and there are no hazardous or unpleasant conditions caused by noise, dust, etc. Work is generally performed within an office environment, with standard office equipment available.</p><br /><p>Employees in this position will report to the office on a four-day schedule: Saturday- Thursday from 11PM - 7AM EST. Some travel may be required. Onsite work requirements may change at any time.</p><br /><p><b>About The Clearing House</b>: The Clearing House (TCH) is a banking association and payments company that is owned by the largest commercial banks in the United States. TCH owns and operates the core payments system infrastructure in the US and is currently working to modernize that infrastructure by launching a new, ubiquitous, real-time payment system. TCH is the only private-sector ACH and wire operator in the US, clearing and settling nearly $2 trillion in US dollar payments each day, representing half of all commercial ACH and wire volume. TCH has provided critical services to the banking industry since 1853, and today, our core products facilitate services including Direct Deposit of payroll, bill payments, and check image exchange.</p><p><br /> </p>",
+    "jobPostingId": "Senior-Engineer--Application-Support_JR100160-5",
+    "jobPostingSiteId": "TheClearingHouse",
+    "jobReqId": "JR100160",
+    "jobRequisitionLocation": {
+      "country": {
+        "alpha2Code": "US",
+        "descriptor": "United States of America",
+        "id": "bc33aa3152ec42d4995f4791a106ed09"
+      },
+      "descriptor": "North Carolina Office"
+    },
+    "location": "North Carolina Office",
+    "posted": true,
+    "postedOn": "Posted Today",
+    "questionnaireId": "416fc4b6e988100114d79736c4ff0000",
+    "startDate": "2026-10-02",
+    "timeType": "Full time",
+    "title": "Senior Application Support"
+  },
+  "similarJobs": [
+    {
+      "externalPath": "/job/Charlotte-Office/Senior-Contracts-Paralegal_JR100184",
+      "locationsText": "Charlotte Office",
+      "postedOn": "Posted 23 Days Ago",
+      "startDate": "2026-09-09",
+      "timeType": "Full time",
+      "title": "Senior Contracts Paralegal"
+    },
+    {
+      "externalPath": "/job/North-Carolina-Office/Client-Implementations-Pre-Onboarding-Specialist_JR100192-4",
+      "locationsText": "2 Locations",
+      "postedOn": "Posted 16 Days Ago",
+      "startDate": "2026-09-16",
+      "timeType": "Full time",
+      "title": "Client Implementations Pre-Onboarding Specialist"
+    },
+    {
+      "externalPath": "/job/Charlotte-Office/Client-Implementations-Specialist_JR100172",
+      "locationsText": "2 Locations",
+      "postedOn": "Posted 30+ Days Ago",
+      "startDate": "2026-08-18",
+      "timeType": "Full time",
+      "title": "Client Implementations Specialist"
+    }
+  ],
+  "userAuthenticated": false
+}

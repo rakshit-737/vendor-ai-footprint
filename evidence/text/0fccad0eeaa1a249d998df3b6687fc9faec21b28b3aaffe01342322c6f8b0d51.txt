@@ -1,0 +1,707 @@
+1Q26
+April 16, 2026
+QUARTERLY UPDATE
+
+2
+• Revenue Growth: Revenue of $5.4bn up 13% YoY
+ 
+• Expense Discipline: Expense of $3.4bn up 5% YoY
+ 
+• Margin Expansion:
+– 833 bps of operating leverage(b)
+– Pre-tax margin of 37% up 6%-pts YoY
+ 
+• Improved Profitability:
+– ROE of 16.1% up 3.5%-pts YoY
+– ROTCE(a) of 29.3% up 5.1%-pts YoY
+ 
+• EPS Growth: EPS of $2.24 up 42% YoY
+ 
+• Attractive Capital Returns: Returned $1.4bn to common 
+shareholders, including $376mm of dividends and $983mm of 
+share repurchases
+– Total payout ratio of 87%
+– Board of Directors authorized a new common share repurchase 
+program of $10bn
+1Q26 Financial Highlights
+2
++ 42%
+Revenue: + 13%
+37%
+ROTCE(a):  29%
+Tier 1 Leverage:  6.0%
+ + 5%
+Pre-tax Margin:
+EPS:
+Expenses:
+(a) Represents a non-GAAP measure. See page 14 in the Appendix for the corresponding reconciliation of the non-GAAP measure of ROTCE.    
+(b) Operating leverage is the rate of increase (decrease) in total revenue less the rate of increase (decrease) in total noninterest expense.  
+Note: Above comparisons are 1Q26 vs. 1Q25, unless otherwise noted.
+
+3
+• Creation of the 
+“digital employee”
+– Multi-agentic AI solutions 
+that operate alongside 
+human colleagues
+• Launched Eliza 2.0, a more 
+advanced, agentic experience
+• Entered into a multi-year 
+collaboration with OpenAI
+• Deepened engagement with 
+academia to drive research 
+and innovation in AI
+• Further expanded Eliza's 
+governance and control 
+capabilities, including a 
+single pane of glass for 
+enterprise AI initiatives
+• Built foundation of secure, 
+resilient and scalable 
+infrastructure
+• Deployed advanced 
+monitoring, AI and machine 
+learning in our Cyber, 
+Technology and Operations 
+Center for detection and 
+rapid response
+Evolution of AI at BNY
+With the creation of the BNY AI Hub in 2023, we established the foundation for our ever-accelerating AI evolution
+20252023 2024
+• Creation of the BNY AI Hub, 
+bringing together data 
+science, AI and machine 
+learning teams
+• Identified 30 areas of 
+opportunity for AI 
+deployment across BNY
+• Expanded cloud and AI 
+collaboration with Microsoft 
+to scale generative AI
+• Built on-premise GPU 
+infrastructure powered by 
+NVIDIA SuperPODs to 
+supplement our cloud 
+solutions
+• Launched Eliza, BNY’s AI 
+platform
+– A multi-agentic, general-
+intelligence-model-
+agnostic platform
+– Integrates models from 
+e.g., OpenAI, Google, 
+Anthropic
+• Published “Our Commitment 
+to the Responsible, Ethical 
+Use of Data and AI”
+Up until 
+2022
+
+4
+Our Vision: AI for Everyone, Everywhere, and Everything
+Success in AI adoption and implementation starts with culture
+CULTURE BREADTH DEPTH
+• BNY’s cultural transformation of the 
+past few years, including our ongoing 
+transition into the platforms operating 
+model, have created a fertile ground 
+for AI adoption and implementation
+• Proprietary AI training and 
+development programs available to 
+every employee, beginning with every 
+analyst as part of their orientation 
+programming
+– Delivered 171,000 AI learning hours 
+in 2025, spanning live AI 
+bootcamps, curated learning 
+pathways and personalized AI 
+learning courses
+• 100% of employees have access to 
+cutting-edge technology and deep 
+research capabilities through Eliza, 
+BNY’s AI platform
+• Approximately 50% of employees 
+are daily users of AI and over 50% 
+are building AI agents, supported 
+by our global AI talent development 
+programs that train our people – both 
+engineers and employees without a 
+technical background – to embed AI 
+directly into daily workflows
+• ~220 enterprise AI solutions in 
+production, and ~140 digital 
+employees
+• Enhanced security and resilience
+• Deepening process excellence 
+across:
+– High-volume workflows – 
+embedding AI to automate at 
+scale, e.g., multi-currency 
+payments processing
+– Specialized products – applying 
+domain-trained AI to complex 
+financial activities, e.g., anomaly 
+detection in net asset value 
+("NAV") calculation
+– Customized solutions – delivering 
+client-specific solutions, e.g., 
+onboarding, portfolio-level credit 
+risk analysis
+
+5
+30 30 33 36
+2022 2023 2024 2025 Medium-
+term
+21.1 21.8 23.8 26.4
+2022 2023 2024 2025 Medium-
+term
+OUTPUTS
+PROSPECTING TRANSACTINGINNOVATING STREAMLININGONBOARDING
+~50%
+Of any annual account plan 
+is drafted using AI as of 2025
+ ~60%
+Faster client account plan 
+completion in 2025 vs. 2024
+~25%
+Of new onboardings 
+supported with an AI-
+enabled process in 1Q26
+ >20%
+Faster completion of certain 
+onboarding processes for 
+corporate clients in
+1Q26 vs. 1Q25
+~70%
+Of restricted party 
+screening for payments 
+reviewed by AI
+ >30%
+Faster resolution of 
+restricted party screening 
+when reviewed by AI
+>10%
+Of custody settlement 
+transaction status inquiries 
+addressed by AI as of 1Q26 
+>80%
+Faster investigation of 
+settlement inquiries when 
+addressed by AI in 
+1Q26 vs. 1Q25
+>40%
+Of code authored by 
+AI in 1Q26  
+>10%
+Increase in software releases 
+in 1Q26 vs. 1Q25   
+$338 $339 $355 $401
+2022 2023 2024 2025
+$99 $103 $116 $143
+2022 2023 2024 2025
+Our Strategy and Execution: Reimagining BNY with AI at our Core
+Breadth and depth of adoption enables deep AI-integration into our workflows across the entire company 
+PROFITABILITY
+Revenue per Employee(a)(b)
+($'000) (excluding notable items)
+Pre-tax Income per Employee(a)(b)
+($'000) (excluding notable items)
+Pre-tax Margin(a)(c)
+(%) (excluding notable items)
+ROTCE(a)(d)
+(%) (excluding notable items)
+38 +/- 28 +/-
+SCALABILITY
+PRODUCTIVITY
+INPUTS
+Our work to reimagine BNY is showing results, and will increasingly be enabled by AI
+(a) Represents a non-GAAP measure. See pages 14 and 16 in the Appendix for the corresponding reconciliations of the non-GAAP measures excluding notable items.
+(e) Represents a forward-looking non-GAAP financial measure. See "Cautionary Statement" on page 17 for information regarding forward-looking non-GAAP financial measures.
+Note: See page 13 in the Appendix for corresponding footnotes. Medium-term refers to a 3-5 year horizon. 
+(e)
+(e)
+Examples:
+
+6
+1Q26 vs.
+$mm, except per share data or unless otherwise noted 1Q26 4Q25 1Q25 4Q25 1Q25
+Income Statement
+Investment services fees $2,652 $2,632 $2,411 1% 10%
+Investment management and performance fees 785 806 739 (3) 6
+Foreign exchange revenue 232 171 156 36 49
+Other fee revenue 99 89 97 11 2
+Total fee revenue $3,768 $3,698 $3,403 2% 11%
+Investment and other revenue 271 135 230 N/M N/M
+Net interest income 1,370 1,346 1,159 2 18
+Total revenue $5,409 $5,179 $4,792 4% 13%
+Provision for credit losses (7) (26) 18 N/M N/M
+Noninterest expense 3,400 3,360 3,252 1 5
+Income before income taxes $2,016 $1,845 $1,522 9% 32%
+  Net income applicable to common shareholders $1,562 $1,427 $1,149 9% 36%
+Avg. common shares and equivalents outstanding (mm) - diluted 698 705 727 (1)% (4)%
+EPS $2.24 $2.02 $1.58 11% 42%
+  Key Performance Indicators
+Operating leverage(a) 325 bps 833 bps
+Pre-tax margin 37% 36% 32% 
+ROE 16.1% 14.5% 12.6% 
+ROTCE(b) 29.3% 26.6% 24.2% 
+Non-GAAP measures, excluding notable items(c)
+Adjusted total revenue $5,409 $5,179 $4,752 4% 14%
+Adjusted noninterest expense 3,386 3,309 3,212 2 5
+Adjusted EPS 2.25 2.08 1.58 8 42
+Adjusted operating leverage 211 bps 841 bps
+Adjusted pre-tax margin 38% 37% 32%
+Adjusted ROTCE 29.5% 27.4% 24.2%
+ 
+1Q26 Financial Results
+(a) Operating leverage is the rate of increase (decrease) in total revenue less the rate of increase (decrease) in total noninterest expense.
+(b) Represents a non-GAAP measure. See page 14 in the Appendix for the corresponding reconciliation of the non-GAAP measure of ROTCE.
+(c) Each of the below line items represents a non-GAAP measure. See pages 14 and 15 in the Appendix for the corresponding reconciliations of these non-GAAP measures excluding notable items. 
+N/M – not meaningful.
+
+7
+    1Q26 4Q25 1Q25  
+Consolidated regulatory capital ratios(a)
+ Tier 1 capital ($mm) $26,441 $25,909 $24,783
+Average assets for Tier 1 leverage ratio ($mm) 443,562 432,803 397,513
+Tier 1 leverage ratio 6.0% 6.0% 6.2%
+Common Equity Tier 1 ("CET1") capital ($mm) $21,114 $21,086 $19,505
+Risk-weighted assets ($mm) 192,263 177,677 169,262
+CET1 ratio 11.0% 11.9% 11.5%
+Supplementary leverage ratio ("SLR") 6.6% 6.7% 6.9%
+               
+Consolidated regulatory liquidity ratios(a)
+ 
+Liquidity coverage ratio ("LCR") 111% 112% 116%
+Net stable funding ratio ("NSFR") 131% 130% 132%
+               
+Capital returns
+Cash dividends per common share $0.53 $0.53 $0.47
+Common stock dividends ($mm) $376 $377 $343
+Common stock repurchases ($mm) 983 1,045 746
+Total capital return ($mm) $1,359 $1,422 $1,089
+Total payout ratio 87% 100% 95%
+Profitability
+ROE 16.1% 14.5% 12.6%
+ROTCE(b) 29.3% 26.6% 24.2%
+Adjusted ROTCE(c) 29.5% 27.4% 24.2%
+ 
+Capital and Liquidity
+CAPITAL
+• Tier 1 leverage ratio of 6.0% down 3bps QoQ
+– Tier 1 capital of $26.4bn increased $532mm 
+QoQ, primarily reflecting capital generated 
+through earnings and preferred stock issuance, 
+partially offset by capital returned through 
+common stock repurchases and dividends and a 
+net decrease in accumulated other 
+comprehensive income
+– Average assets for Tier 1 leverage ratio of 
+$443.6bn increased $10.8bn QoQ
+• CET1 ratio of 11.0% down 89bps QoQ
+– CET1 capital of $21.1bn was approximately flat 
+QoQ, primarily reflecting capital generated 
+through earnings, largely offset by capital 
+returned through common stock repurchases 
+and dividends and a net decrease in 
+accumulated other comprehensive income
+– RWA of $192.3bn increased by $14.6bn QoQ, 
+primarily reflecting a single-day increase in 
+overnight loan balances on the last day of the 
+quarter, along with higher client activity in 
+agency securities lending and foreign exchange
+LIQUIDITY
+• LCR of 111% down 1%-pt QoQ
+• NSFR of 131% up 1%-pt QoQ
+(a)  Note: See page 13 in the Appendix for corresponding footnote.
+(b) Represents a non-GAAP measure. See page 14 in the Appendix for the corresponding reconciliation of the non-GAAP measure of ROTCE.
+(c)   Represents a non-GAAP measure. See page 14 in the Appendix for the corresponding reconciliation of the non-GAAP measure of ROTCE excluding notable items.
+
+8
+1,159 1,203 1,236
+1,346 1,370
+1Q25 2Q25 3Q25 4Q25 1Q26
+1Q26 vs.
+  1Q26   4Q25   1Q25  
+Total assets $462 2% 11%
+Total interest-earning assets $396 2% 12%
+Cash and reverse repo 153 — 11
+Loans 81 6 16
+Investment securities 154 2 9
+Noninterest-bearing $55 6% 14%
+Interest-bearing 263 2 12
+Total deposits $318 3% 13%
+            
+ 
+Net Interest Income and Balance Sheet Trends
+Net Interest Income ($mm)
+1.30% 1.27% 1.31% 1.38% 1.38%
+1Q25 2Q25 3Q25 4Q25 1Q26
+Net Interest Margin Balance Sheet Trends ($bn, average)
+• Net interest income of $1,370mm up 18% YoY and up 2% QoQ
+– YoY and QoQ increase primarily reflecting the continued reinvestment of 
+investment securities at higher yields and balance sheet growth, partially offset 
+by deposit margin compression
+• Net interest margin of 1.38% up 8 bps YoY and flat QoQ 
+• Avg. total deposits of $318bn up 13% YoY and up 3% QoQ
+
+9
+1Q26 vs.
+$mm, unless otherwise noted 1Q26 4Q25 1Q25
+Asset Servicing(a) $1,170 2% 11%
+Issuer Services 278 (16) 4
+Total investment services fees $1,448 (2)% 10%
+Foreign exchange revenue 196 38 44
+Other fees(b) 74 9 14
+Investment and other revenue 203 N/M N/M
+Net interest income 757 3 20
+Total revenue $2,678 8% 17%
+Provision for credit losses (11) N/M N/M
+Noninterest expense(a) 1,648 — 5
+Income before income taxes(a) $1,041 23% 46%
+               
+$bn, unless otherwise noted 1Q26 4Q25 1Q25
+Pre-tax margin(a) 39% 34% 31%
+Assets under custody and/or administration ("AUC/A")(trn) $42.7 $42.7 $37.9
+Deposits (average)(a) $198 $193 $176
+Issuer Services
+Total debt serviced (trn) $15.0 $14.8 $13.9
+Number of Depositary Receipts programs 1,632 1,614 1,576
+               
+Securities Services
+Select Income Statement Data
+Select Income Statement Data
+Key Performance Indicators
+(a)(c)(d)
+• Total revenue of $2,678mm up 17% YoY
+– Investment services fees up 10% YoY
+> Asset Servicing up 11% YoY, primarily 
+reflecting higher market values and client 
+activity
+> Issuer Services up 4% YoY, primarily 
+reflecting higher Corporate Trust fees
+– Foreign exchange revenue up 44% YoY
+– Net interest income up 20% YoY
+• Noninterest expense of $1,648mm up 5% YoY, 
+reflecting higher investments and revenue-related 
+expenses, the unfavorable impact of the weaker 
+U.S. dollar and employee merit increases, 
+partially offset by efficiency savings
+• Income before income taxes of $1,041mm up 
+46% YoY
+(a) In 1Q26, we realigned clients in Managed Accounts Solutions from the Asset Servicing line of business to the Wealth Solutions (formerly Pershing) line of business in the Market and Wealth Services business segment. Prior period amounts were 
+xxxrevised for comparability.
+Note: See page 13 in the Appendix for corresponding footnotes.
+N/M – not meaningful.
+
+10
+1Q26 vs.
+$mm, unless otherwise noted 1Q26 4Q25 1Q25
+Wealth Solutions(a) $544 5% 6%
+Clearance and Collateral Management 430 3 19
+Payments and Trade 220 4 5
+Total investment services fees $1,194 4% 10%
+Foreign exchange revenue 36 29 24
+Other fees(b) 70 8 8
+Investment and other revenue 21 N/M N/M
+Net interest income 571 — 15
+Total revenue $1,892 4% 11%
+Provision for credit losses (6) N/M N/M
+Noninterest expense(a) 937 (1) 6
+Income before income taxes(a) $961 10% 18%
+               
+$bn, unless otherwise noted 1Q26 4Q25 1Q25
+Pre-tax margin(a) 51% 48% 48%
+AUC/A (trn)(a)(c)(d) $16.5 $16.2 $14.9
+Deposits (average)(a) $103 $102 $92
+Wealth Solutions (formerly Pershing)
+AUC/A (trn)(a)(c) $3.3 $3.3 $2.9
+Net new assets (U.S. platform)(e) 22 51 11
+Daily average revenue trades ("DARTs") (U.S. platform) ('000) 352 285 298
+Average active clearing accounts ('000) 8,601 8,487 8,406
+Payments and Trade
+U.S. dollar payment volumes (daily average) 257,960 258,080 244,673
+Clearance and Collateral Management
+Average collateral balances $7,783 $7,453 $6,576               
+Market and Wealth Services
+Select Income Statement Data
+Key Performance Indicators
+Select Income Statement Data
+• Total revenue of $1,892mm up 11% YoY
+– Investment services fees up 10% YoY
+> Wealth Solutions (formerly Pershing) up 6% 
+YoY, primarily reflecting higher market 
+values and client activity
+> Clearance and Collateral Management up 
+19% YoY, primarily reflecting higher 
+collateral management balances and 
+clearance volumes 
+> Payments and Trade up 5% YoY, primarily 
+reflecting net new business
+– Foreign exchange revenue up 24% YoY
+– Net interest income up 15% YoY
+• Noninterest expense of $937mm up 6% YoY, 
+primarily reflecting higher investments, employee 
+merit increases, higher revenue-related expenses 
+and the unfavorable impact of the weaker U.S. 
+dollar, partially offset by efficiency savings
+• Income before income taxes of $961mm up 
+18% YoY
+(a) In 1Q26, we realigned clients in Managed Accounts Solutions from the Asset Servicing line of business in the Securities Services business segment to the Wealth Solutions (formerly Pershing) line of business  Prior period amounts were revised 
+xxxfor comparability.
+Note: See page 13 in the Appendix for corresponding footnotes.
+N/M – not meaningful.
+
+11
+1Q26 vs.
+$mm, unless otherwise noted 1Q26 4Q25 1Q25
+Investment management fees $785 (1)% 7%
+Performance fees 1 N/M N/M
+Distribution and servicing fees 70 1 3
+Other fees(a) (83) N/M N/M
+Investment and other revenue(b) (1) N/M N/M
+Net interest income 53 4 29
+Total revenue $825 (3)% 6%
+Provision for credit losses 9 N/M N/M
+Noninterest expense 726 3 2
+Income before income taxes $90 (39)% 43%
+Total revenue by line of business:
+Investment Management $550 (5)% 6%
+Wealth Management 275 (1) 5
+Total revenue $825 (3)% 6%               
+$bn, unless otherwise noted 1Q26 4Q25 1Q25
+Pre-tax margin 11% 17% 8%
+Deposits (average) $10 $9 $10
+Assets under management ("AUM")(c) $2,126 $2,178 $2,008
+Long-term active strategies net flows $— $(15) $(2)
+Index net flows (7) (8) (11)
+Short-term strategies net flows (10) 20 (5)
+Total net flows $(17) $(3) $(18)
+Wealth Management
+Client assets(d) $339 $350 $327               
+Investment and Wealth Management
+Select Income Statement Data
+Key Performance Indicators
+Select Income Statement Data
+• Total revenue of $825mm up 6% YoY
+– Investment Management up 6% YoY, primarily 
+reflecting higher market values and the favorable 
+impact of the weaker U.S. dollar, partially offset 
+by the mix of AUM flows
+– Wealth Management up 5% YoY, primarily 
+reflecting higher market values and net interest 
+income, partially offset by changes in product 
+mix
+• Noninterest expense of $726mm up 2% YoY, 
+primarily reflecting the unfavorable impact of the 
+weaker U.S. dollar, employee merit increases and 
+higher investments, partially offset by efficiency 
+savings
+• Income before income taxes of $90mm up
+43% YoY
+• AUM of $2.1trn up 6%  YoY, primarily reflecting 
+higher market values and the favorable impact of 
+the weaker U.S. dollar, partially offset by cumulative 
+net outflows
+• Wealth Management client assets of $339bn up 
+4% YoY, primarily reflecting higher market values, 
+partially offset by cumulative net outflows
+Note: See page 13 in the Appendix for corresponding footnotes.
+N/M – not meaningful.
+
+12
+$mm, unless otherwise noted 1Q26 4Q25 1Q25
+Fee revenue $(23) $(21) $(28)
+Investment and other revenue 50 45 62
+Net interest income (expense) (11) (9) (9)
+Total revenue $16 $15 $25
+Provision for credit losses 1 (9) 4
+Noninterest expense 89 55 88
+Loss before income taxes $(74) $(31) $(67)               
+Other Segment
+Select Income Statement Data
+• Total revenue includes corporate treasury and 
+other investment activity, including hedging 
+activity which has an offsetting impact between 
+fee and other revenue and net interest expense
+– YoY decrease was primarily driven by net 
+securities losses, partially offset by higher 
+renewable energy investment gains
+• Noninterest expense increased QoQ, primarily 
+driven by the net impact of adjustments for the 
+FDIC special assessment, partially offset by lower 
+severance expense
+Select Income Statement Data
+
+13
+Footnotes
+Page 5 – Our Strategy and Execution: Reimagining BNY with AI at our Core
+(b) Revenue per employee, excluding notable items and pre-tax income per employee, excluding notable items represent total revenue, excluding notable items and income before income taxes, excluding notable items, for the respective time periods, 
+divided by the 5-point annual average of full-time employees as reported for the respective time periods. Prior to 2024, full-time employees included interns. Revenue per employee was $401,600 for the year ended December 31, 2025, $355,460 for 
+the year ended December 31, 2024, $335,806 for the year ended December 31, 2023 and $327,566 for the year ended December 31, 2022. Pre-tax income per employee was $141,160 for the year ended December 31, 2025, $111,646 for the year 
+ended December 31, 2024, $81,271 for the year ended December 31, 2023 and $68,966 for the year ended December 31, 2022. The 5-point annual average of full-time employees was 50,000 for the year ended December 31, 2025, 52,380 for the 
+year ended December 31, 2024, 52,700 for the year ended December 31, 2023 and 50,460 for the year ended December 31, 2022.
+(c) Income before taxes divided by total revenue. Pre-tax margin, excluding notable items is a non-GAAP measure. The GAAP measure of pre-tax margin was 35% for the year ended December 31, 2025, 31% for the year ended December 31, 2024, 
+24% for the year ended December 31, 2023 and 21% for the year ended December 31, 2022.
+(d) Return on tangible common equity, excluding notable items is a non-GAAP measure. Return on common equity was 13.9% for the year ended December 31, 2025, 11.9% for the year ended December 31, 2024, 8.6% for the year ended December 
+31, 2023 and 6.5% for the year ended December 31, 2022.
+Page 7 – Capital and Liquidity
+(a) Regulatory capital and liquidity ratios for March 31, 2026 are preliminary. For our CET1 ratio, our effective capital ratios under the U.S. capital rules are the lower of the ratios as calculated under the Standardized and Advanced Approaches, which for 
+the periods presented was the Standardized Approach.
+Page 9 – Securities Services
+(b) Other fees primarily include financing-related fees.
+(c) March 31, 2026 information is preliminary. 
+(d) Consists of AUC/A primarily from the Asset Servicing line of business and, to a lesser extent, the Issuer Services line of business. Includes the AUC/A of CIBC Mellon Trust Company (“CIBC Mellon”), a joint venture with the Canadian Imperial Bank of 
+Commerce, of $2.1 trillion at March 31, 2026, $2.2 trillion at December 31, 2025 and $1.9 trillion at March 31, 2025.
+Pages 10 – Market and Wealth Services
+(b) Other fees primarily include financing-related fees.
+(c) March 31, 2026 information is preliminary. 
+(d) Consists of AUC/A from the Clearance and Collateral Management and Wealth Solutions (formerly Pershing) lines of business.
+(e) Net new assets represent net flows of assets (e.g., net cash deposits and net securities transfers, including dividends and interest) in customer accounts in Pershing LLC, a U.S. broker-dealer.
+Page 11 – Investment and Wealth Management
+(a)
+(a) Other fees primarily include investment services fees.
+(b) Investment and other revenue is net of income (loss) attributable to noncontrolling interests related to consolidated investment management funds.
+(c) March 31, 2026 information is preliminary. Represents assets managed in the Investment and Wealth Management business segment.
+(d) March 31, 2026 information is preliminary. Includes AUM and AUC/A in the Wealth Management line of business.
+
+14
+ $mm  1Q26 4Q25 1Q25 2025 2024 2023 2022
+Net income applicable to common shareholders of The Bank of New York Mellon Corporation – GAAP $1,562 $1,427 $1,149 $5,306 $4,336 $3,067 $2,345
+Add:  Amortization of intangible assets 9 11 11 45 50 57 67
+Less:  Tax impact of amortization of intangible assets 2 3 3 11 12 14 16
+Adjusted net income applicable to common shareholders of The Bank of New York Mellon Corporation, 
+excluding amortization of intangible assets — Non-GAAP
+$1,569 $1,435 $1,157 $5,340 $4,374 $3,110 $2,396
+Less:  Reduction in the fair value of a contingent consideration receivable(a) — — — — — (144) —
+          Disposal gains (losses)(a) — — 32 41 — (5) (12)
+          Revenue reduction related to Russia, primarily accelerated amortization of deferred costs for depositary receipt 
+          services(b)  —  —  — — — — (67)
+          Net loss from repositioning the securities portfolio(a)  —  —  — — — — (343)
+Less:  Severance expense(c) (14) (74) (25) (165) (183) (205) (166)
+Less:  Litigation reserves(c) (3) (6) (1) 7 (41) (91) (125)
+Less:  FDIC special assessment(c) 6 37 (5) 48 48 (482) —
+          Goodwill impairment  —  —  — — — — (665)
+Adjusted net income applicable to common shareholders of The Bank of New York Mellon Corporation, 
+excluding amortization of intangible assets and notable items — Non-GAAP
+$1,580 $1,478 $1,156 $5,409 $4,550 $4,037 $3,774
+Average common shareholders’ equity $39,448 $39,142 $36,980 $38,167 $36,413 $35,767 $36,067
+Less:  Average goodwill 16,774 16,777 16,615 16,733 16,316 16,204 17,060
+Less:  Average intangible assets 2,819 2,827 2,849 2,842 2,839 2,880 2,939
+Add:  Deferred tax liability – tax deductible goodwill 1,226 1,227 1,226 1,227 1,221 1,205 1,181
+Add:  Deferred tax liability – intangible assets 660 662 666 662 665 657 660
+        Average tangible common shareholders’ equity – Non-GAAP $21,741 $21,427 $19,408 $20,481 $19,144 $18,545 $17,909
+Return on common equity(d) – GAAP 16.1% 14.5% 12.6% 13.9% 11.9% 8.6% 6.5%
+Adjusted return on common equity(d) – Non-GAAP 16.2% 14.9% 12.6% 14.1% 12.4% 11.2% 10.3%
+Return on tangible common equity(d) – Non-GAAP 29.3% 26.6% 24.2% 26.1% 22.8% 16.8% 13.4%
+Adjusted return on tangible common equity(d) – Non-GAAP 29.5% 27.4% 24.2% 26.4% 23.8% 21.8% 21.1%              
+Return on Common Equity and Tangible Common Equity Reconciliation
+(a) Reflected in Investment and other revenue.
+(b) Primarily reflected in Investment services fees.
+(c) Severance expense is reflected in Staff expense, Litigation reserves in Other expense, and FDIC special assessment in Bank assessment charges, respectively.
+(d) Returns are annualized.
+
+15
+Select Income Statement Data
+Reconciliation of Non-GAAP Measures – Impact of Notable Items
+1Q26 vs.
+ $mm, except per share amounts  1Q26 4Q25 1Q25 4Q25 1Q25
+Total revenue – GAAP $5,409 $5,179 $4,792 4% 13%
+Less:  Disposal gains (losses)(a) — — 40
+Adjusted total revenue, excluding notable items — Non-GAAP $5,409 $5,179 $4,752 4% 14%
+Total noninterest expense – GAAP $3,400 $3,360 $3,252 1%     5%
+Less:  Severance expense(b) 18 98 32
+Less:  Litigation reserves(b) 3 3 2
+Less:  FDIC special assessment(b) (7) (50) 6
+Adjusted total noninterest expense, excluding notable items — Non-GAAP $3,386 $3,309 $3,212 2% 5%
+Net income applicable to common shareholders of The Bank of New York Mellon Corporation – GAAP $1,562 $1,427 $1,149 9% 36%
+Less:  Disposal gains (losses)(a) — — 32
+Less:  Severance expense(b) (14) (74) (25)
+Less:  Litigation reserves(b) (3) (6) (1)
+Less:  FDIC special assessment(b) 6 37 (5)
+Adjusted net income applicable to common shareholders of The Bank of New York Mellon Corporation, excluding notable items — 
+Non-GAAP $1,573 $1,470 $1,148 7%     37%
+Diluted earnings per share – GAAP $2.24 $2.02 $1.58 11% 42%
+Less:  Disposal gains (losses)(a) — — 0.04
+Less:  Severance expense(b) (0.02) (0.11) (0.03)
+Less:  Litigation reserves(b) — (0.01) —
+Less:  FDIC special assessment(b) 0.01 0.05 (0.01)
+Adjusted diluted earnings per share, excluding notable items — Non-GAAP $2.25 $2.08 $1.58 8% 42%
+Operating leverage – GAAP(c) 325 bps 833 bps
+Adjusted operating leverage, excluding notable items — Non-GAAP(c) 211 bps 841 bps
+Pre-tax operating margin – GAAP(e) 37% 36% 32%
+Adjusted pre-tax operating margin, excluding notable items — Non-GAAP(e) 38% 37% 32%
+(d)
+(a) Reflected in Investment and other revenue.
+(b) Severance expense is reflected in Staff expense, Litigation reserves in Other expense, and FDIC special assessment in Bank assessment charges, respectively.
+(c) Operating leverage is the rate of increase (decrease) in total revenue less the rate of increase (decrease) in total noninterest expense.
+(d) Does not foot due to rounding.
+(e) Income before taxes divided by total revenue. See the 1Q26 Earnings Release for additional information.
+
+16
+Select Income Statement Data
+Reconciliation of Non-GAAP Measures – 2022-2025
+ $mm  2025 2024 2023 2022
+Total revenue – GAAP $20,080 $18,619 $17,697 $16,529
+Less:  Reduction in the fair value of a contingent consideration receivable(a)  — — (144) —
+Less:  Disposal gains (losses)(a) 52 — (6) 26
+          Revenue reduction related to Russia, primarily accelerated amortization of deferred costs for depositary receipt services(b) — — — (88)
+          Net loss from repositioning the securities portfolio(a) — — — (449)
+Adjusted total revenue, excluding notable items — Non-GAAP $20,028 $18,619 $17,847 $17,040
+Total noninterest expense – GAAP $13,054 $12,701 $13,295 $13,010
+Less:  Severance expense(c) 214 240 267 215
+Less:  Litigation reserves(c) (8) 44 94 134
+Less:  FDIC special assessment(c) (64) (63) 632 —
+Less:  Goodwill impairment — — — 680
+Adjusted total noninterest expense, excluding notable items — Non-GAAP $12,912 $12,480 $12,302 $11,981
+Income before taxes – GAAP $7,058 $5,848 $4,283 $3,480
+Impact of notable items(d) (90) (221) (1,143) (1,540)
+Adjusted income before taxes, excluding notable items — Non-GAAP $7,148 $6,069 $5,426 $5,020
+Pre-tax operating margin – GAAP(e) 35% 31% 24% 21%
+Adjusted pre-tax operating margin, excluding notable items — Non-GAAP(e) 36% 33% 30% 29%
+(a) Reflected in Investment and other revenue.
+(b) Primarily reflected in Investment services fees.
+(c) Severance expense is reflected in Staff expense, Litigation reserves in Other expense, and FDIC special assessment in Bank assessment charges, respectively.
+(d) See above for details of notable items and lines impacted.
+(e) Income before taxes divided by total revenue.
+
+17
+A number of statements in our presentations, the accompanying slides and the responses to questions on our conference call discussing our quarterly results may constitute “forward-looking statements” within the meaning of 
+the Private Securities Litigation Reform Act of 1995, including statements about The Bank of New York Mellon Corporation’s (the “Corporation,” “we,” “us,” or “our”) capital plans including dividends and repurchases, total 
+payout ratio, financial performance, fee revenue, net interest income, expenses, cost discipline, efficiency savings, operating leverage, pre-tax margin, capital ratios, organic growth, pipeline, deposits, interest rates and yield 
+curves, securities portfolio, taxes, investments, including in technology and product development, innovation in products and services, artificial intelligence, digital assets, client experience, strategic priorities and initiatives, 
+acquisitions, related integration and divestiture activity, transition to a platforms operating model, capabilities, resiliency, risk profile, human capital management and the effects of the current and near-term market and 
+macroeconomic outlook on us, including on our business, operations, financial performance and prospects. Preliminary business metrics, NII sensitivity, and regulatory capital ratios are subject to change, possibly materially as we 
+complete our Quarterly Report on Form 10-Q for the quarter ended March 31, 2026. Forward-looking statements may be expressed in a variety of ways, including the use of future or present tense language. Words such as 
+“estimate,” “forecast,” “project,” “anticipate,” “likely,” “target,” “expect,” “intend,” “continue,” “seek,” “believe,” “plan,” “goal,” “could,” “should,” “would,” “may,” “might,” “will,” “strategy,” “synergies,” “opportunities,” 
+“trends,” “momentum,” “ambition,” “aspiration,” “objective,” “aim,” “future,” “potentially,” “outlook” and words of similar meaning may signify forward-looking statements. These statements are not guarantees of future 
+results or occurrences, are inherently uncertain and are based upon current beliefs and expectations of future events, many of which are, by their nature, difficult to predict, outside of our control and subject to change.
+By identifying these statements for you in this manner, we are alerting you to the possibility that our actual results may differ, possibly materially, from the anticipated results expressed or implied in these forward-looking 
+statements as a result of a number of important factors. These factors include: the continuing conflict and other developments in the Middle East and the resulting impacts on commodity supply chains and global inflationary 
+impacts and the risk factors and other uncertainties set forth in our Annual Report on Form 10-K for the year ended Dec. 31, 2025 (the “2025 Annual Report”) and our other filings with the Securities and Exchange Commission 
+(the “SEC”).
+Forward-looking statements about the timing, profitability, benefits and other prospective aspects of business and expense initiatives, our financial outlook, our medium-term financial targets and our long-term strategy, and how 
+they can be achieved, are based on our current expectations regarding our ability to execute against our strategic initiatives, as well as our balance sheet size and composition, and may change, possibly materially, from what is 
+currently expected. Statements about our outlook on total revenue are subject to various factors, including market levels, client activity, our ability to win and onboard new business, lost business, pricing pressure, our ability to 
+launch new products to, and expand relationships with, existing clients, interest rates, re-investment yields and the size, mix and duration of our balance sheet, including with respect to deposits, loan balances and the securities 
+portfolio. Statements about our artificial intelligence initiatives, including the timing, implementation, efficacy and expected benefits, are subject to various factors, including third-party and vendor dependencies, the availability, 
+usability and quality of data, evolving legal, regulatory and supervisory expectations, employee and client adoption, and our ability to deploy, monitor and scale such capabilities with appropriate governance and in an effective 
+control environment. Statements about our outlook on net interest income are subject to various factors, including interest rates, continued quantitative tightening, re-investment yields and the size, mix and duration of our 
+balance sheet, including with respect to deposits, loan balances and the securities portfolio. Statements about our outlook on expenses are subject to various factors, including investments, revenue-related expenses, efficiency 
+savings, merit increases, inflation and currency fluctuations. Statements about our target Tier 1 leverage ratio and CET1 ratio are subject to various factors, including capital requirements, interest rates, capital levels, risk-weighted 
+assets and the size of our balance sheet, including deposit levels. Statements about the timing, manner and amount of any future common stock dividends or repurchases are subject to various factors, including our capital 
+position, capital deployment opportunities, prevailing market conditions, legal and regulatory considerations and our outlook for the economic environment. Statements about our future effective tax rate are subject to various 
+factors including, changes in the tax rates applicable to us, changes in our earnings mix, our profitability, the assumptions we have made in forecasting our expected tax rate, the interpretation or application of existing tax 
+statutes and regulations, as well as any corporate tax legislation that may be enacted or any guidance that may be issued by the U.S. Internal Revenue Service.
+You should not place undue reliance on any forward-looking statement. All forward-looking statements speak only as of the date on which they were made, and we undertake no obligation to update any forward-looking 
+statement to reflect events or circumstances after such date or to reflect the occurrence of unanticipated events.
+Non-GAAP Measures. In this presentation, the accompanying slides and our responses to questions, we may discuss certain non-GAAP measures in detailing our performance, which exclude certain items or otherwise include 
+components that differ from GAAP. We believe these measures are useful to the investment community in analyzing the financial results and trends of ongoing operations. We believe they facilitate comparisons with prior periods 
+and reflect the principal basis on which our management monitors financial performance. Additional disclosures relating to non-GAAP measures are contained in our reports filed with the SEC, including the 2025 Annual Report, 
+the first quarter 2026 earnings release and the first quarter 2026 financial supplement, which are available at www.bny.com/investorrelations.
+Forward-Looking Non-GAAP Financial Measures. From time to time we may discuss forward-looking non-GAAP financial measures, such as forward-looking estimates or targets for total revenue, net interest income, expenses, 
+pre-tax margin and return on tangible common equity excluding notable items. We are unable to provide a reconciliation of forward-looking non-GAAP financial measures to their most directly comparable GAAP financial 
+measures because we are unable to provide, without unreasonable effort, a meaningful or accurate calculation or estimation of amounts that would be necessary for the reconciliation due to the complexity and inherent difficulty 
+in forecasting and quantifying future amounts or when they may occur. Such unavailable information could be significant to future results.
+Cautionary Statement
+

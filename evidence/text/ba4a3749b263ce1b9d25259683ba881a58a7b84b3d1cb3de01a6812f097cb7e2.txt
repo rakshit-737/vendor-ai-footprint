@@ -1,0 +1,1983 @@
+Exhibit 99.1
+
+News Release
+
+For more information contact:
+
+Media Relations:Stacy DavidsonChief Communications and Marketing OfficerFiserv, Inc.stacy.davidson@fiserv.com
+
+Investor Relations:Walter PritchardSenior Vice President, Investor RelationsFiserv, Inc.walter.pritchard@fiserv.com
+
+For Immediate Release
+
+News Release
+
+News Release
+
+News Release
+
+News Release
+
+News Release
+
+Fiserv, Inc.
+
+Condensed Consolidated Statements of Income
+
+(In millions, except per share amounts, unaudited)
+
+Three Months Ended June 30,
+
+Six Months Ended June 30,
+
+2026
+
+2025
+
+2026
+
+2025
+
+Revenue
+
+Processing and services
+
+$
+
+4,292
+
+$
+
+4,304
+
+$
+
+8,362
+
+$
+
+8,349
+
+Product
+
+1,000
+
+1,212
+
+1,957
+
+2,297
+
+Total revenue
+
+5,292
+
+5,516
+
+10,319
+
+10,646
+
+Expenses
+
+Cost of processing and services
+
+1,706
+
+1,412
+
+3,316
+
+2,801
+
+Cost of product
+
+689
+
+694
+
+1,386
+
+1,378
+
+Selling, general and administrative
+
+1,888
+
+1,711
+
+3,773
+
+3,393
+
+Net (gain) loss on sale of assets
+
+(6)
+
+3
+
+(89)
+
+(17)
+
+Total expenses
+
+4,277
+
+3,820
+
+8,386
+
+7,555
+
+Operating income
+
+1,015
+
+1,696
+
+1,933
+
+3,091
+
+Interest expense, net
+
+(370)
+
+(365)
+
+(717)
+
+(696)
+
+Gain on early debt extinguishment
+
+154
+
+—
+
+154
+
+—
+
+Other expense, net
+
+(24)
+
+(39)
+
+(2)
+
+(57)
+
+Income before income taxes and income (loss) from investments in unconsolidated affiliates
+
+775
+
+1,292
+
+1,368
+
+2,338
+
+Income tax provision
+
+(156)
+
+(246)
+
+(180)
+
+(436)
+
+Income (loss) from investments in unconsolidated affiliates
+
+11
+
+(16)
+
+15
+
+(24)
+
+Net income
+
+630
+
+1,030
+
+1,203
+
+1,878
+
+Less: net income attributable to noncontrolling interests
+
+3
+
+4
+
+5
+
+1
+
+Net income attributable to Fiserv
+
+$
+
+627
+
+$
+
+1,026
+
+$
+
+1,198
+
+$
+
+1,877
+
+GAAP earnings per share attributable to Fiserv — diluted
+
+$
+
+1.17
+
+$
+
+1.86
+
+$
+
+2.24
+
+$
+
+3.36
+
+Diluted shares used in computing earnings per share attributable to Fiserv
+
+533.7
+
+552.7
+
+534.5
+
+558.7
+
+News Release
+
+Fiserv, Inc.
+
+Reconciliation of GAAP to
+
+Adjusted Net Income and Adjusted Earnings Per Share
+
+(In millions, except per share amounts, unaudited)
+
+Three Months Ended June 30,
+
+Six Months Ended June 30,
+
+2026
+
+2025
+
+2026
+
+2025
+
+GAAP net income attributable to Fiserv
+
+$
+
+627
+
+$
+
+1,026
+
+$
+
+1,198
+
+$
+
+1,877
+
+Adjustments:
+
+Merger and integration costs 1
+
+23
+
+8
+
+52
+
+23
+
+One Fiserv transformation program expenses 2
+
+187
+
+—
+
+329
+
+—
+
+Severance costs
+
+40
+
+14
+
+113
+
+29
+
+Amortization of acquisition-related intangible assets 3
+
+315
+
+341
+
+626
+
+672
+
+Net gain on sale of assets 4
+
+—
+
+—
+
+(83)
+
+—
+
+Non wholly-owned entity activities 5
+
+6
+
+9
+
+15
+
+29
+
+Net gain on early debt extinguishment 6
+
+(130)
+
+—
+
+(130)
+
+—
+
+Tax impact of adjustments 7
+
+(86)
+
+(73)
+
+(180)
+
+(147)
+
+Incremental executive compensation 8
+
+—
+
+—
+
+—
+
+52
+
+Argentine Peso devaluation 9
+
+—
+
+39
+
+—
+
+39
+
+Adjusted net income
+
+$
+
+982
+
+$
+
+1,364
+
+$
+
+1,940
+
+$
+
+2,574
+
+GAAP earnings per share attributable to Fiserv - diluted
+
+$
+
+1.17
+
+$
+
+1.86
+
+$
+
+2.24
+
+$
+
+3.36
+
+Adjustments - net of income taxes:
+
+Merger and integration costs 1
+
+0.03
+
+0.01
+
+0.08
+
+0.03
+
+One Fiserv transformation program expenses 2
+
+0.28
+
+—
+
+0.50
+
+—
+
+Severance costs
+
+0.06
+
+0.02
+
+0.17
+
+0.04
+
+Amortization of acquisition-related intangible assets 3
+
+0.47
+
+0.50
+
+0.94
+
+0.97
+
+Net gain on sale of assets 4
+
+—
+
+—
+
+(0.13)
+
+—
+
+Non wholly-owned entity activities 5
+
+0.01
+
+0.01
+
+0.02
+
+0.04
+
+Net gain on early debt extinguishment 6
+
+(0.20)
+
+—
+
+(0.20)
+
+—
+
+Incremental executive compensation 8
+
+—
+
+—
+
+—
+
+0.09
+
+Argentine Peso devaluation 9
+
+—
+
+0.07
+
+—
+
+0.07
+
+Adjusted earnings per share
+
+$
+
+1.84
+
+$
+
+2.47
+
+$
+
+3.63
+
+$
+
+4.61
+
+Change in GAAP earnings per share attributable to Fiserv
+
+(37)
+
+%
+
+(33)
+
+%
+
+Change in adjusted earnings per share
+
+(26)
+
+%
+
+(21)
+
+%
+
+News Release
+
+News Release
+
+Fiserv, Inc.
+
+Financial Results by Segment
+
+(In millions, unaudited)
+
+Three Months Ended June 30,
+
+Six Months EndedJune 30,
+
+2026
+
+2025
+
+2026
+
+2025
+
+Total Company
+
+Revenue
+
+$
+
+5,292
+
+$
+
+5,516
+
+$
+
+10,319
+
+$
+
+10,646
+
+Adjustments:
+
+Postage reimbursements
+
+(329)
+
+(320)
+
+(681)
+
+(661)
+
+Adjusted revenue
+
+$
+
+4,963
+
+$
+
+5,196
+
+$
+
+9,638
+
+$
+
+9,985
+
+Operating income
+
+$
+
+1,015
+
+$
+
+1,696
+
+$
+
+1,933
+
+$
+
+3,091
+
+Adjustments:
+
+Merger and integration costs
+
+23
+
+8
+
+52
+
+23
+
+One Fiserv transformation program expenses
+
+187
+
+—
+
+329
+
+—
+
+Severance costs
+
+40
+
+14
+
+113
+
+29
+
+Amortization of acquisition-related intangible assets
+
+315
+
+341
+
+626
+
+672
+
+Net gain on sale of assets
+
+—
+
+—
+
+(83)
+
+—
+
+Incremental executive compensation
+
+—
+
+—
+
+—
+
+52
+
+Adjusted operating income
+
+$
+
+1,580
+
+$
+
+2,059
+
+$
+
+2,970
+
+$
+
+3,867
+
+Operating margin
+
+19.2
+
+%
+
+30.7
+
+%
+
+18.7
+
+%
+
+29.0
+
+%
+
+Adjusted operating margin
+
+31.8
+
+%
+
+39.6
+
+%
+
+30.8
+
+%
+
+38.7
+
+%
+
+Merchant Solutions (“Merchant”) 1
+
+Revenue
+
+$
+
+2,608
+
+$
+
+2,644
+
+$
+
+4,981
+
+$
+
+5,016
+
+Operating income
+
+$
+
+781
+
+$
+
+914
+
+$
+
+1,407
+
+$
+
+1,724
+
+Operating margin
+
+30.0
+
+%
+
+34.6
+
+%
+
+28.3
+
+%
+
+34.4
+
+%
+
+Financial Solutions (“Financial”) 1
+
+Revenue
+
+$
+
+2,355
+
+$
+
+2,552
+
+$
+
+4,657
+
+$
+
+4,969
+
+Operating income
+
+$
+
+912
+
+$
+
+1,244
+
+$
+
+1,789
+
+$
+
+2,392
+
+Operating margin
+
+38.7
+
+%
+
+48.7
+
+%
+
+38.4
+
+%
+
+48.1
+
+%
+
+News Release
+
+Fiserv, Inc.
+
+Financial Results by Segment (cont.)
+
+(In millions, unaudited)
+
+Three Months Ended June 30,
+
+Six Months EndedJune 30,
+
+2026
+
+2025
+
+2026
+
+2025
+
+Corporate and Other
+
+Revenue
+
+$
+
+329
+
+$
+
+320
+
+$
+
+681
+
+$
+
+661
+
+Adjustments:
+
+Postage reimbursements
+
+(329)
+
+(320)
+
+(681)
+
+(661)
+
+Adjusted revenue
+
+$
+
+—
+
+$
+
+—
+
+$
+
+—
+
+$
+
+—
+
+Operating loss
+
+$
+
+(678)
+
+$
+
+(462)
+
+$
+
+(1,263)
+
+$
+
+(1,025)
+
+Adjustments:
+
+Merger and integration costs
+
+23
+
+8
+
+52
+
+23
+
+One Fiserv transformation program expenses
+
+187
+
+—
+
+329
+
+—
+
+Severance costs
+
+40
+
+14
+
+113
+
+29
+
+Amortization of acquisition-related intangible assets
+
+315
+
+341
+
+626
+
+672
+
+Net gain on sale of assets
+
+—
+
+—
+
+(83)
+
+—
+
+Incremental executive compensation
+
+—
+
+—
+
+—
+
+52
+
+Adjusted operating loss
+
+$
+
+(113)
+
+$
+
+(99)
+
+$
+
+(226)
+
+$
+
+(249)
+
+News Release
+
+Six Months EndedJune 30,
+
+2026
+
+2025
+
+Cash flows from operating activities
+
+Net income
+
+$
+
+1,203
+
+$
+
+1,878
+
+Adjustments to reconcile net income to net cash provided by operating activities:
+
+Depreciation and other amortization
+
+1,050
+
+897
+
+Amortization of acquisition-related intangible assets
+
+626
+
+673
+
+Amortization of financing costs and debt discounts
+
+25
+
+22
+
+Share-based compensation
+
+235
+
+215
+
+Deferred income taxes
+
+(170)
+
+(215)
+
+Net gain on sale of assets
+
+(89)
+
+(17)
+
+Net gain on early debt extinguishment
+
+(130)
+
+—
+
+(Income) loss from investments in unconsolidated affiliates
+
+(15)
+
+24
+
+Originations of merchant cash advances, held for sale
+
+(37)
+
+—
+
+Proceeds from repayments and sales of merchant cash advances, originally classified as held for sale
+
+37
+
+—
+
+Distributions from unconsolidated affiliates
+
+19
+
+22
+
+Non-cash foreign currency exchange losses
+
+9
+
+65
+
+Other operating activities
+
+4
+
+(6)
+
+Changes in assets and liabilities, net of effects from acquisitions:
+
+Trade accounts receivable
+
+97
+
+(280)
+
+Prepaid expenses and other assets
+
+(156)
+
+(612)
+
+Contract costs
+
+(129)
+
+(121)
+
+Accounts payable and other liabilities
+
+(466)
+
+(272)
+
+Contract liabilities
+
+(31)
+
+40
+
+Net cash provided by operating activities
+
+2,082
+
+2,313
+
+Cash flows from investing activities
+
+Capital expenditures, including capitalized software and other intangibles
+
+(956)
+
+(814)
+
+Proceeds from sale of assets
+
+187
+
+—
+
+Merchant cash advances, net
+
+300
+
+(539)
+
+Payments for acquisition of businesses, net of cash acquired
+
+—
+
+(337)
+
+Distributions from unconsolidated affiliates
+
+8
+
+13
+
+Purchases of investments
+
+(16)
+
+(41)
+
+Proceeds from sale of investments
+
+15
+
+474
+
+Other investing activities
+
+3
+
+(19)
+
+Net cash used in investing activities
+
+(459)
+
+(1,263)
+
+News Release
+
+Fiserv, Inc.
+
+Condensed Consolidated Statements of Cash Flows (cont.)
+
+(In millions, unaudited)
+
+Six Months EndedJune 30,
+
+2026
+
+2025
+
+Cash flows from financing activities
+
+Debt proceeds
+
+$
+
+2,097
+
+$
+
+3,679
+
+Debt repayments, including redemption and other costs
+
+(2,762)
+
+(2,360)
+
+Net (repayments of) borrowings from commercial paper and short-term borrowings
+
+(708)
+
+1,925
+
+Payments of debt financing costs
+
+(2)
+
+(5)
+
+Proceeds from issuance of treasury stock
+
+22
+
+37
+
+Purchases of treasury stock, including employee shares withheld for tax obligations
+
+(393)
+
+(4,642)
+
+Settlement activity, net
+
+(637)
+
+200
+
+Payment to acquire noncontrolling interest of consolidated subsidiary
+
+—
+
+(22)
+
+Other financing activities
+
+—
+
+22
+
+Net cash used in financing activities
+
+(2,383)
+
+(1,166)
+
+Effect of exchange rate changes on cash and cash equivalents
+
+(39)
+
+92
+
+Net change in cash and cash equivalents
+
+(799)
+
+(24)
+
+Cash and cash equivalents, beginning balance
+
+2,802
+
+2,993
+
+Cash and cash equivalents, ending balance
+
+$
+
+2,003
+
+$
+
+2,969
+
+News Release
+
+Fiserv, Inc.
+
+Condensed Consolidated Balance Sheets
+
+(In millions, unaudited)
+
+June 30,
+
+December 31,
+
+2026
+
+2025
+
+Assets
+
+Cash and cash equivalents
+
+$
+
+627
+
+$
+
+798
+
+Trade accounts receivable – net
+
+3,909
+
+3,981
+
+Prepaid expenses and other current assets
+
+3,077
+
+3,396
+
+Settlement assets
+
+17,561
+
+16,479
+
+Assets held for sale
+
+190
+
+—
+
+Total current assets
+
+25,364
+
+24,654
+
+Property and equipment – net
+
+3,328
+
+3,084
+
+Customer relationships – net
+
+4,588
+
+5,093
+
+Other intangible assets – net
+
+5,124
+
+5,068
+
+Goodwill
+
+37,524
+
+37,703
+
+Contract costs – net
+
+1,029
+
+1,039
+
+Investments in unconsolidated affiliates
+
+1,031
+
+1,046
+
+Other long-term assets
+
+2,898
+
+2,446
+
+Total assets
+
+$
+
+80,886
+
+$
+
+80,133
+
+Liabilities and Equity
+
+Accounts payable and other current liabilities
+
+$
+
+4,707
+
+$
+
+5,307
+
+Short-term and current maturities of long-term debt
+
+1,207
+
+1,239
+
+Contract liabilities
+
+819
+
+865
+
+Settlement obligations
+
+17,561
+
+16,479
+
+Liabilities associated with assets held for sale
+
+13
+
+—
+
+Total current liabilities
+
+24,307
+
+23,890
+
+Long-term debt
+
+26,679
+
+27,758
+
+Deferred income taxes
+
+1,589
+
+1,478
+
+Long-term contract liabilities
+
+260
+
+259
+
+Other long-term liabilities
+
+1,125
+
+939
+
+Total liabilities
+
+53,960
+
+54,324
+
+Fiserv shareholders’ equity
+
+26,904
+
+25,792
+
+Noncontrolling interests
+
+22
+
+17
+
+Total equity
+
+26,926
+
+25,809
+
+Total liabilities and equity
+
+$
+
+80,886
+
+$
+
+80,133
+
+News Release
+
+Organic Revenue 1
+
+Three Months Ended June 30,
+
+Six Months Ended June 30,
+
+2026
+
+2025
+
+Change
+
+2026
+
+2025
+
+Change
+
+Total Company
+
+Adjusted revenue
+
+$
+
+4,963
+
+$
+
+5,196
+
+(4)%
+
+$
+
+9,638
+
+$
+
+9,985
+
+(3)%
+
+Currency impact 2
+
+12
+
+—
+
+18
+
+—
+
+Acquisition adjustments
+
+(19)
+
+—
+
+(83)
+
+—
+
+Organic revenue
+
+$
+
+4,956
+
+$
+
+5,196
+
+(5)%
+
+$
+
+9,573
+
+$
+
+9,985
+
+(4)%
+
+Merchant
+
+Adjusted revenue
+
+$
+
+2,608
+
+$
+
+2,644
+
+$
+
+4,981
+
+$
+
+5,016
+
+Currency impact 2
+
+12
+
+—
+
+24
+
+—
+
+Acquisition adjustments
+
+(6)
+
+—
+
+(53)
+
+—
+
+Organic revenue
+
+$
+
+2,614
+
+$
+
+2,644
+
+(1)%
+
+$
+
+4,952
+
+$
+
+5,016
+
+(1)%
+
+Financial
+
+Adjusted revenue
+
+$
+
+2,355
+
+$
+
+2,552
+
+$
+
+4,657
+
+$
+
+4,969
+
+Currency impact 2
+
+—
+
+—
+
+(6)
+
+—
+
+Acquisition adjustments
+
+(13)
+
+—
+
+(30)
+
+—
+
+Organic revenue
+
+$
+
+2,342
+
+$
+
+2,552
+
+(8)%
+
+$
+
+4,621
+
+$
+
+4,969
+
+(7)%
+
+News Release
+
+Free Cash Flow
+
+Six Months EndedJune 30,
+
+2026
+
+2025
+
+Net cash provided by operating activities
+
+$
+
+2,082
+
+$
+
+2,313
+
+Capital expenditures
+
+(956)
+
+(814)
+
+Adjustments:
+
+Distributions from unconsolidated affiliates included in cash flows from investing activities
+
+8
+
+13
+
+Severance, merger and integration payments
+
+122
+
+80
+
+One Fiserv transformation program payments
+
+159
+
+—
+
+Tax payments on adjustments
+
+(55)
+
+(16)
+
+Other
+
+—
+
+(31)
+
+Free cash flow
+
+$
+
+1,360
+
+$
+
+1,545
+
+Total Amortization 1
+
+Three Months EndedJune 30,
+
+Six Months EndedJune 30,
+
+2026
+
+2025
+
+2026
+
+2025
+
+Acquisition-related intangible assets
+
+$
+
+315
+
+$
+
+342
+
+$
+
+626
+
+$
+
+673
+
+Capitalized software and other intangibles
+
+220
+
+188
+
+429
+
+364
+
+Purchased software
+
+52
+
+51
+
+105
+
+103
+
+Financing costs and debt discounts
+
+13
+
+11
+
+25
+
+22
+
+Sales commissions
+
+29
+
+30
+
+58
+
+58
+
+Deferred conversion costs
+
+32
+
+29
+
+62
+
+56
+
+Total amortization
+
+$
+
+661
+
+$
+
+651
+
+$
+
+1,305
+
+$
+
+1,276
+
+News Release
+
+Growth
+
+2026 GAAP Revenue
+
+(1.5%) - (0.5%)
+
+Postage reimbursements
+
+0%
+
+2026 Adjusted revenue
+
+(1.5%) - (0.5%)
+
+Currency impact
+
+0%
+
+Acquisition adjustments
+
+(0.5%)
+
+Divestiture adjustments
+
+1%
+
+2026 Organic revenue
+
+(1%) - 0%

@@ -1,0 +1,25 @@
+Overview
+Bank of New York (BNY), the world’s largest custodial bank, set out to transform its payments infrastructure to meet evolving market demands and accelerate digital innovation. Partnering with Volante Technologies, BNY launched the first real-time payment (RTP®) transaction on The Clearing House’s network. By deploying Volante’s cloud-native payments platform, BNY delivered 24/7 real-time payments capabilities, reduced deployment costs, and achieved rapid time to market.
+This same infrastructure allowed BNY to pioneer innovations such as real-time electronic bill pay, BNY Mellon Launches Real-Time Digital Bill Pay Service, further solidifying its position as a leader in real-time financial services. Additionally, BNY was among the first participants in the Federal Reserve’s FedNow Service, exemplifying its commitment to payments innovation.
+About BNY
+The Bank of New York (BNY) was founded in 1784 by Alexander Hamilton, making it one of the oldest banks in the United States. As the largest custodial bank in the world, BNY, rebranded from BNY Mellon, manages over $46 trillion in assets under custody. The bank offers critical transaction banking services to financial institutions, businesses, and clients globally.
+BNY’s innovative approach has cemented its position as a leader in global transaction banking, driving solutions that address the needs of an increasingly digital and real-time financial ecosystem.
+The challenges that BNY faced
+BNY’s ambition to lead the real-time payments space presented significant challenges. The bank’s legacy infrastructure was designed for traditional payment cycles and could not meet the demands of 24/7 real-time processing, instant settlement, or continuous uptime.
+In addition to technical limitations, the bank faced aggressive timelines and the need to balance costs while delivering a scalable, future-proof solution. Competition from fintechs and agile institutions added further pressure to innovate and maintain market leadership.
+Without a modernized payments platform, BNY risked falling behind in an era where speed, convenience, and innovation are key.
+How Volante helped BNY
+BNY partnered with Volante Technologies to implement its cloud-native, multi-network payments platform. Volante’s agile and scalable solution seamlessly integrated into BNY’s existing systems with minimal operational disruption.
+The platform enabled BNY to process real-time payments on The Clearing House’s RTP network and supported Zelle Tokenized B2B payments, aligning with the bank’s shift from paper-based to digital transactions. Volante’s configurable technology allowed BNY to leverage in-house IT resources, reducing complexity and expediting deployment.
+From concept to production, the partnership delivered results in just 10 months, positioning BNY as a leader in real-time payments while providing a foundation for future innovation.
+By providing a solution that was both flexible and scalable, Volante not only addressed BNY’s immediate need to deliver RTP but also positioned the bank for future innovations. The partnership marked a critical milestone in BNY’s journey toward modernizing payments and meeting the growing demands of its clients. 
+Setting the standard for real-time payments innovation
+The collaboration between BNY and Volante yielded transformative results. BNY became the first U.S. bank to originate a real-time payment on The Clearing House’s RTP network, a milestone that underscored its ability to innovate and execute at scale.
+By addressing legacy system limitations, BNY streamlined operations, reduced manual workflow, and introduced faster, more secure payment options. These enhancements boosted client satisfaction and cemented BNY’s reputation as a trailblazer in real-time transaction banking.
+Building a foundation for scalable growth and innovation
+With Volante’s platform in place, BNY is poised to lead the next wave of payment innovations. The platform’s scalability allows for seamless adoption of additional schemes like FedNow and ISO 20022 messaging.
+BNY plans to introduce advanced treasury management tools, enhanced analytics, and cash management solutions, enabling deeper insights and operational efficiencies for clients. By leveraging ISO 20022’s rich data capabilities, BNY will further streamline cross-border payments and improve reconciliation processes.
+This partnership has empowered BNY to remain competitive, innovate rapidly, and adapt to evolving market demands.
+The Volante difference
+Volante Technologies played a crucial role in helping BNY achieve its goal of real-time payments innovation. With its scalable, cloud-native platform, Volante enabled BNY to process RTP transactions and adopt Zelle Tokenized B2B payments seamlessly.
+By providing a configurable solution that supported rapid implementation and future scalability, Volante helped BNY transform its payments infrastructure and turn real-time payments into a competitive advantage. The collaboration ensured that BNY could innovate efficiently while delivering superior payment experiences for its clients.

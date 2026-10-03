@@ -1,0 +1,277 @@
+{
+  "_shards": {
+    "failed": 0,
+    "skipped": 0,
+    "successful": 50,
+    "total": 50
+  },
+  "aggregations": {
+    "biz_states_filter": {
+      "buckets": [
+        {
+          "doc_count": 3,
+          "key": "NY"
+        }
+      ],
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0
+    },
+    "entity_filter": {
+      "buckets": [
+        {
+          "doc_count": 2,
+          "key": "Bank of New York Mellon Corp  (BK, BK-PK)  (CIK 0001390777)"
+        },
+        {
+          "doc_count": 1,
+          "key": "Bank of New York Mellon Corp  (BK)  (CIK 0001390777)"
+        }
+      ],
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0
+    },
+    "form_filter": {
+      "buckets": [
+        {
+          "doc_count": 2,
+          "key": "10-K"
+        },
+        {
+          "doc_count": 1,
+          "key": "8-K"
+        }
+      ],
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0
+    },
+    "sic_filter": {
+      "buckets": [
+        {
+          "doc_count": 3,
+          "key": "6022"
+        }
+      ],
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0
+    }
+  },
+  "hits": {
+    "hits": [
+      {
+        "_id": "0001390777-26-000042:ex993_quarterlyupdatepre.htm",
+        "_index": "edgar_file",
+        "_score": 12.498949,
+        "_source": {
+          "adsh": "0001390777-26-000042",
+          "biz_locations": [
+            "New York, NY"
+          ],
+          "biz_states": [
+            "NY"
+          ],
+          "ciks": [
+            "0001390777"
+          ],
+          "display_names": [
+            "Bank of New York Mellon Corp  (BK, BK-PK)  (CIK 0001390777)"
+          ],
+          "file_date": "2026-04-16",
+          "file_description": "QUARTERLY UPDATE PRESENTATION",
+          "file_num": [
+            "001-35651"
+          ],
+          "file_type": "EX-99.3",
+          "film_num": [
+            "26865621"
+          ],
+          "form": "8-K",
+          "inc_states": [
+            "DE"
+          ],
+          "items": [
+            "2.02",
+            "7.01",
+            "9.01"
+          ],
+          "period_ending": "2026-04-16",
+          "root_forms": [
+            "8-K"
+          ],
+          "sequence": "4",
+          "sics": [
+            "6022"
+          ],
+          "xsl": null
+        }
+      },
+      {
+        "_id": "0001390777-26-000033:bk-20251231_d2.htm",
+        "_index": "edgar_file",
+        "_score": 2.1365738,
+        "_source": {
+          "adsh": "0001390777-26-000033",
+          "biz_locations": [
+            "New York, NY"
+          ],
+          "biz_states": [
+            "NY"
+          ],
+          "ciks": [
+            "0001390777"
+          ],
+          "display_names": [
+            "Bank of New York Mellon Corp  (BK, BK-PK)  (CIK 0001390777)"
+          ],
+          "file_date": "2026-02-25",
+          "file_description": "CERTAIN PORTIONS OF 2025 ANNUAL REPORT TO SHAREHOLDERS",
+          "file_num": [
+            "001-35651"
+          ],
+          "file_type": "EX-13.1",
+          "film_num": [
+            "26674215"
+          ],
+          "form": "10-K",
+          "inc_states": [
+            "DE"
+          ],
+          "items": [],
+          "period_ending": "2025-12-31",
+          "root_forms": [
+            "10-K"
+          ],
+          "sequence": "8",
+          "sics": [
+            "6022"
+          ],
+          "xsl": null
+        }
+      },
+      {
+        "_id": "0001390777-25-000046:bk-20241231_d2.htm",
+        "_index": "edgar_file",
+        "_score": 1.0629482,
+        "_source": {
+          "adsh": "0001390777-25-000046",
+          "biz_locations": [
+            "New York, NY"
+          ],
+          "biz_states": [
+            "NY"
+          ],
+          "ciks": [
+            "0001390777"
+          ],
+          "display_names": [
+            "Bank of New York Mellon Corp  (BK)  (CIK 0001390777)"
+          ],
+          "file_date": "2025-02-27",
+          "file_description": "ALL PORTIONS OF 2024 ANNUAL REPORT TO SHAREHOLDERS",
+          "file_num": [
+            "001-35651"
+          ],
+          "file_type": "EX-13.1",
+          "film_num": [
+            "25672915"
+          ],
+          "form": "10-K",
+          "inc_states": [
+            "DE"
+          ],
+          "items": [],
+          "period_ending": "2024-12-31",
+          "root_forms": [
+            "10-K"
+          ],
+          "sequence": "6",
+          "sics": [
+            "6022"
+          ],
+          "xsl": null
+        }
+      }
+    ],
+    "max_score": 12.498949,
+    "total": {
+      "relation": "eq",
+      "value": 3
+    }
+  },
+  "query": {
+    "_source": {
+      "exclude": [
+        "doc_text"
+      ]
+    },
+    "aggregations": {
+      "biz_states_filter": {
+        "terms": {
+          "field": "biz_states",
+          "size": 30
+        }
+      },
+      "entity_filter": {
+        "terms": {
+          "field": "display_names.raw",
+          "size": 30
+        }
+      },
+      "form_filter": {
+        "terms": {
+          "field": "root_forms",
+          "size": 30
+        }
+      },
+      "sic_filter": {
+        "terms": {
+          "field": "sics",
+          "size": 30
+        }
+      }
+    },
+    "from": 0,
+    "query": {
+      "bool": {
+        "filter": [
+          {
+            "terms": {
+              "root_forms": [
+                "10-K",
+                "10-Q",
+                "8-K",
+                "DEFA14A"
+              ]
+            }
+          },
+          {
+            "terms": {
+              "ciks": [
+                "0001390777"
+              ]
+            }
+          },
+          {
+            "range": {
+              "file_date": {
+                "gte": "2024-10-02",
+                "lte": "2026-10-02"
+              }
+            }
+          }
+        ],
+        "must": [
+          {
+            "match_phrase": {
+              "doc_text": "machine learning"
+            }
+          }
+        ],
+        "must_not": [],
+        "should": []
+      }
+    },
+    "size": 100
+  },
+  "timed_out": false,
+  "took": 138
+}

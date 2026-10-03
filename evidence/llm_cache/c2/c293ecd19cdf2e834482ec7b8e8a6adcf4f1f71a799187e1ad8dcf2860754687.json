@@ -1,0 +1,166 @@
+{
+ "key": "c293ecd19cdf2e834482ec7b8e8a6adcf4f1f71a799187e1ad8dcf2860754687",
+ "model": "gemini-3.5-flash-lite",
+ "payload_sha256": "07b4ac5748a6a5ca25aadae5c3318e927bf6849e16104fa88aa7493661223471",
+ "prompt_sha256": "065bd458ace52ff274c72967cfe1b90c794a1ec8d3a3696ec78d7d8cf636df94",
+ "response": {
+  "claims": [
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "not_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M4",
+      "span": "Enterprise AI"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P1",
+    "quote": "September 17, 2026\n3\nmin read\nAutomic Automation V26: Turning Orchestration Into the Control Center for Enterprise AI",
+    "subject": "vendor_product",
+    "temporal": "unclear"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "not_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M4",
+      "span": "Enterprise AI"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P2",
+    "quote": "September 17, 2026\n3\nmin read\nAutomic Automation V26: Turning Orchestration Into the Control Center for Enterprise AI",
+    "subject": "vendor_product",
+    "temporal": "unclear"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "not_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M4",
+      "span": "Enterprise AI"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P3",
+    "quote": "Automic Automation V26: Turning Orchestration Into the Control Center for Enterprise AI",
+    "subject": "vendor_product",
+    "temporal": "unclear"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "not_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M4",
+      "span": "Enterprise AI"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P4",
+    "quote": "Automic Automation V26: Turning Orchestration Into the Control Center for Enterprise AI",
+    "subject": "vendor_product",
+    "temporal": "unclear"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "not_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M4",
+      "span": "Enterprise AI"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P5",
+    "quote": "Automic Automation V26: Turning Orchestration Into the Control Center for Enterprise AI",
+    "subject": "vendor_product",
+    "temporal": "unclear"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "not_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M4",
+      "span": "AI, Automation"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P6",
+    "quote": "Webinar On Demand: What’s New in Automic V26. AI, Automation, and What It Means for Your Team",
+    "subject": "vendor_product",
+    "temporal": "unclear"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "not_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M4",
+      "span": "Running AI"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P7",
+    "quote": "The Orchestration Layer of the Private Cloud. Running AI in Production Starts Below the Model",
+    "subject": "vendor_product",
+    "temporal": "unclear"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "not_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M4",
+      "span": "Enterprise AI"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P8",
+    "quote": "Automic Automation V26: Turning Orchestration Into the Control Center for Enterprise AI",
+    "subject": "vendor_product",
+    "temporal": "unclear"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "not_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M4",
+      "span": "AI-enabled operating model"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P12",
+    "quote": "Agencies engage Labarum AI for enterprise workload automation migrations, managed support of production scheduling environments, modernization of legacy schedulers, and the AI-enabled operating model that brings federal-grade discipline to the work.",
+    "subject": "vendor_operations",
+    "temporal": "in_production"
+   }
+  ]
+ },
+ "role": "extract",
+ "schema_sha256": "f1cd07fdb8e496624608717927261043432a3bd93d84723a126b7c7d951d68df",
+ "seed": 1234
+}

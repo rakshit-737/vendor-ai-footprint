@@ -1,0 +1,120 @@
+{
+  "count": 1,
+  "hasMore": false,
+  "items": [
+    {
+      "ApplyWhenNotPostedFlag": false,
+      "BeFirstToApplyFlag": false,
+      "BusinessUnit": null,
+      "BusinessUnitId": 300000094081469,
+      "Category": "AI / Machine Learning Software Engineering",
+      "ContentLocale": "en",
+      "ContractType": null,
+      "CorporateDescriptionStr": "<p>At BNY, our culture allows us to run our company better and enables employees’ growth and success. As a leading global financial services company at the heart of the global financial system, we influence nearly 20% of the world’s investible assets. Every day, our teams harness cutting-edge AI and breakthrough technologies to collaborate with clients, driving transformative solutions that redefine industries and uplift communities worldwide.</p>Recognized as a top destination for innovators, BNY is where bold ideas meet advanced technology and exceptional talent. Together, we power the future of finance – and this is what #LifeAtBNY is all about. Join us and be part of something extraordinary.",
+      "Department": null,
+      "DomesticTravelRequired": null,
+      "ExternalContactEmail": null,
+      "ExternalContactName": null,
+      "ExternalDescriptionStr": "<p><span style=\"font-family: Arial, sans-serif;\">We are seeking a future team member for the role of &nbsp;<strong>Senior Vice President AI/Machine Learning Software Engineer</strong> to join our client platforms, global payments and trade team. This role is located in Pittsburgh.</span></p><p><span style=\"font-family: Arial, sans-serif;\"><strong>In this role, you’ll make an impact in the following ways:</strong></span></p><ul><li>Provide comprehensive senior-level technical consulting to senior machine learning staff and serve as the technical expert in the design, development, implementation and maintenance of model deployments and machine learning pipeline technologies and tools.</li><li>Lead end-to-end strategic planning and oversight of large-scale machine learning systems and complex machine learning initiatives with direct strategic impact.</li><li>Consult with businesses to resolve highly complex machine learning and pipeline issues, evaluate compliance with data and model governance standards, and maintain pipeline functionality and currency.</li><li>Develop flowcharts, layouts and documentation to satisfy requirements and solutions, integrate automated lifecycle components into fully functional pipelines, and defin<span style=\"font-family: Arial, sans-serif;\">e implementation plans for model integration and performance optimization.</span></li></ul><p><span style=\"font-family: Arial, sans-serif;\"><strong>To be successful in this role, we’re seeking the following:</strong></span></p><ul><li><span style=\"font-family: Arial, sans-serif;\">Advanced degree in STEM engineering, or equivalent work experience, with experience preferred in related fields.</span></li><li><span style=\"font-family: Arial, sans-serif;\">7-9 years of related experience in leading and supporting the development and deployment of machine learning solutions, model integrations, and scalable machine learning technologies.</span></li><li><span style=\"font-family: Arial, sans-serif;\">Experience in the securities or financial services industry.</span></li><li><span style=\"font-family: Arial, sans-serif;\">Experience leading and supporting the development and deployment of machine learning solutions, model integrations, and scalable machine learning technologies.</span></li></ul>",
+      "ExternalPostedEndDate": null,
+      "ExternalPostedStartDate": "2026-08-11T13:05:20+00:00",
+      "ExternalQualificationsStr": "",
+      "ExternalResponsibilitiesStr": "",
+      "GeographyId": 300000090220393,
+      "GeographyNodeId": 100010357090073,
+      "HiringManager": null,
+      "HotJobFlag": false,
+      "Id": "80029",
+      "InternalQualificationsStr": "",
+      "InternalResponsibilitiesStr": "",
+      "InternationalTravelRequired": null,
+      "JobFamilyId": 300004319452391,
+      "JobFunction": "AI Engineering",
+      "JobFunctionCode": "AIENG",
+      "JobGrade": null,
+      "JobLevel": null,
+      "JobSchedule": "Full time",
+      "JobShift": "Day",
+      "JobType": null,
+      "LegalEmployer": null,
+      "LegalEmployerId": 300000003582023,
+      "NumberOfOpenings": null,
+      "ObjectVerNumberProfile": null,
+      "Organization": null,
+      "OrganizationDescriptionStr": "<p>At BNY, our culture speaks for itself, check out the latest BNY news at&nbsp;<a href=\"https://www.bny.com/corporate/global/en/about-us/newsroom.html\" target=\"_blank\" rel=\"nofollow\">BNY Newsroom</a>&nbsp;&amp;&nbsp;<a href=\"https://www.linkedin.com/company/bnyglobal/posts/?feedView=all\" target=\"_blank\" rel=\"nofollow\">BNY LinkedIn</a></p>\n<p style=\"margin-bottom:0in\">&nbsp;Here’s a few of our recent awards:</p>\n<ul style=\"margin-top:0in\">\n <li style=\"margin-bottom:0in\">America’s Most Innovative Companies, Fortune, 2025</li>\n <li style=\"margin-bottom:0in\">World’s Most Admired Companies, Fortune 2025</li>\n <li style=\"margin-bottom:0in\">“Most Just Companies”, Just Capital and CNBC, 2025</li>\n</ul>\n<ul></ul>\n<p>Our Benefits and Rewards:</p>\n<p>BNY offers highly competitive compensation, benefits, and wellbeing programs rooted in a strong culture of excellence and our pay-for-performance philosophy. We provide access to flexible global resources and tools for your life’s journey. Focus on your health, foster your personal resilience, and reach your financial goals as a valued member of our team, along with generous paid leaves, including paid volunteer time, that can support you and your family through moments that matter.</p>\n<p>BNY is an Equal Employment Opportunity/Affirmative Action Employer - Underrepresented racial and ethnic groups/Females/Individuals with Disabilities/Protected Veterans.</p>\n<p>BNY assesses market data to ensure a competitive compensation package for our employees. The expected base salary for this position when employment commences can be found in the Job Info section at the bottom of the posting.&nbsp;</p>\n<p>Base salary offered may vary depending on multiple individualized factors, including market location, job-related knowledge, skills, and experience. Base salary is only part of the total rewards package, which may include eligibility for an annual discretionary incentive award. Subject to the terms and conditions of the applicable plans then in effect, eligible employees may enroll in a 401(k) plan as well as participate in Company-sponsored medical, dental, vision, and basic life insurance plans for the employee and the employee’s eligible dependents. Eligible employees also may receive other benefits (including various paid time off benefits, such as vacation and sick time), dependent on the position offered. Details of participation in these benefit plans will be provided if an employee receives an offer of employment.</p>\n<p>If hired, the employee will be in an “at will” position and the Company reserves the right to modify base salary (as well as any other discretionary payments or compensation programs) at any time, including for reasons related to individual performance, Company or individual department/team performance, and market factors.</p>",
+      "OrganizationId": 300004312836210,
+      "OtherRequisitionTitle": null,
+      "PrimaryLocation": "Pittsburgh, PA, United States",
+      "PrimaryLocationCountry": "US",
+      "RequisitionId": 300010487518568,
+      "RequisitionType": "Experienced",
+      "ShortDescriptionStr": "",
+      "StudyLevel": null,
+      "Title": "Senior Vice President, AI / Machine Learning Software Engineer",
+      "TrendingFlag": false,
+      "WorkDays": null,
+      "WorkHours": null,
+      "WorkMonths": null,
+      "WorkYears": null,
+      "WorkerType": null,
+      "WorkplaceType": "",
+      "WorkplaceTypeCode": null,
+      "media": [],
+      "otherWorkLocations": [],
+      "primaryLocationCoordinates": [
+        {
+          "CountryCode": "US",
+          "GeographyId": 300000090220393,
+          "GeographyNodeId": 100010357090073,
+          "Latitude": "40.43851",
+          "Longitude": "-79.99734"
+        }
+      ],
+      "requisitionFlexFields": [
+        {
+          "ControlType": "TextArea",
+          "Prompt": "Base Salary Min",
+          "SequenceNumber": 12,
+          "Value": "120000"
+        },
+        {
+          "ControlType": "TextArea",
+          "Prompt": "Base Salary Max",
+          "SequenceNumber": 21,
+          "Value": "200000"
+        }
+      ],
+      "secondaryLocations": [],
+      "skills": [],
+      "workLocation": [
+        {
+          "AddressLine1": "500 Ross Street",
+          "AddressLine2": null,
+          "AddressLine3": null,
+          "AddressLine4": null,
+          "Building": null,
+          "Country": "US",
+          "Latitude": "40.43913498",
+          "LocationId": 300000129875553,
+          "LocationName": "500 Ross Street,Pittsburgh,PA",
+          "Longitude": "-79.99553016",
+          "PostalCode": "15262",
+          "Region1": "Allegheny",
+          "Region2": "PA",
+          "Region3": null,
+          "TownOrCity": "Pittsburgh"
+        }
+      ]
+    }
+  ],
+  "limit": 499,
+  "links": [
+    {
+      "href": "https://eofe.fa.us2.oraclecloud.com:443/hcmRestApi/resources/11.13.18.05/recruitingCEJobRequisitionDetails",
+      "kind": "collection",
+      "name": "recruitingCEJobRequisitionDetails",
+      "rel": "self"
+    }
+  ],
+  "offset": 0
+}

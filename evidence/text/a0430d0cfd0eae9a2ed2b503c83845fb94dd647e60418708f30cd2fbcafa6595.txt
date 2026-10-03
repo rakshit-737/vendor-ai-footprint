@@ -1,0 +1,113 @@
+M365 Engineer - Exchange
+
+Position summary:
+
+We are seeking a highly skilled and self-driven Microsoft 365 Communication Systems Engineer to join our Corporate Platform Engineering team. This role emphasizes Exchange administration (on-prem and cloud), Microsoft Teams management, and M365 governance, with strong knowledge of Purview retention policies and Defender for Cloud. The ideal candidate will be a well-rounded M365/Entra/Azure engineer who can troubleshoot complex issues, drive adoption of integrated SaaS solutions (e.g., Jira, ServiceNow in Teams), and maintain a secure, compliant environment.
+
+About The Clearing House: The Clearing House Payments Company L.L.C. is a bank-owned industry utility that shapes the payments landscape and provides infrastructure for safe, reliable, and efficient payments. We see an economy where everyone is connected and a future where modern payments make life easier. The Clearing House operates four payment systems: a high-value wire-transfer system (the CHIPS® network), the country’s first and largest instant payments system (the RTP® network), an automated clearinghouse network (the EPN® network), and a check image exchange network (the Image Exchange Network). TCH also operates a bank account number tokenization service, runs a payments association known as the TCH Payments Authority, and maintains the rules for private-sector check image exchange through its ECCHO® business line.
+
+Key Responsibilities
+
+Exchange Administration
+
+Manage and maintain Exchange Online and on-prem Exchange environments, including mail flow, hybrid configurations, and security hardening.
+
+Implement and maintain Exchange Online Protection (EOP) and Microsoft Defender for Office 365 policies, including anti-spam, anti-phishing, Safe Links, and Safe Attachments.
+
+Troubleshoot mail delivery, transport rules, and compliance issues.
+
+Manage mail routing, transport rules, connectors, accepted domains, DKIM, DMARC, SPF, and hybrid mail flow configurations.
+
+Administer shared mailboxes, resource mailboxes, distribution groups, Microsoft 365 Groups, and mail-enabled security groups.
+
+Perform advanced troubleshooting of mail flow, hybrid connectivity, directory synchronization, transport services, message trace analysis, and client connectivity issues.
+
+Microsoft Teams Management
+
+Configure and maintain Teams governance, policies, lifecycle management, external access, guest access, and collaboration settings.
+
+Drive adoption of Teams integrations with SaaS platforms like Jira and ServiceNow.
+
+Support Teams Phone, Auto Attendants, and Call Queues where applicable.
+
+Support Teams Rooms and meeting experience enhancements.
+
+Compliance & Security
+
+Partner with Information Security teams to support Microsoft Purview retention, compliance, and information governance initiatives across Exchange Online, Teams, and SharePoint Online.
+
+Provide technical guidance, troubleshooting, and platform expertise related to retention policies, compliance configurations, data lifecycle management, and Microsoft 365 workloads.
+
+Participate in security reviews, audits, and remediation efforts supporting regulatory and
+
+Job Title: M365 Engineer (Communications) Department: Operations & Technology Reports to: Director, Corporate Platform Engineering FLSA Status: Exempt Classification: Contract to hire
+
+industry standards.
+
+Collaborate with cybersecurity teams on Microsoft 365 security initiatives, providing expertise on Exchange Online, Teams, Entra ID, and related collaboration technologies.
+
+Assist with Entra ID administration as needed, including enterprise application integration, SaaS application authentication, Single Sign-On (SSO), and Conditional Access policy support.
+
+Core Infrastructure Skill
+
+Perform basic engineering tasks: Active Directory, Group Policy, schema updates, and certificate renewals.
+
+Utilize monitoring tools for proactive issue detection and resolution.
+
+Automate tasks using PowerShell for M365 and Azure environments.
+
+Operational Requirements
+
+Execute after-hours changes as needed under strict Change Management processes.
+
+Document configurations, troubleshooting steps, and knowledge transfer materials.
+
+Collaborate across teams to efficiently identify issues, resolve problems, and continuously improve platform stability and user experience.
+
+Qualifications
+
+Deep expertise in Exchange Online and on-prem Exchange administration.
+
+Experience troubleshooting mail flow, hybrid Exchange environments, transport services, connectors, and message delivery issues.
+
+Strong knowledge of Microsoft Teams governance, lifecycle management, and SaaS integrations (e.g., Jira, ServiceNow).
+
+Experience supporting and troubleshooting Microsoft Purview compliance, retention, and information governance solutions.
+
+Familiarity with Exchange Online Protection (EOP), Microsoft Defender for Office 365, and email security best practices.
+
+Working knowledge of Microsoft Entra ID, Single Sign-On (SSO), Conditional Access, and hybrid identity solutions including Microsoft Entra Connect.
+
+Proficiency in PowerShell scripting for automation and troubleshooting.
+
+Solid understanding of Active Directory, Group Policy, DNS, certificate management, and hybrid identity architectures.
+
+Experience with network and server administration fundamentals.
+
+Knowledge of general disaster recovery validation methods and willingness to assist in testing efforts.
+
+Comfortable working within a strict, heavily vetted Change Management process.
+
+Ability to support security, audit, and risk control requirements within a regulated environment, with familiarity in common industry security frameworks.
+
+Strong documentation skills for platform configurations and user instructions.
+
+Excellent troubleshooting skills and ability to take ownership of tasks from start to finish.
+
+Exceptional communication and problem-solving skills; able to clearly articulate initiatives and solutions.
+
+Highly organized with strong attention to detail.
+
+Self-driven, proactive, and capable of adapting quickly to changing business and technology requirements.
+
+Work Conditions & Expectations
+
+Hybrid Schedule: 3 days onsite (Charlotte NC preferred, occasional asks to report to Winston-Salem NC as needed); On-site work requirements can change at any time.
+
+Operational Flexibility: Ability to perform after-hours changes and participate in on-call rotations when required.
+
+Dynamic Environment: Work involves frequent troubleshooting, collaboration across teams, and adapting to evolving technologies.
+
+Security & Compliance: Must adhere to strict Change Management processes and participate in security reviews as needed.
+
+Standard Office Setup: Role primarily uses standard IT equipment (laptops, conferencing tools, monitoring systems) with occasional interaction with server rooms or networking hardware.

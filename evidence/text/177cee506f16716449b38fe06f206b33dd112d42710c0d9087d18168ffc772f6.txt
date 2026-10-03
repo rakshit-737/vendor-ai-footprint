@@ -1,0 +1,115 @@
+Software Engineer
+
+Position summary:
+
+The Clearing House (TCH) is seeking a Software Engineer to join our RTP Product Engineering team. As a member of the team, you will be responsible for developing and enhancing our critical real-time interbank payment platform, including development of new applications and features while improving the functionality, reliability, and performance of existing applications. The Software Engineer works directly with RTP Product teams and the Director of Product Engineering to ensure quality code deliverables are completed on time and in accordance with TCH Standards. The Software Engineer also works closely with Operations and Technology to define and implement new features and ensure system resiliency.
+
+This is an opportunity to develop advanced software engineering skills while working on complex, high-value systems that form part of the financial services infrastructure. You will work alongside experienced engineers to develop, test, enhance, and support highly reliable applications for the payments industry while using AI-assisted automation and engineering practices within the software development lifecycle.
+
+TCH values engineers who are technically curious, pragmatic, and interested in understanding how complex systems work, end to end. The ideal candidate will be a hands-on software engineer who has a solid foundation in Java development, some exposure to Python, and a strong interest in building industry-critical applications using cloud, container, automation, and distributed-system technologies.
+
+Essential functions and responsibilities:
+
+Design, develop, test, and maintain highly reliable software supporting real-time payment processing
+
+Write clean and maintainable Java code compliant with TCH quality standards and secure coding practices
+
+Develop software components leveraging enterprise Java frameworks such as Spring and Spring Boot
+
+Develop Python scripts and programs as needed for data automation and integration services
+
+Participate in the modernization of existing applications and migration toward cloud-native platforms
+
+Develop and maintain services, APIs, application components, and automated tests
+
+Participate in code reviews, technical discussions, troubleshooting, and engineering design activities
+
+Apply CI/CD practices for automated building, testing, and deployment of high-quality software
+
+Work with containerized applications and Kubernetes-based environments for component-based releases
+
+Build applications on AWS cloud platforms using Infrastructure-as-Code tools such as Terraform
+
+Work with messaging and event-driven technologies such as Kafka or RabbitMQ where appropriate
+
+Assist with monitoring, troubleshooting, defect resolution, and root-cause analysis
+
+Follow established security, software development, testing, documentation, and change management practices
+
+Collaborate with software engineers, architects, product teams, infrastructure teams, and operations
+
+Use approved AI-assisted development tools to support coding, testing, documentation, and continuous quality improvements in accordance with enterprise controls
+
+undefined
+
+Qualifications required:
+
+Bachelor's degree or equivalent experience in Computer Science, Information Systems, Computer Engineering, Data Science, or related fields
+
+Solid understanding of core software engineering concepts including object-oriented and functional programming, data structures, APIs, automated testing, and source code control.
+
+3+ years in Java software development experience including analysis, design, development, documentation, implementation and testing of systems
+
+Experience developing Python scripts and programs for data management and analysis
+
+Exposure to working in AWS or another major public cloud provider and familiar with cloud-native application architectures, microservices, containers, and distributed systems
+
+Solid understanding of CI/CD and automated software build/deployment processes
+
+Strong problem-solving and analytical skills to apply to software design, testing, and troubleshooting
+
+Strong interest in designing and building highly available and highly reliable systems
+
+Ability and willingness to learn new technologies and work collaboratively within an engineering team.
+
+Ability to communicate clearly with technical teams and non-technical partners
+
+Collaborative team player that connects with peers and across other teams
+
+undefined
+
+Qualifications desired:
+
+Familiarity with enterprise Java frameworks such as Spring and Spring Boot
+
+Experience with Git-based development, automated testing, and CI/CD tooling
+
+Exposure to Docker, containers, and/or Kubernetes for application deployment
+
+Exposure to AWS cloud services, including developer training and certifications
+
+Experience using agile development methodologies and tools such as Jira
+
+Experience with Infrastructure-as-Code concepts and development tools such as Terraform
+
+Exposure to event-driven designs or messaging platforms, such as Kafka or RabbitMQ
+
+Interest in financial technology, banking, payments, or transaction-processing systems
+
+Behavioral & Leadership Competencies:
+
+Possesses and applies broad knowledge of concepts, exhibiting technical expertise in core subject areas
+
+Demonstrates commitment to excellence, anticipates needs, mitigates risks and minimizes challenges
+
+Effectively engages teammates and internal/external partners through a customer focused approach
+
+Works well independently with minimal instruction/guidance, confident to escalate issues appropriately
+
+Sets priorities and handles multiple tasks and projects in a fast-paced environment
+
+Recommends innovative solutions aligned with organizational initiatives and recognized problem areas
+
+Physical demands and work environment:
+
+Ability to remain seated for long periods of time while working on computer or editing.
+
+Ability to work under highly stressful deadlines.
+
+Ability to handle multiple tasks simultaneously.
+
+Ability to prioritize appropriately
+
+Ability to sit and review information on a computer screen for long periods of time
+
+Ability to report to the office three days each week. Onsite work requirements may change at any time.

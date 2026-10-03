@@ -1,0 +1,66 @@
+If you have tried resetting your password and are still having trouble, please contact The Clearing House support team at 800-875-2242, extension 5.
+This resource is temporarily unavailable. Please try again later.
+The Clearing House Site Header
+TCH Site Search
+Main Content
+ACH Services from The Clearing House
+The Clearing House operates the Electronic Payments Network (EPN®), a private-sector Automated Clearing House (ACH) service that clears and settles ACH transactions and supports high-volume, recurring, batch, and non-urgent payments. Built for large originating and receiving financial institutions, the EPN network is designed for reliable performance, operational flexibility, and responsive support, and purpose-built for high-volume ODFIs and RDFIs originators and receivers that need predictable throughput and an operator experience built for day-to-day ACH processing at scale.
+The EPN network provides safe, efficient, cost-effective ACH processing in a batch environment and handles essentially half of U.S. commercial ACH volume. With an operating history dating to 1974, the EPN service is purpose-built for large institutions and top ACH originators and receivers. The EPN network is fully interoperable, with transactions able to go to any ACH endpoint.
+An ACH operator is the infrastructure and operations layer that clears, and settles ACH transactions and distributes ACH files to financial institutions through scheduled processing windows so transactions can reach any ACH endpoint. The primary function of the ACH Operator is to accept ACH files from ODFIs (Originating Depository Financial Institution, the originator's financial institution) or other ACH Operators, to sort and distribute ACH files to RDFIs (Receiving Depository Financial Institution, the receiver’s financial institution) or other ACH Operators, and to effect settlement between the financial institutions that are parties to the specific transactions. There are two ACH Operators, which are linked together for transaction exchange in order to provide a nationwide ACH Network accessible to all DFIs (Depository Financial Institutions).
+Automated Clearing House (ACH) is a U.S.-centric payment method for moving electronic credit and debit transactions in a batch environment. ACH is designed for high volume, predictable processing, and cost efficiency, making it a core rail for recurring payments and operationally streamlined money movement.
+Common ACH uses include:
+Payroll and direct deposit
+Consumer bill payments
+Business-to-business payments (including remittance addenda where applicable)
+Why Financial Institutions choose the EPN Network for their ACH Processing
+Financial institutions rely on the EPN network for ACH processing that performs at scale combining proven reliability, always-on operations, and participant-focused support. The results are measurable in year-over-year growth, consistently high uptime, and record-setting throughput across a network built for high-volume ACH.
+The EPN network by the numbers
+The EPN network processing schedule and submission windows
+The EPN network connectivity supports 24/7 inbound file transmissions and multiple file distributions on business-days (with Sunday/holiday variations). For items exchanged between two participants on the EPN network (intra-EPN), later submission deadlines apply in multiple windows. In several same-day windows, intra-EPN deadlines are 30 minutes later than inter-operator exchange, helping financial institutions maximize processing time and improve operational flexibility.
+Morning same-day window: 10:55 a.m. ET (intra-EPN) vs 10:25 a.m. ET (inter-operator)
+Afternoon same-day window: 3:10 p.m. ET (intra-EPN) vs 2:40 p.m. ET (inter-operator)
+Late same-day window: 5:10 p.m. ET (intra-EPN) vs 4:40 p.m. ET (inter-operator)
+Same Day ACH through the EPN network
+The Clearing House supports Same Day ACH through the EPN network, enabling financial institutions to clear and settle eligible ACH credits and debits on the same processing day. The EPN network provides three same-day settlement windows each business day: 1:00 p.m., 5:00 p.m., and 6:00 p.m. ET, to support faster, precisely timed batch payments.
+Value-added services on the EPN network
+Flexible File Transmission:
+Split routing helps financial institutions route traffic based on their operational needs. The EPN service supports flexibility in file transmission, allowing a single file to be split and routed by category. Current split routing categories include:
+International ACH Transactions
+Received inter-operator
+Return Items
+Converted Check Items
+Zero-dollar Item
+Notification of Corrections
+Government Items
+UPIC® (Universal Payment Identification Code)
+A Universal Payment Identification Code (UPIC®) is a unique account identifier that looks and acts like an account number for ACH transactions processed by the EPN network and can published (for example, on invoices or websites) so organizations can receive ACH credit payments without exposing confidential bank account information.
+Key UPIC capabilities:
+Credit-only: UPIC identifiers cannot be used to initiate ACH debits, helping reduce risk from unauthorized debits.
+Owned and governed by The Clearing House.
+Reporting available for client activity and billing purposes.
+Designed to work with common cash management, accounting, and payment systems without requiring system changes.
+ACH Risk Monitoring Reports
+ACH Risk Monitoring Reports are designed to help identify suspicious patterns by highlighting originating companies that exceed an established ACH return threshold.
+Automatic delivery: daily, weekly, and/or monthly
+Coverage: unauthorized, administrative, and overall debit returns
+DDA Token Service
+As digital transactions grow, account numbers can be stored in many places outside the banking system. Tokenization helps reduce exposure by replacing a customer's account number with a token, a random value that stands in for the underlying account number, so payment and data-sharing flows can proceed while the account number remains protected.
+The Clearing House DDA Token Service generates tokens and manages translation between tokens and account numbers in a secure environment. It supports two common data-sharing models:
+Direct model: a financial institution connects directly to the DDA Token Service to support its data-sharing flows
+Using a Technical Agent: a third party can request tokens on behalf of a participating financial institution, which may reduce implementation efforts
+For compliance research purposes, The Clearing House supports the translation of tokens to the associated underlying account numbers so financial institutions' monitoring reporting processes can accommodate tokenized identifiers.
+Implementation and Connectivity
+Built for straightforward onboarding
+Implementation is designed to be practical for ACH operations teams:
+Use the standard Nacha ACH file format
+Make limited configuration updates (for example, header and delivery-point configuration)
+Follow a structured onboarding plan: kickoff, connectivity, testing, cutover, and go-live
+The Clearing House supports multiple connectivity options and works with common Third-Party Service Providers used by financial institutions for an easy plug and play solution to turn on EPN network processing. Operating rules and processing schedules are available in the EPN Document Library.
+Connectivity options
+EPNAccess is a web-based client interface to the EPN system used to upload origination files, download receipt files, schedule file receipt, monitor advice files, initiate returns and generate NOCs (Notifications of Change), and view settlement and activity reporting
+File transmission options such as Secure FTP and Connect:Direct, as applicable to participant connectivity models
+Participant directory resource
+ACH Participant RDFI Directory File: a participant-only directory file that provides a current list of RDFIs' routing numbers on the network for operational reference and routing support.
+Education, Compliance, and Professional Services
+The Clearing House Payments Authority® (TCHPA) provides ACH education and professional services to support day-to-day operations and risk management, including ACH audit support, third-party provider audit support, and ACH risk assessment support. Training includes on-demand courses such as ACH File Formatting and SEC Codes, plus education on the ACH Network and the Nacha Operating Rules & Guidelines that govern it. TCHPA also offers AAP exam prep and certificate programs at the beginner, intermediate, and advanced levels covering topics from RDFI compliance and ODFI responsibilities & warranties to ACH risk management and third-party risk management.
+Connect with The Clearing House ACH experts to get guidance on EPN network participation, connectivity options, and onboarding.

@@ -1,0 +1,120 @@
+{
+  "count": 1,
+  "hasMore": false,
+  "items": [
+    {
+      "ApplyWhenNotPostedFlag": false,
+      "BeFirstToApplyFlag": false,
+      "BusinessUnit": null,
+      "BusinessUnitId": 300000094081469,
+      "Category": "AI / Machine Learning Data Engineering",
+      "ContentLocale": "en",
+      "ContractType": null,
+      "CorporateDescriptionStr": "<p>At BNY, our culture allows us to run our company better and enables employees’ growth and success. As a leading global financial services company at the heart of the global financial system, we influence nearly 20% of the world’s investible assets. Every day, our teams harness cutting-edge AI and breakthrough technologies to collaborate with clients, driving transformative solutions that redefine industries and uplift communities worldwide.</p>Recognized as a top destination for innovators, BNY is where bold ideas meet advanced technology and exceptional talent. Together, we power the future of finance – and this is what #LifeAtBNY is all about. Join us and be part of something extraordinary.",
+      "Department": null,
+      "DomesticTravelRequired": null,
+      "ExternalContactEmail": null,
+      "ExternalContactName": null,
+      "ExternalDescriptionStr": "<p>We're seeking a future team member for the role of <strong>Senior Director, AI Solution Architect</strong> to join Eliza Frontier Solutions, a new team within AI Hub. This role is focused on shaping and delivering frontier AI solutions, defining technical architecture, and turning emerging AI capabilities into secure, scalable products for the firm. The role is located in New York, NY.</p><p><strong>In this role, you'll make an impact in the following ways:</strong></p><ul style=\"list-style-type: disc; padding-left: 24px;\"><li><p>Lead solution architecture for frontier AI products and identify key business applications within Eliza Frontier Solutions.</p></li><li><p>Review and refine end-to-end technical designs for AI applications and agentic workflows, with a focus on reusability, resilience, observability and commercial viability.</p></li><li><p>Guide technical direction for new projects by aligning user needs, platform strategy and implementation tradeoffs, with a focus on establishing patterns and golden paths.</p></li><li><p>Establish reusable patterns for AI engineering, platform integration, governance, and production readiness.</p></li><li><p>Act as a senior technical leader and advisor for complex cross-functional initiatives and key architecture reviews.</p></li></ul><p><strong>To be successful in this role, we're seeking the following:</strong></p><ul style=\"list-style-type: disc; padding-left: 24px;\"><li><p>Strong experience designing and delivering enterprise software, platform and AI solutions in complex environments.</p></li><li><p>Deep understanding of AI engineering patterns, preferably with a background in Machine Learning (deep learning ideal)</p></li><li><p>Hands-on knowledge of AI/ML architecture across training, inference, feature pipelines, model serving, orchestration, agent protocols, etc.</p></li><li><p>Strong platform engineering skills across APIs, microservices, cloud infrastructure, CI/CD, observability, and secure deployment.</p></li><li><p>Experience working with AI platforms, developer platforms, or internal enablement products.</p></li><li><p>Ability to translate complex technical concepts into clear architecture decisions, delivery plans, and business outcomes, and ability to spot flaws and risks in designs.</p></li><li><p>Strong partnership and communication skills across engineering, product, risk, control, and senior stakeholders.</p></li><li><p>Bachelor's degree in computer science, engineering or a related discipline, or equivalent work experience required; advanced degree is beneficial</p></li><li><p>15+ years of experience in software development required; experience in the securities or financial services industry is a plus.</p></li></ul><p><strong>Preferred technical areas:</strong></p><ul style=\"list-style-type: disc; padding-left: 24px;\"><li><p>Applied AI, ML/optimization, orchestration and software architecture, including evaluation frameworks and guardrail design</p></li><li><p>Vector databases, retrieval systems, knowledge graphs, memory-based agents and agentic protocols</p></li><li><p>MLOps, model lifecycle tooling, and production AI observability</p></li><li><p>Experience with AI for engineering practices and agentic SDLC design, with an eye toward production scale and resilience</p></li></ul>",
+      "ExternalPostedEndDate": null,
+      "ExternalPostedStartDate": "2026-08-14T02:34:58+00:00",
+      "ExternalQualificationsStr": "",
+      "ExternalResponsibilitiesStr": "",
+      "GeographyId": 300000090214594,
+      "GeographyNodeId": 100010357091606,
+      "HiringManager": null,
+      "HotJobFlag": false,
+      "Id": "79985",
+      "InternalQualificationsStr": "",
+      "InternalResponsibilitiesStr": "",
+      "InternationalTravelRequired": null,
+      "JobFamilyId": 300004319452500,
+      "JobFunction": "AI Engineering",
+      "JobFunctionCode": "AIENG",
+      "JobGrade": null,
+      "JobLevel": null,
+      "JobSchedule": "Full time",
+      "JobShift": "Day",
+      "JobType": null,
+      "LegalEmployer": null,
+      "LegalEmployerId": 300000003582023,
+      "NumberOfOpenings": null,
+      "ObjectVerNumberProfile": null,
+      "Organization": null,
+      "OrganizationDescriptionStr": "<p>At BNY, our culture speaks for itself, check out the latest BNY news at&nbsp;<a href=\"https://www.bny.com/corporate/global/en/about-us/newsroom.html\" target=\"_blank\" rel=\"nofollow\">BNY Newsroom</a>&nbsp;&amp;&nbsp;<a href=\"https://www.linkedin.com/company/bnyglobal/posts/?feedView=all\" target=\"_blank\" rel=\"nofollow\">BNY LinkedIn</a></p>\n<p style=\"margin-bottom:0in\">&nbsp;Here’s a few of our recent awards:</p>\n<ul style=\"margin-top:0in\">\n <li style=\"margin-bottom:0in\">America’s Most Innovative Companies, Fortune, 2025</li>\n <li style=\"margin-bottom:0in\">World’s Most Admired Companies, Fortune 2025</li>\n <li style=\"margin-bottom:0in\">“Most Just Companies”, Just Capital and CNBC, 2025</li>\n</ul>\n<ul></ul>\n<p>Our Benefits and Rewards:</p>\n<p>BNY offers highly competitive compensation, benefits, and wellbeing programs rooted in a strong culture of excellence and our pay-for-performance philosophy. We provide access to flexible global resources and tools for your life’s journey. Focus on your health, foster your personal resilience, and reach your financial goals as a valued member of our team, along with generous paid leaves, including paid volunteer time, that can support you and your family through moments that matter.</p>\n<p>BNY is an Equal Employment Opportunity/Affirmative Action Employer - Underrepresented racial and ethnic groups/Females/Individuals with Disabilities/Protected Veterans.</p>\n<p>BNY assesses market data to ensure a competitive compensation package for our employees. The expected base salary for this position when employment commences can be found in the Job Info section at the bottom of the posting.&nbsp;</p>\n<p>Base salary offered may vary depending on multiple individualized factors, including market location, job-related knowledge, skills, and experience. Base salary is only part of the total rewards package, which may include eligibility for an annual discretionary incentive award. Subject to the terms and conditions of the applicable plans then in effect, eligible employees may enroll in a 401(k) plan as well as participate in Company-sponsored medical, dental, vision, and basic life insurance plans for the employee and the employee’s eligible dependents. Eligible employees also may receive other benefits (including various paid time off benefits, such as vacation and sick time), dependent on the position offered. Details of participation in these benefit plans will be provided if an employee receives an offer of employment.</p>\n<p>If hired, the employee will be in an “at will” position and the Company reserves the right to modify base salary (as well as any other discretionary payments or compensation programs) at any time, including for reasons related to individual performance, Company or individual department/team performance, and market factors.</p>",
+      "OrganizationId": 300000094736366,
+      "OtherRequisitionTitle": null,
+      "PrimaryLocation": "New York, NY, United States",
+      "PrimaryLocationCountry": "US",
+      "RequisitionId": 300010477385532,
+      "RequisitionType": "Experienced",
+      "ShortDescriptionStr": "",
+      "StudyLevel": null,
+      "Title": "Senior Director, AI / Machine Learning Data Engineer",
+      "TrendingFlag": true,
+      "WorkDays": null,
+      "WorkHours": null,
+      "WorkMonths": null,
+      "WorkYears": null,
+      "WorkerType": null,
+      "WorkplaceType": "",
+      "WorkplaceTypeCode": null,
+      "media": [],
+      "otherWorkLocations": [],
+      "primaryLocationCoordinates": [
+        {
+          "CountryCode": "US",
+          "GeographyId": 300000090214594,
+          "GeographyNodeId": 100010357091606,
+          "Latitude": "40.58055",
+          "Longitude": "-74.00391"
+        }
+      ],
+      "requisitionFlexFields": [
+        {
+          "ControlType": "TextArea",
+          "Prompt": "Base Salary Min",
+          "SequenceNumber": 12,
+          "Value": "136500"
+        },
+        {
+          "ControlType": "TextArea",
+          "Prompt": "Base Salary Max",
+          "SequenceNumber": 21,
+          "Value": "300000"
+        }
+      ],
+      "secondaryLocations": [],
+      "skills": [],
+      "workLocation": [
+        {
+          "AddressLine1": "240 Greenwich Street",
+          "AddressLine2": null,
+          "AddressLine3": null,
+          "AddressLine4": null,
+          "Building": null,
+          "Country": "US",
+          "Latitude": "40.71455001",
+          "LocationId": 300000129875278,
+          "LocationName": "240 Greenwich Street,New York,NY",
+          "Longitude": "-74.00714004",
+          "PostalCode": "10286",
+          "Region1": "New York",
+          "Region2": "NY",
+          "Region3": null,
+          "TownOrCity": "New York"
+        }
+      ]
+    }
+  ],
+  "limit": 499,
+  "links": [
+    {
+      "href": "https://eofe.fa.us2.oraclecloud.com:443/hcmRestApi/resources/11.13.18.05/recruitingCEJobRequisitionDetails",
+      "kind": "collection",
+      "name": "recruitingCEJobRequisitionDetails",
+      "rel": "self"
+    }
+  ],
+  "offset": 0
+}

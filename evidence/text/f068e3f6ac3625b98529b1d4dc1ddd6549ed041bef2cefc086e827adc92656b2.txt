@@ -1,0 +1,78 @@
+{
+  "hiringOrganization": {
+    "name": "PAYCO The Clearing House Payments Company L.L.C.",
+    "url": ""
+  },
+  "jobPostingInfo": {
+    "canApply": true,
+    "country": {
+      "descriptor": "United States of America",
+      "id": "bc33aa3152ec42d4995f4791a106ed09"
+    },
+    "externalUrl": "https://theclearinghouse.wd108.myworkdayjobs.com/TheClearingHouse/job/Charlotte-Office/Senior-Software-Developer-Engineer-in-Testing_JR100159",
+    "id": "1ca8ad7318201001ee5fcb5c2fd90000",
+    "includeResumeParsing": true,
+    "jobDescription": "<p><b>Position Summary: </b>The Clearing House (TCH) is seeking a Senior Software Developer Engineer in Testing (SDET) to join our RTP Product Engineering team. As a senior member of the team, you will be responsible for designing, developing, and executing automated and manual test cases, ensuring quality of our critical real-time interbank payment platform.  This includes functionality, reliability and performance of existing and new applications.  The Senior SDET works directly with RTP Product teams and Operations to aggregate business and technical requirements into high quality automation testing of TCH Systems.  Develop and deliver testing best practices and processes to all projects while maintaining adherence to TCH standards.</p><p></p><div><p>This role is well suited for an experienced engineer who enjoys solving complex technical problems, testing highly reliable systems, and delivering quality applications that operate at the core of financial infrastructure. The organization is actively transforming its payment platforms toward cloud-native, distributed architectures while introducing modern automation and AI-assisted engineering practices into its software development lifecycle.</p><p></p><p>TCH values engineers who are technically curious, pragmatic, and interested in understanding how complex systems work, end to end. The ideal candidate will be a hands-on quality engineer who has strong automation experience, understands distributed application architectures, and an avid interest in testing critical systems where performance, security, resiliency, and sustainability are vital for success.</p></div><div></div><p><b>Essential Functions and Responsibilities</b>:  </p><ul><li><p>Lead planning, estimation, development, and implementation of test automation frameworks and strategies</p></li><li><p>Design and develop automated testing including creation, execution, and maintenance of automated scripts using industry best practices and standards</p></li><li><p>Execute translation of manual testing scenarios to test automation coverage across multiple products</p></li><li><p>Automate testing for use in a DevOps architecture</p></li><li><p>Participate either as the sole QE resource on projects, or in an Agile scrum team</p></li><li><p>Use of strong problem-solving skills to investigate and document defects and their respective resolutions</p></li><li><p>Lead larger test automation efforts independently and act as a subject matter expert to team members on smaller efforts</p></li><li><p>Effectively communicate status to stakeholders and proactively locate and address concerns</p></li><li><p>Champion Agile best-practices, processes, and tools in support of DevOps processes with respect to developing testing automation</p></li><li><p>Conform to department standards to comply with audit and regulatory policies</p></li><li><p>Assist team members through cross-training on applications and systems, perform peer reviews, training and mentoring manual and junior QE members on automation testing</p></li><li><p>Participate in the transformation of testing into a continuous and efficient end-to-end quality engineering function</p></li><li><p>Aid in the evolution of more predictive and intelligent testing approaches based on automation</p></li><li><p>Collaborate with other test engineers across products and projects to solve problems and deploy them, and mature automation testing practices</p></li></ul><p></p><p><b>Qualifications Required</b>:</p><ul><li><p>Bachelor’s degree in a STEM-related field (Computer Science, Information Systems, Mathematics, etc.), or equivalent experience (6&#43; years)</p></li><li><p>6&#43; years as an SDET or a similar role, with a strong focus on automated testing using Java and Selenium.</p></li><li><p>Expertise in designing and developing robust test automation frameworks using Java, Selenium, WebDriver, and related tools</p></li><li><p>Hands-on experience testing applications deployed within an AWS cloud platform</p></li><li><p>Experience with AWS services such as EC2, ECS, EKS, Lambda, S3, RDS, CloudWatch, SQS, SNS, API Gateway, and IAM</p></li><li><p>Experience testing event-driven applications using Apache Kafka</p></li><li><p>Experience in the following environments: Linux and AIX</p></li><li><p>Experience with Collaboration Tools- Confluence, SharePoint</p></li><li><p>Knowledge and Experience in Agile and Iterative development methodologies</p></li><li><p>Proven ability to define, design, develop and maintain test automation frameworks and test cases for software applications and/or systems</p></li><li><p>Ability to write complex SQL queries to validate data accuracy, troubleshoot issues, and verify backend processing</p></li><li><p>Demonstrated experience in test planning and execution activities, test strategy, test data definition, data setup, test execution, defect reporting &amp; communication of status/metrics</p></li><li><p>Ability to recognize risks and errors in an application and employ automation testing to reduce them</p></li><li><p>Understand, analyze, and develop complex automated tests including data sets, positive and negative functional scenarios to ensure product quality</p></li><li><p>Understand project documents and project objectives including User Stories or Requirements to create and execute test cases; ability to work with stakeholders to provide input on testability of functional elements</p></li><li><p>Investigation of production problems, creation and management of defect reports, creation of project status reports</p></li><li><p>Experience working with Release Management teams; experienced in investigation and testing of deployment or production issues</p></li><li><p>Ability to work with minimal supervision while remaining on-task and deadline oriented</p></li><li><p>Proven skills in data analysis, data/design verification, and problem-solving</p></li><li><p>Excellent verbal, written, and interpersonal communication skills</p></li></ul><p></p><p><b>Qualifications Desired</b>:  </p><ul><li><p>Expertise in Test Automation Framework Development using Selenium (Java)</p></li><li><p>AWS certification (AWS Certified Developer, Solutions Architect, or Cloud Practitioner) is a plus.</p></li><li><p>Experience using qTest, JIRA, Dynatrace (or similar monitoring tool) testing tools</p></li><li><p>In-depth knowledge and experience testing Transactional, Message-based and Web-based applications</p></li><li><p>Experience with object-oriented programming languages</p></li><li><p>Experience with relational databases</p></li><li><p>Familiarity with Git and modern version control practices.</p></li><li><p>Experience testing all layers of applications including front end, service layer, back-end connections; testing applications deployed to cloud environments (AWS)</p></li><li><p>Experience with Financial or Credit Card based processing</p></li><li><p>Experience working in a regulated environment</p></li><li><p>Experience with other test automation tools and frameworks, such as Playwright, TestNG, JUnit, or Cucumber</p></li></ul><p></p><p><b>Physical Demands and Work Environment: </b>The working environment is generally favorable. Lighting and temperature are adequate, and there are no hazardous or unpleasant conditions caused by noise, dust, etc. Work is generally performed within an office environment, with standard office equipment available. Travel may be required. Candidates will report to the office three days each week. Onsite work requirements may change at any time. </p><p></p><p><b>About The Clearing House: </b>The Clearing House (TCH) is a banking association and payments company that is owned by the largest commercial banks in the United States. TCH owns and operates the core payments system infrastructure in the US and is currently working to modernize that infrastructure by launching a new, ubiquitous, real-time payment system. TCH is the only private-sector ACH and wire operator in the US, clearing and settling nearly $2 trillion in US dollar payments each day, representing half of all commercial ACH and wire volume. TCH has provided critical services to the banking industry since 1853, and today, our core products facilitate services including Direct Deposit of payroll, bill payments, and check image exchange. </p>",
+    "jobPostingId": "Senior-Software-Developer-Engineer-in-Testing_JR100159",
+    "jobPostingSiteId": "TheClearingHouse",
+    "jobReqId": "JR100159",
+    "jobRequisitionLocation": {
+      "country": {
+        "alpha2Code": "US",
+        "descriptor": "United States of America",
+        "id": "bc33aa3152ec42d4995f4791a106ed09"
+      },
+      "descriptor": "Charlotte Office"
+    },
+    "location": "Charlotte Office",
+    "posted": true,
+    "postedOn": "Posted 30+ Days Ago",
+    "questionnaireId": "416fc4b6e988100114d79736c4ff0000",
+    "startDate": "2026-08-27",
+    "timeType": "Full time",
+    "title": "Senior Software Developer Engineer in Testing"
+  },
+  "similarJobs": [
+    {
+      "externalPath": "/job/Charlotte-Office/Software-Engineer_JR100177-5",
+      "locationsText": "Charlotte Office",
+      "postedOn": "Posted 21 Days Ago",
+      "startDate": "2026-09-11",
+      "timeType": "Full time",
+      "title": "Software Engineer"
+    },
+    {
+      "externalPath": "/job/Charlotte-Office/Sr-Software-Engineer_JR100176-2",
+      "locationsText": "Charlotte Office",
+      "postedOn": "Posted 21 Days Ago",
+      "startDate": "2026-09-11",
+      "timeType": "Full time",
+      "title": "Sr. Software Engineer"
+    },
+    {
+      "externalPath": "/job/North-Carolina-Office/Senior-Technology-Architect---Hybrid-Infrastructure---Cloud_JR100187",
+      "locationsText": "2 Locations",
+      "postedOn": "Posted 23 Days Ago",
+      "startDate": "2026-09-09",
+      "timeType": "Full time",
+      "title": "Senior Technology Architect - Hybrid Infrastructure & Cloud"
+    },
+    {
+      "externalPath": "/job/North-Carolina-Office/Senior-Technology-Architect---Hybrid-Infrastructure---Cloud_JR100199-1",
+      "locationsText": "2 Locations",
+      "postedOn": "Posted 3 Days Ago",
+      "startDate": "2026-09-29",
+      "timeType": "Full time",
+      "title": "Senior Technology Architect - Hybrid Infrastructure & Cloud"
+    },
+    {
+      "externalPath": "/job/Charlotte-Office/Cloud-Computing-Engineer---AWS_JR100196-4",
+      "locationsText": "Charlotte Office",
+      "postedOn": "Posted 4 Days Ago",
+      "startDate": "2026-09-28",
+      "timeType": "Full time",
+      "title": "Cloud Computing Engineer - AWS"
+    }
+  ],
+  "userAuthenticated": false
+}

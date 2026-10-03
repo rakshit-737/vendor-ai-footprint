@@ -1,0 +1,245 @@
+Consulting Services Implementations Custom Solutions Training Upgrades Migrations Consulting as a Service (CaaS)
+
+Implementations
+
+Custom Solutions
+
+Training
+
+Upgrades
+
+Migrations
+
+Consulting as a Service (CaaS)
+
+Applications Ellucian Banner Oracle E-Business Suite AMISYS Advance Automation Oracle Utilities
+
+Ellucian Banner
+
+Oracle E-Business Suite
+
+AMISYS Advance Automation
+
+Oracle Utilities
+
+Support
+
+Licensing
+
+About The Team Resources Testimonials AvMed HNI Corporation Indiana State University
+
+The Team
+
+Resources
+
+Testimonials AvMed HNI Corporation Indiana State University
+
+AvMed
+
+HNI Corporation
+
+Indiana State University
+
+Contact
+
+Consulting Services Implementations Custom Solutions Training Upgrades Migrations Consulting as a Service (CaaS)
+
+Implementations
+
+Custom Solutions
+
+Training
+
+Upgrades
+
+Migrations
+
+Consulting as a Service (CaaS)
+
+Applications Ellucian Banner Oracle E-Business Suite AMISYS Advance Automation Oracle Utilities
+
+Ellucian Banner
+
+Oracle E-Business Suite
+
+AMISYS Advance Automation
+
+Oracle Utilities
+
+Support
+
+Licensing
+
+About The Team Resources Testimonials AvMed HNI Corporation Indiana State University
+
+The Team
+
+Resources
+
+Testimonials AvMed HNI Corporation Indiana State University
+
+AvMed
+
+HNI Corporation
+
+Indiana State University
+
+Contact
+
+AutomWorx
+
+October 30, 2024
+
+2 min read
+
+Applications Manager (AppWorx) Product Roadmap Webinar
+
+Webinar, WLA
+
+Do you use Applications Manager (formerly AppWorx)?
+
+If so, check out this on demand webinar.
+
+I. Introduction (AutomWorx)
+
+Welcome and poll introduction
+
+AutomWorx overview (workload automation, consulting, support)
+
+Company history and achievements
+
+Service offerings (implementations, upgrades, training, support)
+
+II. Housekeeping
+
+Webinar nature (informational)
+
+Q&A process
+
+III. Product Roadmap and Future Directions (Frédéric Caloone-Thuillier)
+
+Introduction of speaker and topic
+
+Application Manager naming conventions (CA AM, AM, AppWorx)
+
+Overview of project direction and planning
+
+IV. Key Product Directions
+
+REST APIs
+
+Goal: Interface with external systems (SaaS, cloud, custom apps)
+
+9.6 focus: Job monitoring
+
+Future: Full API coverage (user, agent management, etc.)
+
+Client Improvements
+
+Mac client (9.6)
+
+Password management enhancements (history, reuse, show)
+
+Logon messages and announcements
+
+Client connection list updates
+
+Client extraction improvements (preserving custom properties during upgrades)
+
+Technical Advancements
+
+Cloud support (Amazon, GCP, Docker containers)
+
+DevOps tools integration (export/import commands)
+
+Remote agent upgrades
+
+MSSQL TLS support
+
+Oracle RAC failover/load balancing improvements
+
+Centipede articulation (TLS mode)
+
+SAML2 support (investigation)
+
+V. Release Planning
+
+9.4: End of support
+
+9.5: Z2 upgrades, failover, DevOps support, database certifications
+
+9.6 (December): REST API (initial), Banner SaaS agent, macOS client, logon messages, password management, SMTP/TLS, REST API improvements, AM-Oracle interface enhancements
+
+Future considerations: Postgres database, SaaS deployment, collider extraction, SAML2, claim collection, time zone management
+
+VI. Q&A (Roadmap)
+
+Java 19 compatibility
+
+Oracle 23 AI support
+
+Upgrade path (9.4.1 to 9.5.3)
+
+LDAP password change
+
+VII. Web UI Discussion
+
+Background: Previous requests and Broadcom’s hesitation for full web UI
+
+Opportunity: Leveraging REST APIs for web UI development
+
+Proposed approach: Dedicated web UI focused on monitoring
+
+Key questions for audience:
+
+Is monitoring-only sufficient?
+
+Commitment to using the monitoring-focused UI
+
+Banner SaaS compliance in 9.6
+
+VIII. Web UI Demonstration
+
+Pilot interface overview
+
+Monitoring dashboard (status summaries, agent information)
+
+Job monitoring (active, waiting, aborted jobs, actions like reset)
+
+Job definition access
+
+Take Me To The Webinar
+
+Share
+
+Recent Posts
+
+September 30, 2026
+
+2 min read
+
+Automate With Intent: Why People and Partners Matter
+
+September 17, 2026
+
+3 min read
+
+Automic Automation V26: Turning Orchestration Into the Control Center for Enterprise AI
+
+September 15, 2026
+
+2 min read
+
+The Last Mile of an SAP Landscape
+
+Company
+
+Broadcom Expert Advantage Partner
+
+Privacy Policy
+
+Resource Center
+
+Get in touch
+
+Search Site

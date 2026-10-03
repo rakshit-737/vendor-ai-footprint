@@ -1,0 +1,120 @@
+{
+  "count": 1,
+  "hasMore": false,
+  "items": [
+    {
+      "ApplyWhenNotPostedFlag": false,
+      "BeFirstToApplyFlag": false,
+      "BusinessUnit": null,
+      "BusinessUnitId": 300000094081469,
+      "Category": "Data Science",
+      "ContentLocale": "en",
+      "ContractType": null,
+      "CorporateDescriptionStr": "<p>At BNY, our culture allows us to run our company better and enables employees’ growth and success. As a leading global financial services company at the heart of the global financial system, we influence nearly 20% of the world’s investible assets. Every day, our teams harness cutting-edge AI and breakthrough technologies to collaborate with clients, driving transformative solutions that redefine industries and uplift communities worldwide.</p>Recognized as a top destination for innovators, BNY is where bold ideas meet advanced technology and exceptional talent. Together, we power the future of finance – and this is what #LifeAtBNY is all about. Join us and be part of something extraordinary.",
+      "Department": null,
+      "DomesticTravelRequired": null,
+      "ExternalContactEmail": null,
+      "ExternalContactName": null,
+      "ExternalDescriptionStr": "<p><strong>AI &amp; High Performance Computing (HPC) Infrastructure Engineering Manager, Senior Director</strong></p><p><span>We’re seeking a future team member for the role of</span><strong> AI &amp; High Performance Computing Infrastructure Engineering Manager, Senior Director</strong><span> to join our Enterprise Infrastructure Delivery organization. This role is in New York, NY.</span></p><p>The AI and HPC Infrastructure Engineering Manager will lead the engineering and strategic evolution of the bank’s AI, machine learning, and high-performance computing infrastructure platforms. Responsible for managing a team of AI Infrastructure Engineers resources who design, operate, automate, and scale GPU-based infrastructure supporting model training, inference, agentic AI, data pipelines, and production AI workloads.</p><p><strong>&nbsp;In this role, you'll make an impact in the following ways</strong></p><ul style=\"list-style-type: disc;\"><li><span>Lead and develop a team of AI Infrastructure Engineers responsible for building, operating, and scaling the firm's AI, machine learning, and high-performance computing (HPC) platforms.</span></li><li><span>Define and execute the strategic roadmap for AI infrastructure, partnering across Engineering, Architecture, Security, Risk, Compliance, Production Services, and AI/ML teams to deliver secure, scalable, and resilient platforms.</span></li><li><span>Drive the design, deployment, and optimization of GPU-based infrastructure supporting model training, inference, retrieval-augmented generation (RAG), agentic AI, data pipelines, and other production AI workloads across on-premises, hybrid, and cloud environments.</span></li><li><span>Serve as the senior technical leader for AI infrastructure, guiding decisions related to Kubernetes, distributed systems, GPU orchestration, infrastructure automation, observability, performance engineering, capacity planning, and operational resilience.</span></li><li><span>Develop and mature enterprise platform capabilities including AI model serving, scalable data and compute infrastructure, vector and graph database ecosystems, AI orchestration frameworks, and microservices architectures.</span></li><li><span>Partner closely with AI/ML engineering teams to accelerate model deployment, improve platform adoption, optimize performance, and enable the delivery of innovative AI solutions.</span></li><li><span>Advance automation across infrastructure provisioning, configuration management, monitoring, incident response, workload onboarding, and platform lifecycle management.</span></li><li><span>Establish and govern operating models, service standards, production readiness requirements, support processes, and reliability objectives to ensure exceptional platform availability and user experience.</span></li><li><span>Manage strategic technology vendor relationships, influencing product roadmaps, driving technical evaluations and proof-of-concepts, and ensuring alignment with business objectives.</span></li><li><span>Communicate platform strategy, investment priorities, operational performance, risks, and roadmap progress to executive leadership and technology governance forums.</span></li></ul><p>&nbsp;</p><p><strong>To be successful in this role, we're seeking the following</strong></p><ul style=\"list-style-type: disc;\"><li><span>Proven leadership experience managing infrastructure engineering, platform engineering, DevOps, SRE, or production operations teams in large-scale enterprise environments.</span></li><li><span>Deep expertise designing and operating AI, machine learning, GPU, HPC, or distributed computing platforms in production environments.</span></li><li><span>Strong experience with Kubernetes, containerized platforms, GPU orchestration technologies, and modern infrastructure automation practices.</span></li><li><span>Expertise with NVIDIA GPU ecosystems, including GPU lifecycle management, workload optimization, and large-scale compute environments.</span></li><li><span>Solid understanding of AI infrastructure patterns, including model training, inference, model serving, RAG architectures, data pipelines, and emerging agentic AI frameworks.</span></li><li><span>Experience deploying and supporting hybrid cloud infrastructure, with working knowledge of Azure, GCP, or similar cloud platforms.</span></li><li><span>Strong technical foundation in Linux, networking, storage, distributed systems, observability, performance engineering, and production operations.</span></li><li><span>Experience leveraging Infrastructure as Code, CI/CD, and automation tools such as Terraform, Ansible, Helm, ArgoCD, GitLab, Jenkins, or similar technologies.</span></li><li><span>Ability to influence senior stakeholders and effectively communicate complex technical concepts to both engineering and executive audiences.</span></li><li><span>Demonstrated success developing technology strategies, operating models, governance frameworks, and long-term infrastructure roadmaps.</span></li><li><span>Strong vendor management experience, including strategic partnerships, architecture reviews, technical assessments, and escalation management.</span></li></ul><p>&nbsp;</p><p><strong>Preferred Qualifications</strong></p><ul style=\"list-style-type: disc;\"><li><span>Experience within financial services or other highly regulated industries.</span></li><li><span>Expertise supporting AI platforms subject to stringent security, compliance, audit, and operational resilience requirements.</span></li><li><span>Experience with large-scale GPU environments, DGX platforms, SuperPOD architectures, InfiniBand, high-performance storage, or enterprise AI infrastructure.</span></li><li><span>Familiarity with modern AI serving and orchestration technologies such as Triton, vLLM, NVIDIA NIM, KServe, Seldon, LangGraph, vector databases, graph databases, and multi-agent frameworks.</span></li><li><span>Experience with capacity planning, usage analytics, cost optimization, GPU quota management, and chargeback/showback models.</span></li><li><span>10+ years of experience in a related field with a 6-8 years’ experience managing staff&nbsp;</span></li><li><span>Bachelor's degree in Computer Science, Engineering, Information Technology, or a related discipline; advanced&nbsp;STEM degrees or relevant cloud, Kubernetes, AI, or infrastructure certifications are a plus.</span></li></ul>",
+      "ExternalPostedEndDate": null,
+      "ExternalPostedStartDate": "2026-09-10T01:58:37+00:00",
+      "ExternalQualificationsStr": "",
+      "ExternalResponsibilitiesStr": "",
+      "GeographyId": 300000090214594,
+      "GeographyNodeId": 100010357091606,
+      "HiringManager": null,
+      "HotJobFlag": false,
+      "Id": "80305",
+      "InternalQualificationsStr": "",
+      "InternalResponsibilitiesStr": "",
+      "InternationalTravelRequired": null,
+      "JobFamilyId": 300000094771360,
+      "JobFunction": "AI Engineering",
+      "JobFunctionCode": "AIENG",
+      "JobGrade": null,
+      "JobLevel": null,
+      "JobSchedule": "Full time",
+      "JobShift": "Day",
+      "JobType": null,
+      "LegalEmployer": null,
+      "LegalEmployerId": 300000003582023,
+      "NumberOfOpenings": null,
+      "ObjectVerNumberProfile": null,
+      "Organization": null,
+      "OrganizationDescriptionStr": "<p>At BNY, our culture speaks for itself, check out the latest BNY news at&nbsp;<a href=\"https://www.bny.com/corporate/global/en/about-us/newsroom.html\" target=\"_blank\" rel=\"nofollow\">BNY Newsroom</a>&nbsp;&amp;&nbsp;<a href=\"https://www.linkedin.com/company/bnyglobal/posts/?feedView=all\" target=\"_blank\" rel=\"nofollow\">BNY LinkedIn</a></p>\n<p style=\"margin-bottom:0in\">&nbsp;Here’s a few of our recent awards:</p>\n<ul style=\"margin-top:0in\">\n <li style=\"margin-bottom:0in\">America’s Most Innovative Companies, Fortune, 2025</li>\n <li style=\"margin-bottom:0in\">World’s Most Admired Companies, Fortune 2025</li>\n <li style=\"margin-bottom:0in\">“Most Just Companies”, Just Capital and CNBC, 2025</li>\n</ul>\n<ul></ul>\n<p>Our Benefits and Rewards:</p>\n<p>BNY offers highly competitive compensation, benefits, and wellbeing programs rooted in a strong culture of excellence and our pay-for-performance philosophy. We provide access to flexible global resources and tools for your life’s journey. Focus on your health, foster your personal resilience, and reach your financial goals as a valued member of our team, along with generous paid leaves, including paid volunteer time, that can support you and your family through moments that matter.</p>\n<p>BNY is an Equal Employment Opportunity/Affirmative Action Employer - Underrepresented racial and ethnic groups/Females/Individuals with Disabilities/Protected Veterans.</p>\n<p>BNY assesses market data to ensure a competitive compensation package for our employees. The expected base salary for this position when employment commences can be found in the Job Info section at the bottom of the posting.&nbsp;</p>\n<p>Base salary offered may vary depending on multiple individualized factors, including market location, job-related knowledge, skills, and experience. Base salary is only part of the total rewards package, which may include eligibility for an annual discretionary incentive award. Subject to the terms and conditions of the applicable plans then in effect, eligible employees may enroll in a 401(k) plan as well as participate in Company-sponsored medical, dental, vision, and basic life insurance plans for the employee and the employee’s eligible dependents. Eligible employees also may receive other benefits (including various paid time off benefits, such as vacation and sick time), dependent on the position offered. Details of participation in these benefit plans will be provided if an employee receives an offer of employment.</p>\n<p>If hired, the employee will be in an “at will” position and the Company reserves the right to modify base salary (as well as any other discretionary payments or compensation programs) at any time, including for reasons related to individual performance, Company or individual department/team performance, and market factors.</p>",
+      "OrganizationId": 300000094736366,
+      "OtherRequisitionTitle": null,
+      "PrimaryLocation": "New York, NY, United States",
+      "PrimaryLocationCountry": "US",
+      "RequisitionId": 300010575171651,
+      "RequisitionType": "Experienced",
+      "ShortDescriptionStr": "",
+      "StudyLevel": null,
+      "Title": "Senior Director, Data Science Manager",
+      "TrendingFlag": false,
+      "WorkDays": null,
+      "WorkHours": null,
+      "WorkMonths": null,
+      "WorkYears": null,
+      "WorkerType": null,
+      "WorkplaceType": "",
+      "WorkplaceTypeCode": null,
+      "media": [],
+      "otherWorkLocations": [],
+      "primaryLocationCoordinates": [
+        {
+          "CountryCode": "US",
+          "GeographyId": 300000090214594,
+          "GeographyNodeId": 100010357091606,
+          "Latitude": "40.58055",
+          "Longitude": "-74.00391"
+        }
+      ],
+      "requisitionFlexFields": [
+        {
+          "ControlType": "TextArea",
+          "Prompt": "Base Salary Min",
+          "SequenceNumber": 12,
+          "Value": "136500"
+        },
+        {
+          "ControlType": "TextArea",
+          "Prompt": "Base Salary Max",
+          "SequenceNumber": 21,
+          "Value": "250000"
+        }
+      ],
+      "secondaryLocations": [],
+      "skills": [],
+      "workLocation": [
+        {
+          "AddressLine1": "240 Greenwich Street",
+          "AddressLine2": null,
+          "AddressLine3": null,
+          "AddressLine4": null,
+          "Building": null,
+          "Country": "US",
+          "Latitude": "40.71455001",
+          "LocationId": 300000129875278,
+          "LocationName": "240 Greenwich Street,New York,NY",
+          "Longitude": "-74.00714004",
+          "PostalCode": "10286",
+          "Region1": "New York",
+          "Region2": "NY",
+          "Region3": null,
+          "TownOrCity": "New York"
+        }
+      ]
+    }
+  ],
+  "limit": 499,
+  "links": [
+    {
+      "href": "https://eofe.fa.us2.oraclecloud.com:443/hcmRestApi/resources/11.13.18.05/recruitingCEJobRequisitionDetails",
+      "kind": "collection",
+      "name": "recruitingCEJobRequisitionDetails",
+      "rel": "self"
+    }
+  ],
+  "offset": 0
+}

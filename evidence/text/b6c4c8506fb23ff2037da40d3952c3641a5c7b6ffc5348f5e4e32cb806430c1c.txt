@@ -1,0 +1,65 @@
+AutomWorx
+
+July 3, 2026
+
+2 min read
+
+Your Automic Renewal Is Going to Reveal Things You Weren’t Expecting. Here’s How to Get Ahead of It.
+
+Webinar
+
+Migrations
+
+Most Broadcom Automic renewal conversations start with a number from the vendor. The teams that handle it best start with their own data first.
+
+When a renewal quote arrives, it is built on environment data that the vendor has been collecting for the duration of the contract. That data includes agent counts, job execution volumes, integration touchpoints, and usage patterns across the licensing period. The teams that walk into that conversation with their own read of the same data are in a fundamentally different position than teams that go in cold.
+
+Here is what most teams do not know about how their renewal number is built:
+
+The vendor’s data and your data are rarely the same number
+
+Your internal team tracks what you are actively using. The vendor tracks everything licensed. The gap between those two numbers (idle agents, dormant licenses, agents deployed and never activated) is often where the renewal conversation gets complicated. The teams that discover this gap during the renewal call are starting from behind.
+
+Three things hiding in your scheduler footprint that affect your renewal position
+
+Idle agents: Agents that are licensed but have not processed a job in 90 days or more still count as licensed capacity. Teams often do not realize these exist until the vendor’s utilization report surfaces them. Knowing your idle agent count before the conversation gives your team leverage or at minimum removes the surprise.
+
+Undocumented integrations: Adapters and cross-system triggers added incrementally over the contract period are often not tracked in the original license documentation. By renewal time, these show up in the vendor’s integration inventory, and the customer team was not tracking them.
+
+Job execution growth patterns: If your job volume has grown materially since the last renewal, even within licensed thresholds, the vendor is already working with those trend lines when they build the new number. Understanding your own execution growth pattern before the call is a baseline data point your team should have before the conversation starts.
+
+What to do with this before July 29th
+
+Pull your agent inventory. Look at last-active dates. Note the ones your team does not recognize. Do a rough count of integration points that have been added since the last renewal. Pull job execution volume from the last 12 months compared to the prior 12.
+
+On July 29th, Anna Cuzminscaia, Account Executive at AutomWorx and Broadcom Expert Advantage Partner, walks through what this data is actually telling you and how to use it before the renewal conversation starts. Co-hosted by Amanda Lensink and Anna Cuzminscaia. 25 minutes. Free.
+
+Join us July 29 at 1:00 PM ET on Zoom. Can’t attend live? Register anyway and we’ll send the recording the same day.
+
+Share
+
+Recent Posts
+
+September 30, 2026
+
+2 min read
+
+Automate With Intent: Why People and Partners Matter
+
+Read more >
+
+September 17, 2026
+
+3 min read
+
+Automic Automation V26: Turning Orchestration Into the Control Center for Enterprise AI
+
+Read more >
+
+September 15, 2026
+
+2 min read
+
+The Last Mile of an SAP Landscape
+
+Read more >

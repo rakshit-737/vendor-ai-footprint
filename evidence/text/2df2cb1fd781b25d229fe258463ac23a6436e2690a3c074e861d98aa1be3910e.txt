@@ -1,0 +1,30 @@
+The Clearing House and FIS Submit Joint Proposal to Fed's Faster Payments Task Force
+FOR IMMEDIATE RELEASE
+CONTACT:
+Sean Oblack
+(202) 649-4629
+The Clearing House and FIS Submit Joint Proposal to Fed's Faster Payments Task Force
+TCH proposal will fulfill Task Force vision for the future of payments
+New York, NY – The Clearing House (TCH), in conjunction with FIS, late last Friday submitted a proposal for evaluation of its Real-Time Payments (RTP) system to the Federal Reserve’s Faster Payments Task Force. The Clearing House is working to deliver a ubiquitous, real-time payments system for the U.S. and FIS will help achieve ubiquity by offering enhanced RTP services to more than 3,000 financial institutions.
+The Faster Payments Task Force is charged with identifying and assessing approaches for implementing safe, ubiquitous, faster payments capabilities in the U.S. TCH has carefully designed the system to meet or exceed the 36 Effectiveness Criteria established by the Task Force.
+TCH submitted the proposal jointly with FIS after partnering with them last October. The partnership with FIS helps to clearly demonstrate a path to ubiquity and allows TCH to leverage FIS’s proven ability to develop innovative, customer-facing applications. Last week, FIS announced that the two companies are preparing to launch a real-time payments pilot for financial institutions, initially focusing on the bill payment use case using FIS technology and operating via the TCH RTP platform. Already under development, the pilot will go live in the first quarter of 2017 and bring payments that clear and settle in real-time to the pilot financial institutions.
+In addition to FIS, TCH has also partnered with Jack Henry and Associates and D+H. Collectively, these three partnerships will enable TCH’s RTP system to reach more than 10,000 U.S. financial institutions.
+“TCH is implementing a foundational clearing and settlement system whose core attributes will enable financial institutions to develop innovative new products for their customers.” said Jim Aramanda, CEO of The Clearing House. “We know that if our system meets the needs of customers in terms of innovative services, speed, efficiency, and security there is no reason it won’t also align with the Task Force’s criteria.”
+TCH’s Real-Time Payments system will clear and settle in real-time and will support value-added services and data-rich payments transactions. TCH will own and operate the system. Other key attributes of the system, which align with the Task Force’s criteria, include:
+- Fast – Payments are completed immediately
+- Seamless – Uses existing account credentials, eliminating need for financial institution customers to enroll
+- Safe – Protection against unauthorized transactions and fraud is built in by design
+- Multi-purpose – Supports more than just a financial transaction with the ability to include value added services
+- Innovative – Supports the development of cutting edge products by financial institutions
+- Compliant – TCH briefed regulators throughout the planning and design process
+- Ubiquitous – Built for all U.S. financial institutions
+- Global-ready – Designed for international compatibility
+The RTP system will not be constrained by the limits of legacy payment networks; rather, its design and capabilities are flexible and adaptable to changing technology and customer needs. The system will enable financial institutions to meet customer needs such as:
+- Supply Chain Management
+- Just-in-time bill pay with acknowledgement
+- Immediate paychecks
+- Customer service refunds
+- Insurance claim reimbursements
+- Informal service payments (e.g., babysitting, lawn care)
+-30-
+About The Clearing House The Clearing House is a banking association and payments company that is owned by the largest commercial banks and dates back to 1853. The Clearing House Payments Company L.L.C. owns and operates core payments system infrastructure in the United States and is currently working to modernize that infrastructure by building a new, ubiquitous, real-time payment system. The Payments Company is the only private-sector ACH and wire operator in the United States, clearing and settling nearly $2 trillion in U.S. dollar payments each day, representing half of all commercial ACH and wire volume. Its affiliate, The Clearing House Association L.L.C., is a nonpartisan organization that engages in research, analysis, advocacy and litigation focused on financial regulation that supports a safe, sound and competitive banking system. See The Clearing House’s web page at www.theclearinghouse.org.

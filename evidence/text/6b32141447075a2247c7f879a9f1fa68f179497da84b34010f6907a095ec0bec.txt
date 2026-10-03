@@ -1,0 +1,205 @@
+Capabilities
+
+Three capabilities.
+
+One AI platform.
+
+Twenty years of expert depth.
+
+How Labarum AI engagements deliver differently — across migration, managed support, and the AI infrastructure underneath all of it.
+
+AMC
+
+AI-Augmented Managed Support
+
+NEO
+
+The Frame
+
+Vendor AI is platform-locked. Customer-side AI runs anywhere.
+
+Every workload automation vendor is shipping AI features inside their platform. That work matters and we deploy it where it fits. But the operational data that lives in enterprise scheduling environments — batch metadata, schedule definitions, dependency graphs, runbooks, incident history — is among the most confidential data a Fortune 1000 runs. It does not belong in a public model. It does not belong on a vendor’s cloud roadmap.
+
+Labarum AI built the alternative. Customer-side AI infrastructure that runs where the data runs, paired with twenty years of expert depth across every major platform in the market. Three capabilities share that platform: Automation Migration Capabilities, AI-Augmented Managed Support, and NEO — the AI infrastructure underneath them both.
+
+Capability 01
+
+Automation Migration Capabilities
+
+Move in any direction. Keep your optionality.
+
+The enterprise workload automation market consolidates roughly every seven years. Vendors get acquired. Pricing models change. Roadmaps shift. Customers running workload automation at Fortune 1000 scale cannot wait for that cycle to be friendly to them. They need the ability to move — into or out of any platform — on their timeline.
+
+Automation Migration Capabilities (AMC) is the bidirectional, platform-agnostic migration layer that gives customers that mobility. Every major scheduler in the market is parsed, converted, and validated by AMC at 80%+ auto-conversion rates. The 20% that requires expert judgment gets expert judgment.
+
+80%+
+
+Auto-conversion rate across every major scheduler.
+
+12+
+
+Schedulers covered, mainframe and distributed.
+
+20+
+
+Years of migration tooling refinement.
+
+Platforms covered.
+
+AMC handles every major workload automation platform encountered in Fortune 1000 environments. The list is bidirectional — every platform listed is supported as both source and target.
+
+Distributed
+
+TIDAL
+
+Automic / UC4
+
+Control-M
+
+Stonebranchb
+
+ANow! Automate
+
+JAMS
+
+ActiveBatch
+
+AutoSys
+
+Mainframe
+
+CA7
+
+OPC
+
+IWS / TWS
+
+ESP
+
+Migrations
+
+Source ⇄ Target on every listed platform
+
+How AMC works.
+
+Source environments are inventoried by AMC parsers — every task, workflow, calendar, variable, agent definition, credential, and dependency. The inventory becomes the migration plan. AMC converts the inventory into target-platform definitions using leading-practice patterns, then runs validation against the source behavior. The expert reviews the 20% that requires judgment, applies design decisions, and signs off the conversion.
+
+What customers get back is not just a converted environment. They get the design reasoning behind every conversion decision, captured in documentation that the AI-Augmented Managed Support layer can query forever.
+
+Capability 02
+
+AI-Augmented Managed Support
+
+Knowledge that compounds across long engagements.
+
+Most managed support contracts decay. Tribal knowledge walks out the door when an expert moves on. Runbooks go stale. Incident response gets slower over time, not faster. The customer ends up paying more for less institutional knowledge as the years go on.
+
+Labarum AI built the inverse. Every environment we run becomes documented, queryable knowledge infrastructure — fed into NEO and extended by every engagement on every shift.
+
+What gets documented.
+
+Environment
+
+Schedule definitions
+
+Dependency graphs
+
+Calendar logic
+
+Agent topology
+
+Integration points
+
+Operational SLAs
+
+Practice
+
+Runbooks
+
+Decisions
+
+Design rationale
+
+Customer policies
+
+Escalation paths
+
+Communication norms
+
+History
+
+Incident timelines
+
+Resolution patterns
+
+Change records
+
+What that gets you.
+
+When an incident hits at 2 a.m., the expert on the bridge does not have to remember every decision the previous expert made three years ago. They query the environment. NEO surfaces the relevant runbook, the original design decision, the last similar incident, and the pattern across them. The expert brings judgment to the moment. AI brings recall to the room.
+
+Over a multi-year engagement, this compounds. The longer Labarum AI runs an environment, the sharper the engagement gets — because the knowledge infrastructure is built to learn from itself.
+
+Capability 03
+
+NEO
+
+The customer-side AI platform that powers Labarum AI engagements.
+
+The enterprise workload automation market consolidates roughly every seven years. Vendors get acquired. Pricing models change. Roadmaps shift. Customers running workload automation at Fortune 1000 scale cannot wait for that cycle to be friendly to them. They need the ability to move — into or out of any platform — on their timeline.
+
+Automation Migration Capabilities (AMC) is the bidirectional, platform-agnostic migration layer that gives customers that mobility. Every major scheduler in the market is parsed, converted, and validated by AMC at 80%+ auto-conversion rates. The 20% that requires expert judgment gets expert judgment.
+
+Why customer-side.
+
+Public-cloud AI services are extraordinary at general-purpose work. They are not the right place for a Fortune 1000’s complete operational control plane. Schedule definitions reveal business cycles. Dependency graphs reveal vendor and partner integration topology. Runbook content reveals incident playbooks. None of this is data customers want fed into a third-party model’s training cycle, observability layer, or support escalation chain.
+
+NEO solves that without sacrificing capability. Customer data stays inside the customer boundary. AI capability still runs at production scale. The trade-off goes away.
+
+What's underneath.
+
+NEO runs on enterprise-grade local inference infrastructure with GPU acceleration sized for production-scale workloads. Open-source large language models are paired with retrieval-augmented generation over customer-environment knowledge graphs and migration tooling indexes. A model context protocol layer connects NEO to AMC’s parsers, the customer environment’s documentation, and the expert’s working context.
+
+The result is an AI platform that knows enterprise workload automation because it was built by experts who have spent twenty years running it.
+
+Where NEO shows up.
+
+In Migrations
+
+Reviewing AMC conversions at scale
+
+Documenting design decisions inline
+
+Generating regression test cases
+
+Extending parser coverage to new source platforms
+
+In Managed Support
+
+Surfacing runbooks at incident time
+
+Documenting decisions as they’re made
+
+Pattern-matching across prior incidents
+
+Reducing bus-factor risk across long engagements
+
+On the Platform
+
+Powering the Labarum AI expert bench across every engagement
+
+Air-gapped by default
+
+The Integrated Thesis
+
+Three capabilities. One platform. Every engagement.
+
+On a migration engagement, AMC parses, converts, and validates the source environment, while NEO documents the design decisions inline and pre-builds the knowledge graph that AI-Augmented Managed Support will query the day go-live ends. On a managed support engagement, NEO runs against the customer’s environment from day one, and AMC remains in the toolkit for any modernization or platform-shift that comes later. On a Labarum AI assessment, all three capabilities are in the room — not because they are products being upsold, but because they are how we work.
+
+This is what “Human-Led. AI-Enabled.” means in practice. Not a tagline. A platform.
+
+Bring us your environment.
+
+We’ll show you what AMC, NEO, and the expert bench can do with it.
+
+Contact

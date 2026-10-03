@@ -1,0 +1,78 @@
+{
+  "hiringOrganization": {
+    "name": "PAYCO The Clearing House Payments Company L.L.C.",
+    "url": ""
+  },
+  "jobPostingInfo": {
+    "canApply": true,
+    "country": {
+      "descriptor": "United States of America",
+      "id": "bc33aa3152ec42d4995f4791a106ed09"
+    },
+    "externalUrl": "https://theclearinghouse.wd108.myworkdayjobs.com/TheClearingHouse/job/Charlotte-Office/Linux-Systems-Engineer_JR100198",
+    "id": "d6fbb291bcb1100dc2bb399797900000",
+    "includeResumeParsing": true,
+    "jobDescription": "<p><b>Position summary:</b></p><p>Linux Systems Engineer responsible for engineering, building, supporting, securing, and maintaining large-scale Red Hat Enterprise Linux (RHEL) server infrastructure in a highly available, 24x7 enterprise production environment. This role requires extensive hands-on RHEL experience, strong troubleshooting skills, and the ability to support complex distributed infrastructure across on-premises virtualization and AWS cloud environments.</p><p><br /><b>Essential Functions and Responsibilities:</b></p><br /><ul><li>Design, engineer, implement, and support enterprise Red Hat Enterprise Linux server platforms across physical, virtual, and cloud environments.</li><li>Establish, implement, and maintain enterprise Linux engineering standards, including server build processes, configuration baselines, hardening standards, supported package levels, firmware, drivers, and lifecycle requirements.</li><li>Collaborate with Information Security and Architecture teams to implement, validate, and maintain RHEL security hardening standards and configuration baselines.</li><li>Integrate RHEL servers with enterprise infrastructure management and security platforms, including monitoring, endpoint security/anti-malware, file integrity monitoring, vulnerability management, backup, logging, and configuration management tools.</li><li>Validate, test, deploy, and troubleshoot RHEL security patches and operating system updates in accordance with enterprise patching, change management, and vulnerability remediation requirements.</li><li>Evaluate and test upgrades to operating systems, packages, drivers, firmware, microcode, and other server components before production implementation.</li><li>Implement and validate Linux security configurations to meet enterprise security, regulatory, and audit requirements. Experience supporting environments governed by standards such as PCI DSS, ISO, or comparable control frameworks is preferred.</li><li>Partner with Operations, Architecture, Security, application teams, and other infrastructure teams to maintain the current environment and design future-state Linux platforms and services.</li><li>Participate in scheduled on-call coverage and provide after-hours support for production incidents, maintenance, upgrades, and critical infrastructure activities.</li></ul><br /><p><b>Qualifications Required:</b></p><br /><ul><li>Bachelor’s degree in Computer Science, Information Technology, Engineering, or a related field, or equivalent relevant professional experience.</li><li>Extensive hands-on experience administering Red Hat Enterprise Linux in a large enterprise environment, including installation, configuration, upgrades, lifecycle management, troubleshooting, performance analysis, and production support.</li><li>Strong understanding of cloud fundamentals, infrastructure provisioning, and enterprise cloud design patterns.</li><li>Extensive experience with RHEL 8.x and 9.x on x86_64 platforms, including RHEL workloads hosted on VMware and AWS.</li><li>Strong working knowledge of enterprise infrastructure dependencies, including SAN storage (Dell/EMC), TCP/IP networking, DNS, LDAP, Active Directory integration, and firewalls.</li><li>Working knowledge of enterprise backup and recovery technologies, including Dell PowerProtect Data Manager (PPDM).</li><li>Experience provisioning, configuring, and supporting Linux virtual machines in VMware environments.</li><li>Working knowledge of Linux authentication and identity integration with LDAP and Active Directory, as well as enterprise DNS services.</li><li>Excellent verbal and written communication skills, including the ability to create clear technical documentation and communicate effectively with technical and non-technical stakeholders.</li><li>Ability to participate in a 24x7 on-call rotation and perform planned maintenance or incident response during nights, weekends, and other off-hours as required.</li><li>Demonstrated ability to work professionally and collaboratively with infrastructure, application, security, architecture, operations, and other enterprise technology teams.</li></ul><br /><p><b>Qualifications Desired:</b></p><br /><ul><li>Experience supporting enterprise Linux workloads across VMware virtualization and AWS cloud environments.</li><li>Experience with VMware infrastructure concepts, including virtual networking, VLANs, compute, storage, and virtual machine lifecycle management.</li><li>Demonstrated ability to analyze and resolve complex infrastructure and operating system issues using structured troubleshooting and root-cause analysis.</li><li>Experience with AWS services and cloud-based Linux infrastructure is preferred.</li><li>Experience with Linux automation and scripting, such as Bash, Python, Ansible, or comparable tools.</li><li>Experience with enterprise monitoring, performance management, vulnerability management, configuration management, and security tooling.</li></ul><br /><br /><p><b>Physical Demands and Work Environment:</b> The working environment is generally favorable. Lighting and temperature are adequate, and there are no hazardous or unpleasant conditions caused by noise, dust, etc. Work is generally performed within an office environment, with standard office equipment available. Travel may be required. Candidates will report to the office three days each week. Onsite work requirements may change at any time. </p><br /><p><b>About The Clearing House: </b>The Clearing House Payments Company L.L.C. is a bank-owned industry utility that shapes the payments landscape and provides infrastructure for safe, reliable, and efficient payments. We see an economy where everyone is connected and a future where modern payments make life easier. The Clearing House operates four payment systems: a high-value wire-transfer system (the CHIPS® network), the country’s first and largest instant payments system (the RTP® network), an automated clearinghouse network (the EPN® network), and a check image exchange network (the Image Exchange Network). TCH also operates a bank account number tokenization service, runs a payments association known as the TCH Payments Authority, and maintains the rules for private-sector check image exchange through its ECCHO® business line. </p><p><br /><br /></p>",
+    "jobPostingId": "Linux-Systems-Engineer_JR100198",
+    "jobPostingSiteId": "TheClearingHouse",
+    "jobReqId": "JR100198",
+    "jobRequisitionLocation": {
+      "country": {
+        "alpha2Code": "US",
+        "descriptor": "United States of America",
+        "id": "bc33aa3152ec42d4995f4791a106ed09"
+      },
+      "descriptor": "Charlotte Office"
+    },
+    "location": "Charlotte Office",
+    "posted": true,
+    "postedOn": "Posted Yesterday",
+    "questionnaireId": "416fc4b6e988100114d79736c4ff0000",
+    "startDate": "2026-10-01",
+    "timeType": "Full time",
+    "title": "Linux Systems Engineer"
+  },
+  "similarJobs": [
+    {
+      "externalPath": "/job/Charlotte-Office/Cloud-Computing-Engineer---AWS_JR100196-4",
+      "locationsText": "Charlotte Office",
+      "postedOn": "Posted 4 Days Ago",
+      "startDate": "2026-09-28",
+      "timeType": "Full time",
+      "title": "Cloud Computing Engineer - AWS"
+    },
+    {
+      "externalPath": "/job/North-Carolina-Office/Senior-Technology-Architect---Hybrid-Infrastructure---Cloud_JR100187",
+      "locationsText": "2 Locations",
+      "postedOn": "Posted 23 Days Ago",
+      "startDate": "2026-09-09",
+      "timeType": "Full time",
+      "title": "Senior Technology Architect - Hybrid Infrastructure & Cloud"
+    },
+    {
+      "externalPath": "/job/North-Carolina-Office/Senior-Technology-Architect---Hybrid-Infrastructure---Cloud_JR100199-1",
+      "locationsText": "2 Locations",
+      "postedOn": "Posted 3 Days Ago",
+      "startDate": "2026-09-29",
+      "timeType": "Full time",
+      "title": "Senior Technology Architect - Hybrid Infrastructure & Cloud"
+    },
+    {
+      "externalPath": "/job/Charlotte-Office/Software-Engineer_JR100177-5",
+      "locationsText": "Charlotte Office",
+      "postedOn": "Posted 21 Days Ago",
+      "startDate": "2026-09-11",
+      "timeType": "Full time",
+      "title": "Software Engineer"
+    },
+    {
+      "externalPath": "/job/Charlotte-Office/Senior-Software-Developer-Engineer-in-Testing_JR100159",
+      "locationsText": "Charlotte Office",
+      "postedOn": "Posted 30+ Days Ago",
+      "startDate": "2026-08-27",
+      "timeType": "Full time",
+      "title": "Senior Software Developer Engineer in Testing"
+    }
+  ],
+  "userAuthenticated": false
+}

@@ -1,0 +1,687 @@
+{
+  "_shards": {
+    "failed": 0,
+    "skipped": 0,
+    "successful": 50,
+    "total": 50
+  },
+  "aggregations": {
+    "biz_states_filter": {
+      "buckets": [
+        {
+          "doc_count": 12,
+          "key": "WI"
+        }
+      ],
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0
+    },
+    "entity_filter": {
+      "buckets": [
+        {
+          "doc_count": 9,
+          "key": "FISERV INC  (FISV)  (CIK 0000798354)"
+        },
+        {
+          "doc_count": 3,
+          "key": "FISERV INC  (FI)  (CIK 0000798354)"
+        }
+      ],
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0
+    },
+    "form_filter": {
+      "buckets": [
+        {
+          "doc_count": 6,
+          "key": "8-K"
+        },
+        {
+          "doc_count": 3,
+          "key": "10-Q"
+        },
+        {
+          "doc_count": 2,
+          "key": "10-K"
+        },
+        {
+          "doc_count": 1,
+          "key": "DEFA14A"
+        }
+      ],
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0
+    },
+    "sic_filter": {
+      "buckets": [
+        {
+          "doc_count": 12,
+          "key": "7389"
+        }
+      ],
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0
+    }
+  },
+  "hits": {
+    "hits": [
+      {
+        "_id": "0000798354-26-000014:fisvq126earningsrelease.htm",
+        "_index": "edgar_file",
+        "_score": 14.140743,
+        "_source": {
+          "adsh": "0000798354-26-000014",
+          "biz_locations": [
+            "Milwaukee, WI"
+          ],
+          "biz_states": [
+            "WI"
+          ],
+          "ciks": [
+            "0000798354"
+          ],
+          "display_names": [
+            "FISERV INC  (FISV)  (CIK 0000798354)"
+          ],
+          "file_date": "2026-05-05",
+          "file_description": "EX-99.1",
+          "file_num": [
+            "001-38962"
+          ],
+          "file_type": "EX-99.1",
+          "film_num": [
+            "26940437"
+          ],
+          "form": "8-K",
+          "inc_states": [
+            "WI"
+          ],
+          "items": [
+            "2.02",
+            "9.01"
+          ],
+          "period_ending": "2026-05-05",
+          "root_forms": [
+            "8-K"
+          ],
+          "sequence": "2",
+          "sics": [
+            "7389"
+          ],
+          "xsl": null
+        }
+      },
+      {
+        "_id": "0000798354-26-000009:fi-20251231.htm",
+        "_index": "edgar_file",
+        "_score": 13.858567,
+        "_source": {
+          "adsh": "0000798354-26-000009",
+          "biz_locations": [
+            "Milwaukee, WI"
+          ],
+          "biz_states": [
+            "WI"
+          ],
+          "ciks": [
+            "0000798354"
+          ],
+          "display_names": [
+            "FISERV INC  (FISV)  (CIK 0000798354)"
+          ],
+          "file_date": "2026-02-19",
+          "file_description": "10-K",
+          "file_num": [
+            "001-38962"
+          ],
+          "file_type": "10-K",
+          "film_num": [
+            "26654686"
+          ],
+          "form": "10-K",
+          "inc_states": [
+            "WI"
+          ],
+          "items": [],
+          "period_ending": "2025-12-31",
+          "root_forms": [
+            "10-K"
+          ],
+          "sequence": 1,
+          "sics": [
+            "7389"
+          ],
+          "xsl": null
+        }
+      },
+      {
+        "_id": "0000798354-26-000006:fisv4q25earningsrelease.htm",
+        "_index": "edgar_file",
+        "_score": 13.85797,
+        "_source": {
+          "adsh": "0000798354-26-000006",
+          "biz_locations": [
+            "Milwaukee, WI"
+          ],
+          "biz_states": [
+            "WI"
+          ],
+          "ciks": [
+            "0000798354"
+          ],
+          "display_names": [
+            "FISERV INC  (FISV)  (CIK 0000798354)"
+          ],
+          "file_date": "2026-02-10",
+          "file_description": "EX-99.1",
+          "file_num": [
+            "001-38962"
+          ],
+          "file_type": "EX-99.1",
+          "film_num": [
+            "26613453"
+          ],
+          "form": "8-K",
+          "inc_states": [
+            "WI"
+          ],
+          "items": [
+            "2.02",
+            "9.01"
+          ],
+          "period_ending": "2026-02-10",
+          "root_forms": [
+            "8-K"
+          ],
+          "sequence": "2",
+          "sics": [
+            "7389"
+          ],
+          "xsl": null
+        }
+      },
+      {
+        "_id": "0000798354-26-000028:fisvq226earningsrelease.htm",
+        "_index": "edgar_file",
+        "_score": 13.797655,
+        "_source": {
+          "adsh": "0000798354-26-000028",
+          "biz_locations": [
+            "Milwaukee, WI"
+          ],
+          "biz_states": [
+            "WI"
+          ],
+          "ciks": [
+            "0000798354"
+          ],
+          "display_names": [
+            "FISERV INC  (FISV)  (CIK 0000798354)"
+          ],
+          "file_date": "2026-08-06",
+          "file_description": "EX-99.1",
+          "file_num": [
+            "001-38962"
+          ],
+          "file_type": "EX-99.1",
+          "film_num": [
+            "261245959"
+          ],
+          "form": "8-K",
+          "inc_states": [
+            "WI"
+          ],
+          "items": [
+            "2.02",
+            "9.01"
+          ],
+          "period_ending": "2026-08-06",
+          "root_forms": [
+            "8-K"
+          ],
+          "sequence": "2",
+          "sics": [
+            "7389"
+          ],
+          "xsl": null
+        }
+      },
+      {
+        "_id": "0001193125-26-270336:d153349dex991.htm",
+        "_index": "edgar_file",
+        "_score": 13.635123,
+        "_source": {
+          "adsh": "0001193125-26-270336",
+          "biz_locations": [
+            "Milwaukee, WI"
+          ],
+          "biz_states": [
+            "WI"
+          ],
+          "ciks": [
+            "0000798354"
+          ],
+          "display_names": [
+            "FISERV INC  (FISV)  (CIK 0000798354)"
+          ],
+          "file_date": "2026-06-15",
+          "file_description": "EX-99.1",
+          "file_num": [
+            "001-38962"
+          ],
+          "file_type": "EX-99.1",
+          "film_num": [
+            "261089127"
+          ],
+          "form": "8-K",
+          "inc_states": [
+            "WI"
+          ],
+          "items": [
+            "5.02",
+            "7.01",
+            "9.01"
+          ],
+          "period_ending": "2026-06-12",
+          "root_forms": [
+            "8-K"
+          ],
+          "sequence": "4",
+          "sics": [
+            "7389"
+          ],
+          "xsl": null
+        }
+      },
+      {
+        "_id": "0001193125-26-271750:d333695dex991.htm",
+        "_index": "edgar_file",
+        "_score": 13.024233,
+        "_source": {
+          "adsh": "0001193125-26-271750",
+          "biz_locations": [
+            "Milwaukee, WI"
+          ],
+          "biz_states": [
+            "WI"
+          ],
+          "ciks": [
+            "0000798354"
+          ],
+          "display_names": [
+            "FISERV INC  (FISV)  (CIK 0000798354)"
+          ],
+          "file_date": "2026-06-16",
+          "file_description": "EX-99.1",
+          "file_num": [
+            "001-38962"
+          ],
+          "file_type": "EX-99.1",
+          "film_num": [
+            "261092811"
+          ],
+          "form": "8-K",
+          "inc_states": [
+            "WI"
+          ],
+          "items": [
+            "7.01",
+            "9.01"
+          ],
+          "period_ending": "2026-06-16",
+          "root_forms": [
+            "8-K"
+          ],
+          "sequence": "2",
+          "sics": [
+            "7389"
+          ],
+          "xsl": null
+        }
+      },
+      {
+        "_id": "0000798354-25-000047:fi-20241231.htm",
+        "_index": "edgar_file",
+        "_score": 12.484079,
+        "_source": {
+          "adsh": "0000798354-25-000047",
+          "biz_locations": [
+            "Milwaukee, WI"
+          ],
+          "biz_states": [
+            "WI"
+          ],
+          "ciks": [
+            "0000798354"
+          ],
+          "display_names": [
+            "FISERV INC  (FI)  (CIK 0000798354)"
+          ],
+          "file_date": "2025-02-20",
+          "file_description": "10-K",
+          "file_num": [
+            "001-38962"
+          ],
+          "file_type": "10-K",
+          "film_num": [
+            "25643292"
+          ],
+          "form": "10-K",
+          "inc_states": [
+            "WI"
+          ],
+          "items": [],
+          "period_ending": "2024-12-31",
+          "root_forms": [
+            "10-K"
+          ],
+          "sequence": 1,
+          "sics": [
+            "7389"
+          ],
+          "xsl": null
+        }
+      },
+      {
+        "_id": "0001193125-26-224085:d127045ddefa14a.htm",
+        "_index": "edgar_file",
+        "_score": 10.5837345,
+        "_source": {
+          "adsh": "0001193125-26-224085",
+          "biz_locations": [
+            "Milwaukee, WI"
+          ],
+          "biz_states": [
+            "WI"
+          ],
+          "ciks": [
+            "0000798354"
+          ],
+          "display_names": [
+            "FISERV INC  (FISV)  (CIK 0000798354)"
+          ],
+          "file_date": "2026-05-14",
+          "file_description": "DEFA14A",
+          "file_num": [
+            "001-38962"
+          ],
+          "file_type": "DEFA14A",
+          "film_num": [
+            "26979234"
+          ],
+          "form": "DEFA14A",
+          "inc_states": [
+            "WI"
+          ],
+          "items": [],
+          "period_ending": null,
+          "root_forms": [
+            "DEFA14A"
+          ],
+          "sequence": 1,
+          "sics": [
+            "7389"
+          ],
+          "xsl": null
+        }
+      },
+      {
+        "_id": "0000798354-25-000168:fiq325earningsrelease.htm",
+        "_index": "edgar_file",
+        "_score": 10.025089,
+        "_source": {
+          "adsh": "0000798354-25-000168",
+          "biz_locations": [
+            "Milwaukee, WI"
+          ],
+          "biz_states": [
+            "WI"
+          ],
+          "ciks": [
+            "0000798354"
+          ],
+          "display_names": [
+            "FISERV INC  (FI)  (CIK 0000798354)"
+          ],
+          "file_date": "2025-10-29",
+          "file_description": "EX-99.1",
+          "file_num": [
+            "001-38962"
+          ],
+          "file_type": "EX-99.1",
+          "film_num": [
+            "251426817"
+          ],
+          "form": "8-K",
+          "inc_states": [
+            "WI"
+          ],
+          "items": [
+            "2.02",
+            "9.01"
+          ],
+          "period_ending": "2025-10-29",
+          "root_forms": [
+            "8-K"
+          ],
+          "sequence": "2",
+          "sics": [
+            "7389"
+          ],
+          "xsl": null
+        }
+      },
+      {
+        "_id": "0000798354-26-000018:fisv-20260331.htm",
+        "_index": "edgar_file",
+        "_score": 6.8917894,
+        "_source": {
+          "adsh": "0000798354-26-000018",
+          "biz_locations": [
+            "Milwaukee, WI"
+          ],
+          "biz_states": [
+            "WI"
+          ],
+          "ciks": [
+            "0000798354"
+          ],
+          "display_names": [
+            "FISERV INC  (FISV)  (CIK 0000798354)"
+          ],
+          "file_date": "2026-05-06",
+          "file_description": "10-Q",
+          "file_num": [
+            "001-38962"
+          ],
+          "file_type": "10-Q",
+          "film_num": [
+            "26945834"
+          ],
+          "form": "10-Q",
+          "inc_states": [
+            "WI"
+          ],
+          "items": [],
+          "period_ending": "2026-03-31",
+          "root_forms": [
+            "10-Q"
+          ],
+          "sequence": 1,
+          "sics": [
+            "7389"
+          ],
+          "xsl": null
+        }
+      },
+      {
+        "_id": "0000798354-26-000031:fisv-20260630.htm",
+        "_index": "edgar_file",
+        "_score": 6.2949944,
+        "_source": {
+          "adsh": "0000798354-26-000031",
+          "biz_locations": [
+            "Milwaukee, WI"
+          ],
+          "biz_states": [
+            "WI"
+          ],
+          "ciks": [
+            "0000798354"
+          ],
+          "display_names": [
+            "FISERV INC  (FISV)  (CIK 0000798354)"
+          ],
+          "file_date": "2026-08-07",
+          "file_description": "10-Q",
+          "file_num": [
+            "001-38962"
+          ],
+          "file_type": "10-Q",
+          "film_num": [
+            "261251398"
+          ],
+          "form": "10-Q",
+          "inc_states": [
+            "WI"
+          ],
+          "items": [],
+          "period_ending": "2026-06-30",
+          "root_forms": [
+            "10-Q"
+          ],
+          "sequence": 1,
+          "sics": [
+            "7389"
+          ],
+          "xsl": null
+        }
+      },
+      {
+        "_id": "0000798354-25-000171:fisv-20250930.htm",
+        "_index": "edgar_file",
+        "_score": 3.9290257,
+        "_source": {
+          "adsh": "0000798354-25-000171",
+          "biz_locations": [
+            "Milwaukee, WI"
+          ],
+          "biz_states": [
+            "WI"
+          ],
+          "ciks": [
+            "0000798354"
+          ],
+          "display_names": [
+            "FISERV INC  (FI)  (CIK 0000798354)"
+          ],
+          "file_date": "2025-10-30",
+          "file_description": "10-Q",
+          "file_num": [
+            "001-38962"
+          ],
+          "file_type": "10-Q",
+          "film_num": [
+            "251432170"
+          ],
+          "form": "10-Q",
+          "inc_states": [
+            "WI"
+          ],
+          "items": [],
+          "period_ending": "2025-09-30",
+          "root_forms": [
+            "10-Q"
+          ],
+          "sequence": 1,
+          "sics": [
+            "7389"
+          ],
+          "xsl": null
+        }
+      }
+    ],
+    "max_score": 14.140743,
+    "total": {
+      "relation": "eq",
+      "value": 12
+    }
+  },
+  "query": {
+    "_source": {
+      "exclude": [
+        "doc_text"
+      ]
+    },
+    "aggregations": {
+      "biz_states_filter": {
+        "terms": {
+          "field": "biz_states",
+          "size": 30
+        }
+      },
+      "entity_filter": {
+        "terms": {
+          "field": "display_names.raw",
+          "size": 30
+        }
+      },
+      "form_filter": {
+        "terms": {
+          "field": "root_forms",
+          "size": 30
+        }
+      },
+      "sic_filter": {
+        "terms": {
+          "field": "sics",
+          "size": 30
+        }
+      }
+    },
+    "from": 0,
+    "query": {
+      "bool": {
+        "filter": [
+          {
+            "terms": {
+              "root_forms": [
+                "10-K",
+                "10-Q",
+                "8-K",
+                "DEFA14A"
+              ]
+            }
+          },
+          {
+            "terms": {
+              "ciks": [
+                "0000798354"
+              ]
+            }
+          },
+          {
+            "range": {
+              "file_date": {
+                "gte": "2024-10-02",
+                "lte": "2026-10-02"
+              }
+            }
+          }
+        ],
+        "must": [
+          {
+            "match_phrase": {
+              "doc_text": "artificial intelligence"
+            }
+          }
+        ],
+        "must_not": [],
+        "should": []
+      }
+    },
+    "size": 100
+  },
+  "timed_out": false,
+  "took": 464
+}

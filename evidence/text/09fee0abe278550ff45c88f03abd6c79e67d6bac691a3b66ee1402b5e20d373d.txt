@@ -1,0 +1,45 @@
+What We Offer keyboard_arrow_down Securities Services arrow_forward Fund & Investor Solutions Custody Managed Account Solutions Integrated Middle Office Solutions Global Clearing Issuer Services arrow_forward Conventional Trust Structured Debt Depositary Receipts Liquidity, Financing & Collateral arrow_forward Liquidity & Financing Credit & Lending Global Collateral Global Payments & Trade arrow_forward Payments Cash Management Trade Finance Markets Execution Services arrow_forward FX Fixed Income Equities Buy-Side Trading Solutions Investments arrow_forward Wealth arrow_forward BNY Pershing/Wealth Services arrow_forward Data & Analytics arrow_forward Digital Assets arrow_forward
+
+Who We Serve keyboard_arrow_down Alternative Asset Managers Investment Managers Asset Owners Insurance Companies Banks Broker-Dealers Corporations Wealth Intermediaries Individuals, Families & Family Offices
+
+Insights keyboard_arrow_down BNY Institute arrow_forward All Insights arrow_forward BNY Institute At the Table with BNY Experts: Summer Edition Read more arrow_forward BNY Wealth Structuring the Sale: Insights for Private Business Owners Read more arrow_forward
+
+About Us keyboard_arrow_down About BNY arrow_forward Leadership Office Locations Sustainability Technology & Innovation Thrive Together Newsroom arrow_forward Trust Center arrow_forward Careers arrow_forward Search BNY Jobs Early Career Opportunities Experienced Professionals
+
+Investor Relations keyboard_arrow_right Overview Press Releases Quarterly Earnings Events & Presentations Annual Reports & Proxy Statements SEC Filings & Other Disclosures Shareholder Services Fixed Income Corporate Governance Contact JULY 2026 BNY Reports Second Quarter 2026 Results Learn more arrow_forward FEBRUARY 2026 Annual Report 2025: Built for Opportunity Learn more arrow_forward
+
+Investor Relations Overview Press Releases Quarterly Earnings Events & Presentations Annual Reports & Proxy Statements SEC Filings & Other Disclosures Shareholder Services Fixed Income Corporate Governance Contact JULY 2026 BNY Reports Second Quarter 2026 Results Learn more arrow_forward FEBRUARY 2026 Annual Report 2025: Built for Opportunity Learn more arrow_forward
+
+Client Access
+
+SUGGESTED RESULTS
+
+Search Results
+
+Project Aikya
+
+Enhanced Anomaly Detection in Financial Transactions through Decentralized AI
+
+We are witnessing the dawn of the AI Age, where it is paramount for all organizations to harness data for everything from predictive analytics to Large Language Models (LLMs) and Agentic applications. While the largest institutions can achieve considerable success on their own, the power of this technology can further be augmented if multiple organizations are able to collaborate on building complex models. Project AIKYA is an exciting proof-of-concept (PoC) for Federated Learning (FL), developed through a collaboration between Kinexys by J.P. Morgan and BNY. This paper details the premise, setup and results of the experiment, showcasing the effectiveness of FL in enhancing predictive capabilities.
+
+Introduction
+
+Recent advances in computing power, scalable storage, and software tooling have empowered financial institutions to harness historical data for training machine learning (ML) models for a variety of use cases in predictive analytics and anomaly detection. These models unlock actionable insights—improving fraud detection, personalizing product offerings, and identifying anomalies in payment systems. As a result, institutions have invested heavily in building robust data repositories, processing pipelines, and machine learning infrastructure.
+
+Building on these advancements, there is an ongoing opportunity to further improve model efficiency and performance by leveraging larger and more diverse datasets. This is particularly relevant in the cross-border payments ecosystem, where critical insights are often distributed across geographies and institutions.
+
+One approach to achieving better model performance could be through the creation of a centralized data repository spanning multiple institutions. Howbeit, legal, regulatory, and competitive considerations often render this approach impractical. Stringent data privacy laws restrict data sharing—even within different regions of the same organization.
+
+These dynamics highlight an opportunity to enhance machine learning models by exploring alternative approaches to data collaboration. Decentralized AI is a class of techniques which have emerged in response to this need. Decentralized AI moves away from single central entities, towards distributed systems and networks. FL enables decentralization of training and evaluating ML models, while Privacy-Enhancing Techniques (PETs) keeps the trustless execution environment secure.
+
+Project AIKYA
+
+Disclaimers:
+
+BNY is the corporate brand of The Bank of New York Mellon Corporation and may be used to reference the corporation as a whole and/or its various subsidiaries generally. This material does not constitute a recommendation by BNY of any kind. The information is for informational purposes only and is not a commitment to deliver any product or service. The product and its features are currently under development and are subject to change. The product is not yet available and is still subject to final internal governance and approvals. BNY makes no representations or warranties regarding the product, its features, or its availability. Any release dates or timelines provided are estimates and are subject to change. BNY reserves the right to make any modifications to the product and its features at any time without prior notice. The views expressed within this material are those of the contributors and not necessarily those of BNY. BNY has not independently verified the information contained in this material and makes no representation as to the accuracy, completeness, timeliness, merchantability or fitness for a specific purpose of the information provided in this material. BNY assumes no direct or consequential liability for any errors in or reliance upon this material. BNY will not be responsible for updating any information contained within this material and opinions and information contained herein are subject to change without notice. Trademarks, service marks, logos and other intellectual property marks belong to their respective owners.
+
+© 2025 The Bank of New York Mellon. All rights reserved. Member FDIC.
+
+BNY is the corporate brand of The Bank of New York Mellon Corporation and may be used to reference the corporation as a whole or its various subsidiaries generally. BNY.com provides information about services provided by BNY and its affiliates. Not all accounts, products, and services are available in all jurisdictions or to all customers. ©2026 BNY.
+
+Visit our websites around the world.

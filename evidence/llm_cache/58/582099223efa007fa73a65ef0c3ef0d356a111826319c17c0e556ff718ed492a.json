@@ -1,0 +1,235 @@
+{
+ "key": "582099223efa007fa73a65ef0c3ef0d356a111826319c17c0e556ff718ed492a",
+ "model": "gemini-3.5-flash-lite",
+ "payload_sha256": "c638851c0215e490b08fbf07c464b80d434972f9aa71bc2d2f08c4e253b77173",
+ "prompt_sha256": "065bd458ace52ff274c72967cfe1b90c794a1ec8d3a3696ec78d7d8cf636df94",
+ "response": {
+  "claims": [
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M1",
+      "span": "AI"
+     },
+     {
+      "code": "G2",
+      "span": "New development, whether it’s a platform or feature build is much faster"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P1",
+    "quote": "It’s changing a lot. It’s much faster with AI. New development, whether it’s a platform or feature build is much faster.",
+    "subject": "vendor_staff_tools",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "transaction enrichment feature"
+     },
+     {
+      "code": "G11",
+      "span": "six weeks"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P2",
+    "quote": "You see Vision Next there, we build a transaction enrichment feature and went live with a client in six weeks using AI.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "testing, change management, and observability"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P2",
+    "quote": "I’d also call out AI and other tech areas like testing, change management, and observability.",
+    "subject": "vendor_staff_tools",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "automated_action",
+    "ai_type": "conversational",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [
+     "calls"
+    ],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "embedding voice AI"
+     },
+     {
+      "code": "G11",
+      "span": "over 98% of calls"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P3",
+    "quote": "We’re running a pilot today with our call center, where in addition to the traditional IVR, we’re embedding voice AI, and what that’s allowing us to do is to get to a containment rate of over 98% of calls.",
+    "subject": "vendor_operations",
+    "temporal": "pilot_or_beta"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "agentic",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "agentic AI resolution"
+     },
+     {
+      "code": "G11",
+      "span": "95% self-resolution rate"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P4",
+    "quote": "With a pilot we’re running, our clients are seeing 95% self-resolution rate, which is better than our expectations. And so we’re moving from that to agentic AI resolution.",
+    "subject": "vendor_product",
+    "temporal": "pilot_or_beta"
+   },
+   {
+    "action_level": "automated_action",
+    "ai_type": "agentic",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [
+     "ticket"
+    ],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "ticket gets agentically resolved"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P4",
+    "quote": "So if you’re a client and you’re opening up a ticket, that ticket gets agentically resolved, and you’re going to see all of that in our servicing demo outside.",
+    "subject": "vendor_product",
+    "temporal": "pilot_or_beta"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "ai_partnership",
+    "data_mentioned": [],
+    "indicators": [],
+    "named_providers": [],
+    "passage_id": "P5",
+    "quote": "Again, here, we’re proud to be partnering with a lot of capable AI companies in the world to bring that to life.",
+    "subject": "vendor_operations",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "agentic",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G1",
+      "span": "agentOS"
+     },
+     {
+      "code": "G2",
+      "span": "agentic commerce"
+     },
+     {
+      "code": "M2",
+      "span": "initiatives"
+     }
+    ],
+    "named_providers": [
+     "agentOS"
+    ],
+    "passage_id": "P7",
+    "quote": "This includes initiatives that you’ve heard about earlier, such as agentOS, agentic commerce, and work across stablecoin and the broader embedded finance opportunity.",
+    "subject": "vendor_product",
+    "temporal": "planned"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M1",
+      "span": "AI operating at the core"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P8",
+    "quote": "Along with Elevate, we have ample room to simplify the business and execute faster and more efficiently, including AI operating at the core of everything that we do.",
+    "subject": "vendor_operations",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "automated_action",
+    "ai_type": "unspecified",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "fully automate our contact centers using AI across all channels"
+     },
+     {
+      "code": "M2",
+      "span": "underway"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P9",
+    "quote": "And as part of this effort is a significant project that we have underway to fully automate our contact centers using AI across all channels.",
+    "subject": "vendor_operations",
+    "temporal": "planned"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "agentic",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G1",
+      "span": "agentOS"
+     },
+     {
+      "code": "G2",
+      "span": "control layer of the agentic operations for a bank"
+     }
+    ],
+    "named_providers": [
+     "agentOS"
+    ],
+    "passage_id": "P11",
+    "quote": "And second, I want to make sure we work this in. I think the agentOS is a really interesting development, establishing, uh, Fiserv at the control layer of the agentic operations for a bank.",
+    "subject": "vendor_product",
+    "temporal": "planned"
+   }
+  ]
+ },
+ "role": "extract",
+ "schema_sha256": "f1cd07fdb8e496624608717927261043432a3bd93d84723a126b7c7d951d68df",
+ "seed": 1234
+}

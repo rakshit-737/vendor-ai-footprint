@@ -1,0 +1,26 @@
+Topic: 
+                
+            
+            
+            Type: 
+                ACH
+            
+        
+                                
+             Member Fee: 
+                 $0
+            
+            
+            Non-Member Fee: 
+                $50
+            
+            
+            
+                
+            
+        
+        
+            This sample document provides two templates that may be used for requesting a copy of an ACH Authorization: 
+    - from an ODFI to and RDFI, as well as
+- from an Originator to an ODFI
+Each template already starts with minimal pieces of information appropriate for a request, so that other party would be able to trace the transaction in a timely manner. These documents are also formatted to allow enough space on each page for you to make them fit the needs of your organization.

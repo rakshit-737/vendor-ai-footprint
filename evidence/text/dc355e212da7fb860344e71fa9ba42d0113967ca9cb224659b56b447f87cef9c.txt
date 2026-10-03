@@ -1,0 +1,67 @@
+What We Offer keyboard_arrow_down Securities Services arrow_forward Fund & Investor Solutions Custody Managed Account Solutions Integrated Middle Office Solutions Global Clearing Issuer Services arrow_forward Conventional Trust Structured Debt Depositary Receipts Liquidity, Financing & Collateral arrow_forward Liquidity & Financing Credit & Lending Global Collateral Global Payments & Trade arrow_forward Payments Cash Management Trade Finance Markets Execution Services arrow_forward FX Fixed Income Equities Buy-Side Trading Solutions Investments arrow_forward Wealth arrow_forward BNY Pershing/Wealth Services arrow_forward Data & Analytics arrow_forward Digital Assets arrow_forward
+
+Who We Serve keyboard_arrow_down Alternative Asset Managers Investment Managers Asset Owners Insurance Companies Banks Broker-Dealers Corporations Wealth Intermediaries Individuals, Families & Family Offices
+
+Insights keyboard_arrow_down BNY Institute arrow_forward All Insights arrow_forward BNY Institute At the Table with BNY Experts: Summer Edition Read more arrow_forward BNY Wealth Structuring the Sale: Insights for Private Business Owners Read more arrow_forward
+
+About Us keyboard_arrow_down About BNY arrow_forward Leadership Office Locations Sustainability Technology & Innovation Thrive Together Newsroom arrow_forward Trust Center arrow_forward Careers arrow_forward Search BNY Jobs Early Career Opportunities Experienced Professionals
+
+Investor Relations keyboard_arrow_right Overview Press Releases Quarterly Earnings Events & Presentations Annual Reports & Proxy Statements SEC Filings & Other Disclosures Shareholder Services Fixed Income Corporate Governance Contact JULY 2026 BNY Reports Second Quarter 2026 Results Learn more arrow_forward FEBRUARY 2026 Annual Report 2025: Built for Opportunity Learn more arrow_forward
+
+Investor Relations Overview Press Releases Quarterly Earnings Events & Presentations Annual Reports & Proxy Statements SEC Filings & Other Disclosures Shareholder Services Fixed Income Corporate Governance Contact JULY 2026 BNY Reports Second Quarter 2026 Results Learn more arrow_forward FEBRUARY 2026 Annual Report 2025: Built for Opportunity Learn more arrow_forward
+
+Client Access
+
+SUGGESTED RESULTS
+
+Search Results
+
+A Global View on Loan Portfolios: Service and Technology Innovation
+
+The alternative asset market is evolving. Interest in syndicated loans and related products has grown on an exponential level in the last two years, with a large number of refinancing alongside new issuances. In our latest Corporate Trust Expert Conversation, our panel of experts discussed a wide range of topics, picking up on a previous series on transparency and client demands for data and the use cases for LoanArcSM, BNY Mellon’s secure, web-based loan reporting solution.
+
+Increased attention to alternative asset classes of all kinds is intensifying pressures on fees, transparency, and control for our clients. This scrutiny puts technology and service innovation high on their agenda. In this second of two parts, we discussed how loan settlement and document delivery technologies, as well as BNY Mellon’s LoanArcSM, deliver on the promise of increased efficiency and transparency.
+
+How can we gain some of the efficiencies that the market is now demanding?
+
+Aidan Canny, Managing Director of Regional Markets and Investment Managers for Corporate Trust, EMEA: A major part of where BNY Mellon can add value is in helping to reduce settlement time. We participate in the LMA European Loan Operations Committee, the focus of which has been to improve market efficiency and settlement times by addressing some of the issues with Facility Agents and Know Your Customer requirements. One simple but effective example is the creation and use of a Facility Agent escalation matrix. Another is the harmonization of settlement instructions. These measures have seen LMA average settlement times decrease by more than 26 percent.
+
+On the other side, we perform Loan Documentation Closing Services on behalf of a third party. Because of our proactive approach, our trades settle on average five days ahead of standard LMA times and seven to eight days ahead of standard LSTA times, an over 40 percent improvement.
+
+Medita Vucic, Group Manager for U.S. Financial Institutions: Let me add to that. Anecdotally, clients say that solutions that streamline the settlement and document delivery process achieved greater efficiency within their operations.
+
+Catriona Coyne, Senior Product Manager, EMEA: It definitely creates huge efficiencies for both our clients and for us. Beyond the actual loan settlement, we are updating the trade data in our system and making it available through LoanArc in a more real-time manner to support market demand trends.
+
+What is driving investor demand for efficiency and for transparency, and how do those two demands converge?
+
+Coyne: In terms of transparency, EMEA regulators and some investors are driving the demand. In order for service providers and clients to respond, they need to become more efficient in tracking, recording, and updating data.
+
+Vucic: The same applies in the U.S, albeit on the regulatory front it is more a wait and see, and investors are driving more of the transparency demand. Therefore, larger managers who have legacy systems need to get onto the latest technology to take in information from their service providers. They need more thoughtful technology innovation to create efficiency. In the past, they relied on adding people both onshore and offshore, but they are reaching a tipping point where that may no longer make sense.
+
+Canny: Clients in EMEA as well say that they want more frequent reporting, but the inefficiency of the market and the lack of proper electronic platforms to trade and sell loans still has a knock-on impact across the board. At BNY Mellon we are continually adapting our technology for them to access real-time information.
+
+Vucic: And get data. They are looking for real-time hypo testing, allocation of risk summaries, and even shock testing. There is software that does that, so we need to make our data available to them to unlock its value. From there, they get the improved compliance reporting.
+
+Coyne: Right. We help clients do that when we offer APIs and provide system-to-system data feeds. It means that we go straight through to their reconciliation system rather than using email, for example.
+
+Canny: Clients expect solutions that will save them costs, time, and effort. They are required in most circumstances to maintain their own books and records in parallel to us, but they do not want to have to re-reconcile what we do on a manual basis. They want us to deliver information to them live, real time, at any point in time in a given day without huge manual interventions.
+
+How is LoanArc fitting within this picture?
+
+Vucic: LoanArc brings us to more real time portfolio management, and unlocks our data on a more real time basis versus a monthly basis. In the U.S., the market needs that and wants it now. LoanArc gets them closer to real time portfolio management by making the information available for people to manage their portfolios on a more frequent basis rather than historically.
+
+Coyne: There are also differences between CLO managers who want real-time loan data and compliance tests, and the typical loan fund client who is looking for cash positions and pricing. In upcoming releases, LoanArc will be able to be tailored to both types of clients and expose all of the information that we have on a portfolio, whether it be compliance results or cash positions and accrual information.
+
+Vucic: From a client perspective, BNY Mellon is uniquely positioned to do this because we are the world's largest global custodian. We have significant expertise in this asset class, and our client base is looking to us to help make them more efficient.
+
+Read Part 1 of our Corporate Trust Expert Conversation for a primer on the global trends that affect client needs for new solutions and technologies.
+
+©2018 The Bank of New York Mellon Corporation. All rights reserved. BNY Mellon is the corporate brand for The Bank of New York Mellon Corporation. Products and services referred to herein are provided by The Bank of New York Mellon Corporation and its subsidiaries. Content is provided for informational purposes only and is not intended to provide authoritative financial, legal, regulatory or other professional advice. This information may be considered advertising.
+
+Click here for more disclosures
+
+For media inquiries, please send an email to Media Inquiries or view our Media Resources.
+
+BNY is the corporate brand of The Bank of New York Mellon Corporation and may be used to reference the corporation as a whole or its various subsidiaries generally. BNY.com provides information about services provided by BNY and its affiliates. Not all accounts, products, and services are available in all jurisdictions or to all customers. ©2026 BNY.
+
+Visit our websites around the world.

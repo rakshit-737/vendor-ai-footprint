@@ -1,0 +1,125 @@
+Automic V26: Establishing the Intelligent Control Plane for Enterprise AI
+
+Kaj Wierda
+
+7 min read | April 9, 2026
+
+Key Takeaways
+
+Establish a secure, policy-bounded framework to transition from deterministic scheduling to agentic AI execution.
+
+Modernize data engineering workflows through native Python execution and AI-driven code completion.
+
+Reduce operational overhead by utilizing natural language workflow generation and zero-downtime upgrades.
+
+Over the last two years, teams across the enterprise have experimented with generative AI. To date, they’ve primarily used passive tools, such as chatbots and copilots that assist users by analyzing logs or writing scripts. However, as organizations move toward autonomous, agentic AI, they face a critical barrier: trust. How do you ensure an AI agent fixing a server issue or routing sensitive data operates securely and maintains strict compliance with policies and regulations?
+
+With the release of Automic Automation V26, Broadcom addresses this challenge by transitioning the platform from a deterministic workload scheduler into an intelligent control plane for the enterprise.
+
+Automic V26 provides the rigorous, policy-bounded framework necessary to safely execute AI-driven operations, reclaim control over complex data pipelines, and lower the total cost of ownership (TCO) for your core infrastructure.
+
+How can you deploy agentic AI while ensuring strict compliance with policies and regulations? Here is how Automic V26 enables the enterprise to securely operationalize new workloads:
+
+1. Operationalizing AI with absolute trust
+
+Automic V26 is primarily focused on securely bridging the gap between non-deterministic AI reasoning and deterministic enterprise execution. Here are two key capabilities that support this objective:
+
+Enterprise AI flexibility and control: Rather than building closed, vendor-locked AI integrations, Automic V26 provides an AI-agnostic architecture, including Model Context Protocol (MCP) client and server functionality. This "bring-your-own-model" (BYOM) architecture allows you to route general automation tasks to public models, such as Claude, Gemini, and OpenAI. At the same time, it secures sensitive operational workloads strictly within self-hosted, private models, including models running on VMware Private AI.
+
+Agentic AI jobs: We have introduced a dedicated job type that encapsulates AI decision-making within our rigorous, audit-ready object definitions. This allows IT operations to deploy intelligent, dynamic jobs—such as complex remediation—while strictly enforcing role-based access control (RBAC), logging, and security protocols within the Automic engine.
+
+See why EMA recognized Broadcom as a value leader and a pioneer in agentic AI in its 2025 Radar™ for Workload Automation and Orchestration.
+
+Read a prior post to learn more about the enterprise orchestration capabilities required for successful agentic AI initiatives.
+
+2. Modernizing DataOps and developer experience
+
+Data engineering teams require code-first, intent-based automation, which often leads them to adopt disjointed open-source orchestrators. How do you move away from disparate open-source orchestrators and establish centralized control and governance over automation? Automic V26 brings these workloads back under enterprise governance, without slowing down developer velocity. The release offers these capabilities:
+
+Native Python execution: Automic V26 introduces true, out-of-the-box Python execution with dedicated Windows, Unix, and generic Python job types. This allows data engineers to natively execute machine learning models and complex data pipelines directly within Automic, eliminating the friction of fragile, "shell-to-Python" wrapper scripts.
+
+AI-driven code assist: We have embedded an AI-powered code assist feature that provides intelligent code completion, script generation, and logic optimization directly within the platform. This feature supercharges developer efficiency and drastically reduces the learning curve for new engineers.
+
+To learn more, check out our data pipeline orchestration page.
+
+3. Democratizing automation and accelerating resolution
+
+Automic V26 lowers the technical barriers to entry across the automation lifecycle, from initial design to production troubleshooting. The solution now features these capabilities:
+
+Generative "text-to-workflow" control: Business analysts and non-experts can now describe their business intent in natural language to instantly generate fully configured, compliant workflows, removing traditional IT bottlenecks.
+
+Context-aware generative AI assistant: To reduce mean time to resolution (MTTR), Automic V26 includes an embedded assistant that analyzes the context of specific job errors and compares them against native product documentation. Instead of manually hunting through logs, operators receive immediate root-cause analysis and actionable fixes directly within the interface.
+
+4. Fortifying core operations and de-risking upgrades
+
+While AI expands your operational toolkit, Automic V26 effectively protects the stability of your core environments and reduces the cost of staying current. Here are a few key features:
+
+Zero downtime upgrade (ZDU) optimization: Significant backend improvements streamline the process of upgrading directly from v24 to V26. This significantly reduces the operational cost, business disruption, and weekend hours associated with platform upgrades.
+
+Advanced SAP "clean core" alignment: Now available on the SAP Store, Automic features new SAP application job types and advanced integrations. These capabilities are specifically designed to support SAP RISE/GROW and self-managed cloud deployments, ensuring your ERP modernization is seamless.
+
+Agentless evolution: The release features an agentless experience that simplifies the orchestration of cloud-to-cloud architectures and reduces the infrastructure overhead required for cloud-based workflows.
+
+Don't just chat with AI. Orchestrate it.
+
+Automic V26 is the bridge between the rock-solid stability of the private data center and the agility of the AI era. It gives you the tools to say "yes" to modern data pipelines and autonomous AI, without increasing your operational burden.
+
+Watch our on-demand release recording to see a deep dive into how Automic Automation V26 delivers the intelligent control plane that can transform your operations.
+
+Frequently asked questions
+
+What makes Automic V26 an "intelligent control plane" rather than just a scheduler?
+
+Automic V26 enables teams to transition from deterministic scheduling to agentic AI execution. The platform can support non-deterministic AI reasoning within a secure, policy-bounded framework.
+
+This release introduces an AI-agnostic architecture that supports a bring-your-own-model (BYOM) approach. With the platform, you can route tasks to public models, such as Claude, Gemini, and OpenAI. In addition, you can route sensitive workloads to private, self-hosted models.
+
+The platform now includes a dedicated "agentic AI" job type that applies enterprise-grade security, logging, and role-based access control (RBAC) to AI-driven decision-making.
+
+How does this release improve the experience for data engineers and Python developers?
+
+The update introduces native Python execution. This enables engineers to run machine learning models and data pipelines directly, without having to use fragile, shell-to-Python wrapper scripts.
+
+Developers can use an embedded AI-powered code assist for intelligent script generation, code completion, and logic optimization. The release helps bring disjointed open-source orchestrators back under centralized enterprise governance, without sacrificing developer speed.
+
+Can non-technical users create automation workflows in Automic V26?
+
+Yes. Automic V26 features a generative "text-to-workflow" capability. With this capability, business analysts can describe their intent in natural language, and have the platform instantly generate compliant workflows.
+
+A context-aware AI assistant is also embedded to help operators troubleshoot errors. This assistant compares job logs against native documentation to provide immediate root-cause analysis.
+
+How does Automic V26 reduce the cost and risk of platform maintenance?
+
+The release includes optimized zero downtime upgrade (ZDU) capabilities that streamline the transition from Automic v24 to V26. These capabilities minimize business disruption and they reduce the need for teams to work on weekends.
+
+The release introduces agentless features that simplify cloud-to-cloud orchestration and reduce the infrastructure overhead typically required for cloud workflows. In addition, the platform is now available on the SAP Store, and it is aligned with SAP "clean core" strategies, supporting seamless ERP modernization.
+
+Related Resources
+
+Blog September 18, 2026
+
+Modernization at Scale: How Banco Inter Orchestrates 10 Million Accounts with Automic Automation
+
+Banco Inter made a strategic decision to replace the legacy tool with Broadcom's Automic Automation.
+
+Read More
+
+eBook September 14, 2026
+
+Beyond Observability with Automation Intelligence
+
+This eBook explores the challenges of fragmented automation and the key requirements for establishing comprehensive, enterprise-wide observability and critical business insight.
+
+Read More
+
+Blog September 14, 2026
+
+Broadcom Unveils AAI v26, Bringing Financial Accountability and AI-Driven Insights to Workload Automation
+
+AAI v26 introduces precise cost attribution and chargeback reporting, a natural-language interface for exploring operational data, and frontier AI led security process.
+
+Read More
+
+Tag(s): Automation , Automic Automation , Enterprise AI , AI and Automation , Automic Automation v26
+
+Copyright © 2005- Broadcom. All Rights Reserved. The term “Broadcom” refers to Broadcom Inc. and/or its subsidiaries. Privacy Policy | Cookie Policy | Terms of Use | Contact Us

@@ -1,0 +1,278 @@
+{
+ "key": "bfe0f5bc7c8af8be643f16d92d10690326a5115268cafe0fe82e6533636ca8d3",
+ "model": "gemini-3.5-flash-lite",
+ "payload_sha256": "7a891ceaac6a68d2d73226994a6e9409a4056d4eda0f8cd6eec15a938330f7ff",
+ "prompt_sha256": "065bd458ace52ff274c72967cfe1b90c794a1ec8d3a3696ec78d7d8cf636df94",
+ "response": {
+  "claims": [
+   {
+    "action_level": "advisory",
+    "ai_type": "genai_llm",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [
+     "script"
+    ],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "break down the script line by line, explaining its purpose and suggesting ways to optimize it"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P1",
+    "quote": "The AI assistant can break down the script line by line, explaining its purpose and suggesting ways to optimize it for better performance.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "advisory",
+    "ai_type": "predictive_ml",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [
+     "nightly data warehouse refresh"
+    ],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "identifies a trend where the job is taking progressively longer to complete and predicts it will miss its SLA"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P1",
+    "quote": "The AI identifies a trend where the job is taking progressively longer to complete and predicts it will miss its SLA in the coming week.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "advisory",
+    "ai_type": "conversational",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [
+     "last month’s successful jobs",
+     "key performance indicators"
+    ],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "ask the AI assistant for a summary of last month’s successful jobs and any key performance indicators"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P2",
+    "quote": "Instead of manually creating reports on job performance, a business analyst can simply ask the AI assistant for a summary of last month’s successful jobs and any key performance indicators (KPIs) in a conversational manner.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "generic_ai_marketing",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M1",
+      "span": "intelligent, self-healing, and adaptive"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P2",
+    "quote": "By adopting a platform like Automic, which is built to leverage AI, organizations can not only automate tasks but also create an intelligent, self-healing, and adaptive IT environment.",
+    "subject": "vendor_product",
+    "temporal": "unclear"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "generic_ai_marketing",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M1",
+      "span": "Control Center for Enterprise AI"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P3",
+    "quote": "Automic Automation V26: Turning Orchestration Into the Control Center for Enterprise AI",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "leveraging technologies like generative AI (GenAI), machine learning (ML), and predictive analytics to enhance existing automation workflows"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P4",
+    "quote": "For enterprises using Automic, this means leveraging technologies like generative AI (GenAI), machine learning (ML), and predictive analytics to enhance existing automation workflows.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "advisory",
+    "ai_type": "genai_llm",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [
+     "scripts",
+     "automation outputs"
+    ],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "analyze scripts and automation outputs, providing clear, natural-language explanations"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P5",
+    "quote": "GenAI can analyze scripts and automation outputs, providing clear, natural-language explanations of what happened, why a process failed, and what the root cause was.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "advisory",
+    "ai_type": "predictive_ml",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [
+     "historical data"
+    ],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "predict potential bottlenecks or failures before they occur"
+     },
+     {
+      "code": "G3",
+      "span": "analyzing historical data"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P5",
+    "quote": "By analyzing historical data, AI can predict potential bottlenecks or failures before they occur, allowing for proactive intervention.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "advisory",
+    "ai_type": "unspecified",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [
+     "logs",
+     "reports"
+    ],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "analyze logs and reports, identify the problem, and even suggest potential fixes"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P5",
+    "quote": "When a job fails, the AI assistant can analyze logs and reports, identify the problem, and even suggest potential fixes, drastically reducing mean time to repair.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "advisory",
+    "ai_type": "unspecified",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [
+     "complex scripts"
+    ],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "analyze and understand complex scripts"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P6",
+    "quote": "Developers can use the AI assistant to analyze and understand complex scripts, making it easier to maintain existing workflows and create new ones.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "automated_action",
+    "ai_type": "unspecified",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "automatically optimize resource allocation, predict and prevent failures, and streamline complex workflows"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P8",
+    "quote": "AI empowers Automic to make smarter decisions in real-time. It can automatically optimize resource allocation, predict and prevent failures, and streamline complex workflows.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "automated_action",
+    "ai_type": "predictive_ml",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [
+     "end-of-day batch process"
+    ],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "predict a potential failure in an end-of-day batch process and automatically trigger a backup process"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P9",
+    "quote": "For example, a global finance firm could use AI to predict a potential failure in an end-of-day batch process and automatically trigger a backup process, avoiding a costly downtime event.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "advisory",
+    "ai_type": "genai_llm",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [
+     "underlying scripts"
+    ],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "interact with the system using simple queries, asking questions about job status or troubleshooting issues"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P11",
+    "quote": "The natural-language capabilities of generative AI make automation more accessible to a wider audience. Business users can interact with the system using simple queries, asking questions about job status or troubleshooting issues without needing a deep technical understanding of the underlying scripts.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "advisory",
+    "ai_type": "genai_llm",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [
+     "logs from the failed execution"
+    ],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "analyzes the logs from the failed execution, explains the reason for the failure in plain English, and suggests a code snippet"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P12",
+    "quote": "The AI assistant in Automic instantly analyzes the logs from the failed execution, explains the reason for the failure in plain English, and suggests a code snippet to fix the issue.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   }
+  ]
+ },
+ "role": "extract",
+ "schema_sha256": "f1cd07fdb8e496624608717927261043432a3bd93d84723a126b7c7d951d68df",
+ "seed": 1234
+}

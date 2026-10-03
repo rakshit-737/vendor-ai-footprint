@@ -1,0 +1,114 @@
+{
+  "count": 1,
+  "hasMore": false,
+  "items": [
+    {
+      "ApplyWhenNotPostedFlag": false,
+      "BeFirstToApplyFlag": false,
+      "BusinessUnit": null,
+      "BusinessUnitId": 300000094081469,
+      "Category": "Product Management",
+      "ContentLocale": "en",
+      "ContractType": null,
+      "CorporateDescriptionStr": "",
+      "Department": null,
+      "DomesticTravelRequired": null,
+      "ExternalContactEmail": null,
+      "ExternalContactName": null,
+      "ExternalDescriptionStr": "<div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><p><span><strong>Director, Applied AI Product Manager:</strong>&nbsp;</span></p></div><div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><p><span>At BNY, our culture allows us to run our company better and enables employees’ growth and success. As a leading global financial services company at the heart of the global financial system, we influence nearly 20% of the world’s investible assets. Every day, our teams harness cutting-edge AI and breakthrough technologies to collaborate with clients, driving transformative solutions that redefine industries and uplift communities worldwide.&nbsp;</span></p></div><div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><p><span>Recognized as a top destination for innovators, BNY is where bold ideas meet advanced technology and exceptional talent. Together, we power the future of finance – and this is what #LifeAtBNY is all about. Join us and be part of something extraordinary.&nbsp;</span></p></div><div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><p><span>We’re seeking a future team member for the role of Director, Applied AI Product Manager to join our Innovation Team and lead AI-driven business transformation initiatives that reimagine how work gets done across the bank. This leader will combine deep technical fluency in AI systems with strong product strategy and execution experience in large, complex organizations. The ideal candidate has successfully built and scaled AI-enabled platforms, led multidisciplinary teams, and driven measurable business outcomes in regulated enterprise environments.&nbsp;&nbsp;</span></p></div><div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><p><span>This role is located in New York, NY (4 days in office per week).&nbsp;</span></p></div><div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><p><span><strong>Role Overview:</strong>&nbsp;</span></p></div><div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><p><span>As Director, Applied AI Product Manager, you will define and drive the strategy for AI-powered process transformation across enterprise functions. You will lead cross-functional teams to design, build, and scale agentic and intelligent automation solutions that reduce risk, improve operational efficiency, and enhance client experiences. You will operate at the intersection of Product, Engineering, Data Science, Operations, Risk, and Compliance—ensuring solutions are secure, explainable, scalable, and production-ready.&nbsp;</span></p></div><div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><p><span><strong>In this role, you’ll make an impact in the following ways:&nbsp;</strong>&nbsp;</span></p></div><div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><p><span><strong>Product Vision &amp; Strategy</strong>&nbsp;</span></p></div><div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><ul><li><span>Define and own the product vision, strategy, and roadmap for AI-driven business process transformation initiatives with key business stakeholders&nbsp;</span></li></ul></div><div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><ul><li><span>Responsible for client segment strategies, market/competitive analysis, pricing, commercialization and GTM, revenue/organic growth objectives&nbsp;</span></li></ul></div><div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><ul><li><span>Align roadmap priorities to enterprise modernization, AI strategy, and operational efficiency objectives&nbsp;</span></li></ul></div><div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><ul><li><span>Identify high-value opportunities for AI, intelligent automation, LLMs, and agentic architectures to eliminate manual workflows and enhance decision intelligence (transform business processes into digital products)&nbsp;</span></li></ul></div><div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><ul><li><span>Translate ambiguous, complex business problems into clear product tenets, PR/FAQs, and scalable execution plans&nbsp;</span></li></ul></div><div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><ul><li><span>Champion an AI-first mindset across the organization, embedding modern product thinking and experimentation frameworks&nbsp;</span></li></ul></div><div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><p><span><strong>AI-Native Process Reimagination at Scale</strong>&nbsp;</span></p></div><div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><ul><li><span>Oversee orchestration frameworks spanning:&nbsp;</span></li></ul></div><div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><ul><li><span>Event-driven architecture&nbsp;</span></li></ul></div><div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><ul><li><span>APIs and microservices&nbsp;</span></li></ul></div><div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><ul><li><span>Workflow engines and state management&nbsp;</span></li></ul></div><div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><ul><li><span>Metadata-aware retrieval systems&nbsp;</span></li></ul></div><div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><ul><li><span>Multi-agent coordination models&nbsp;</span></li></ul></div><div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><ul><li><span>Balance innovation velocity with enterprise-grade reliability and governance&nbsp;</span></li></ul></div><div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><ul><li><span>Partner with Engineering and Data Science to operationalize AI at scale, incorporating model lifecycle management, observability, guardrails, and performance optimization&nbsp;</span></li></ul></div><div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><ul><li><span>Ensure responsible AI governance, addressing bias, explainability, privacy, data security, and operational resilience&nbsp;</span></li></ul></div><div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><p><span><strong>Execution &amp; Cross-Functional Delivery</strong>&nbsp;</span></p></div><div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><ul><li><span>Influence senior executives on investment prioritization and enterprise adoption&nbsp;</span></li></ul></div><div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><ul><li><span>Translate complex AI and agentic concepts into clear, outcome-driven business narratives&nbsp;</span></li></ul></div><div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><ul><li><span>Drive adoption through executive storytelling and structured change management&nbsp;</span></li></ul></div><div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><ul><li><span>Lead a high-performing product team with strong systems-thinking capabilities&nbsp;</span></li></ul></div><div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><ul><li><span>Remove blockers, align stakeholders, and ensure consistent value delivery across concurrent workstreams&nbsp;</span></li></ul></div><div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><p><span><strong>Enterprise &amp; Stakeholder Leadership</strong>&nbsp;</span></p></div><div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><ul><li><span>Partner with senior executives and enterprise stakeholders to align AI strategies with business objectives&nbsp;</span></li></ul></div><div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><ul><li><span>Role model practice proficiency + liaison responsibilities across product, design, engineering, and commercial practices to communicate vision, strategy, progress, and measurable impact to leadership&nbsp;</span></li></ul></div><div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><ul><li><span>Drive field-to-product feedback mechanisms to continuously refine AI solutions for enterprise-grade performance&nbsp;</span></li></ul></div><div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><ul><li><span>Enable adoption through playbooks, governance frameworks, and change management strategies&nbsp;</span></li></ul></div><div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><p><span><strong>Impact Measurement &amp; Outcomes</strong>&nbsp;</span></p></div><div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><ul><li><span>Define and track clear success metrics including:&nbsp;</span></li></ul></div><div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><ul><li><span>Multi-product portfolio integration, trade-off decisioning, portfolio scorecards and enterprise checkpoints (OKRs, controls)&nbsp;</span></li></ul></div><div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><ul><li><span>Productivity gains and operational efficiency improvements (e.g., 20-50% time reduction)&nbsp;</span></li></ul></div><div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><ul><li><span>Cost savings and automation impact&nbsp;</span></li></ul></div><div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><ul><li><span>Risk mitigation and compliance enhancements&nbsp;</span></li></ul></div><div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><ul><li><span>Client experience and engagement growth&nbsp;</span></li></ul></div><div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><ul><li><span>Demonstrate measurable business impact through scalable AI platforms and intelligent workflow transformation&nbsp;</span></li></ul></div><div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><p><span><strong>To be successful in this role, we’re seeking the following:</strong>&nbsp;</span></p></div><div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><p><span><strong>Required</strong>&nbsp;</span></p></div><div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><ul><li><span>Bachelor's degree in STEM, Economics, or related discipline&nbsp;&nbsp;</span></li></ul></div><div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><ul><li><span>~10+ years of progressive experience in Applied AI product management, program leadership, or AI-driven platform delivery&nbsp;</span></li></ul></div><div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><ul><li><span>Strong understanding of:&nbsp;</span></li></ul></div><div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><ul><li><span>Generative AI and LLM-powered systems&nbsp;</span></li></ul></div><div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><ul><li><span>Agentic architectures and orchestration frameworks&nbsp;</span></li></ul></div><div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><ul><li><span>Distributed systems and microservices&nbsp;</span></li></ul></div><div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><ul><li><span>Event-driven design&nbsp;</span></li></ul></div><div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><ul><li><span>APIs and integration layers&nbsp;</span></li></ul></div><div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><ul><li><span>Metadata indexing and retrieval systems&nbsp;</span></li></ul></div><div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><ul><li><span>AI lifecycle management and model performance metrics&nbsp;</span></li></ul></div><div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><ul><li><span>Experience operationalizing enterprise-grade AI systems with:&nbsp;</span></li></ul></div><div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><ul><li><span>Secure tenant-aware access controls&nbsp;</span></li></ul></div><div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><ul><li><span>Observability and telemetry&nbsp;</span></li></ul></div><div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><ul><li><span>Production reliability standards&nbsp;</span></li></ul></div><div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><ul><li><span>Demonstrated ability to influence senior leadership and drive alignment across large organizations&nbsp;</span></li></ul></div><div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><p><span><strong>Preferred</strong>&nbsp;</span></p></div><div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><ul><li><span>Experience in highly regulated industries&nbsp;</span></li></ul></div><div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><ul><li><span>Experience operationalizing AI solutions for Big Tech or Fortune 500 enterprises&nbsp;</span></li></ul></div><div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><ul><li><span>Certifications: CSPO, A-CSPO, SAFe POPM, CSM, AWS Cloud Practitioner, Generative AI specialization.&nbsp;</span></li></ul></div><div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><ul><li><span>Advanced degree preferred&nbsp;</span></li></ul></div><div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><p><span><strong>At BNY, our culture speaks for itself, check out the latest BNY news at:</strong>&nbsp;</span></p></div><div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><p><a href=\"https://www.bny.com/corporate/global/en/about-us/newsroom.html\" target=\"_blank\" rel=\"nofollow\"><span><u>BNY Newsroom</u></span></a><span>&nbsp;</span></p></div><div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><p><a href=\"https://www.linkedin.com/uas/login?session_redirect=https://www.linkedin.com/company/bnyglobal/posts/?feedView=all\" target=\"_blank\" rel=\"nofollow\"><span><u>BNY LinkedIn</u></span></a><span>&nbsp;&nbsp;</span></p></div><div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><p><span>Here’s a few of our recent awards:&nbsp;&nbsp;</span></p></div><div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><ul><li><span>America’s Most Innovative Companies, Fortune, 2025&nbsp;</span></li></ul></div><div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><ul><li><span>World’s Most Admired Companies, Fortune 2025&nbsp;</span></li></ul></div><div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><ul><li><span>“Most Just Companies”, Just Capital and CNBC, 2025&nbsp;</span></li></ul></div><div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><p><span><strong>Our Benefits and Rewards:</strong>&nbsp;</span></p></div><div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><p><span>BNY offers highly competitive compensation, benefits, and wellbeing programs rooted in a strong culture of excellence and our pay-for-performance philosophy. We provide access to flexible global resources and tools for your life’s journey. Focus on your health, foster your personal resilience, and reach your financial goals as a valued member of our team, along with generous paid leaves, including paid volunteer time, that can support you and your family through moments that matter.&nbsp;&nbsp;</span></p></div><div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><p><span>&nbsp;&nbsp;</span></p></div><div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><p><span>BNY is an Equal Employment Opportunity/Affirmative Action Employer - Underrepresented racial and ethnic groups/Females/Individuals with Disabilities/Protected Veterans.&nbsp;</span></p></div><div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><p><span>&nbsp;</span></p></div><div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><p><span>BNY assesses market data to ensure a competitive compensation package for our employees. The base salary for this position is expected to be between $127,000 and $250,000 per year at the commencement of employment. However, base salary if hired will be determined on an individualized basis, including as to experience and market location, and is only part of the BNY total compensation package, which, depending on the position, may also include commission earnings, discretionary bonuses, short and long-term incentive packages, and Company-sponsored benefit programs.&nbsp;&nbsp;</span></p></div><div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\"><p><span>This position is at-will and the Company reserves the right to modify base salary (as well as any other discretionary payment or compensation) at any time, including for reasons related to individual performance, change in geographic location, Company or individual department/team performance, and market factors.&nbsp;</span></p></div>",
+      "ExternalPostedEndDate": null,
+      "ExternalPostedStartDate": "2026-09-09T17:29:51+00:00",
+      "ExternalQualificationsStr": "",
+      "ExternalResponsibilitiesStr": "",
+      "GeographyId": 300000090214594,
+      "GeographyNodeId": 100010357091606,
+      "HiringManager": null,
+      "HotJobFlag": false,
+      "Id": "73908",
+      "InternalQualificationsStr": "",
+      "InternalResponsibilitiesStr": "",
+      "InternationalTravelRequired": null,
+      "JobFamilyId": 300000094774293,
+      "JobFunction": "Product/Solutions Delivery",
+      "JobFunctionCode": "PSD",
+      "JobGrade": null,
+      "JobLevel": null,
+      "JobSchedule": "Full time",
+      "JobShift": "Day",
+      "JobType": null,
+      "LegalEmployer": null,
+      "LegalEmployerId": 300000003582023,
+      "NumberOfOpenings": null,
+      "ObjectVerNumberProfile": null,
+      "Organization": null,
+      "OrganizationDescriptionStr": "",
+      "OrganizationId": 300000094781361,
+      "OtherRequisitionTitle": null,
+      "PrimaryLocation": "New York, NY, United States",
+      "PrimaryLocationCountry": "US",
+      "RequisitionId": 300009333270087,
+      "RequisitionType": "Experienced",
+      "ShortDescriptionStr": "",
+      "StudyLevel": null,
+      "Title": "Director, Applied AI Product Manager",
+      "TrendingFlag": true,
+      "WorkDays": null,
+      "WorkHours": null,
+      "WorkMonths": null,
+      "WorkYears": null,
+      "WorkerType": null,
+      "WorkplaceType": "",
+      "WorkplaceTypeCode": null,
+      "media": [],
+      "otherWorkLocations": [],
+      "primaryLocationCoordinates": [
+        {
+          "CountryCode": "US",
+          "GeographyId": 300000090214594,
+          "GeographyNodeId": 100010357091606,
+          "Latitude": "40.58055",
+          "Longitude": "-74.00391"
+        }
+      ],
+      "requisitionFlexFields": [
+        {
+          "ControlType": "TextArea",
+          "Prompt": "Base Salary Min",
+          "SequenceNumber": 12,
+          "Value": "127000"
+        }
+      ],
+      "secondaryLocations": [],
+      "skills": [],
+      "workLocation": [
+        {
+          "AddressLine1": "240 Greenwich Street",
+          "AddressLine2": null,
+          "AddressLine3": null,
+          "AddressLine4": null,
+          "Building": null,
+          "Country": "US",
+          "Latitude": "40.71455001",
+          "LocationId": 300000129875278,
+          "LocationName": "240 Greenwich Street,New York,NY",
+          "Longitude": "-74.00714004",
+          "PostalCode": "10286",
+          "Region1": "New York",
+          "Region2": "NY",
+          "Region3": null,
+          "TownOrCity": "New York"
+        }
+      ]
+    }
+  ],
+  "limit": 499,
+  "links": [
+    {
+      "href": "https://eofe.fa.us2.oraclecloud.com:443/hcmRestApi/resources/11.13.18.05/recruitingCEJobRequisitionDetails",
+      "kind": "collection",
+      "name": "recruitingCEJobRequisitionDetails",
+      "rel": "self"
+    }
+  ],
+  "offset": 0
+}

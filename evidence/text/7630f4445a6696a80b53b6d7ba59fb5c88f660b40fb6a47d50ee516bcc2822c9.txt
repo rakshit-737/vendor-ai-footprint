@@ -1,0 +1,39 @@
+ARTIFICIAL INTELLIGENCE AT BNY
+Developing Next-Generation Solutions
+For more than five years, BNY has been creating Artificial Intelligence (AI) enabled solutions for financial services – and we’re continuing to move fast to accelerate our AI journey. We are the first major bank to deploy an AI Supercomputer (powered by NVIDIA) to accelerate processing capacity and to launch AI enabled capabilities. We have over 125 AI-enabled solutions in production, as well as our own Enterprise AI platform.
+Due to our position in the financial markets, we have a unique viewpoint and financial data set that can help clients make data-driven decisions and make the financial markets more resilient.
+By integrating AI into our core operations, empowering our people, and innovating for our clients, we are not just adapting to the future, we are actively shaping it.
+Advancing Responsible & Ethical AI in Financial Services
+As a financial institution that greatly values innovation and trust, we believe in both the potential of data and AI to support the financial system’s continued evolution, and the need for robust guardrails to manage their responsible use. Our goal is to promote the compliant, responsible and ethical use of AI. 
+Introducing Eliza
+Our enterprise AI platform, Eliza, is built on the premise of foundational, reusable capabilities and is designed to enhance client service, company operations and drive cultural transformation through the power of artificial intelligence.
+Named after Eliza Hamilton, well-known philanthropist and wife of our founder Alexander Hamilton, Eliza offers BNY employees a marketplace of AI solutions, access to approved datasets and a community for insights into intelligent tools and platforms.
+As a central resource, Eliza empowers employees with advanced AI capabilities, streamlining workflows and fostering innovation across the bank within a robust governance framework.
+'AI for Everyone': Inside BNY's Approach
+OpenAI, the company behind ChatGPT, has spotlighted BNY’s forward-thinking approach to deploying AI across the organization to increase efficiency and drive change. With the motto “AI for everyone, everywhere and in everything,” Eliza now supports over 125 live use cases, with 20,000 employees actively building agents. Read more from OpenAI about BNY’s innovative approach.
+AI AT WORK TODAY, EVOLVING FOR TOMORROW
+We have over 125 AI-enabled solutions in production – from predictive analytics and automation to anomaly detection – designed to help clients transform their business while optimizing our own infrastructure.
+Client Experience
+Embedding the power of AI in our operations to incease efficiency and enable faster decision-making.
+New Products and Solutions
+Continuously exploring ways to integrate AI into our products and solutions to better serve our clients.
+Employee Experience
+Providing AI-driven tools to help our employees' continous growth.
+AI IN THE NEXT PHASE:
+    DRIVING ADOPTION
+Discover how BNY's enterprise AI platform accelerates AI adoption, predictive analytics and automation with strong governance and risk management.
+BNY's AI 
+     Governance Framework
+AI governance at BNY is a multidisciplinary activity that draws upon the expertise of our various departments, including Legal, Privacy, Responsible AI, Data Governance, Information Security, Resiliency, Risk and Compliance. Governance activities are operated across the AI lifecycle, and collectively support the responsible development, deployment and operation of AI systems. Our AI governance framework applies our Commitment to the Responsible, Ethical Use of Data and AI in practice. 
+Enhanced Anomaly Detection in Financial Transactions through Decentralized AI
+Through a collaboration with Kinexys by J.P. Morgan, "Project Aikya," BNY is exploring new AI solutions like Federated Learning to boost insights, improve decision-making, and drive innovation across financial services.
+Academic Collaborations
+BNY is committed to developing and maintaining strong collaborations with academic and research institutions on AI-related research and sponsored projects. These collaborations help drive innovation and support talent acquisition benefitting both BNY and the institutions. A few examples of our existing relationships appear below.
+Carnegie Mellon University
+The Master of Science in Artificial Intelligence and Innovation program at Carnegie Mellon University enables its students to identify AI applications and develop and deploy AI solutions that solve practical market problems.
+Stevens Institute of Technology & Rensselaer Polytechnic Institute
+CRAFT is a fintech-based Industry/University Cooperative Research Center (I/UCRC), where the center's academic and industry partners collaboratively create innovative solutions in machine learning and artificial intelligence, quantum computing, decentralized finance (DeFi) and blockchain technology, generative language models, climate impact on investment and financing and cybersecurity.
+Massachusetts Institute of Technology
+MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL) pioneers research in computing and artificial intelligence that focuses on developing new technologies, conducting research and inspiring future scientists and technologists in the field of computing and artificial intelligence.
+Are you interested in joining us?
+When you join BNY, you will have the chance to work with thought leaders and industry trailblazers. Our finance, engineering and operations leaders have spent decades pioneering vanguard methods of working and spurring new ideas within the financial sector. Join us and learn from the best in our collaborative environment.

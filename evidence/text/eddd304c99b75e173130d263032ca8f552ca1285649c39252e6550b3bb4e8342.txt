@@ -1,0 +1,37 @@
+Fix This Before You Buy Another AI Tool for Your Financial Advisory Business with Kristefor Lysne
+- E149
+- 49:13
+- September 10th 2026
+What does curling have to do with your firm's data infrastructure? More than you'd think.
+In this episode, Mike Langford sits down with Kristefor Lysne, President of Terrapin Technologies, for a conversation about the messy data problem quietly working against wealth management firms — and why getting your data house in order is the prerequisite for everything coming next with AI.
+Kristefor has spent 30+ years helping wealth management firms aggregate, normalize, and automate the data behind advisor compensation, reporting, and compliance. He's also a competitive curler at the St. Paul Curling Club — and he has the perfect analogy for what bad data really looks like inside your firm.
+In this episode:
+- Why AI doesn't fix messy data — it amplifies it
+- The brittle spreadsheet trap that breaks when key people leave the firm
+- What "bad rocks" in curling taught us about hidden data problems
+- Why clean, governed data is the prerequisite for AI adoption
+- The difference between a SaaS product and a tech-enabled service
+- AEO (Agent Engine Optimization) — what's replacing traditional SEO
+- Who the right firm is for a solution like Terrapin
+Resources & Links:
+- Dan Zitting, CEO of Nitrogen Wealth — The Modern Financial Advisor Podcast
+- Oliver Freigang, CEO of qashqade — The 6 x 6lock Podcast
+Chapters:
+0:00 Cold Open: The Curling Reveal
+0:42 Intro
+1:48 Kristefor's Curling Life
+10:18 Terrapin Technologies: The 60-Second Pitch
+12:57 Hidden Data Problems at Wealth Management Firms
+16:54 The Brittle Spreadsheet Trap
+20:42 AI, Vibe Coding & Why Governance Matters
+26:26 Garbage In, Garbage Out: AI Doesn't Fix Messy Data
+28:14 How Terrapin Normalizes & Cleans Your Data
+31:38 Who Is the Right Firm for Terrapin?
+35:00 The Promise: What Becomes Possible With Clean Data
+37:31 Clean Data Is the Prerequisite for AI
+40:26 MCP Servers & the Future of AI Interfaces
+41:15 AEO: What's Replacing SEO
+47:07 Where to Find Kristefor & Terrapin Technologies
+48:17 Outro
+Modern Financial Advisor
+The Modern Financial Advisor podcast, hosted by Mike Langford, explores innovative strategies and solutions for RIAs, independent financial advisors, and wealth management firms.

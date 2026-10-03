@@ -1,0 +1,25 @@
+Topic: 
+                
+            
+            
+            Type: 
+                ACH, Corporate
+            
+        
+                                
+             Member Fee: 
+                 $0
+            
+            
+            Non-Member Fee: 
+                $50
+            
+            
+            
+                
+            
+        
+        
+            There are two comparison charts that focus solely on ACH Standard Entry Class (SEC) Codes that are used for consumer entries. This can be used as a great study tool if you're starting to become familiar with these SEC Codes. 
+One chart highlights some of the important differences that exist between PPD Credits and Debits, WEB Credits and Debits, and TEL Entries. 
+The second chart focuses on the Check Conversion entries and highlights the important differences that exist between POP, RCK, ARC, and BOC Entries.

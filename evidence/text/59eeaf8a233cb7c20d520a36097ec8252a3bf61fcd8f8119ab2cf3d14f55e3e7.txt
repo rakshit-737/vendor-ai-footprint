@@ -1,0 +1,119 @@
+CHIPS®: High-Value USD Wire Payments with Liquidity Efficiency, Finality, and Resiliency
+The Clearing House operates the Clearing House Interbank Payments System®, or CHIPS® network, a private-sector high-value U.S. dollar clearing and settlement system that helps financial institutions (FIs) move critical domestic and cross-border wire payments with liquidity efficiency, finality, resiliency, and control.
+Built for FIs with significant wire activity, CHIPS supports high-value USD payments across commercial, treasury, correspondent banking, institutional, and global payment flows. The network combines continuous intraday settlement with a liquidity-saving mechanism that helps participants settle large payment volumes with substantially less funding than traditional gross-settlement models.
+CHIPS is designed for institutions that need more than a payment network. It provides strategic treasury infrastructure: helping banks manage liquidity, support client payments, strengthen contingency planning, and improve operational resiliency for critical USD payment activity.
+95% of payments settle with finality in seconds, subject to value, funding conditions, and participant-configured prioritization and liquidity controls
+CHIPS Network By the Numbers
+Why Financial Institutions Choose CHIPS
+FIs rely on CHIPS for high-value USD payment processing that combines liquidity efficiency, settlement finality, operational control, and proactive and responsive support.
+Liquidity efficiency
+CHIPS helps participants settle more payment value with less funding. By continuously matching and offsetting payment obligations, the network reduces the amount of liquidity needed to support high-value wire activity.
+Finality and control
+CHIPS provides continuous intraday settlement with finality. Once a payment is released and settled, settlement is final and irrevocable. Participants also have tools to manage payment prioritization, liquidity, and settlement timing based on their business needs.
+Resiliency and contingency planning
+CHIPS provides a private-sector settlement path for high-value USD payments, helping FIs strengthen redundancy and business continuity planning for critical wire activity.
+Domestic and global USD reach
+CHIPS supports both domestic and cross-border high-value USD payments, including commercial, treasury, correspondent banking, institutional, and corporate payment flows.
+Modern ISO 20022 messaging
+CHIPS supports data-rich ISO 20022 messaging that helps participants improve automation, support straight-through processing, enhance reconciliation, and use structured payment data more effectively.
+High-touch support
+The Clearing House provides expert operational support, proactive connectivity monitoring, and responsive client service for institutions that depend on high-value payment activity.
+CHIPS is particularly relevant for FIs with significant high-value USD wire activity that want to improve liquidity efficiency, strengthen resiliency, and gain more control over payment flows.
+Managing Liquidity as a Strategic Resource
+For FIs, liquidity is not just an operational requirement. It is a strategic resource.
+CHIPS helps banks make that resource work harder. The network’s liquidity-saving mechanism continuously evaluates payment flows and identifies opportunities to match and offset obligations among participants. This allows large volumes of high-value USD payments to settle with significantly less intraday funding.
+In plain terms, CHIPS helps turn $1 of funding into approximately $26 of settled payment value.
+That efficiency can support meaningful business outcomes for participants:
+Less liquidity tied up in payment settlement
+More liquidity available for lending, investment, client financing, or other productive uses
+Better control over intraday liquidity positions
+Reduced risk of payment gridlock during periods of stress
+Greater flexibility in managing critical payment obligations
+CHIPS participants can also adjust how they manage the balance between liquidity efficiency and settlement speed. Some payments may be prioritized for faster settlement, while others can benefit from additional netting opportunities. This flexibility gives participants greater control over how liquidity is deployed throughout the day.
+Settlement, Finality, and Participant Control
+CHIPS provides intraday settlement with finality throughout the operating day, while liquidity-efficient netting helps participants move more value with less funding. With a 21-hour processing window, CHIPS gives participants broad coverage for high-value USD payment submission, settlement, and liquidity management. Payment instructions submitted to CHIPS are continuously evaluated. When the network determines that a payment can settle under CHIPS rules and available liquidity conditions, the payment is released and settled with finality.
+For many payments, settlement may occur in near real time, depending on value, liquidity, and participant-configured prioritization and liquidity controls. For other payments, the network may identify additional netting opportunities that improve liquidity efficiency.
+Participants have tools to manage this process, including the ability to:
+Prioritize certain payments
+Manage liquidity allocated to CHIPS activity
+Support faster settlement for time-sensitive payments
+Use available controls to balance speed and liquidity efficiency
+This combination of finality, control, and liquidity optimization helps participants manage high-value USD payment flows with greater precision.
+Resiliency for High-Value USD Payments
+FIs need reliable options for critical payment activity. CHIPS supports resiliency by providing a private-sector settlement path for high-value USD wires.
+For banks with significant wire activity, CHIPS can be part of a broader business continuity and redundancy strategy. The network helps participants maintain payment capabilities, manage liquidity, and support critical client activity during changing market, operational, or institutional conditions.
+CHIPS may be especially relevant for institutions that are:
+Expanding high-value wire activity
+Seeking a private-sector complement to public-sector settlement infrastructure
+Strengthening business continuity plans
+Evaluating payment resiliency after growth or acquisition
+Looking to demonstrate robust high-value payment capabilities to clients, counterparties, or other stakeholders
+FIs that do not participate directly in CHIPS may also access CHIPS payment capabilities through correspondent or respondent banking relationships with CHIPS participants.
+Domestic, Cross-Border, and Global USD Connectivity
+CHIPS supports high-value USD payment activity across domestic and cross-border use cases. Its value extends across the full spectrum of high-value USD wires, from domestic institutional payments to global correspondent banking flows, where liquidity efficiency, settlement finality, and resiliency matter.
+CHIPS is designed for payments where funds move:
+Between U.S. FIs
+Between U.S. and non-U.S. endpoints
+Across correspondent banking relationships
+Across institutional, commercial, treasury, and corporate payment flows
+This combination of domestic utility and global USD connectivity makes CHIPS an important settlement network for banks that support high-value U.S. dollar payment activity at scale.
+High-Value Wire Payment Use Cases Supported by CHIPS
+CHIPS supports a wide range of high-value USD payment needs across FIs and their clients. For bank clients, CHIPS can support reliable high-value USD payment execution while helping the FI manage liquidity more efficiently behind the scenes.
+Common use cases include:
+Custodian and wealth-management-related payments: High-value institutional and client asset movement
+Correspondent banking: Payments sent through correspondent and respondent banking relationships
+Commercial payments: Large-value business and institutional payment flows
+Treasury payments: High-value bank treasury activity and liquidity movements
+High-value corporate payments: Corporate treasury, funding, and strategic payment activity
+Domestic high-value wires: Large-value U.S. dollar payments between domestic institutions
+Cross-border USD payments: U.S. dollar payments involving global endpoints
+Contingency and resiliency planning: Private-sector settlement capability for critical payment operations
+CHIPS supports flexible payment structures, including one-leg-out and two-legs-out scenarios, subject to applicable rules, requirements, and participant capabilities.
+Smart Messaging with ISO 20022
+ISO 20022 standardizes the language for financial messaging internationally and enhances the efficiency of global payments. Participants on the CHIPS network can use this data-rich format for extended remittance information, sanctions and compliance screening, and more efficient cross-border payments.
+For FIs, ISO 20022 support on CHIPS can help improve:
+Structured payment data
+Straight-through processing
+Automation
+Reconciliation
+Extended remittance information
+Cross-border interoperability
+Compliance and sanctions-screening workflows
+Operational consistency with international messaging standards
+CHIPS also follows an annual maintenance cycle designed to support alignment with international messaging standards and straight-through processing practices.
+CHIPS supports multiple connectivity options to help FIs access the network based on their operating model, technical environment, volume, and resiliency needs.
+Connectivity options may include:
+Direct connectivity
+VPN connectivity
+Third-party service provider connectivity
+Direct connectivity may be appropriate for institutions with large payment volumes and complex resiliency needs. VPN connectivity may help reduce implementation barriers for institutions whose payment volume or value may not warrant a direct connectivity model. Third-party service provider models may offer additional flexibility in certain circumstances, including cloud-hosted options.
+The Clearing House works with institutions to evaluate the connectivity approach that best fits their wire activity, operational requirements, and resiliency objectives.
+CHIPS is supported by The Clearing House’s experienced payment operations and client service teams.
+Participants receive high-touch support designed for critical, high-value payment activity. The Clearing House monitors connectivity, reviews operational indicators, and proactively identifies potential issues that may require attention.
+Some examples of support include:
+Connectivity monitoring
+Hardware router monitoring
+Proactive client alerts
+Operational outreach if issues are identified
+Support related to late file deliveries
+Expert assistance for payment operations and connectivity questions
+Reference Data and UID Lookup Resources
+The Clearing House provides reference data and lookup resources that can support payment operations, routing, and related workflows.
+CHIPS participants and eligible users can access resources designed to help support high-value USD payment activity and improve operational efficiency. UID Lookup and related reference data capabilities may help FIs identify relevant information used in payment processing and operational support.
+Built for the Future of High-Value USD Payments
+CHIPS continues to evolve to support the future of high-value USD payment activity.
+The network combines liquidity efficiency, final settlement, ISO 20022 structured data, flexible connectivity, and operational resiliency. These capabilities help position CHIPS for a payments environment shaped by modernization, richer data, evolving client expectations, and new models for value exchange.
+The Clearing House continues to work with participants and industry stakeholders through active working groups and participant forums to support the ongoing development of CHIPS and the broader high-value payments ecosystem.
+See What CHIPS Could Mean for Your Financial Institution
+CHIPS is designed for FIs with significant high-value USD wire activity and a need for liquidity efficiency, settlement control, and resiliency.
+Your institution may want to evaluate CHIPS if you:
+Process significant high-value USD wire volume
+Support domestic and cross-border USD payment flows
+Need private-sector resiliency for critical payment operations
+Need expert operational support for high-value payment processing
+Want greater control over payment prioritization and liquidity
+Want to improve liquidity efficiency for wire activity
+Want to understand whether CHIPS could reduce funding demands for eligible payment activity
+The Clearing House can help your institution assess whether CHIPS is a strong fit based on payment volume, payment value, connectivity needs, operating model, and liquidity objectives.
+See what CHIPS could mean for your wire activity
+Contact The Clearing House for a customized analysis of your payment volume, value, and operating model to estimate the liquidity benefits your institution could realize through CHIPS.

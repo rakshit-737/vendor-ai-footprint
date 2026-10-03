@@ -1,0 +1,23 @@
+Topic: 
+                
+            
+            
+            Type: 
+                ACH, Audit & Compliance
+            
+        
+                                
+             Member Fee: 
+                 $0
+            
+            
+            Non-Member Fee: 
+                $50
+            
+            
+            
+                
+            
+        
+        
+            This sample document illustrates minimal pieces of information that are recommended to be contained in a letter of indemnification given by an Originating Depositary Financial Institution (ODFI) to a Receiving Depositary Financial Institution (RDFI) when requesting a transaction to be returned.

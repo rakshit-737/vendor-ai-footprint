@@ -1,0 +1,24 @@
+BNY Mellon and Amundi announce that BNY Mellon has chosen Amundi Technology and the ALTO* platform to ensure trustee controls and compliance monitoring for Depositary and Fund Administration duties. The solution will be deployed into BNY Mellon global operations.
+ALTO* Investment Compliance is a component of the ALTO* Asset Servicing offering dedicated to custodians and administrators within the global ALTO* Investment framework. It provides a powerful and flexible open-source, private cloud-based technology and covers the entire trustee control value chain, including:
+- Flexible rule coding interfaces (regulatory, prospectus or client-specific constraints),
+- Interactive breach management,
+- 360° oversight dashboards and compliance reporting factory
+The solution offered by Amundi Technology uses core components of the ALTO* platform to address Front to Back needs of Asset Managers and Asset Servicers. Both will benefit from the solutions’ latest innovations and a continuous focus on service delivery.
+Guillaume Lesage, Chief Operating Officer of Amundi, said, “We are delighted to deploy the ALTO* Investment Compliance solution to BNY Mellon. The solution benefits from new developments on the ALTO* Platform, which together bring innovative and flexible solutions across BNY Mellon global Asset Servicing & Digital infrastructure. This agreement strengthens our transatlantic alliance with BNY Mellon to deliver together fresh, efficient and innovative Front to Back technology solutions to our industry.”
+Roman Regelman, CEO of Asset Servicing and Head of Digital at BNY Mellon, said, “We are very excited to expand our strategic alliance with Amundi to bring best-in class capabilities in service of our clients. This agreement advances BNY Mellon’s global digital strategy as a leader in providing client-centric solutions with best-in-class partners. The deepening integration with Amundi Technology and the ALTO* platform will help to improve our service experience across the investment lifecycle and allow us to deliver even greater front to back operational efficiencies for clients.”
+About BNY Mellon
+  BNY Mellon is a global investments company dedicated to helping its clients manage and service their financial assets throughout the investment lifecycle. Whether providing financial services for institutions, corporations or individual investors, BNY Mellon delivers informed investment and wealth management and investment services in 35 countries. As of Dec. 31, 2021, BNY Mellon had $46.7 trillion in assets under custody and/or administration, and $2.4 trillion in assets under management. BNY Mellon can act as a single point of contact for clients looking to create, trade, hold, manage, service, distribute or restructure investments. BNY Mellon is the corporate brand of The Bank of New York Mellon Corporation (NYSE: BK). Additional information is available on www.bnymellon.com. Follow us on Twitter @BNYMellon or visit our newsroom at www.bnymellon.com/newsroom for the latest company news.
+About Amundi
+Amundi, the leading European asset manager, ranking among the top 10 global players , offers its 100 million clients - retail, institutional and corporate - a complete range of savings and investment solutions in active and passive management, in traditional or real assets.
+With its six international investment hubs , financial and extra-financial research capabilities and long-standing commitment to responsible investment, Amundi is a key player in the asset management landscape.
+Amundi clients benefit from the expertise and advice of 4,800 employees in more than 35 countries. A subsidiary of the Crédit Agricole group and listed on the stock exchange, Amundi currently manages more than €1.8 trillion of assets .
+*Amundi Leading Technologies & Operations
+Media Contact
+BNY Mellon
+Paul Patella
+  +1 212 635 1378
+paul.patella@bnymellon.com
+Amundi 
+Jaïs Mehaji
+  +44 20 7190 2042
+jais.mehaji@amundi.com

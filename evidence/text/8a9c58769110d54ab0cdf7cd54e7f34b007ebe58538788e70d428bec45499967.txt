@@ -1,0 +1,18 @@
+RTP® Network Surpasses Half a Billion Instant Payments
+New York – The Clearing House’s RTP® network, which has been providing instant payments to millions of consumers and businesses with no disruptions in service for more than five years, surpassed the 500 million payment milestone on Saturday, July 22.
+The RTP network, which is available to all insured banks and credit unions in the United States, is seeing steadily increasing volume. Transactions on the RTP network in Q2 2023 totaled 58 million for $29 billion, up from 41 million transactions for $18 billion in Q2 2022. Today, over 350 RTP® Network Participating Financial Institutions are providing real-time payments on the RTP network to their customers and members. Benefits of real-time payments include 24x7 availability, immediate access to funds, confirmation of payment receipt, and payer control of when a payment is sent, which can help to eliminate overdrafts.
+The increasing volume on the RTP network can be attributed to other areas of network growth, including:
+- National Access: All banks and credit unions in the U.S. have streamlined access to the network through more than 20 technology solution providers;
+- Business Users: 150,000 businesses are sending payments over the RTP network, a 50% increase since December 2022;
+- Consumers: 3+ million consumers each month are sending A2A payments and Zelle® payments that clear and settle over the RTP network;
+- FIs of All Sizes: 90% of the FIs on the RTP network are community banks and credit unions (less than $10 billion in assets); and
+- Demand Deposit Account (DDA) Reach: the RTP network currently reaches 65% of US DDAs.
+"As more banks and credit unions join the RTP network, their customers and members are experiencing the benefits of real-time payments,” says Rusiru Gunasena, Senior Vice President of RTP Product Management at The Clearing House. “Surpassing 500 million RTP payments signifies the accelerating growth and demand on the RTP network."
+###
+About The Clearing House  
+The Clearing House operates U.S-based payments networks that clear and settle more than $2 trillion each day through wire, ACH, check image, and real-time payments. It is the nation’s most experienced payments company, with a long track record of providing secure and reliable systems, payments innovation, and strategic thought leadership to financial institutions. In 2017, The Clearing House revolutionized U.S. payments by introducing the RTP® network, which supports the immediate clearing and settlement of payments, along with the ability to exchange related payment information across the same secure channel. These RTP capabilities enable all financial institutions to offer safer, faster, and smarter digital transaction services for their corporate and retail customers. Learn more at www.theclearinghouse.org.
+Media Contact:
+Greg MacSweeney
+The Clearing House 
+212-612-9282
+Gregory.MacSweeney@theclearinghouse.org

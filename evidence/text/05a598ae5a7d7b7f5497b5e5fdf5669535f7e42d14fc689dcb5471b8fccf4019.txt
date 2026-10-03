@@ -1,0 +1,29 @@
+RTP Update
+|  | 
+|  | 
+|  | 
+|  | 
+|  | 
+|  | 
+|  | 
+|  | 
+|  | 
+|  | 
+| RTP Network Implementation Guide | 
+| RTP® Network Readiness Checklist – for Banks and Credit Unions The newly released RTP® Network Readiness Checklist (PDF) provides banks and credit unions a step-by-step guide to assist their organizations as they begin their real-time payments journey, from basic RTP network education through to preparing your customers for receiving real-time payments. | 
+|  | 
+|  | 
+| RTP Network in the NEWS Why Institutions Should Consider a Managed Service for Real-Time Payments Source: FIS Blog Paychex Sends $60m in Real-Time Payroll, Wins HR Award Source: TCH Blog Paychex Addresses Customer Needs with Real-time Payroll Source: TCH RTP Update Nano Banc Uses RTP to Punch Above its Weight Source: PaymentsSource | 
+|  | 
+|  | 
+| RTP Network Press Releases Early Warning and The Clearing House Complete Critical Integration Milestone of the Zelle® and RTP® Networks Source: TCH Alacriti Announces Cloud-Native, End-to-End Solution for Real-Time Payments Source: Alacriti BMO Announces Partnership with The Clearing House, Launches Global Pay for U.S. Business Customers Source: BMO Financial Group | 
+|  | 
+|  | 
+|  | 
+| Payments Nerds  Get Funded the Way You Do Business: 7 Days a Week For small businesses, cash flow is king and is one of the most crucial aspects of business right now. Adam Carter from U.S. Bank & Sarah Cichoski from Elavon, a merchant payment processing provider, talk specifically about a new real-time merchant funding product for small and medium sized businesses that uses the RTP network. To hear this episode and many more like it, subscribe to Payments Nerds on Apple Podcasts, Spotify, or anywhere else you get your podcasts, or listen here. | 
+|  | 
+|  | 
+| RTP Network Events Get Up and Running with the TCH RTP® Network - Fast! Date: Tuesday, November 17th - 11:00am ET | 
+|  | 
+| Copyright © 2020 The Clearing House Payments Company L.L.C. 115 Business Park Dr. Winston-Salem, NC 27107 United States | 
+|  |

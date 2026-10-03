@@ -1,0 +1,120 @@
+{
+  "count": 1,
+  "hasMore": false,
+  "items": [
+    {
+      "ApplyWhenNotPostedFlag": false,
+      "BeFirstToApplyFlag": false,
+      "BusinessUnit": null,
+      "BusinessUnitId": 300000094081469,
+      "Category": "Full-Stack Development",
+      "ContentLocale": "en",
+      "ContractType": null,
+      "CorporateDescriptionStr": "<p>At BNY, our culture allows us to run our company better and enables employees’ growth and success. As a leading global financial services company at the heart of the global financial system, we influence nearly 20% of the world’s investible assets. Every day, our teams harness cutting-edge AI and breakthrough technologies to collaborate with clients, driving transformative solutions that redefine industries and uplift communities worldwide.</p>Recognized as a top destination for innovators, BNY is where bold ideas meet advanced technology and exceptional talent. Together, we power the future of finance – and this is what #LifeAtBNY is all about. Join us and be part of something extraordinary.",
+      "Department": null,
+      "DomesticTravelRequired": null,
+      "ExternalContactEmail": null,
+      "ExternalContactName": null,
+      "ExternalDescriptionStr": "<p><strong>Vice President, Full Stack Engineer</strong>&nbsp;</p><p>At BNY, our culture allows us to run our company better and enables employees’ growth and success.&nbsp;<span lang=\"EN-GB\">As a leading global financial services company at the heart of the global financial system, we influence nearly 20% of the world’s investible assets. Every day, our teams harness cutting-edge AI and breakthrough technologies to collaborate with clients, driving transformative solutions that redefine industries and uplift communities worldwide.</span>&nbsp;</p><p><span lang=\"EN-GB\">Recognized as a top destination for innovators, BNY is where bold ideas meet advanced technology and exceptional talent. Together, we power the future of finance – and this is what #LifeAtBNY is all about. Join us and be part of something extraordinary.</span>&nbsp;</p><p style=\"margin: 0in 0in 6pt;\"><span style=\"color: black;\"><strong><u>Overview of the role</u>:</strong></span></p><p style=\"margin: 0in 0in 6pt;\"><span style=\"color: black;\">DAIS team is a shared service team that provides key functional capabilities such as self-service reporting, self-service data analytics, risk analytics, operational reconciliation, and integration of core processes with deployed machine learning models. We are enhancing our team and looking for a Full-stack Engineer to work with us as we transform our Global Clearing group into a data driven organization.&nbsp;This group is responsible for building high-performance critical market platforms. The group designs, builds and supports the platform used for US Triparty Repo, this service has 85% of the US Triparty Repo business with $2.7trn of assets globally. This group supports the most critical client-facing services for BNY.</span></p><p style=\"margin: 0in 0in 6pt;\"><span style=\"color: black;\">&nbsp;</span></p><p style=\"margin: 0in 0in 6pt;\"><span style=\"color: black;\">In this role, the individual will work closely with Product and Business teams in analyzing business processes, requirements, workflows, client experience needs, user journeys and primarily data – gleaning information and insights with the goal of helping make business decisions. The team and the role are extremely data centric and therefore requires strong SQL and expert programming skills to gather and analyze information and develop recommendations to address strategic business objectives that span multiple, global business and technology areas.</span></p><p style=\"margin: 0in 0in 12pt;\"><span style=\"color: black;\">&nbsp;</span></p><p style=\"margin: 0in 0in 12pt;\"><span style=\"color: black;\">As a&nbsp;member of the team,&nbsp;you will&nbsp;create meaningful stories focused on deep insights, and will be fluent across various technologies such as Java, Angular, Python, JavaScript, SQL, Snowflake, and fluent with frameworks such as SpringBoot. BNY is an AI first organization so experience with using Agentic AI and coding assistants such as Windsurf, Cursor, MS Co-pilot is highly recommended. You will be responsible for developing new software as well as maintaining and supporting existing applications. You will be responsible for writing automated test so familiarity with automated testing frameworks suck as Playwright, Selenium is highly recommended.</span></p><p style=\"margin: 0in 0in 6pt;\"><span style=\"color: black;\">&nbsp;</span>We’re seeking a future team member for the role of&nbsp;<strong>Vice President, Full Stack Engineer<u>&nbsp;</u></strong>to join our team. This role is in&nbsp;Lake Mary, FL</p><p style=\"margin: 0in 0in 6pt;\"><span style=\"color: black;\"><strong>To be successful in this role, we’re seeking the following:&nbsp;</strong></span></p><p style=\"margin: 0in 0in 6pt;\"><span style=\"color: black;\">&nbsp;</span></p><p style=\"margin: 0in 0in 0in 20.25pt;\"><span style=\"color: black;\">• <span style=\"font-size: 11pt;\">Bachelor’s degree in Computer Science, Engineering, or a related discipline required. An advanced degree is preferred; equivalent professional experience will also be considered.</span></span></p><p style=\"margin: 0in 0in 0in 20.25pt;\"><span style=\"color: black;\">• At least 5 plus&nbsp;years of relevant work experience in as a Full Stack Engineer building and deploying software in the Cloud.</span></p><p style=\"margin: 0in 0in 0in 20.25pt;\"><span style=\"color: black;\">• Expert knowledge of Java, Angular, SQL, Snowflake, Python, JavaScript.</span></p><p style=\"margin: 0in 0in 0in 20.25pt;\"><span style=\"color: black;\">• Experience building and deploying in at least one major Cloud infrastructure.</span></p><p style=\"margin: 0in 0in 0in 20.25pt;\"><span style=\"color: black;\">• Experience with coding assistants such as Windsurf, Cursor, MS Co-pilot.</span></p><p style=\"margin: 0in 0in 0in 20.25pt;\"><span style=\"color: black;\">• Knowledge of Agile methodologies and tools such as JIRA, and experience working in an Agile environment.</span></p><p style=\"margin: 0in 0in 0in 20.25pt;\"><span style=\"color: black;\">• Good knowledge of capital markets, products and concepts with a focus on fixed income products, money markets, and quantitative methods.</span></p><p style=\"margin: 0in 0in 0in 20.25pt;\"><span style=\"color: black;\">• Team player, innovator, out of the box thinker.</span></p><p>&nbsp;</p><p>At BNY, our culture speaks for&nbsp;itself, check&nbsp;out the latest BNY news at:&nbsp;</p><p><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.bny.com/corporate/global/en/about-us/newsroom.html\">BNY Newsroom</a>&nbsp;</p><p><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.linkedin.com/company/bnyglobal/posts/?feedView=all\">BNY LinkedIn&nbsp;</a>&nbsp;</p><p>&nbsp;Here’s a few of our&nbsp;recent&nbsp;awards:&nbsp;&nbsp;</p><ul style=\"list-style-type: disc;\"><li>America’s Most Innovative Companies, Fortune, 2025&nbsp;</li><li>World’s Most Admired Companies, Fortune 2025&nbsp;</li><li>“Most Just Companies”, Just Capital and CNBC, 2025&nbsp;</li></ul><p>&nbsp;<br><span lang=\"EN\">Our Benefits and Rewards:&nbsp;</span>&nbsp;</p><p><span lang=\"EN-GB\">BNY offers highly competitive compensation, benefits, and wellbeing programs rooted in a strong culture of excellence and our pay-for-performance philosophy. We provide access to flexible global resources and tools for your life’s journey. Focus on your health, foster your personal resilience, and reach your financial goals as a valued member of our team, along with generous paid leaves, including paid volunteer time, that can support you and your family through moments that matter.&nbsp;</span>&nbsp;</p><p><span lang=\"EN\">BNY is an Equal Employment Opportunity/Affirmative Action Employer - Underrepresented racial and ethnic groups/Females/Individuals with Disabilities/Protected Veterans.</span>&nbsp;</p>",
+      "ExternalPostedEndDate": null,
+      "ExternalPostedStartDate": "2026-08-10T19:36:13+00:00",
+      "ExternalQualificationsStr": "",
+      "ExternalResponsibilitiesStr": "",
+      "GeographyId": 300000090199637,
+      "GeographyNodeId": 100010357090123,
+      "HiringManager": null,
+      "HotJobFlag": false,
+      "Id": "79512",
+      "InternalQualificationsStr": "",
+      "InternalResponsibilitiesStr": "",
+      "InternationalTravelRequired": null,
+      "JobFamilyId": 300000094771332,
+      "JobFunction": "Software Engineering",
+      "JobFunctionCode": "SOENG",
+      "JobGrade": null,
+      "JobLevel": null,
+      "JobSchedule": "Full time",
+      "JobShift": "Day",
+      "JobType": null,
+      "LegalEmployer": null,
+      "LegalEmployerId": 300000003582023,
+      "NumberOfOpenings": null,
+      "ObjectVerNumberProfile": null,
+      "Organization": null,
+      "OrganizationDescriptionStr": "<p>At BNY, our culture speaks for itself, check out the latest BNY news at&nbsp;<a href=\"https://www.bny.com/corporate/global/en/about-us/newsroom.html\" target=\"_blank\" rel=\"nofollow\">BNY Newsroom</a>&nbsp;&amp;&nbsp;<a href=\"https://www.linkedin.com/company/bnyglobal/posts/?feedView=all\" target=\"_blank\" rel=\"nofollow\">BNY LinkedIn</a></p>\n<p style=\"margin-bottom:0in\">&nbsp;Here’s a few of our recent awards:</p>\n<ul style=\"margin-top:0in\">\n <li style=\"margin-bottom:0in\">America’s Most Innovative Companies, Fortune, 2025</li>\n <li style=\"margin-bottom:0in\">World’s Most Admired Companies, Fortune 2025</li>\n <li style=\"margin-bottom:0in\">“Most Just Companies”, Just Capital and CNBC, 2025</li>\n</ul>\n<ul></ul>\n<p>Our Benefits and Rewards:</p>\n<p>BNY offers highly competitive compensation, benefits, and wellbeing programs rooted in a strong culture of excellence and our pay-for-performance philosophy. We provide access to flexible global resources and tools for your life’s journey. Focus on your health, foster your personal resilience, and reach your financial goals as a valued member of our team, along with generous paid leaves, including paid volunteer time, that can support you and your family through moments that matter.</p>\n<p>BNY is an Equal Employment Opportunity/Affirmative Action Employer - Underrepresented racial and ethnic groups/Females/Individuals with Disabilities/Protected Veterans.</p>\n<p>BNY assesses market data to ensure a competitive compensation package for our employees. The expected base salary for this position when employment commences can be found in the Job Info section at the bottom of the posting.&nbsp;</p>\n<p>Base salary offered may vary depending on multiple individualized factors, including market location, job-related knowledge, skills, and experience. Base salary is only part of the total rewards package, which may include eligibility for an annual discretionary incentive award. Subject to the terms and conditions of the applicable plans then in effect, eligible employees may enroll in a 401(k) plan as well as participate in Company-sponsored medical, dental, vision, and basic life insurance plans for the employee and the employee’s eligible dependents. Eligible employees also may receive other benefits (including various paid time off benefits, such as vacation and sick time), dependent on the position offered. Details of participation in these benefit plans will be provided if an employee receives an offer of employment.</p>\n<p>If hired, the employee will be in an “at will” position and the Company reserves the right to modify base salary (as well as any other discretionary payments or compensation programs) at any time, including for reasons related to individual performance, Company or individual department/team performance, and market factors.</p>",
+      "OrganizationId": 300005821860441,
+      "OtherRequisitionTitle": null,
+      "PrimaryLocation": "Lake Mary, FL, United States",
+      "PrimaryLocationCountry": "US",
+      "RequisitionId": 300010317340002,
+      "RequisitionType": "Experienced",
+      "ShortDescriptionStr": "",
+      "StudyLevel": null,
+      "Title": "Vice President, Full-Stack Engineer",
+      "TrendingFlag": true,
+      "WorkDays": null,
+      "WorkHours": null,
+      "WorkMonths": null,
+      "WorkYears": null,
+      "WorkerType": null,
+      "WorkplaceType": "",
+      "WorkplaceTypeCode": null,
+      "media": [],
+      "otherWorkLocations": [],
+      "primaryLocationCoordinates": [
+        {
+          "CountryCode": "US",
+          "GeographyId": 300000090199637,
+          "GeographyNodeId": 100010357090123,
+          "Latitude": "28.75641",
+          "Longitude": "-81.32345"
+        }
+      ],
+      "requisitionFlexFields": [
+        {
+          "ControlType": "TextArea",
+          "Prompt": "Base Salary Min",
+          "SequenceNumber": 12,
+          "Value": "83000"
+        },
+        {
+          "ControlType": "TextArea",
+          "Prompt": "Base Salary Max",
+          "SequenceNumber": 21,
+          "Value": "168000"
+        }
+      ],
+      "secondaryLocations": [],
+      "skills": [],
+      "workLocation": [
+        {
+          "AddressLine1": "600 Colonial Center Parkway",
+          "AddressLine2": null,
+          "AddressLine3": null,
+          "AddressLine4": null,
+          "Building": null,
+          "Country": "US",
+          "Latitude": "28.76193",
+          "LocationId": 300004762131770,
+          "LocationName": "600 Colonial Center Parkway,Lake Mary,FL",
+          "Longitude": "-81.34815",
+          "PostalCode": "32746",
+          "Region1": "Seminole",
+          "Region2": "FL",
+          "Region3": null,
+          "TownOrCity": "Lake Mary"
+        }
+      ]
+    }
+  ],
+  "limit": 499,
+  "links": [
+    {
+      "href": "https://eofe.fa.us2.oraclecloud.com:443/hcmRestApi/resources/11.13.18.05/recruitingCEJobRequisitionDetails",
+      "kind": "collection",
+      "name": "recruitingCEJobRequisitionDetails",
+      "rel": "self"
+    }
+  ],
+  "offset": 0
+}

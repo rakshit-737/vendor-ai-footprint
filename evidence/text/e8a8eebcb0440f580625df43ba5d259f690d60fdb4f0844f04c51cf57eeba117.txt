@@ -1,0 +1,23 @@
+Topic: 
+                ACH
+            
+            
+            Type: 
+                ACH
+            
+        
+                                
+             Member Fee: 
+                 $0.00
+            
+            
+            Non-Member Fee: 
+                $50.00
+            
+            
+            
+                
+            
+        
+        
+            This document discusses both PPD Credits (direct deposits) ad PPD Debits (direct debits). You'll receive a basic understanding of authorization requirements, file formatting requirements, responses to unauthorized transactions and optional account validation methods. Included for both entry types are FAQs.

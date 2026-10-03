@@ -1,0 +1,45 @@
+Type: 
+            
+                Webinar
+            
+            
+            Duration: 
+            
+                60 Minutes
+            
+            
+            
+                Date & Time: 
+                
+                
+            
+            
+            
+            
+            
+        
+            
+            Member Fee: 
+            
+                $0
+            
+            
+            Non-Member Fee: 
+            
+                $349
+            
+            
+            
+            
+                
+            
+            
+            Audience: 
+            
+                AAPs, AAP Candidates, APRPs, APRP Candidates, Compliance, Risk Managers, Senior Management
+            
+            
+        
+        
+             
+Financial institutions can be exposed to a variety of risks whether originating or receiving ACH transactions or outsourcing these activities to a third party. We’ll outline the key components of an effective ACH risk management program and address the various areas of ACH risk (Credit, Fraud, Operations, Systemic and Compliance) and controls.

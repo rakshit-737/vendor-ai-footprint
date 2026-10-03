@@ -1,0 +1,130 @@
+{
+  "count": 1,
+  "hasMore": false,
+  "items": [
+    {
+      "ApplyWhenNotPostedFlag": false,
+      "BeFirstToApplyFlag": false,
+      "BusinessUnit": null,
+      "BusinessUnitId": 300000094081469,
+      "Category": "Production Services Application Support",
+      "ContentLocale": "en",
+      "ContractType": null,
+      "CorporateDescriptionStr": "",
+      "Department": null,
+      "DomesticTravelRequired": null,
+      "ExternalContactEmail": null,
+      "ExternalContactName": null,
+      "ExternalDescriptionStr": "<p><b><u>AI Platform Production Engineer</u></b></p>\n<p>At BNY, our culture allows us to run our company better and enables employees’ growth and success. As a leading global financial services company at the heart of the global financial system, we influence nearly 20% of the world’s investible assets. Every day, our teams harness cutting-edge AI and breakthrough technologies to collaborate with clients, driving transformative solutions that redefine industries and uplift communities worldwide.</p>\n<p>Recognized as a top destination for innovators, BNY is where bold ideas meet advanced technology and exceptional talent. Together, we power the future of finance – and this is what #LifeAtBNY is all about. Join us and be part of something extraordinary.</p>\n<p>We’re seeking a future team member for the role of AI Platform Production Engineer to join our Production Services team. This role is in Lake Mary, LM and Pittsburgh, PA</p>\n<p><b>In this role, you’ll make an impact in the following ways:</b></p>\n<ul>\n <li>Provide hands-on engineering capability to automate deployment, orchestration, and management of AI workloads across cloud environments</li>\n <li>Build robust monitoring, alerting, and observability across infrastructure, data pipelines, and model operations</li>\n <li>Strengthening reliability and resiliency through direct implementation of automation, self-service tooling, and self-healing controls</li>\n <li>Reduce manual operational dependency by embedding engineering discipline into the production services model</li>\n <li>Enable a scalable, high-performance operating environment aligned to the needs of enterprise AI platforms</li>\n</ul>\n<p><b>To be successful in this role, we’re seeking the following:</b></p>\n<ul>\n <li>Deep technical expertise in DevOps and MLOps foundations for large-scale AI platforms</li>\n <li>Experience with automation, CI/CD pipelines, observability, recovery mechanisms, and operational tooling for cloud-native environments</li>\n <li>Proven ability to engineer and operate distributed compute, data pipelines, and deployment automation at scale</li>\n <li>Strong background in building resilient, self-healing production services for complex AI workloads</li>\n <li>&nbsp;**EDUCATION/QUALIFICATIONS:** - Bachelor's degree in Information Technology, Computer Science, or a related field. **EXPERIENCE:** - Typically 6-10 years of experience. **SKILLS:** - Strong analytical and problem-solving skills with a focus on client service.&nbsp;</li>\n</ul>\n<p><b>At BNY, our culture speaks for itself, check out the latest BNY news at:</b></p>\n<p><a href=\"https://www.bny.com/corporate/global/en/about-us/newsroom.html\" target=\"_blank\" rel=\"nofollow\"><span>BNY Newsroom</span></a></p>\n<p><a href=\"https://www.linkedin.com/company/bnyglobal/posts/?feedView=all\" target=\"_blank\" rel=\"nofollow\"><span>BNY LinkedIn&nbsp;</span></a></p>\n<p><b>Here’s a few of our recent awards:</b></p>\n<p><b>America’s Most Innovative Companies, Fortune, 2025</b></p>\n<p><b>World’s Most Admired Companies, Fortune 2025</b></p>\n<p><b>“Most Just Companies”, Just Capital and CNBC, 2025</b></p>\n<p><b>Our Benefits and Rewards:</b></p>\n<p>BNY offers highly competitive compensation, benefits, and wellbeing programs rooted in a strong culture of excellence and our pay-for-performance philosophy. We provide access to flexible global resources and tools for your life’s journey. Focus on your health, foster your personal resilience, and reach your financial goals as a valued member of our team, along with generous paid leaves, including paid volunteer time, that can support you and your family through moments that matter.</p>\n<p>BNY is an Equal Employment Opportunity/Affirmative Action Employer - Underrepresented racial and ethnic groups/Females/Individuals with Disabilities/Protected Veterans.</p>\n<p>&nbsp;</p>",
+      "ExternalPostedEndDate": null,
+      "ExternalPostedStartDate": "2026-04-30T23:33:21+00:00",
+      "ExternalQualificationsStr": "",
+      "ExternalResponsibilitiesStr": "",
+      "GeographyId": 300000090199637,
+      "GeographyNodeId": 100010357090123,
+      "HiringManager": null,
+      "HotJobFlag": false,
+      "Id": "76416",
+      "InternalQualificationsStr": "",
+      "InternalResponsibilitiesStr": "",
+      "InternationalTravelRequired": null,
+      "JobFamilyId": 300000094774439,
+      "JobFunction": "Production Services Engineering",
+      "JobFunctionCode": "PRSEENG",
+      "JobGrade": null,
+      "JobLevel": null,
+      "JobSchedule": "Full time",
+      "JobShift": "Day",
+      "JobType": null,
+      "LegalEmployer": null,
+      "LegalEmployerId": 300000003582023,
+      "NumberOfOpenings": null,
+      "ObjectVerNumberProfile": null,
+      "Organization": null,
+      "OrganizationDescriptionStr": "<p>At BNY, our culture speaks for itself, check out the latest BNY news at&nbsp;<a href=\"https://www.bny.com/corporate/global/en/about-us/newsroom.html\" target=\"_blank\" rel=\"nofollow\">BNY Newsroom</a>&nbsp;&amp;&nbsp;<a href=\"https://www.linkedin.com/company/bnyglobal/posts/?feedView=all\" target=\"_blank\" rel=\"nofollow\">BNY LinkedIn</a></p>\n<p style=\"margin-bottom:0in\">&nbsp;Here’s a few of our recent awards:</p>\n<ul style=\"margin-top:0in\">\n <li style=\"margin-bottom:0in\">America’s Most Innovative Companies, Fortune, 2025</li>\n <li style=\"margin-bottom:0in\">World’s Most Admired Companies, Fortune 2025</li>\n <li style=\"margin-bottom:0in\">“Most Just Companies”, Just Capital and CNBC, 2025</li>\n</ul>\n<ul></ul>\n<p>Our Benefits and Rewards:</p>\n<p>BNY offers highly competitive compensation, benefits, and wellbeing programs rooted in a strong culture of excellence and our pay-for-performance philosophy. We provide access to flexible global resources and tools for your life’s journey. Focus on your health, foster your personal resilience, and reach your financial goals as a valued member of our team, along with generous paid leaves, including paid volunteer time, that can support you and your family through moments that matter.</p>\n<p>BNY is an Equal Employment Opportunity/Affirmative Action Employer - Underrepresented racial and ethnic groups/Females/Individuals with Disabilities/Protected Veterans.</p>\n<p>BNY assesses market data to ensure a competitive compensation package for our employees. The expected base salary for this position when employment commences can be found in the Job Info section at the bottom of the posting.&nbsp;</p>\n<p>Base salary offered may vary depending on multiple individualized factors, including market location, job-related knowledge, skills, and experience. Base salary is only part of the total rewards package, which may include eligibility for an annual discretionary incentive award. Subject to the terms and conditions of the applicable plans then in effect, eligible employees may enroll in a 401(k) plan as well as participate in Company-sponsored medical, dental, vision, and basic life insurance plans for the employee and the employee’s eligible dependents. Eligible employees also may receive other benefits (including various paid time off benefits, such as vacation and sick time), dependent on the position offered. Details of participation in these benefit plans will be provided if an employee receives an offer of employment.</p>\n<p>If hired, the employee will be in an “at will” position and the Company reserves the right to modify base salary (as well as any other discretionary payments or compensation programs) at any time, including for reasons related to individual performance, Company or individual department/team performance, and market factors.</p>",
+      "OrganizationId": 300000094741901,
+      "OtherRequisitionTitle": null,
+      "PrimaryLocation": "Lake Mary, FL, United States",
+      "PrimaryLocationCountry": "US",
+      "RequisitionId": 300009784041253,
+      "RequisitionType": "Experienced",
+      "ShortDescriptionStr": "",
+      "StudyLevel": null,
+      "Title": "AI Platform Production Engineer",
+      "TrendingFlag": true,
+      "WorkDays": null,
+      "WorkHours": null,
+      "WorkMonths": null,
+      "WorkYears": null,
+      "WorkerType": null,
+      "WorkplaceType": "",
+      "WorkplaceTypeCode": null,
+      "media": [],
+      "otherWorkLocations": [],
+      "primaryLocationCoordinates": [
+        {
+          "CountryCode": "US",
+          "GeographyId": 300000090199637,
+          "GeographyNodeId": 100010357090123,
+          "Latitude": "28.75641",
+          "Longitude": "-81.32345"
+        }
+      ],
+      "requisitionFlexFields": [
+        {
+          "ControlType": "TextArea",
+          "Prompt": "Base Salary Min",
+          "SequenceNumber": 12,
+          "Value": "69000"
+        },
+        {
+          "ControlType": "TextArea",
+          "Prompt": "Base Salary Max",
+          "SequenceNumber": 21,
+          "Value": "153000"
+        }
+      ],
+      "secondaryLocations": [
+        {
+          "CountryCode": "US",
+          "GeographyId": 300000090220393,
+          "GeographyNodeId": 100010357090073,
+          "Latitude": "40.43851",
+          "Longitude": "-79.99734",
+          "Name": "Pittsburgh, PA, United States",
+          "RequisitionLocationId": 300009813432886
+        }
+      ],
+      "skills": [],
+      "workLocation": [
+        {
+          "AddressLine1": "300 Colonial Center Parkway",
+          "AddressLine2": null,
+          "AddressLine3": null,
+          "AddressLine4": null,
+          "Building": null,
+          "Country": "US",
+          "Latitude": "28.76193",
+          "LocationId": 300000129871125,
+          "LocationName": "300 Colonial Center Parkway,Lake Mary,FL",
+          "Longitude": "-81.34815",
+          "PostalCode": "32746",
+          "Region1": "Seminole",
+          "Region2": "FL",
+          "Region3": null,
+          "TownOrCity": "Lake Mary"
+        }
+      ]
+    }
+  ],
+  "limit": 499,
+  "links": [
+    {
+      "href": "https://eofe.fa.us2.oraclecloud.com:443/hcmRestApi/resources/11.13.18.05/recruitingCEJobRequisitionDetails",
+      "kind": "collection",
+      "name": "recruitingCEJobRequisitionDetails",
+      "rel": "self"
+    }
+  ],
+  "offset": 0
+}

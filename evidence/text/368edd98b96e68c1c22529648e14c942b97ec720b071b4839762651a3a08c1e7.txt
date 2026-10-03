@@ -1,0 +1,47 @@
+July 2, 2025July 1, 2025 Doug Austin
+
+Digital Employees Are Here – At Least in Banks: Artificial Intelligence Trends
+
+At least one financial services company is now “employing” dozens of AI powered digital employees that have company logins and more.
+
+As reported by The Wall Street Journal (Digital Workers Have Arrived in Banking, written by Isabelle Bousquette and available here), Bank of New York Mellon (BNY) said it now employs dozens of artificial intelligence-powered ‘digital employees’ that have company logins and work alongside its human staff.
+
+Similar to human employees, these digital workers have direct managers they report to and work autonomously in areas like coding and payment instruction validation, said Chief Information Officer Leigh-Ann Russell. Soon they’ll have access to their own email accounts and may even be able to communicate with colleagues in other ways like through Microsoft Teams, she said. 🤯
+
+“This is the next level,” Russell said. While it’s still early for the technology, Russell said, “I’m sure in six months’ time it will become very, very prevalent.”
+
+Others aren’t necessarily taking the same approach of granting their AI full logins, but many say that they are shaping AI into applications that increasingly replicate the capabilities and workflows of human employees, taking on more and more tasks in areas like the software development life cycle and research. Several, like JPMorgan Chase, say they are still figuring out the exact right access and management controls and system integrations and how humanlike these tech systems will become.
+
+BNY said it took three months for its AI Hub to spin up two digital employee personas: one designed to clean up vulnerabilities in code and one designed to validate payment instructions. Each persona can exist in a few dozen instances, and each instance is assigned to work narrowly within a particular team, Russell said. That way no digital employee has broad access to information across the company, she added.
+
+Because they have their own logins and can directly access the same apps as human employees, they can work autonomously, said Russell. For example, a digital engineer can log into company systems and see there’s a vulnerability that needs to be patched, write the new code to patch it, and then pass it on to a human manager for approval in the system.
+
+The story continues with more information, including the approach JPMorgan Chase has taken, where “digital employees” are more of a helpful model for business people to conceptualize AI tools.
+
+Hey, what could go wrong? It’s just a bank – where the money is. Right? 🤣
+
+I found this article because I subscribe to the blog for Louisiana State Judge Scott Schlegel (you may remember him from his statement on AI orders here). In Judge Schlegel’s blog – cleverly titled “[sch]Legal Tech” (see what he did there? 😉), he discusses this article and his vision on how this could be implemented in courts as follows:
+
+“Will courts give digital workers their own credentials? Will they appear in docket notes, case tracking systems, or internal memos? What happens when a digital assistant in a judge’s chambers starts pinging an AI working at a law firm? Whose voice is it? Whose action is it? And what part of the record does it become?”
+
+Noting “We are not ready for this”, Judge Schlegel adds: “The legal system must prepare for this shift with the seriousness it demands if we go down this road. Because once AI gets its own email and starts showing up in your inbox, it’s not just a tool anymore. It’s a colleague. And that changes everything.”
+
+While I expect the legal profession will move much more slowly than the banking industry (though I’m not sure exactly why, given the stakes 🤔), Judge Schlegel is right in saying that legal professionals need to prepare for it. Because it’s coming.
+
+So, what do you think? Are you ready for AI powered digital employees at your organization? Please share any comments you might have or if you’d like to know more about a particular topic.
+
+Image created using Microsoft Designer, using the term “robot bank teller waiting on robot customers”. I have no idea what “Bebiot” means either! 🤣
+
+Disclaimer: The views represented herein are exclusively the views of the authors and speakers themselves, and do not necessarily represent the views held by my employer, my partners or my clients. eDiscovery Today is made available solely for educational purposes to provide general information about general eDiscovery principles and not to provide specific legal advice applicable to any particular circumstance. eDiscovery Today should not be used as a substitute for competent legal advice from a lawyer you have retained and who has agreed to represent you.
+
+Like this:
+
+Like Loading…
+
+Related
+
+Discover more from eDiscovery Today by Doug Austin
+
+Subscribe to get the latest posts sent to your email.
+
+Leave a ReplyCancel reply

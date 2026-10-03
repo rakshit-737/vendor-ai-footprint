@@ -1,0 +1,12 @@
+[
+  [
+    "timestamp",
+    "original",
+    "statuscode"
+  ],
+  [
+    "20260517231843",
+    "https://mondovisione.com/media-and-resources/news/fiserv-forms-strategic-collaboration-with-openai-to-bring-ai-to-how-fiserv-serve-2026514/",
+    "200"
+  ]
+]

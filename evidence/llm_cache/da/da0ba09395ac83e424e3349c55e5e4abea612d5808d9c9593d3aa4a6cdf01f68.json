@@ -1,0 +1,182 @@
+{
+ "key": "da0ba09395ac83e424e3349c55e5e4abea612d5808d9c9593d3aa4a6cdf01f68",
+ "model": "gemini-3.5-flash-lite",
+ "payload_sha256": "cf462cbe79e309fe9953f21ee0483ed0d73cd22b6622663870d6838becaae375",
+ "prompt_sha256": "065bd458ace52ff274c72967cfe1b90c794a1ec8d3a3696ec78d7d8cf636df94",
+ "response": {
+  "claims": [
+   {
+    "action_level": "unknown",
+    "ai_type": "conversational",
+    "claim_kind": "generic_ai_marketing",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M1",
+      "span": "conversational AI"
+     },
+     {
+      "code": "M2",
+      "span": "is going to become"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P1",
+    "quote": "And finally, conversational AI is going to become the next layer of abstraction. That’s going to allow users to initiate payment in natural language without having to think about any rails at all.",
+    "subject": "vendor_product",
+    "temporal": "planned"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G11",
+      "span": "compressed those implementation timelines using AI by more than half"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P2",
+    "quote": "And we have 75 implementations in flight. And we’ve already compressed those implementation timelines using AI by more than half.",
+    "subject": "vendor_operations",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "compress the timelines in rewriting code on the left side, as well as in building new platforms on the right side"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P3",
+    "quote": "But now, especially with AI, we’ve been able to meaningfully compress the timelines in rewriting code on the left side, as well as in building new platforms on the right side.",
+    "subject": "vendor_operations",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M2",
+      "span": "we’re launching"
+     },
+     {
+      "code": "G2",
+      "span": "Intelligent recommendations and better credit decisioning and fraud decisioning"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P5",
+    "quote": "And as we look ahead, we’re launching AI enabled products with use cases like Intelligent recommendations and better credit decisioning and fraud decisioning in real time.",
+    "subject": "vendor_product",
+    "temporal": "planned"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "embedding AI into our products"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P6",
+    "quote": "First is embedding AI into our products, which I’ve touched on in banking, payments, and issuing. Second is agentOS, which I’m going to talk about next.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "agentic",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [
+     "systems of record"
+    ],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "deploy AI agents safely across their systems of record"
+     },
+     {
+      "code": "G4",
+      "span": "already in beta today"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P7",
+    "quote": "agentOS is our new operating platform that lets FIs deploy AI agents safely across their systems of record. Importantly, it’s already in beta today.",
+    "subject": "vendor_product",
+    "temporal": "pilot_or_beta"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "genai_llm",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [
+     "systems of record across core, payments, issuing"
+    ],
+    "indicators": [
+     {
+      "code": "G3",
+      "span": "sits on top of our systems of record across core, payments, issuing"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P9",
+    "quote": "To power this, we’re using multiple LLMs from leading model providers. Importantly, all this sits on top of our systems of record across core, payments, issuing.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "generic_ai_marketing",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M2",
+      "span": "What we’re building"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P10",
+    "quote": "So this is not about 1 or 2 use cases. What we’re building is a safe, governed way to scaled AI adoption.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "industry_commentary",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M3",
+      "span": "AI is going to fundamentally change financial services"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P11",
+    "quote": "We believe, as many of you, I’m sure do, AI is going to fundamentally change financial services. And we’re really excited about the interest that we’ve seen so far from our clients.",
+    "subject": "other_or_industry",
+    "temporal": "unclear"
+   }
+  ]
+ },
+ "role": "extract",
+ "schema_sha256": "f1cd07fdb8e496624608717927261043432a3bd93d84723a126b7c7d951d68df",
+ "seed": 1234
+}

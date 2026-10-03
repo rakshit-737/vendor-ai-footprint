@@ -1,0 +1,51 @@
+What We Offer keyboard_arrow_down Securities Services arrow_forward Fund & Investor Solutions Custody Managed Account Solutions Integrated Middle Office Solutions Global Clearing Issuer Services arrow_forward Conventional Trust Structured Debt Depositary Receipts Liquidity, Financing & Collateral arrow_forward Liquidity & Financing Credit & Lending Global Collateral Global Payments & Trade arrow_forward Payments Cash Management Trade Finance Markets Execution Services arrow_forward FX Fixed Income Equities Buy-Side Trading Solutions Investments arrow_forward Wealth arrow_forward BNY Pershing/Wealth Services arrow_forward Data & Analytics arrow_forward Digital Assets arrow_forward
+
+Who We Serve keyboard_arrow_down Alternative Asset Managers Investment Managers Asset Owners Insurance Companies Banks Broker-Dealers Corporations Wealth Intermediaries Individuals, Families & Family Offices
+
+Insights keyboard_arrow_down BNY Institute arrow_forward All Insights arrow_forward BNY Institute At the Table with BNY Experts: Summer Edition Read more arrow_forward BNY Wealth Structuring the Sale: Insights for Private Business Owners Read more arrow_forward
+
+About Us keyboard_arrow_down About BNY arrow_forward Leadership Office Locations Sustainability Technology & Innovation Thrive Together Newsroom arrow_forward Trust Center arrow_forward Careers arrow_forward Search BNY Jobs Early Career Opportunities Experienced Professionals
+
+Investor Relations keyboard_arrow_right Overview Press Releases Quarterly Earnings Events & Presentations Annual Reports & Proxy Statements SEC Filings & Other Disclosures Shareholder Services Fixed Income Corporate Governance Contact JULY 2026 BNY Reports Second Quarter 2026 Results Learn more arrow_forward FEBRUARY 2026 Annual Report 2025: Built for Opportunity Learn more arrow_forward
+
+Investor Relations Overview Press Releases Quarterly Earnings Events & Presentations Annual Reports & Proxy Statements SEC Filings & Other Disclosures Shareholder Services Fixed Income Corporate Governance Contact JULY 2026 BNY Reports Second Quarter 2026 Results Learn more arrow_forward FEBRUARY 2026 Annual Report 2025: Built for Opportunity Learn more arrow_forward
+
+Client Access
+
+SUGGESTED RESULTS
+
+Search Results
+
+BNY Mellon and Google Cloud Collaborate to Help Transform U.S. Treasury Market Settlement and Clearance Process
+
+Innovative solution built on Google Cloud could help BNY Mellon clients forecast 40% of daily settlement failures to improve overall market liquidity
+
+This latest agreement is in line with BNY Mellon’s continued commitment to an open-architecture approach of working with leading tech providers to advance its enterprise cloud strategy and build new capabilities for clients
+
+The Bank of New York Mellon Corporation (“BNY Mellon”) today announced a collaboration with Google Cloud to help market participants better predict billions of dollars in daily settlement failures, generate significant capital and liquidity savings, and unlock operational efficiencies. The initiative, which helps to extend BNY Mellon’s growing portfolio of emerging technology capabilities, will leverage Google Cloud’s data analytics, artificial intelligence (AI) and machine learning (ML) technologies to develop new collateral management and liquidity solutions built on Google Cloud.
+
+BNY Mellon continues to heavily invest in advanced solutions that include the cloud, AI, ML and distributed ledger technology. This collaboration is the latest example of its open-architecture approach of working together with leading technology providers to extend its capabilities in reimagining and delivering solutions to meet client needs. In addition to creating use cases for the U.S. Treasury market, BNY Mellon is developing AI-powered solutions for securities lending, liquidity forecasting, dynamic controls for pricing, anomaly detection for transactions, and automated document processing.
+
+“We are excited to work with Google Cloud to develop a first-of-its-kind solution to help our clients predict approximately 40% of settlement failures in Fed-eligible securities with 90% accuracy,” said Brian Ruane, CEO, BNY Mellon Clearance & Collateral Management. “A settlement failure occurs when a buyer and seller fail to exchange cash and securities by the close of business on the scheduled settlement date. This prediction model could be a game-changer for market participants and is a tremendous showcase of how we are leveraging emerging technologies, such as the public cloud, to accelerate the delivery of meaningful solutions for our clients.”
+
+The U.S. Treasury market is the largest and the most liquid market in the world and BNY Mellon is the unique provider of clearance and settlement. On a typical day, approximately two percent of transactions fail to settle. BNY Mellon is using Google Cloud for its scalable data analytics capabilities and to train models on millions of trades to consider every value and factor that could result in a failure. This will help reduce client risk and create a more efficient financial market with fewer failure points and greater liquidity. BNY Mellon is also leveraging Google Cloud to support more development environments, making code delivery quicker while reducing infrastructure costs.
+
+“BNY Mellon is building on its existing capabilities, using the latest cloud technologies to test and refine its approach to reduce treasury settlement failures, ultimately helping its clients save money and helping transform the U.S. Treasury market,” said Rob Enslin, President, Google Cloud. “We’re proud to have helped BNY Mellon use our leading data analytics and artificial intelligence technologies to transform the settlement and clearing process, and set an example for the industry overall.”
+
+Related Links:
+
+● Read more about BNY Mellon ● Learn more about BNY Mellon’s Clearance & Collateral Management offerings ● Read more about Google Cloud for Financial Services ● Learn more about BigQuery
+
+About BNY Mellon
+
+BNY Mellon is a global investments company dedicated to helping its clients manage and service their financial assets throughout the investment lifecycle. Whether providing financial services for institutions, corporations or individual investors, BNY Mellon delivers informed investment and wealth management and investment services in 35 countries. As of Dec. 31, 2020, BNY Mellon had $41.1 trillion in assets under custody and/or administration, and $2.2 trillion in assets under management. BNY Mellon can act as a single point of contact for clients looking to create, trade, hold, manage, service, distribute or restructure investments. BNY Mellon is the corporate brand of The Bank of New York Mellon Corporation (NYSE: BK). Additional information is available on www.bnymellon.com. Follow us on Twitter @BNYMellon or visit our newsroom at www.bnymellon.com/newsroom for the latest company news.
+
+About Google Cloud
+
+Google Cloud provides organizations with leading infrastructure, platform capabilities and industry solutions. We deliver enterprise-grade cloud solutions that leverage Google’s cutting-edge technology to help companies operate more efficiently and adapt to changing needs, giving customers a foundation for the future. Customers in more than 150 countries turn to Google Cloud as their trusted partner to solve their most critical business problems.
+
+For media inquiries, please send an email to Media Inquiries or view our Media Resources.
+
+BNY is the corporate brand of The Bank of New York Mellon Corporation and may be used to reference the corporation as a whole or its various subsidiaries generally. BNY.com provides information about services provided by BNY and its affiliates. Not all accounts, products, and services are available in all jurisdictions or to all customers. ©2026 BNY.
+
+Visit our websites around the world.

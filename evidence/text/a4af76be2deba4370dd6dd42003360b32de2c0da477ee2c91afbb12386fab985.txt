@@ -1,0 +1,165 @@
+Consulting Services Implementations Custom Solutions Training Upgrades Migrations Consulting as a Service (CaaS)
+
+Implementations
+
+Custom Solutions
+
+Training
+
+Upgrades
+
+Migrations
+
+Consulting as a Service (CaaS)
+
+Applications Ellucian Banner Oracle E-Business Suite AMISYS Advance Automation Oracle Utilities
+
+Ellucian Banner
+
+Oracle E-Business Suite
+
+AMISYS Advance Automation
+
+Oracle Utilities
+
+Support
+
+Licensing
+
+About The Team Resources Testimonials AvMed HNI Corporation Indiana State University
+
+The Team
+
+Resources
+
+Testimonials AvMed HNI Corporation Indiana State University
+
+AvMed
+
+HNI Corporation
+
+Indiana State University
+
+Contact
+
+Consulting Services Implementations Custom Solutions Training Upgrades Migrations Consulting as a Service (CaaS)
+
+Implementations
+
+Custom Solutions
+
+Training
+
+Upgrades
+
+Migrations
+
+Consulting as a Service (CaaS)
+
+Applications Ellucian Banner Oracle E-Business Suite AMISYS Advance Automation Oracle Utilities
+
+Ellucian Banner
+
+Oracle E-Business Suite
+
+AMISYS Advance Automation
+
+Oracle Utilities
+
+Support
+
+Licensing
+
+About The Team Resources Testimonials AvMed HNI Corporation Indiana State University
+
+The Team
+
+Resources
+
+Testimonials AvMed HNI Corporation Indiana State University
+
+AvMed
+
+HNI Corporation
+
+Indiana State University
+
+Contact
+
+Jocelyn Bazaldua
+
+September 17, 2026
+
+3 min read
+
+Automic Automation V26: Turning Orchestration Into the Control Center for Enterprise AI
+
+WLA
+
+For years, Automic meant one thing: a solid scheduler that could run thousands of critical jobs without missing a beat. Automic Automation V26 brings strategic improvement, expanding the conversation from automation to something bigger: an intelligent control plane for the entire enterprise AI operation.
+
+For organizations already running Automic or evaluating a move to modernize their orchestration layer, this builds on what Automic already does well: it’s still the engine that runs your processes, now with an added layer that decides what AI can touch, when, and under what controls.
+
+The Shift to an Intelligent Control Plane for Enterprise AI
+
+AI has mostly proven itself in support roles so far, chatbots, code assistants, tools that help without touching the core. The real test comes when AI moves into the processes that actually run a business: claims processing, SAP transactions, data pipelines, core banking. Those environments were built to be deterministic, auditable, and tightly controlled, and that’s exactly where most AI initiatives stall. The model usually works fine. What’s missing is a governance layer keeping it inside the rules the business already lives by.
+
+What’s Actually Different Day-to-Day
+
+AI Assistant, built on MCP. Automic’s AI layer connects to your models through the Model Context Protocol, acting as both client and server. Ask it what happened in last night’s run, and it parses logs, execution reports, and documentation to tell you not just what happened, but why root causes, upstream delays, similar fixes that worked before. It can also put together audit and execution reports on request, which cuts down on the need to run separate reporting tools. It’s built to meaningfully cut down your MTTR (mean time to repair).
+
+Bring your own LLM. On SaaS, a default model comes built in. On-prem, you connect Automic to whichever LLM provider you already use cloud-hosted or a local model. Same governance either way. The model changes; the control layer doesn’t.
+
+AI-assisted scripting and workflow building. The AI Assistant explains, troubleshoots, and generates scripts on request, including converting a Python script to PowerShell on the spot. Natural-language workflow building is part of this too.
+
+Native Python, finally on-prem. Python is now a native job type, no shell wrappers, no external interpreter to configure, and a dependency report showing exactly what your job needs to run. This was SaaS-only before V26; now it’s available on-prem too.
+
+A redesigned web interface. The web interface got a real overhaul, a more legible workflow editor, larger job nodes, better accessibility compliance, and enough color customization to make status states genuinely easier to scan at a glance.
+
+A rebuilt SAP agent architecture. Before V26, it was one agent per SAP environment. Now it’s many-to-one, a single agent can maintain connections to multiple SAP environments. Fewer agents to patch and monitor, faster onboarding of new SAP systems.
+
+Security, tightened across the board. Login and authentication now plug into modern identity systems more easily, so you can enforce single sign-on instead of managing separate passwords for the platform. Credentials get encrypted automatically instead of relying on manual setup, Windows components got extra protection against common attack methods, and API and REST traffic is better secured and logged for auditing.
+
+What This Means for Your Operation
+
+If your organization already runs Automic, V26 builds on what Automic already does well, plus gives you a clear path to bring AI into your processes without giving up the control that justified investing in automation in the first place. And if you’re evaluating a move to modernize your orchestration layer, V26 changes the question you’re asking. Instead of “can it run my jobs?” you start asking “can it govern my AI with the same audit trails, access controls, and policy enforcement it already applies to every job I run today?”
+
+At Automworx, we help teams evaluate, implement, and get real value out of Automic Automation V26, from migration to configuration for a live environment. You can read every release note V26 ships with. What you can’t read your way into is the experience of having already run that upgrade in production, seen where it gets tricky, and known what to check before it does. That’s the expertise we bring to the table.
+
+If you’re mapping out what a V26 upgrade looks like for your environment, that’s the conversation we have with teams every week. Let’s talk about yours. Contact us!
+
+Curious to Know more? Watch the webinar on-demand
+
+Share
+
+Recent Posts
+
+September 30, 2026
+
+2 min read
+
+Automate With Intent: Why People and Partners Matter
+
+September 15, 2026
+
+2 min read
+
+The Last Mile of an SAP Landscape
+
+September 3, 2026
+
+3 min read
+
+What the Orchestration Layer Actually Looks Like
+
+Company
+
+Broadcom Expert Advantage Partner
+
+Privacy Policy
+
+Resource Center
+
+Get in touch
+
+Search Site

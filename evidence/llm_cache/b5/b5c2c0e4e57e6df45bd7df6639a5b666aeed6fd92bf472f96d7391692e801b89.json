@@ -1,0 +1,21 @@
+{
+ "key": "b5c2c0e4e57e6df45bd7df6639a5b666aeed6fd92bf472f96d7391692e801b89",
+ "model": "gemini-3.5-flash-lite",
+ "payload_sha256": "23091026fa3377c67bcb1c49d0910bed4377d61331aa76a3ca5c7c2ff53dd3a3",
+ "prompt_sha256": "ad6f9fb7b2bcec4a24437dc2fe0c068247c2d943f01fe4d318a12c62837015d4",
+ "response": {
+  "names": [
+   {
+    "kind": "alias",
+    "name": "The Clearing House"
+   },
+   {
+    "kind": "product",
+    "name": "RTP"
+   }
+  ]
+ },
+ "role": "expand",
+ "schema_sha256": "172bbf2d6bf06bd8693508bbf8f56d2d7a91e191136764b8300dedb84508e09d",
+ "seed": 1234
+}

@@ -1,0 +1,361 @@
+Sardine named a Leader in The Forrester Wave™: Financial Crime Management Solutions, Q3 2026
+
+Products
+
+Agentic AI
+
+Customers
+
+Resources
+
+About
+
+Before, During, After: Payments Fraud Prevention Across the Lifecycle with Kyle Caldwell
+
+What’s up fraud fighters, and welcome to Fraud Forward!
+
+This episode is one every fraud, risk, payments, and operations leader needs to hear.
+
+We talk about fraud all the time, but we do not always talk about where in the payment lifecycle things actually break. Is it onboarding? Authentication? Speed? Recovery? Or is it our misunderstanding of what payment controls actually do?
+
+In this conversation, I sit down with Kyle Caldwell, Head of Fraud Prevention at The Clearing House, to walk through payments fraud prevention the way it actually happens:
+
+Before a payment is initiated
+
+During the moment of initiation
+
+After funds move
+
+Because once the money moves, the rules change.
+
+And that is the big takeaway here. Payments fraud prevention is not just a rail problem. It is a lifecycle problem.
+
+Kyle brings a grounded, strategic view of payments fraud prevention and helps reset the room on one of the biggest misconceptions in our space. Faster payments do not automatically mean faster fraud. In many cases, what shows up at the rail is simply the final step in a much longer fraud chain.
+
+For community banking fraud prevention teams, credit union fraud prevention leaders, and anyone building fraud operations strategy around real time payments, this episode is packed with practical insight.
+
+What you’ll hear in this episode
+
+Why payments fraud prevention has to start before the payment rail
+
+Where institutions confuse rail risk with customer compromise
+
+How RTP fraud prevention differs from ACH fraud recovery and wire fraud recovery
+
+What controls exist within real time payments that many institutions do not fully understand
+
+How indemnity and recovery processes work in the RTP environment
+
+Why real time decisioning matters more than after the fact investigation
+
+Where financial institutions are over investing in detection and under investing in prevention
+
+Why collaboration between institutions is still one of the strongest fraud controls we have
+
+What fraud leaders should prioritize in 2026 as payment lifecycle fraud evolves
+
+You should listen to this episode if you
+
+Lead fraud, risk, payments, or operations at a bank or credit union
+
+Are evaluating RTP fraud prevention or instant payments fraud controls
+
+Want a stronger framework for payments fraud prevention before payment initiation
+
+Need to improve post payment fraud recovery expectations internally
+
+Are building a more mature fraud operations strategy for real time payments
+
+Want practical insight from someone working directly inside The Clearing House fraud prevention ecosystem
+
+If you liked this episode, be sure to subscribe and review the podcast on iTunes, Spotify, YouTube, or wherever you listen to podcasts. It really helps with getting the word out.
+
+Before we double click on the notes, I just want to say that my marketing team told me I need to structure these notes a certain way in order for people to find my podcast. The below is a bit of that 😀
+
+Before the payment: Where payments fraud prevention really begins
+
+Let’s get into it.
+
+One of the strongest points Kyle made is that fraud rarely starts at the payment rail.
+
+By the time a suspicious payment hits RTP, ACH, or a wire channel, the real breakdown has often already happened upstream.
+
+That breakdown may include:
+
+Weak account opening controls
+
+Gaps in KYC or identity verification
+
+Customer compromise
+
+Account takeover
+
+Social engineering
+
+Money mule account activity
+
+Weak authentication flows
+
+IVR or customer service information leaks
+
+That matters because too many institutions still talk about rail based fraud like the rail itself is the root cause.
+
+Kyle makes it clear that in many cases, the payment is simply the final move in a much longer fraud story.
+
+For teams working in community banking fraud prevention and credit union fraud prevention, that means prevention metrics should not start with the transaction alone.
+
+They should also include:
+
+Quality of onboarding controls
+
+Authentication performance
+
+Mule account detection
+
+Customer education effectiveness
+
+Signals of compromise before payment intent is formed
+
+If fraud shows up at the payment rail, you are already late.
+
+During the payment: What RTP controls actually do
+
+This is where fear tends to show up.
+
+A lot of institutions still carry the mindset that faster payments equal faster fraud. Kyle pushes back on that in a really important way.
+
+His point is simple:
+
+Speed does not create fraud. Weak identity and poor controls do.
+
+He explains that RTP is a credit push model. That means:
+
+The sender authorizes the payment
+
+Funds must be available before movement
+
+Settlement is final
+
+The design reduces some traditional third party debit risk
+
+That does not eliminate fraud. It changes where the risk sits.
+
+In an RTP environment, institutions should be thinking hard about:
+
+Authorized push payment scams
+
+Customer compromise fraud
+
+Social engineering
+
+Account takeover prevention
+
+Pre transaction risk scoring
+
+Real time decisioning fraud workflows
+
+Kyle also breaks down something many teams may not fully understand, which is the use of indemnity in the RTP recovery process.
+
+That matters because if institutions do not understand the controls built into the rails they use, they are fighting blind.
+
+After the payment: Recovery is cooperative, not guaranteed
+
+Okay, now let’s reset the room for a moment.
+
+Once money moves, recovery becomes harder, more uncertain, and much more dependent on relationships, response speed, and process maturity.
+
+Kyle talks candidly about the recovery reality across different rails:
+
+Wire recovery can depend on manual outreach and whether another institution responds
+
+ACH fraud recovery is heavily tied to return windows and timing
+
+RTP recovery introduces a more structured message based process, but it still depends on action and coordination
+
+That is why recovery cannot be the strategy.
+
+Prevention has to be the strategy.
+
+Some of the post loss mistakes Kyle called out are especially important:
+
+Not using indemnity processes correctly
+
+Letting process delays slow down urgent response
+
+Failing to prioritize active, fast moving fraud cases
+
+Applying legacy playbooks to instant payment environments
+
+Measuring only dollar value instead of ongoing fraud velocity
+
+That last point is huge. A low dollar recurring fraud pattern can still be operationally devastating if it scales.
+
+Collaboration is still one of the strongest controls in payments fraud prevention
+
+100 percent.
+
+One of my favorite parts of this conversation is the reminder that fraud does not happen in silos, and neither should our solutions.
+
+Kyle reinforces something fraud fighters know deep in their bones:
+
+Recovery improves when institutions communicate
+
+Prevention improves when networks share intelligence
+
+Fraud teams move faster when they are not isolated by process, department, or rail specific thinking
+
+For financial institutions trying to modernize payments fraud prevention, collaboration is not optional. It is infrastructure.
+
+And for those of us in the fraud prevention community, that should feel validating. We fight better when we fight together.
+
+What fraud leaders should take into 2026
+
+Kyle closes with a mindset shift that I think every leader needs to hear:
+
+Speed is not the enemy.
+
+The question is not whether instant payments are too risky.
+
+The question is whether your controls, workflows, and decisioning frameworks are mature enough to operate in a real time environment.
+
+As institutions look ahead, key priorities should include:
+
+More preventative controls before payment initiation
+
+Better network aware fraud signals
+
+Smarter real time decisioning
+
+Stronger knowledge transfer inside fraud teams
+
+Clearer operational playbooks for instant payments
+
+Better integration between fraud prevention, payments, and operations
+
+He also raises a concern that deserves more attention: institutional knowledge attrition.
+
+That is real.
+
+As experienced operators retire or move on, institutions risk losing the context behind the systems, controls, and processes they depend on every day.
+
+Technology matters. But people still hold a massive amount of fraud defense together.
+
+Guests
+
+Want to join an episode of Fraud Forward?
+
+More from Fraud Forward
+
+How to Build a Fraud Program: Fraud at the Foundation
+
+IAFCI, part 3: Bust Out Fraud and What’s Trending
+
+IAFCI, part 2: Fraud Fighter Sound Check on B2B Fraud
+
+See how one risk platform replaces dozens of tools
+
+ONBOARDING
+
+KYC
+
+KYB
+
+Bank Verification
+
+Credit Risk
+
+FRAUD PREVENTION
+
+Identity Verification
+
+Card Issuing
+
+Policy Abuse
+
+Merchant Monitoring
+
+Payments
+
+Bank Transactions
+
+CYBER SECURITY
+
+Account Takeovers
+
+Bot Detection
+
+Job Applicant Fraud
+
+AML COMPLIANCE
+
+AML Transaction Monitoring
+
+Customer Due Diligence
+
+Sanctions Screening
+
+Sponsor Banking
+
+PLATFORM
+
+Device & Behavior
+
+Rules Engine
+
+Machine Learning
+
+Consortium Data
+
+Workflow Automation
+
+Fraud Dashboard
+
+Connections Graph
+
+Case Management
+
+RESOURCES
+
+Customers
+
+Blog
+
+SardineCon
+
+Events
+
+Whitepapers
+
+Engineering Blog
+
+Sardine Tools2
+
+Documentation
+
+API Status
+
+Sardine Media
+
+Fraud Forward
+
+The Saturday Fraud Strategist
+
+Fraudology Podcast
+
+Sardine Tools
+
+Fraud & AML Glossary
+
+Fraud & AML Directory
+
+COMPANY
+
+About
+
+Careers
+
+Events
+
+Sardine AI Labs
+
+Sonar

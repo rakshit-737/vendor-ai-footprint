@@ -1,0 +1,22 @@
+{
+  "AD": false,
+  "Answer": [
+    {
+      "TTL": 3600,
+      "data": "0 automworx-com.mail.protection.outlook.com.",
+      "name": "automworx.com",
+      "type": 15
+    }
+  ],
+  "CD": false,
+  "Question": [
+    {
+      "name": "automworx.com",
+      "type": 15
+    }
+  ],
+  "RA": true,
+  "RD": true,
+  "Status": 0,
+  "TC": false
+}

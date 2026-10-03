@@ -1,0 +1,285 @@
+News Open Item News Stores and Shopping AWS Devices Entertainment Artificial Intelligence Workplace Sustainability Community
+
+News Stores and Shopping AWS Devices Entertainment Artificial Intelligence Workplace Sustainability Community
+
+Stores and Shopping AWS Devices Entertainment
+
+Stores and Shopping
+
+AWS
+
+Devices
+
+Entertainment
+
+Artificial Intelligence Workplace Sustainability Community
+
+Artificial Intelligence
+
+Workplace
+
+Sustainability
+
+Community
+
+About Us Open Item About Us What We Do Working at Amazon Leadership Principles Shareholder Letters Reports
+
+About Us What We Do Working at Amazon Leadership Principles Shareholder Letters Reports
+
+What We Do Working at Amazon Leadership Principles Shareholder Letters Reports
+
+What We Do
+
+Working at Amazon
+
+Leadership Principles
+
+Shareholder Letters
+
+Reports
+
+Our Impact Open Item Our Impact Sustainability Community Small Businesses Jobs and Investments Amazon Future Ready
+
+Our Impact Sustainability Community Small Businesses Jobs and Investments Amazon Future Ready
+
+Sustainability Community Small Businesses Jobs and Investments Amazon Future Ready
+
+Sustainability
+
+Community
+
+Small Businesses
+
+Jobs and Investments
+
+Amazon Future Ready
+
+International sites Global Global Press Center Amazon News Global Press Releases Asia Pacific Australia About Amazon (English) India About Amazon (English) Press Center (English) Japan About Amazon (日本語) Press Center (日本語) Singapore About Amazon (English) Press Centre (English) Europe European Union About Amazon (English) France About Amazon (Français) Press Center (Français) Germany About Amazon (Deutsch) Newsroom (Deutsch) Italy About Amazon (Italiano) Press Room (Italiano) Poland About Amazon (Polski) Spain About Amazon (Español) Sala de prensa (Español) United Kingdom About Amazon (English) Press Center (English) Americas United States About Amazon (English) México About Amazon (Español) Canada About Amazon (English) About Amazon (Français) Press Center (English) Brazil About Amazon (Português)
+
+Global Global Press Center Amazon News Global Press Releases
+
+Global Press Center Amazon News Global Press Releases
+
+Amazon News Global
+
+Press Releases
+
+Asia Pacific Australia About Amazon (English) India About Amazon (English) Press Center (English) Japan About Amazon (日本語) Press Center (日本語) Singapore About Amazon (English) Press Centre (English)
+
+Australia About Amazon (English)
+
+About Amazon (English)
+
+India About Amazon (English) Press Center (English)
+
+About Amazon (English)
+
+Press Center (English)
+
+Japan About Amazon (日本語) Press Center (日本語)
+
+About Amazon (日本語)
+
+Press Center (日本語)
+
+Singapore About Amazon (English) Press Centre (English)
+
+About Amazon (English)
+
+Press Centre (English)
+
+Europe European Union About Amazon (English) France About Amazon (Français) Press Center (Français) Germany About Amazon (Deutsch) Newsroom (Deutsch) Italy About Amazon (Italiano) Press Room (Italiano) Poland About Amazon (Polski) Spain About Amazon (Español) Sala de prensa (Español) United Kingdom About Amazon (English) Press Center (English)
+
+European Union About Amazon (English)
+
+About Amazon (English)
+
+France About Amazon (Français) Press Center (Français)
+
+About Amazon (Français)
+
+Press Center (Français)
+
+Germany About Amazon (Deutsch) Newsroom (Deutsch)
+
+About Amazon (Deutsch)
+
+Newsroom (Deutsch)
+
+Italy About Amazon (Italiano) Press Room (Italiano)
+
+About Amazon (Italiano)
+
+Press Room (Italiano)
+
+Poland About Amazon (Polski)
+
+About Amazon (Polski)
+
+Spain About Amazon (Español) Sala de prensa (Español)
+
+About Amazon (Español)
+
+Sala de prensa (Español)
+
+United Kingdom About Amazon (English) Press Center (English)
+
+About Amazon (English)
+
+Press Center (English)
+
+Americas United States About Amazon (English) México About Amazon (Español) Canada About Amazon (English) About Amazon (Français) Press Center (English) Brazil About Amazon (Português)
+
+United States About Amazon (English)
+
+About Amazon (English)
+
+México About Amazon (Español)
+
+About Amazon (Español)
+
+Canada About Amazon (English) About Amazon (Français) Press Center (English)
+
+About Amazon (English)
+
+About Amazon (Français)
+
+Press Center (English)
+
+Brazil About Amazon (Português)
+
+About Amazon (Português)
+
+News Open Item News Stores and Shopping AWS Devices Entertainment Artificial Intelligence Workplace Sustainability Community
+
+News Stores and Shopping AWS Devices Entertainment Artificial Intelligence Workplace Sustainability Community
+
+Stores and Shopping AWS Devices Entertainment
+
+Stores and Shopping
+
+AWS
+
+Devices
+
+Entertainment
+
+Artificial Intelligence Workplace Sustainability Community
+
+Artificial Intelligence
+
+Workplace
+
+Sustainability
+
+Community
+
+About Us Open Item About Us What We Do Working at Amazon Leadership Principles Shareholder Letters Reports
+
+About Us What We Do Working at Amazon Leadership Principles Shareholder Letters Reports
+
+What We Do Working at Amazon Leadership Principles Shareholder Letters Reports
+
+What We Do
+
+Working at Amazon
+
+Leadership Principles
+
+Shareholder Letters
+
+Reports
+
+Our Impact Open Item Our Impact Sustainability Community Small Businesses Jobs and Investments Amazon Future Ready
+
+Our Impact Sustainability Community Small Businesses Jobs and Investments Amazon Future Ready
+
+Sustainability Community Small Businesses Jobs and Investments Amazon Future Ready
+
+Sustainability
+
+Community
+
+Small Businesses
+
+Jobs and Investments
+
+Amazon Future Ready
+
+Press Releases
+
+Images & Videos
+
+Investor Relations
+
+Contact Us
+
+Fiserv Launches agentOS: The Operating System for Agentic AI in Banking
+
+NEW YORK CITY, May 14, 2026 — Fiserv, Inc. (NASDAQ: FISV) a leading global provider of payments and financial technology solutions, today launched agentOS, an agentic AI operating system designed to help financial institutions deploy, manage, and scale AI agents across their banking workflows. Six financial institutions have partnered with Fiserv to co-develop agentOS, with two running agents in beta today. agentOS is expected to be widely available by August 2026.
+
+Built to operate natively across Fiserv’s platforms—core, payments, issuer processing, and servicing—agentOS enables banks and credit unions to move beyond disconnected agentic pilots to an enterprise-grade deployment with policy controls, auditability and human oversight embedded in the design.
+
+agentOS features the industry’s first agent marketplace built natively for banking workflows allowing financial institutions to access Fiserv-built agents, build their own, or deploy third-party agents within a controlled architecture. The marketplace will initially feature four Fiserv-built agents and nine third-party agents supporting tasks spanning risk management, regulatory reporting, deposit operations, and back-office reconciliation to bring agentic automation to the full breadth of banking workflows.
+
+agentOS is supported by strategic collaborations with OpenAI and Amazon Web Services (AWS) to bring frontier AI to financial institutions at scale.
+
+“AI will fundamentally reshape how financial institutions operate,” said Dhivya Suryadevara, Co-President of Fiserv. “agentOS is the first place where banks can run Fiserv's agents, build their own, and deploy from a curated set of partners — all under the same governance, identity, and audit controls. The pilots are already proving it works — delivering measurable gains today, with six financial institutions co-developing the next wave with us.
+
+Designed for Innovation—Built for Regulated Banking
+
+Developed using AI-first engineering principles, agentOS combines enterprise-grade reliability with governance by design, including identity-bound execution, policy enforcement, observability and traceability. The platform allows financial institutions to deploy AI agents confidently across service, fraud, payments, compliance and growth workflows.
+
+By integrating directly with Fiserv’s existing platforms, agentOS extends the value of a bank’s current technology investments while accelerating innovation across the institution.
+
+The First Governed Agent Marketplace Built for Banking
+
+Deployed through agentOS, the agentOS Marketplace allows financial institutions to access Fiserv-built agents, build their own, or deploy third-party agents in the same controlled, governed architecture.
+
+agentOS will initially feature four Fiserv agents: Commercial Loan Onboarding, Daily Operational Analysis and Reporting, Agentic Deposit Intelligence, and Agentic AML Triage Analysis. Fiserv will expand its portfolio of first-party agents in the future, with a focus on other time-consuming workflows—including fraud, servicing, compliance, risk management, deposit operations, and growth.
+
+Committed to fostering open ecosystems, Fiserv is also partnering on some of the most compelling agentic use cases for banks. Currently, nine third-party partners have joined through agentOS Marketplace, supporting use cases ranging from customer engagement and financial crimes compliance to deposit intelligence, regulatory compliance, dispute management, and reconciliation.
+
+Strategic Collaborators: OpenAI and Amazon Web Services
+
+Fiserv is developing select first-party agents with OpenAI and partnering strategically to bring frontier reasoning into the workflows that move money across core, payments, issuer processing, and servicing.
+
+“agentOS represents an important step toward helping financial institutions deploy AI agents in a secure, governed, and scalable way,” said Ashley Kramer, VP, Enterprise at OpenAI. “We're glad to be working with Fiserv on this — bringing frontier AI into the banking workflows that matter most across servicing, compliance, fraud, payments, and operations."
+
+agentOS leverages Amazon Bedrock to provide secure access to leading AI models, giving financial institutions flexibility as the technology evolves. Fiserv will run agentOS on Amazon Bedrock AgentCore, AWS's agentic platform for building, connecting, and optimizing agents securely at scale.
+
+"Few industries set a higher bar for security, resilience, and accountability than banking. We're proud that agentOS leverages Amazon Bedrock and AgentCore — bringing enterprise-grade AI infrastructure, multi-model flexibility, and the global scale of AWS to every institution Fiserv serves. We look forward to seeing what Fiserv, its clients, and its ecosystem of partners will build on this foundation," said Scott Mullins, Managing Director, Worldwide Financial Services at AWS.
+
+Early Client Adoption
+
+First Interstate Bank and Boulder Dam Credit Union are running pilots on agentOS today, with measurable results across commercial loan onboarding and operational reporting. Salem Five, City National Bank, Bank OZK, and SouthState are co-developing the next wave of agents with Fiserv, with deployments beginning this summer. Close collaboration with these institutions has been central to building an operating system that works for banks.
+
+“As we aim to embed agentic AI into our operations, doing so within the controlled and governed architecture of Fiserv was critical to us,” said Steele Hendrix, President and CEO, Boulder Dam Credit Union. “Our initial use of a Daily Operational Analysis Agent is helping automate manual tasks, including cutting report times down from 10 minutes to a matter of seconds.”
+
+“Delivery of an agentic operating system through our core allows us to simply integrate agentic tools into our daily workflows,” said Jim Reuter, President and CEO of First Interstate BancSystem, Inc. (FIBK). “Through a Commercial Loan Onboarding Agent pilot, we have been able to see early results—automating loan onboarding directly to our Fiserv core and reducing manual data entry and cycle times.”
+
+With agentOS, Fiserv brings the scale, expertise, and trust financial institutions require to deploy agentic AI within a governed, audit-ready architecture and convert it into durable operational progress.
+
+More Information:
+
+agentOS by Fiserv
+
+Blog: What Agentic AI Means for Financial Institutions
+
+About FiservFiserv, Inc. (NASDAQ: FISV), a Fortune 500 company, moves more than money. As a global leader in payments and financial technology, the company helps clients achieve best-in-class results through a commitment to innovation and excellence in areas including account processing and digital banking solutions; card issuer processing and network services; payments; e-commerce; merchant acquiring and processing; and Clover®, the world’s smartest point-of-sale system and business management platform. Fiserv is a member of the S&P 500® Index and one of TIME Magazine’s Most Influential Companies™. Visit fiserv.com and follow on social media for more information and the latest company news.
+
+###
+
+Press Center
+
+Investor Resources
+
+Amazon News
+
+Images and videos
+
+Contact Amazon PR
+
+Shop Amazon.com
+
+Careers

@@ -1,0 +1,12 @@
+Real-Time Payments (RTP) is the same as Same Day ACH, which is the same as Zelle, right? This question or something similar is heard all too often in the financial services industry and the answer is no, they’re not the same. This webinar – the second in a series of faster payments webinars from NACHA and the Regional Payments Associations – takes attendees on a deep dive into The Clearing House’s Real-Time Payments rail. 
+From business case considerations to operational and technology aspects, and everything in-between, this webinar has you covered. Learn about the use cases that RTP supports and how the system is designed to ensure safe and faster payments. 
+Gain Insight & Understanding: 
+• What the Real-Time Payments rail is, and what it isn’t.
+• How the system works and what the infrastructure is to support it..
+• What you and your organization need to connect and benefit from Real-Time Payments.
+	   Speakers: 
+Tim Mills, AAP
+Vice President,RTP Business Development, The Clearing House
+Moderator: 
+John Curtis, AAP, NCP
+SVP, Education & Training, WesPay

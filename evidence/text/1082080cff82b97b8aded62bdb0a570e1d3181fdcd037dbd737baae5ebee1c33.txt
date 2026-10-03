@@ -1,0 +1,47 @@
+Data Security and Privacy, Regulatory Compliance
+Protecting Sensitive Data: A Guide to Data Security and Privacy
+Is Your Company Doing Enough to Safeguard its Customers’ Sensitive Data?
+Data security and privacy are vital in today’s digital world for protecting personal customer information and maintaining your company’s reputation as a trusted brand. In this blog, we define sensitive data and how companies can help reduce the risk of security breaches by prioritizing data protection, spreading data security knowledge and partnering with secure alliances.
+What is Considered Sensitive Data?
+Sensitive data is private information collected to make decisions and stay in touch with your customers. It is also referred to as Personally Identifiable Information or PII. Below are a few examples of sensitive information that a business might collect from a customer to provide services or maintain communications.
+Examples of Personally Identifiable Information
+- Names
+- Addresses
+- Birthdates
+- Past purchases
+- Credit card information
+- Social Security Numbers
+- Driver’s license information
+Undoing the damage of having this sensitive data compromised can take years and is extremely tedious and costly.
+What Happens When Data is Stolen?
+The repercussions of stolen data can be devastating for both individuals and companies involved. Identity theft and credit card fraud are among the most common problems companies must combat while handling important consumer information. Some businesses have experienced a hack without even knowing. Many institutions have lost loyal customers and tarnished their brand’s reputation by losing sensitive customer data.
+3 Ways to Reduce the Risk of Data Security Breaches
+Prioritize and Invest in Data Security and Privacy
+Be prepared to prioritize a sizable portion of your company’s budget and resources towards securing customer data. The high price tag of investing in the latest in data protection software will seem low compared to the expenses of repairing data breaches. Many companies have even attracted more customers due to their privacy and security certifications.
+Expand Data Security and Protection Knowledge to Employees and Customers
+Faced with the challenge of breaking through highly guarded and secure networks, hackers and cybercriminals have started to attack company employees and customers directly to get to sensitive data. An astounding 4,502,640,413 emails have been compromised, according to Cyber Risk Analytics. Along with email attacks, hackers will prey on people by phone and even in person, with criminals trying to tailgate behind employees into buildings or dumpster dive in business and residential dumpsters for sensitive documents. To these criminals’ advantage, most people are not well-versed in data security.
+According to the experts at Pew Research Center, 63% of Americans say they understand very little or nothing at all about the laws and regulations that are currently in place to protect their data privacy. This statistic is disproportionate to the 79% of people who have expressed interest in data privacy, having adjusted their privacy-related settings on their social media accounts or reduced their social media usage, say the privacy experts at DuckDuckGo.
+Arming your employees and customers with basic data security and privacy tips will help keep data protected. A great way to educate employees is by providing free and ongoing security courses to keep security present in their minds. Customers can benefit from this knowledge as well via mailers, social media content, SMS or email. Invest in finding different ways to communicate with your customers on how they can prevent and avoid cyberattacks. This is both a service to them and to your company as well.
+Partner with Secure Print and Mail Companies
+All parties that have access to your company’s sensitive data need to follow the same security protocols and procedures as your company when keeping customer data safe. This includes any partnerships with third-party vendors. In addition to protecting sensitive customer information from misuse, companies must also meet an array of federal, state, and local standards and regulations when it comes to data handling best practices.
+If companies are not compliant, they expose themselves to expensive fines and penalties. That’s why aligning with a company like FSSI, which specializes in processing and storing data in a secure environment, is so beneficial.
+FSSI
+FSSI is a certified secure printing and mailing company with highly compliant data security and privacy procedures in place for processing sensitive data. All data is processed and stored in our two secure facility locations with a full disaster recovery plan in place. Our industry certifications for security and process controls provide auditable assurance for clients in various highly regulated industries. We provide secure financial printing services for a variety of industries, such as finance, healthcare, insurance and others. Our certifications assure clients that their confidential customer data is being processed following the strictest industry standards.
+SOC 2 and HIPAA Certified
+Processing and storing secure data is not only one of our specialties but our main priority. We’ve built our facilities to meet and exceed client requirements for securing their data. Compliance with local, state and national information security and privacy regulations is verified every year. This ensures that we continue to maintain the highest standards. We complete SSAE-18 Type II SOC 2 and HIPAA audits each year to confirm we are compliant with the latest standards.
+What is SSAE-18 Type II?
+Working with financial institutions (banks, credit unions, mortgage companies, etc.,) requires strict compliance with data regulations. SSAE-18 Type II examinations provide clients in heavily regulated industries with the documentable assurance that their confidential customer data is being handled following strict industry standards.
+Commitment to Data Protection
+FSSI has passed several other security tests in conjunction with the SSAE-18 Type II SOC 2 audit, including network vulnerability tests and risk assessments. These results affirm FSSI’s commitment to providing clients with best-in-class data protection services, satisfying their mandated security requirements, and vigilantly safeguarding consumer data.
+Additional Cybersecurity Customer Privacy Features
+More goes into protecting customer privacy than providing a secure network. The facility that stores your company’s data should also be certified for you to remain compliant. FSSI secure facilities have multiple levels of security to ensure a secure environment for your company’s data.
+- Only certified team members have access to the data-handling parts of the building
+- All employees must sign a confidentiality agreement to safeguard data and pass a third-party background check and drug test to work inside the facility
+- FSSI team members must carry key-card badges around the building to allow FSSI to control and track access to the facility and secure areas
+- Building access is only permitted from the reception area
+- All guests must sign in with a valid ID
+- All guests must have an FSSI team member always escorting them
+- Motion-activated video cameras are positioned in critical areas of the building (These cameras record facility activity and are monitored 24 hours a day)
+Data security practices and confidentiality should never be taken lightly. Applying data correctly to your company’s interactions with clients promises great results. However, this can also leave you vulnerable to data theft if proper security measures are not followed. Remember to always safeguard your company’s data and work with companies that meet or exceed your company’s data handling standards.
+Contact FSSI
+Make data protection and privacy a priority. For more information on FSSI’s secure data privacy protection and security features, please visit data processing outsourcing, data security and privacy procedures or call 714.436.3300 to speak with an FSSI outsourcing specialist.

@@ -1,0 +1,54 @@
+{
+  "hiringOrganization": {
+    "name": "PAYCO The Clearing House Payments Company L.L.C.",
+    "url": ""
+  },
+  "jobPostingInfo": {
+    "canApply": true,
+    "country": {
+      "descriptor": "United States of America",
+      "id": "bc33aa3152ec42d4995f4791a106ed09"
+    },
+    "externalUrl": "https://theclearinghouse.wd108.myworkdayjobs.com/TheClearingHouse/job/Charlotte-Office/Analyst--Enterprise-Risk-Management_JR100152",
+    "id": "a3f88f5bd08a10016089de33cf430000",
+    "includeResumeParsing": true,
+    "jobDescription": "<div><div><p><b><span>Position Summary:</span><span><span> </span></span></b><span><span>The<span> </span></span><span>ERM</span><span><span> </span>Analyst will play an active role in</span><span><span> </span></span><span>supporting the Company’s risk management frameworks across<span> </span></span><span>focused on risk appetite,</span><span><span> </span>risk assessments,</span><span><span> </span>key risk indicators, control testing, and issues management.</span><span><span> </span></span><span>The role will ensure that the company appropriately prioritizes, manages, and monitors risk by collaborating with several departments and defining risk ownership. A successful candidate will contribute to the Risk Management program by bringing experience and first-hand knowledge to the enhancement and ongoing execution of the ERM program.</span></span><span> </span></p></div><div><p></p><p><b><span>Qualifications</span><span><span> </span>Required</span><span>:</span><span> </span></b><span> </span></p></div><div><ul><li><p><span><span>Bachelor’s degree or higher<span> </span></span><span>in risk management, business administration, computer science, engineering, finance, or a related area</span><span>  </span></span><span> </span></p></li></ul></div><div><ul><li><p><span><span>2&#43; years’ experience<span> </span></span><span>in Enterprise or Operational Risk Management</span><span><span> </span>areas, preferably in the financial services industry</span><span>.</span></span><span> </span></p></li></ul></div><div><ul><li><p><span><span>Great problem solver with an analytical mindset, excellent organizational skills and<span> </span></span><span>demonstrated</span><span><span> </span>passion for data</span></span><span> </span></p></li></ul></div><div><ul><li><p><span><span>Ability and eagerness to understand (at<span> </span></span><span>a high level</span><span>) existing and emerging technologies</span></span><span> </span></p></li></ul></div><div><ul><li><p><span><span>Ability to understand management<span> </span></span><span>objectives</span><span>, risk appetite, tolerances, and<span> </span></span><span>impact of</span><span><span> </span>changes to risk profiles.</span></span><span> </span></p></li></ul></div><div><ul><li><p><span><span>Ability to work independently and proactively</span><span>. <span> </span></span><span>Collaborative, innovative, resourceful, results oriented, with<span> </span></span><span>appropriate judgment</span></span><span> </span></p></li></ul></div><div><p></p><p><b><span>Qualifications desired:</span></b><span><span> </span></span><span> </span></p></div><div><ul><li><p><span><span>Experience in Operational or Enterpri</span><span>se Risk Management</span></span><span> </span></p></li></ul></div><div><ul><li><p><span><span>Experience in Payments and/or banking related fields, including Payments or Banking Technology</span></span><span> </span></p></li></ul></div><div><ul><li><p><span><span>Understanding of the financial regulatory environment for the banking industry and payment systems spac</span><span>e</span></span><span> </span></p></li></ul></div><div><ul><li><p><span><span>Experience with system implementation(s) or system migrations</span></span><span> </span></p></li></ul></div><div><ul><li><p><span><span>Experience with Issues Management processes</span></span><span> </span></p></li></ul></div><div><ul><li><p><span><span>Experience with Agile, Operational Excellence certification</span></span><span> </span></p></li></ul></div><div><ul><li><p><span><span>RSA Archer or other GRC experienc</span><span>e</span></span><span> </span></p></li></ul></div><p></p><div><p><b><span>Essential Functions and Responsibilities:</span></b><span><span> </span></span><span> </span></p></div><div><ul><li><p><span><span>Responsible<span> </span></span><span>for<span> </span></span><span>supporting  the</span><span><span> </span>design, development, implementation, and execution of the Company’s risk management frameworks to effectively<span> </span></span><span>identify</span><span>, measure, monitor, and control enterprise-wide risks</span><span>.</span></span><span> </span></p></li></ul></div><div><ul><li><p><span><span>Contribute to the evol</span><span>ution of</span><span><span> </span>the Company’s<span> </span></span><span>r</span><span>isk<span> </span></span><span>a</span><span>ppetite<span> </span></span><span>s</span><span>tatements and associated framework</span><span>s</span><span>.</span></span><span> </span></p></li></ul></div></div><div><div><ul><li><p><span><span>Collaborate</span><span><span> </span>with stakeholders<span> </span></span><span>in</span><span><span> </span>the design and build of enhanced workflows across RCSA, issues, and reporting as part of Global Risk and Compliance (GRC) uplift efforts</span><span>.</span></span><span> </span></p></li></ul></div><div><ul><li><p><span><span>Participate in the monitoring<span> </span></span><span>and </span><span><span> </span></span><span>analysis</span><span><span> </span>of risks</span><span><span> </span>within the<span> </span></span><span>C</span><span>ompany&#39;s business units and<span> </span></span><span>report on</span><span><span> </span>these risks to the internal and external risk committees of<span> </span></span><span>the Company</span><span>,<span> </span></span><span>supervisors</span><span><span> </span>and other applicable internal stakeholders</span><span>.</span></span><span> </span></p></li></ul></div><div><ul><li><p><span><span>Contribute to the creation and<span> </span></span><span>maintaining</span><span><span> </span>of policies, procedures, and other relevant documentation.</span></span><span> </span></p></li></ul></div><div><p></p><p><b><span>Success factors/job competencies</span><span>:    </span></b><span> </span></p></div><div><ul><li><p><span><span>Ability to<span> </span></span><span>operate</span><span><span> </span>as a self-motivated, pro-active, and result-driven problem solver with excellent analytical, verbal and writing skills</span></span><span> </span></p></li></ul></div><div><ul><li><p><span><span>Collaborative team player and strong self-starter individual contributor – equally comfortable working as part of ad-hoc teams and individually</span></span><span> </span></p></li></ul></div><div><ul><li><p><span><span>Effectively multi-task across tactical and strategic deliverables in an organized manner</span></span><span> </span></p></li></ul></div><div><ul><li><p><span><span>Create and<span> </span></span><span>maintain</span><span><span> </span>relationships with stakeholders at all levels of the organization</span></span><span> </span></p></li></ul></div><div><ul><li><p><span><span>Motivated to learn<span> </span></span><span>new technologies</span><span><span> </span>and<span> </span></span><span>identify</span><span><span> </span>process improvements and efficiencies</span></span><span> </span></p></li></ul></div><div><p></p><p><b><span>Physical demands and work environment:<span> </span></span></b><span><span>Work is generally sedentary in<span> </span></span><span>nature</span><span>.</span><span><span> </span>The working environment is<span> </span></span><span>generally favorable</span><span>. Lighting and temperature are adequate, and there are no hazardous or unpleasant conditions caused by noise, dust, etc. Work is<span> </span></span><span>generally performed</span><span><span> </span>within an office environment, with standard office equipment available.</span></span><span> </span></p></div><div><p><span><span>E</span><span>mployee</span><span>s</span><span><span> </span>in this position will report to the office 3 days per week</span><span>.</span><span> </span></span><span> </span></p></div><div><p><span><span>Occasional t</span><span>ravel may be<span> </span></span><span>required</span><span>.<span> </span></span><span>Onsite work requirements may change at any time.</span></span><span> </span></p></div></div>",
+    "jobPostingId": "Analyst--Enterprise-Risk-Management_JR100152",
+    "jobPostingSiteId": "TheClearingHouse",
+    "jobReqId": "JR100152",
+    "jobRequisitionLocation": {
+      "country": {
+        "alpha2Code": "US",
+        "descriptor": "United States of America",
+        "id": "bc33aa3152ec42d4995f4791a106ed09"
+      },
+      "descriptor": "Charlotte Office"
+    },
+    "location": "Charlotte Office",
+    "posted": true,
+    "postedOn": "Posted 30+ Days Ago",
+    "questionnaireId": "416fc4b6e988100114d79736c4ff0000",
+    "startDate": "2026-08-05",
+    "timeType": "Full time",
+    "title": "Analyst, Enterprise Risk Management"
+  },
+  "similarJobs": [
+    {
+      "externalPath": "/job/Charlotte-Office/Incident-Management-Analyst_JR100194-4",
+      "locationsText": "2 Locations",
+      "postedOn": "Posted 11 Days Ago",
+      "startDate": "2026-09-21",
+      "timeType": "Full time",
+      "title": "Incident Management Analyst"
+    },
+    {
+      "externalPath": "/job/Charlotte-Office/Analyst--Corporate-Real-Estate-Management_JR100150",
+      "locationsText": "Charlotte Office",
+      "postedOn": "Posted 30+ Days Ago",
+      "startDate": "2026-08-11",
+      "timeType": "Full time",
+      "title": "Analyst, Corporate Real Estate Management"
+    }
+  ],
+  "userAuthenticated": false
+}

@@ -1,0 +1,25 @@
+Wells Fargo Launches Ability to Send Payments on the RTP® Network
+SAN FRANCISCO and NEW YORK – November 19, 2019 – Wells Fargo (NYSE: WFC) announced today that its corporate customers can now send real-time payments through the RTP® network via an application programming interface (API), enabling the immediate movement of money and expanding the bank’s faster payments offerings. Wells Fargo previously rolled out capabilities for both retail and wholesale customers to receive payments over the RTP network at the end of 2018.
+“Our customers want the ability to make immediate payments and receive timely confirmations to run their businesses more efficiently,” said Danny Peltz, head of Treasury, Merchant and Payment Solutions at Wells Fargo. “The ability to send transactions on the RTP network gives our customers yet another option for moving money when and how they want.”
+Wells Fargo’s API for the RTP network allows corporate customers to send payments directly from their enterprise software or treasury workstations, meaning they can benefit from the platform’s speed and immediate posting to help optimize cash flow. The RTP network, the real-time payments platform from The Clearing House, is the first new core payments infrastructure built in the U.S. in more than 40 years. It gives the banking industry a more modern platform for domestic payments, complete with rich data capabilities and payment confirmation. The system enables the sending and receiving of payments with immediate settlement and availability, so those funds can be used or withdrawn as cash within seconds.
+The API is available through Wells Fargo Gateway, the bank’s market-leading open banking channel that allows corporate banking customers to more easily integrate Wells Fargo products, services and information into their own digital environments.
+The Clearing House, a banking association and payments company owned by 24 commercial banks that operate in the U.S., including Wells Fargo, developed the RTP network. More than 51 percent of U.S. accounts already are able to receive RTP payments, and the number continues to grow.
+“The ability to send payments on the RTP network allows Wells Fargo’s customers to experience the benefits and certainty of immediate funds availability and transaction confirmations,” said Steve Ledford, senior vice president of Product Strategy and Development for The Clearing House.
+Wells Fargo offers several products to meet consumer and commercial faster payments needs, including wire, same-day ACH, Zelle® and Push to Card, which sends payments directly to U.S. debit cards through the card networks.
+About Wells Fargo 
+Wells Fargo & Company (NYSE: WFC) is a diversified, community-based financial services company with $1.9 trillion in assets. Wells Fargo’s vision is to satisfy our customers’ financial needs and help them succeed financially. Founded in 1852 and headquartered in San Francisco, Wells Fargo provides banking, investment and mortgage products and services, as well as consumer and commercial finance, through 7,500 locations, more than 13,000 ATMs, the internet (wellsfargo.com) and mobile banking, and has offices in 32 countries and territories to support customers who conduct business in the global economy. With approximately 261,000 team members, Wells Fargo serves one in three households in the United States. Wells Fargo & Company was ranked No. 29 on Fortune’s 2019 rankings of America’s largest corporations. News, insights and perspectives from Wells Fargo are also available at Wells Fargo Stories.
+About The Clearing House
+Since its founding in 1853, The Clearing House has delivered safe and reliable payments systems, facilitated bank-led payments innovation, and provided thought leadership on strategic payments issues. The Clearing House continues to leverage its unique capabilities to support bank-led innovation, including launching the RTP® network, a real-time payment system that modernizes core payments capabilities for all federally-insured U.S. depository institutions. The Clearing House is owned by 24 financial institutions and supports hundreds of banks and credit unions through its core systems and related services. Learn more at www.theclearinghouse.org.
+Media Contacts 
+Amy Konrath
+Wells Fargo
+704-410-5528
+amy.konrath@wellsfargo.com
+Greg MacSweeney
+The Clearing House
+212-612-9282
+gregory.macsweeney@theclearinghouse.org
+(or)
+Investor Relations
+John Campbell
+Wells Fargo

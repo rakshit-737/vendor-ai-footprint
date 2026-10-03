@@ -1,0 +1,110 @@
+{
+ "key": "97aca5968848591036c9a01a4b08732673b5da722550f1136121456af65496c8",
+ "model": "gemini-3.5-flash-lite",
+ "payload_sha256": "591d9a0033f44756ff33c79bfc3cfd66e95c97ca32a46da9bd3ad5f1633ef52e",
+ "prompt_sha256": "065bd458ace52ff274c72967cfe1b90c794a1ec8d3a3696ec78d7d8cf636df94",
+ "response": {
+  "claims": [
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G1",
+      "span": "Finxact"
+     },
+     {
+      "code": "G2",
+      "span": "embedding artificial intelligence (“AI”) capabilities in our account processing solutions"
+     }
+    ],
+    "named_providers": [
+     "Finxact"
+    ],
+    "passage_id": "P1",
+    "quote": "We are embedding artificial intelligence (“AI”) capabilities in our account processing solutions, led by Finxact.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [
+     "our data"
+    ],
+    "indicators": [
+     {
+      "code": "M2",
+      "span": "We plan to"
+     },
+     {
+      "code": "G2",
+      "span": "create new products and services, enhance existing products and services, and deliver high-quality customer service experiences through platform analytics and fraud mitigation across multiple solutions"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P2",
+    "quote": "We plan to use our data and AI to create new products and services, enhance existing products and services, and deliver high-quality customer service experiences through platform analytics and fraud mitigation across multiple solutions.",
+    "subject": "vendor_product",
+    "temporal": "planned"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "enhancing our operations through the use of AI"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P3",
+    "quote": "Through Project Elevate, our business transformation initiative, we are enhancing our operations through the use of AI and by simplifying and standardizing business processes.",
+    "subject": "vendor_operations",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "We use artificial intelligence in our business"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P6",
+    "quote": "We use artificial intelligence in our business, and challenges with properly managing its use could result in legal liability or reputational harm.",
+    "subject": "vendor_operations",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "predictive_ml",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "using, and expect to continue to expand our use of, artificial intelligence and machine learning in our product development processes, services and operations"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P7",
+    "quote": "As a result, we are using, and expect to continue to expand our use of, artificial intelligence and machine learning in our product development processes, services and operations.",
+    "subject": "vendor_operations",
+    "temporal": "in_production"
+   }
+  ]
+ },
+ "role": "extract",
+ "schema_sha256": "f1cd07fdb8e496624608717927261043432a3bd93d84723a126b7c7d951d68df",
+ "seed": 1234
+}

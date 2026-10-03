@@ -1,0 +1,220 @@
+{
+ "key": "72f78efffd135597569fe3577e018bce631e623447f9de2559c985b982efe181",
+ "model": "gemini-3.5-flash-lite",
+ "payload_sha256": "138f8b2266f9709163b3222edb1b5fc8e96a16ac8ff658bb1c1c73e064c28959",
+ "prompt_sha256": "065bd458ace52ff274c72967cfe1b90c794a1ec8d3a3696ec78d7d8cf636df94",
+ "response": {
+  "claims": [
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G1",
+      "span": "Eliza 2.0"
+     },
+     {
+      "code": "G11",
+      "span": "99% of employees on Eliza"
+     }
+    ],
+    "named_providers": [
+     "Eliza 2.0"
+    ],
+    "passage_id": "P1",
+    "quote": "• Launched Eliza 2.0, BNY’s AI platform; 99% of employees on Eliza",
+    "subject": "vendor_operations",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G11",
+      "span": "160 enterprise AI solutions in production and 134 digital employees live"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P1",
+    "quote": "• 160 enterprise AI solutions in production and 134 digital employees live",
+    "subject": "vendor_operations",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "ai_partnership",
+    "data_mentioned": [],
+    "indicators": [],
+    "named_providers": [],
+    "passage_id": "P1",
+    "quote": "• Formed several partnerships with AI industry and academia",
+    "subject": "vendor_operations",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G11",
+      "span": ">60 AI-related patent applications"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P1",
+    "quote": "• >60 AI-related patent applications",
+    "subject": "vendor_operations",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "ai_governance",
+    "data_mentioned": [],
+    "indicators": [],
+    "named_providers": [],
+    "passage_id": "P1",
+    "quote": "• Scaling governance for responsible use of AI",
+    "subject": "vendor_operations",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G1",
+      "span": "AI Hub and Eliza AI platform"
+     }
+    ],
+    "named_providers": [
+     "AI Hub",
+     "Eliza AI platform"
+    ],
+    "passage_id": "P3",
+    "quote": "Created product and innovation organization, launched AI Hub and Eliza AI platform",
+    "subject": "vendor_operations",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "agentic",
+    "claim_kind": "generic_ai_marketing",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M1",
+      "span": "AI for everyone, everything, everywhere"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P6",
+    "quote": "AI for everyone, everything, everywhere – scaling organizational intelligence with enterprise and partner agents and unlocking capacity at scale with digital employees",
+    "subject": "vendor_operations",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "generic_ai_marketing",
+    "data_mentioned": [],
+    "indicators": [],
+    "named_providers": [],
+    "passage_id": "P7",
+    "quote": "innovation in products and services, artificial intelligence, digital assets, client experience, strategic priorities and initiatives, acquisitions, related integration and divestiture activity",
+    "subject": "vendor_product",
+    "temporal": "unclear"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "generic_ai_marketing",
+    "data_mentioned": [],
+    "indicators": [],
+    "named_providers": [],
+    "passage_id": "P8",
+    "quote": "innovation in products and services, artificial intelligence, acquisitions, related integration and divestiture activity, transition to a platforms operating model, efficiency savings",
+    "subject": "vendor_product",
+    "temporal": "unclear"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "negative_or_limiting",
+    "data_mentioned": [],
+    "indicators": [],
+    "named_providers": [],
+    "passage_id": "P9",
+    "quote": "The increasing sophistication of cyber threats, including those enhanced by artificial intelligence and emerging technologies, including quantum computing, could challenge the effectiveness of our cybersecurity measures, governance and controls, remediation efforts and resiliency.",
+    "subject": "vendor_operations",
+    "temporal": "unclear"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "negative_or_limiting",
+    "data_mentioned": [],
+    "indicators": [],
+    "named_providers": [],
+    "passage_id": "P10",
+    "quote": "For example, recent advancements in artificial intelligence have enhanced the capability of threat actors to identify and potentially exploit previously unidentified cybersecurity vulnerabilities, while developments in new computing technologies, such as quantum computing, that vastly increase the speed and computing power available may introduce cryptography risks, including vulnerabilities in encryption and other protective measures, both of which could increase the likelihood or severity of cybersecurity incidents.",
+    "subject": "vendor_operations",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "negative_or_limiting",
+    "data_mentioned": [],
+    "indicators": [],
+    "named_providers": [],
+    "passage_id": "P11",
+    "quote": "•the development, deployment and use of artificial intelligence present risks and challenges that may materially adversely impact our business and threaten the viability of our company.",
+    "subject": "vendor_operations",
+    "temporal": "unclear"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "agentic",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M2",
+      "span": "adopt"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P11",
+    "quote": "A failure to swiftly, strategically and pervasively adopt appropriate artificial intelligence solutions, including agents and digital employees, develop the relevant skillsets and capabilities throughout our platforms or realize the expected benefits from such technologies could result in significant competitive disadvantages, including reduced growth opportunities and adverse impacts on our long-term business performance;",
+    "subject": "vendor_operations",
+    "temporal": "planned"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "ai_governance",
+    "data_mentioned": [],
+    "indicators": [],
+    "named_providers": [],
+    "passage_id": "P12",
+    "quote": "We also consider data-related risks in the execution of our business objectives and processes, including the development of new products and services, including artificial intelligence applications.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   }
+  ]
+ },
+ "role": "extract",
+ "schema_sha256": "f1cd07fdb8e496624608717927261043432a3bd93d84723a126b7c7d951d68df",
+ "seed": 1234
+}

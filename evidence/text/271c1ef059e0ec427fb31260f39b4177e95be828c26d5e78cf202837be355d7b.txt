@@ -1,0 +1,50 @@
+DNS records for bny.com (DoH: dns.google, cloudflare-dns.com)
+TXT	/a3/3u/b0cHZwLEvU0vNQha95Okk6HZCbSHMxWuulUxU0J68CFCeQsNXqDvKfT/2DhSrKygN9pehHhKNVWMKQw==
+TXT	00D50000000JMNY=1TBVx000000026f
+TXT	00DDx000000Gydu=1TBDx000000CaTs;00DD200000036A1=1TBhQ00000000Kz;00DD50000009TA0=1TBD50000004CBn;00D8L0000008g3N=1TBDc0000008OKQ;00DWe000004kqJ3=1TBWe0000000EPZ;00DDj0000009cgN=1TBDj000000CaTN;00D3h000005Wf62=1TBa600000002JZ
+TXT	00Ddn000003WCyn=1TBdn00000008Dh
+TXT	00Di0000000gbJ0=1TBWQ0000000J13
+TXT	DirectFedAuthUrl=https://login.microsoftonline.com/106bdeea-f616-4dfc-bc1d-6cbbf45e2011/saml2
+TXT	MS=ms72826597
+TXT	ZOOM_verify_A5ZBbuLainPTf1lHlO7lDp
+TXT	adobe-idp-site-verification=b0c2fab32d48b7209894a5e06b95ca82dcf2a2afe4efc7d4e606fcba2bffd1be
+TXT	airtable-verification=088764cb009e3ca6b8f5873bedc5f1af
+TXT	anthropic-domain-verification-fdh8zq=DbaSFiubOKdPCakLJHjFqVGco
+TXT	apple-domain-verification=Dk3abBAi6Qs8khpFnNEi_o4-vgrg04ak__XaQ7fTClc
+TXT	appspace-domain-verification=c515d10926be252bf26c309e0b27cc37206348ec42d414e7020f6cac9d0e8e31
+TXT	atlassian-domain-verification=NZ/ZJdIQAnDmHUsDLLXgSe5MVZ3v3UhdtLgI2GbREkbAlLV8Zkpp8k/aYugsjpc8
+TXT	atlassian-domain-verification=UdHYM7K4QVf99u0qspZZWyRUhoFnhbanP3i/DpXKoGsxvbECDZDO5vTZGJlJG/ws
+TXT	atlassian-domain-verification=e2wjT2RR7eeZ7dlcPBgnjqbggr/M5rXCt0akpXzbw8MRYlbtgU8yBvaaGq1brhSv
+TXT	canva-site-verification=8GzcDjWkS6SUP6qYRE_KaA
+TXT	cisco-ci-domain-verification=fcfd18fac08132b45d58cb6200b2e53f4f61974f6284f8346a82681fa511c9f
+TXT	dell-technologies-domain-verification=bny.com_774729ef-9f5b-4fed-9a63-5e7ef5acabff_1722413031
+TXT	docker-verification=f921e853-77ec-492e-88b6-aa8129d32f25
+TXT	docusign=ca0ed21b-206e-4f7f-9f04-769329e1a035
+TXT	docusign=ed206d2b-b89d-44a6-a1c0-1ec61bdf534a
+TXT	dtm-domain-verification=Br4pxsaOQGYpQFEQaNBmo3cFR9qJio3kjA0333RMwsY
+TXT	figma-domain-verification=22305c7d26dedf4de3d598f91bb6bd353bb28cba91cee793617606b16a90dddf-1725459355
+TXT	google-gws-recovery-domain-verification=52754084
+TXT	google-site-verification=3tPJIprDkIurXu1UrB1Yqo_O3ErzEKPSeWb8knwgzx0
+TXT	google-site-verification=gDDKx38HKl6TOirU2QISez00NDz3dS2Lm3sk9eBeSno
+TXT	ibmid=63d83273-8003-43a7-b023-cccea318ccb6
+TXT	intersight=2b82f10c1bce32b17982419ca867ec1410bd0e36d0858a8395375a8ae9672d56
+TXT	intersight=5e2d100ab1515d93061a2a6dd0922581df5315ddfdb975756f68d8bb0a8a4168
+TXT	intersight=f6285146bb9e25c2814757ca1d2321b7e5443dec06803e90588cb4d7b9f4aaf4
+TXT	jamf-site-verification = adD1KT_HA6EKgnI-7Smnbg
+TXT	linkedin-site-verification=c035d897-e6f7-468f-9796-362a1f3499e3
+TXT	miro-verification=164cfa834b886d0d3f1d115318d1c5cba6876f44
+TXT	mongodb-site-verification=5skI0PtZq9JryTmK7fbWYpXUxfi7thTB
+TXT	mongodb-site-verification=7grkzGLukc7dxQ586mM29gkwnuKIygf4
+TXT	openai-domain-verification=dv-FlWqvzUgOAxmp2PBtmHWqcO1
+TXT	smartsheet-site-validation=i2iniDw2mguoDd-c8qi5F8FRQGU3-4AH
+TXT	snowflake-verification=2728dee9-01a0-1000-8038-0000000007d1
+TXT	uber-domain-verification=211c65e8-06eb-4937-a2a8-d029a9f66779
+TXT	uber-domain-verification=8bc2ff3f-b1ac-49e1-bb21-7ae805927e5b
+TXT	v=spf1 include:%{ir}.%{v}.%{d}.spf.has.pphosted.com include:spf-00157d02.pphosted.com -all
+TXT	wTay5SxjLvrsBZFc4TSA7A
+TXT	wiz-domain-verification=e895b4fd63b6a78b2fb55d61dd32e9420c1a3317aedc13dbc7ce5f1465415796
+MX	10 mxa-00157d02.gslb.pphosted.com
+MX	10 mxb-00157d02.gslb.pphosted.com
+SPF	v=spf1 include:%{ir}.%{v}.%{d}.spf.has.pphosted.com include:spf-00157d02.pphosted.com -all
+AI_TOKEN	Anthropic	anthropic-domain-verification-fdh8zq=DbaSFiubOKdPCakLJHjFqVGco
+AI_TOKEN	OpenAI	openai-domain-verification=dv-FlWqvzUgOAxmp2PBtmHWqcO1

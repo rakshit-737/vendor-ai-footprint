@@ -1,0 +1,15 @@
+MUFG and Crédit Agricole Corporate & Investment Bank Complete First Payment in the ISO 20022 Format on CHIPS® Network
+New York – MUFG Bank, Ltd., one of the largest banks in Japan, and Crédit Agricole Corporate & Investment Bank, one of the leading investment banking groups in Europe, successfully completed the first payment in the ISO 20022 message format on The Clearing House’s CHIPS® network, the largest private-sector high-value clearing and settlement system in the world.
+The CHIPS network’s implementation of ISO 20022 messages, which went live starting on the April 8 banking day, enhances the efficiency of cross-border payment processing and allows participants and end-user customers to glean value from enriched data content, among other benefits.
+“We congratulate Crédit Agricole Corporate & Investment Bank and MUFG for completing the first payment in the ISO 20022 message format on CHIPS, the first high-value payment system in the United States to adopt an ISO 20022 message format,” said Richard Dzina, Senior Vice President, Product Development, The Clearing House. “We would also like to thank all the participants on the CHIPS network for working to make the ISO 20022 message format migration a resounding success.”
+On Monday, April 8, the CHIPS network concluded its first day of operations using the ISO 20022 message format, releasing 555,345 payments for a total value of $1.81 trillion.
+The CHIPS network is the premier U.S. dollar (USD) clearing and settlement system for international payment activity, with 95% of CHIPS payments being the USD leg of a funds transfer that begins or ends in another country. ISO 20022 is the international standard for financial messaging developed by the International Organization for Standardization (ISO) with the goal to create a common language for financial communications globally. The successful migration to messages following the ISO 20022 standard means that CHIPS messages now align with message formats used by other global high-value payment systems, substantially enhancing the efficiency and information content of cross-border payments.
+The CHIPS network settles an average of $1.8 trillion in payments every business day and provides the highest liquidity efficiency of major large-value payment systems around the world. The liquidity efficiency of the CHIPS network averaged 26:1 in 2023, meaning that $1 of funding contributed to the network supported $26 in settled payment value.
+###
+About The Clearing House
+The Clearing House operates U.S.-based payments networks that clear and settle more than $2 trillion each day through wire, ACH, check image, and real-time payments. It is the nation’s most experienced payments company, with a long track record of providing secure and reliable systems, payments innovation, and strategic thought leadership to financial institutions. Learn more at www.theclearinghouse.org.
+Media Contact:
+Greg MacSweeney
+The Clearing House 
+212-612-9282
+Gregory.MacSweeney@theclearinghouse.org

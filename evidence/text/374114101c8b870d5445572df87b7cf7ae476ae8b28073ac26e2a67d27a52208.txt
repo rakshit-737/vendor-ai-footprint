@@ -1,0 +1,50 @@
+Type: 
+            
+                On Demand
+            
+            
+            Duration: 
+            
+                70 Minutes
+            
+            
+            
+                Date & Time: 
+                
+                
+            
+            
+            
+            
+            
+        
+            
+            Member Fee: 
+            
+                $0
+            
+            
+            Non-Member Fee: 
+            
+                $349
+            
+            
+            
+            
+                
+            
+            
+            Audience: 
+            
+                AAP Candidates, Accounts Payable and Receivable, ACH Personnel, APRP Candidates, Audit, Cash Management, Compliance, Corporate Payments Professionals, Credit_Lending, General ACH, Operations, Payments Personnel, Retail/Frontline, Risk, Sales, Senior Payments Personnel, Treasury
+            
+            
+        
+        
+            This recorded session introduces the Automated Clearing House (ACH) network, its participants, and the Nacha Operating Rules & Guidelines ("ACH Rules") which govern the ACH network.  Topics discussed include:
+    - Navigating the ACH Rules 
+- Network Participants and Responsibilities
+- Rules Enforcement
+- Types of ACH Transactions (Standard Entry Class (SEC) Codes)
+- Returns, Notifications of Change and Prenotifications
+- ACH Use Cases for Consumers and Corporates

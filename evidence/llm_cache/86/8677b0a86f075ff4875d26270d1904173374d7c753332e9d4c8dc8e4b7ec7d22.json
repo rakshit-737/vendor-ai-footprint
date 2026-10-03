@@ -1,0 +1,37 @@
+{
+ "key": "8677b0a86f075ff4875d26270d1904173374d7c753332e9d4c8dc8e4b7ec7d22",
+ "model": "gemini-3.5-flash-lite",
+ "payload_sha256": "94d04fafcfaf30eba2e22a134fa8d8010c599e642812f00f5760daa2c2e57f6b",
+ "prompt_sha256": "ad6f9fb7b2bcec4a24437dc2fe0c068247c2d943f01fe4d318a12c62837015d4",
+ "response": {
+  "names": [
+   {
+    "kind": "alias",
+    "name": "AutomWorx"
+   },
+   {
+    "kind": "product",
+    "name": "UC4"
+   },
+   {
+    "kind": "product",
+    "name": "AppWorx"
+   },
+   {
+    "kind": "product",
+    "name": "Automic"
+   },
+   {
+    "kind": "product",
+    "name": "Autosys"
+   },
+   {
+    "kind": "product",
+    "name": "Automic Automation"
+   }
+  ]
+ },
+ "role": "expand",
+ "schema_sha256": "172bbf2d6bf06bd8693508bbf8f56d2d7a91e191136764b8300dedb84508e09d",
+ "seed": 1234
+}

@@ -1,0 +1,169 @@
+What We Offer keyboard_arrow_down Securities Services arrow_forward Fund & Investor Solutions Custody Managed Account Solutions Integrated Middle Office Solutions Global Clearing Issuer Services arrow_forward Conventional Trust Structured Debt Depositary Receipts Liquidity, Financing & Collateral arrow_forward Liquidity & Financing Credit & Lending Global Collateral Global Payments & Trade arrow_forward Payments Cash Management Trade Finance Markets Execution Services arrow_forward FX Fixed Income Equities Buy-Side Trading Solutions Investments arrow_forward Wealth arrow_forward BNY Pershing/Wealth Services arrow_forward Data & Analytics arrow_forward Digital Assets arrow_forward
+
+Who We Serve keyboard_arrow_down Alternative Asset Managers Investment Managers Asset Owners Insurance Companies Banks Broker-Dealers Corporations Wealth Intermediaries Individuals, Families & Family Offices
+
+Insights keyboard_arrow_down BNY Institute arrow_forward All Insights arrow_forward BNY Institute At the Table with BNY Experts: Summer Edition Read more arrow_forward BNY Wealth Structuring the Sale: Insights for Private Business Owners Read more arrow_forward
+
+About Us keyboard_arrow_down About BNY arrow_forward Leadership Office Locations Sustainability Technology & Innovation Thrive Together Newsroom arrow_forward Trust Center arrow_forward Careers arrow_forward Search BNY Jobs Early Career Opportunities Experienced Professionals
+
+Investor Relations keyboard_arrow_right Overview Press Releases Quarterly Earnings Events & Presentations Annual Reports & Proxy Statements SEC Filings & Other Disclosures Shareholder Services Fixed Income Corporate Governance Contact JULY 2026 BNY Reports Second Quarter 2026 Results Learn more arrow_forward FEBRUARY 2026 Annual Report 2025: Built for Opportunity Learn more arrow_forward
+
+Investor Relations Overview Press Releases Quarterly Earnings Events & Presentations Annual Reports & Proxy Statements SEC Filings & Other Disclosures Shareholder Services Fixed Income Corporate Governance Contact JULY 2026 BNY Reports Second Quarter 2026 Results Learn more arrow_forward FEBRUARY 2026 Annual Report 2025: Built for Opportunity Learn more arrow_forward
+
+Client Access
+
+SUGGESTED RESULTS
+
+Search Results
+
+Global Head of Digital Assets Caroline Butler testifies before the U.S. House Financial Services Committee on Navigating the Digital Payments Ecosystem
+
+Pre-Submitted Statement of Caroline Butler, Global Head of Digital Assets, The Bank of New York Corporation, before the United States House Financial Services Committee.
+
+On March 11, 2025, Caroline Butler, BNY Global Head of Digital Assets, testified in front of the House Financial Services Committee on Navigating the Digital Payments Ecosystem: Examining a Federal Framework for Payment Stablecoins and Consequences of a U.S. Central Bank Digital Currency. See below for her testimony, which was prepared and submitted to the Committee ahead of the hearing.
+
+Introduction
+
+Good morning, Chairman Hill, Ranking Member Waters and Members of the Committee. Thank you for the opportunity to testify on the importance of innovation in the financial system, including the use of stablecoins. My name is Caroline Butler, and I have served as the Global Head of Digital Assets at BNY since 2023.
+
+BNY is a global financial services company that helps make money work for the world — managing it, moving it and keeping it safe. For more than 240 years BNY has partnered alongside clients, putting its expertise and platforms to work to help them achieve their ambitions. Today BNY helps over 90% of Fortune 100 companies and nearly all the top 100 banks globally to access the money they need.1 As of December 31, 2024, BNY oversees $52.1 trillion in assets under custody and/or administration and $2.0 trillion in assets under management.2
+
+How money is managed and moved is transforming. Blockchain technology has the potential to serve as an additional payment rail, complementing the basket of existing payment options we offer our clients. This is because blockchain, specifically payment stablecoins, has the potential to unlock greater utility of assets, enhance resiliency, and drive operational efficiencies. Embracing blockchain technology in connecting the traditional and digital markets is consistent with BNY’s long track record of supporting innovation in the global financial system. In 2021, we were one of the first banks to support the digital asset sector,3 and we serve as the primary custodian for the reserve assets of the largest stablecoin issuer in the U.S.
+
+Thoughtful regulation plays an important role in ensuring the potential of digital assets, including stablecoins, will be fully realized. We applaud the Committee for its bipartisan work — past and present — on stablecoin legislation. We welcome informed legislation 2 and associated regulatory frameworks designed to protect customers, promote resiliency, and allow banks to participate in the stablecoin ecosystem.
+
+Our History
+
+BNY is the nation’s oldest bank, founded by Alexander Hamilton in 1784.4 BNY established its credibility as a financial institution by being liquid, transparent, and highly resilient. These tenets, which have guided our development and growth as an institution, remain core to our business model today.
+
+Over our more than 240-year history, we have developed solutions that led to a number of firsts in the United States economy: we provided the first loan to the U.S. government after the Revolutionary War; we were the first company listed on the New York Stock Exchange; and we provided essential financing to major infrastructure projects, from the Louisiana Purchase to the Erie Canal and the transnational railroads to the New York City Subway system. BNY was also one of the first financial institutions to use an electronic system for clearing government securities. Those actions — taken for granted today — were financial innovations at the time and have played a significant role in helping the U.S. become the world’s predominant economic engine.
+
+As to recent innovation in digital assets, BNY led the charge in providing services to the digital asset industry, including, in 2022, being the first global systemically important bank to offer custodial services to select U.S.-based institutional clients for their Bitcoin and Ether.5 Today we are focused on using the benefits of blockchain to develop other secure, innovative, and client-centric solutions, including:
+
+Tokenization Services that Unlock Value: Tokenization will result in greater speed, resiliency, and operational efficiencies.
+
+Interoperability between Traditional & Digital Markets: Connecting traditional and digital rails can offer scalable services that run 24/7 for our clients.
+
+Innovation in Products and Operations: Integrating blockchain technology can lead to new financial products and transform roles and operations in traditional finance.
+
+BNY was one of the first banks to send an instant payment, and last month we sent the largest instant payment in U.S. history, $10 million.6 And BNY is at the forefront of the responsible adoption of artificial intelligence as we have, and continue to, incorporate artificial intelligence technology into our company.7
+
+We are proud of the historic role that BNY has had in helping to grow the U.S. financial system into the leading power it is today.
+
+Our Business Today
+
+Today we are a global financial services company with more than 50,000 employees. We partner alongside our clients, putting our expertise to work to enable them to achieve their goals.
+
+Our business strategy is led by client choice. We are where our clients want to be, and we have the scale and capacity to support their goals across the investments, communities, and countries they want to be in. Our global client base ranges across governments, pension funds, mutual funds, unions, endowments, corporations and financial services firms. We are proud of the trust our clients place in us, and of our role in helping them achieve their financial objectives, no matter their size, scale or complexity.
+
+We have a different business model compared to a traditional retail, commercial or investment bank. Our core business is to provide custody and other financial services to governments and institutions — not consumer banking.
+
+Through its three primary business segments, BNY is uniquely positioned to serve the end-to-end investment lifecycle, acting as a single, integrated platform for clients looking to create, administer, manage, transact, distribute or optimize investments.8
+
+Our Securities Services segment is composed of our Asset Servicing, Corporate Trust and Depositary Receipts businesses. This segment includes our core custody services: the safekeeping, recordkeeping and servicing of assets on behalf of our clients and their clients.
+
+Our Market and Wealth Services segment includes a number of industry-leading businesses. The first is Pershing, whose platform provides access to clearing, settlement and other services for broker dealers and registered investment advisors. The next is our Clearance and Collateral Management business, which plays a central role in supporting U.S. Treasury markets — on average we settle $16.3 trillion in Treasury securities per day.9
+
+Our Treasury Services business includes our payments platform, which offers clients the ability to process payments across multiple instant payment rails. We process approximately $2.4 trillion of payments per day across all payment rails.10
+
+Finally, our Investment and Wealth Management segment comprises our asset management business and a private bank that services individuals, families, family offices and non-profits. BNY has a multi-firm investment management business, which gives clients the choice to invest in an array of asset classes and strategies through a variety of vehicles depending on their needs.
+
+The Evolution of Custody
+
+Regulated banks like BNY play a critical role in the functioning of financial markets, including providing “core custody services”: the safekeeping of client assets and record-keeping services, asset servicing, transaction processing and settlement, and banking services. We have been providing these safekeeping services for decades, evolving from holding physical assets in their vaults, to an electronic book-entry notation representing shares held through central securities depositories, to most recently custodying assets that are natively-issued on blockchains. While non-banks may seek to provide some of these core custody services, bank custodians are differentiated by a number of important factors. We have robust risk management, operating and resiliency controls built into our business model. These controls are subject to scrutiny and testing from a second line of defense which includes independent Compliance and Risk Management functions. In addition, we are subject to robust prudential regulation, ongoing supervision and examination, and a comprehensive enforcement regime.
+
+Although technology has evolved to now include blockchains, as discussed more fully below, certain established principles underpin custody regardless of its technological wrapper, including segregation of client non-cash assets from BNY assets in a bankruptcy-remote manner, clear record keeping, security and technology standards, and strong risk management and regulatory guardrails.
+
+How Stablecoins Fit into the Digital Assets Ecosystem
+
+When we talk about the “digital assets” ecosystem, it is important at the outset to define what that term means — I am a believer that “words make worlds,” and this is a space where taxonomy is critical. For nearly two years, I have had the privilege of serving as the Co-Chair of the Digital Asset Markets Subcommittee (DAMS) to the CFTC’s Global Markets Advisory Committee. The DAMS developed a “Digital Assets Classification Approach and Taxonomy,” which is instructive for present purposes.11
+
+Digital assets can be classified into multiple groups, including:
+
+Digital Money: Tokenized deposits (digital tokens that represent an existing record of a traditional ownership claim for a bank deposit on the token-issuing bank or depository institutions).
+
+Money-Like Digital Assets: Stablecoins, which are privately-issued tokens that aim to maintain a stable value relative to a peg specified by a reference asset(s) and designed to minimize value fluctuations relative to these reference assets(s). Stablecoins must also be referenced to at least one or more assets specified under the specific regulatory framework, including for example, cash and securities (e.g., low risk, high-quality liquid assets such as US Treasury Bills).
+
+Financial Digital Assets: Securities or derivatives that exist in one of two forms: a digital twin (a token that represents an underlying security or other financial instrument issued on a different platform such as a traditional central securities depository or registrar) or a digital native.
+
+Cryptoassets (also referred to as cryptocurrencies): A platform cryptoasset is a nonredeemable digital native token, with no rights conferred against the issuer (if one exists) that may be exchanged for a specified value and is hard-coded into any platform. Examples include Bitcoin and Ether.
+
+This breakdown emphasizes that stablecoins — the focus of today’s hearing — are one specific class of “digital assets.”
+
+Stablecoin Arrangements – Roles and Responsibilities
+
+There are multiple roles to be played in stablecoin arrangements. Those roles include, but are not limited to:
+
+First, the stablecoin issuer is the entity licensed or otherwise authorized to issue the stablecoin, the issuance of which generally represents an obligation of the issuer to repay the amount invested by the holder.
+
+Second, the custodian of the reserve is the entity that holds the assets that reference the stablecoin. For example, $1 billion of stablecoins in circulation must generally have at least $1 billion in assets in the reserve fund. The custodian holds cash on deposit and custodies the non-cash assets (e.g., securities) in that reserve fund.
+
+Third, the stablecoin reserve manager is distinct from the reserve custodian. The reserve manager makes investment decisions with respect to the reserve assets, including maintaining a liquid source of assets that can be invested and redeemed almost instantaneously, with a liquidity buffer to further protect against run risk.
+
+BNY’s Role in Stablecoin Arrangements
+
+BNY provides traditional banking services to U.S. stablecoin issuer clients, including payments, deposit taking, and custody services. Providing these services was a natural evolution for BNY — our core business is to hold cash on deposit and custody securities such as U.S. Treasuries for our traditional institutional clients, and this is the same service we are providing for stablecoin issuers. This presented an opportunity for BNY to support its clients at the intersection of the traditional and digital markets, and to advance the stablecoin market through our long history of providing custody services under a robust regulation and supervision framework.
+
+Let me offer some additional details and considerations on our role as custodian of stablecoin reserves:
+
+Before engaging in any stablecoin-related activity, BNY performs its established client-onboarding processes and controls, including specialized due diligence; in addition, the provision of services is subject to thorough business and enterprise-wide compliance governance processes and approvals.
+
+BNY conducts this activity primarily out of its New York state-chartered bank, which is a member of the Federal Reserve System. As a result, this activity is conducted in accordance with the regulations, guidance, and supervisory expectations of the New York Department of Financial Services, its regulator at the state level, and the Federal Reserve, its regulator at the federal level. Similar activity conducted out of one of our other banking subsidiaries is regulated by the Federal Reserve, as well as any other appropriate regulator. Stablecoin issuers look to banks to serve as the custodian of their reserves due to this regulation and safety and soundness expectations.
+
+Securities and other non-cash assets that comprise a stablecoin reserve are the property of the beneficial owner (the stablecoin issuer in this case) and are recognized on the balance sheet of the stablecoin issuer. Those assets are not on BNY’s balance sheet and instead recognized off-balance sheet in segregated accounts on BNY’s books and records. Because client securities and other non-cash assets are not our property, we cannot — and do not — use them for proprietary purposes. Application of our traditional custodial practices in this context is an additional reason why stablecoin issuers look to banks to serve as the custodian of their reserves.
+
+U.S. Regulatory and Legislative Stablecoins Frameworks
+
+In the absence of a unified federal framework governing stablecoins, participants in stablecoin arrangements look to various state and federal laws, licensing, and chartering regimes. We commend this Committee for its work to develop a targeted federal framework that addresses threshold questions such as who can issue stablecoins, who can hold stablecoin reserves and the types of assets that comprise those reserves, and how to promote consumer protection through principles such as asset segregation, reserve attestation, and transparency.
+
+Based on BNY’s provision of services to stablecoin issuers, we offer the following highlevel views on stablecoin legislation:
+
+Role of Banks: Bank participation in stablecoin arrangements imparts trust and resiliency in the overall financial system. We appreciate legislation that codifies the permissibility of banks to engage in stablecoin-related activity, including as an issuer of a stablecoin and/or as the custodian for the reserve. This clarity will help serve as a catalyst for banks to explore and evaluate opportunities in this space based on their business models, client needs, and use cases.
+
+Level Playing Field: As recognized in the legislation, both banks and non-banks can issue stablecoins — however, neither should have a competitive advantage over the other. As payment stablecoin issuers will engage in activities that are economically equivalent to payment and settlement activities of banks and will therefore present risks analogous to those that banks must manage (including with respect to capital, liquidity, risk management, and consumer protection), any legislation should impose consistent standards on payment stablecoin issuers no matter the nature of the issuer or the governing regulatory regime.
+
+Align Custody Requirements with Market Practice: Legislation should not impose barriers to typical bank custodial arrangements. As previously stated, bank custodians custody client securities and other non-cash assets off-balance sheet. Client cash is ordinarily treated as a deposit liability of the bank (in this case, to the payment stablecoin issuer) such that the cash is reflected on-balance sheet; holding cash in this manner is well-established and a long-standing principle for deposits. There should not be any changes to these practices in order for banks to continue to serve as the custodian for stablecoin reserve assets.
+
+Authority of Banking Institutions: It is critical for legislation to be technology-neutral in that it adheres to the principle of “same activity, same risk, same regulation.” For example, tokenization of deposits (a form of “Digital Money” described above) does not change the fundamental nature of the claim and the acceptance of those deposits should be subject to this technology neutrality principle (and not require any new legislation). We appreciate provisions in the legislation confirming (1) that it is permissible for banks to issue digital assets that represent deposits, as well as using blockchain for books and records purposes and to affect intrabank transfers; and (2) scoping those activities out of stablecoin legislation.
+
+We look forward to working with the Committee as it considers stablecoin legislation, as well as other digital assets legislation (such as market structure legislation) that sets clear permissibility standards for banks to engage in digital assets-related activities.
+
+The Future of Stablecoins and Cash-on-Chain Solutions
+
+As we look to the future, we believe that payment stablecoins hold promise to offer faster, more efficient, and more inclusive payment options.
+
+We also encourage the continued exploration more broadly of “digital money” and “money-like digital assets.” A key underlying benefit of stablecoins is that they represent cash (the U.S. dollar) on-chain (meaning on a distributed ledger such as a blockchain). If one thinks about the speed of asset mobility, there is a demand for “always on” cash to facilitate transactions that occur on a blockchain, or even to serve as the on and off ramps of such transactions into fiat. Stablecoins are one way that role can be performed.
+
+Conclusion
+
+We are committed to responsible innovation in the digital assets ecosystem, including as it relates to stablecoins. Blockchain holds the potential to unlock greater utility of assets, enhance resiliency, and drive operational efficiencies. By embracing this technology, BNY is connecting traditional and digital markets, staying true to our long standing commitment to innovation within the global financial system.
+
+Footnotes
+
+1 BNY, About BNY, https://www.bny.com/corporate/global/en/about-us/about-bny.html.
+
+2 Press Release, BNY, BNY Reports Fourth Quarter 2024 Financial Results (Jan. 15, 2025), https://www.bny.com/assets/corporate/documents/pdf/investor-relations/earnings-press-release-january-2025.pdf
+
+3 Press Release, BNY Mellon Forms New Digital Assets Unit to Build Industry’s First Multi-Asset Digital Asset Digital Platform (Feb. 11, 2021), https://www.bny.com/corporate/global/en/about-us/newsroom/press-release/bny-mellon-forms-new-digital-assets-unit-to-build-industrypercent27s-first-multi-asset-digital-platform-130169.html.
+
+4 Alexander Rose, Making Money Work for the World: A Brief History of Bank of New York Mellon, https://www.bny.com/assets/corporate/documents/pdf/240-history-timeline.pdf.
+
+5 Press Release, BNY, BNY Mellon Launches New Digital Asset Custody Platform (Oct. 11, 2022), https://www.bny.com/assets/corporate/documents/pdf/investor-relations/earnings-press-release-january-2025.pdf.
+
+6 Press Release, BNY, BNY Sends Largest Instant Payment in U.S. History, $10 Million, Following Transaction Limit Increase (Feb. 10, 2025), https://www.bny.com/corporate/global/en/about-us/newsroom/press-release/bny-sends-largest-instant-payment-in-us-history.html
+
+7 Isabelle Bousquette, BNY, America’s Oldest Bank, Signs Multiyear Deal With OpenAI, Wall St. J. (Feb. 26, 2025), https://www.wsj.com/articles/bny-americas-oldest-bank-signs-multiyear-deal-with-openai-74987d1d.
+
+8 BNY, 2024 Annual Report, https://www.bny.com/assets/corporate/documents/pdf/investor-relations/annual-report-2024.pdf
+
+9 Id.
+
+10 Id.
+
+11 Commodity Futures Trading Comm’n Global Markets Advisory Council for Digital Asset Markets Subcommittee, Digital Assets Classification Approach and Taxonomy (Mar. 6, 2024), https://www.cftc.gov/media/10321/CFTC_GMAC_DAM_Classification_Approach_and_Taxonomy_for_ Digital_Assets_030624/download
+
+For media inquiries, please send an email to Media Inquiries or view our Media Resources.
+
+BNY is the corporate brand of The Bank of New York Mellon Corporation and may be used to reference the corporation as a whole or its various subsidiaries generally. BNY.com provides information about services provided by BNY and its affiliates. Not all accounts, products, and services are available in all jurisdictions or to all customers. ©2026 BNY.
+
+Visit our websites around the world.

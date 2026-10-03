@@ -1,0 +1,136 @@
+Are you considering upgrading to Automic V24? If so, check out the on-demand webinar.
+Outline
+I. Introduction
+- 00:00:26 – 00:01:57:
+  - Welcome and housekeeping (video off, microphones muted, Q&A feature)
+  - Brief company introduction (AutomWorx, Broadcom partner, services offered)
+II. Upgrade Considerations
+- 00:01:57 – 00:04:58:
+  - Importance of current version support status
+  - Atomic 24 release date and end of support timeline (Feb 14, 2024 – Feb 15, 2029)
+  - Overview of changes across versions 24.0, 24.1, 24.2, and 24.3
+III. Atomic 24.0 Changes
+- 00:05:09 – 00:06:51:
+  - Deprecated Components: WebLogic, WebSphere, 32-bit agents, Infrastructure Manager, Event Engine
+  - Universal Language Support:
+    - Database collation change to UTF-8 (impacts zero downtime upgrades)
+    - SQL Server 2019 or higher required
+  - Automation Engine Changes:
+    - Hyphen and dash support
+    - Schema changes (UTF-8 data type, longer text fields)
+    - New code table for UTF-8
+- 00:06:51 – 00:09:47:
+  - Universal Language Support (Continued):
+    - AWI input impacts
+    - Text editors and import/export support
+    - New “hex to string” function
+    - Script function UTF-8 support
+    - Unsupported components: Service Manager, Call API, Infrastructure Manager, 32-bit agents
+- Universal Language Support (Continued):
+IV. Atomic 24.1 Changes
+- 00:09:47 – 00:11:15:
+  - Continuous Delivery Automation (CDA):
+    - CDA 21.4 now connects to AE 24.1
+    - UTF-8 support for dynamic properties, custom properties, and artifact filenames
+    - Java 17 required for CDA with UTF-8
+- Continuous Delivery Automation (CDA):
+- 00:11:15 – 00:11:54:
+  - Deprecated Components (CDA): Infrastructure Manager CDC, Helm 2RM
+  - General Enhancements:
+    - User creation restrictions
+    - New privileges: Stop/Start, Configure AWI logs
+    - “Upgrade System” privilege renamed
+    - CAU privilege enhancement
+    - Unix/Linux encryption tool
+    - Telemetry export via AWI
+    - REST API enhancements: User management, client management
+    - AWI accessibility improvements (keyboard navigation, labels, zero downtime upgrade notification)
+    - REST API enhancements: Set/patch users, remove users from groups
+V. Atomic 24.2 Changes
+- 00:17:21 – 00:18:51:
+  - SAS Enhancements:
+    - Reduced reliance on ServiceQuest (client creation, object definitions, SQL I)
+    - Transport case export/import within AWI
+    - Improved Atomic Help (in-AWI interface)
+- SAS Enhancements:
+- 00:18:51 – 00:21:03:
+  - General Enhancements:
+    - SQL I security enhancements (login object)
+    - Bearer token support (authentication, user management)
+    - Transport case export/import limitations (max CT size)
+    - Minor AWI interface changes (rename objects, checkboxes)
+    - REST API enhancements (user/group management, authorization, transport case)
+    - Kubernetes enhancements (analytics, scaling, agents, cloud integration)
+- General Enhancements:
+VI. Atomic 24.3 Changes
+- 00:24:00 – 00:25:19:
+  - REST API Enhancements: Extended endpoints, Kubernetes improvements (output path, TLS auth, zero downtime upgrades), memory resource definition, new agents (PowerPC, PeopleSoft)
+  - SAS Enhancements: SOC 2 Type 2 certified
+- 00:25:19 – 00:28:50:
+  - General Enhancements:
+    - Archive functionality from AWI and REST API
+    - Increased connection string size
+    - Variable array size definitions
+    - Utility file.i UTF-8 support limitations
+    - LDAP user restrictions for utilities
+    - Token expiration and deletion
+    - AWI interface improvements (accessibility, fit to screen, scheduler results, user organization, key navigation)
+    - Client history availability on production clients
+- General Enhancements:
+- 00:28:50 – 00:31:59:
+  - General Enhancements (Continued):
+    - Keyboard navigation enhancements
+    - Improved user creation/duplication labels
+    - Zero downtime upgrade notifications
+    - REST API enhancements: Set/patch users, remove users from groups
+    - Kubernetes enhancements: System name in global settings, output file naming, TLS authentication, zero downtime upgrades, memory resource definitions, new agents (PowerPC, PeopleSoft), cloud integration agents
+- General Enhancements (Continued):
+- 00:31:59 – 00:32:41:
+  - Kubernetes Enhancements (Continued):
+    - CRD removal, cluster administration role deprecation
+    - TLS authentication for Atomic Engine and Analytics to Postgres database
+- Kubernetes Enhancements (Continued):
+- 00:32:41 – 00:33:56:
+  - Upgrade Considerations:
+    - On-premises installation support
+    - Upgrade planning (team involvement, testing, code freeze, parallel upgrade)
+    - Testing requirements (unit tests, group-based testing)
+    - Upgrade timeline considerations (agent count, client count)
+    - Data migration package (optional)
+    - Rollout planning, backout plan, and acceptable technical hurdles
+    - Timeline determination, server sizing, compatibility checks
+    - Component compatibility checks (utilities, Service Manager, dialogs)
+    - Non-production testing and production environment comparison
+    - Backups before and after upgrade
+    - Backout plan and limitations
+    - Component stopping considerations (timing, upgrade method)
+    - Timeline estimation for component stops
+    - Load time considerations:
+      - Utility load time (factors: transactional data, parallel upgrade, database speed)
+      - Testing time factors (components, success criteria, baseline)
+      - Timeline factors (testing, backout decisions, upgrade completion time)
+    - Version 24 Requirements:
+      - UTF-8 database requirements (Oracle, SQL Server)
+      - Windows OS beta test setting (if applicable)
+      - Change logging parameter update (if using database migration pack)
+    - Compatibility Considerations:
+      - Version 21 vs. Version 12 (TLS/SSL)
+      - Component compatibility (AE, utility, AWI versions)
+      - Agent compatibility (Java vs. C-based agents)
+    - Troubleshooting Considerations:
+      - Team involvement (DBA, OS admin, functional/application experts)
+      - Support contact information (AutomWorx, Broadcom)
+      - Severity 1 case handling (phone vs. email)
+      - Version 24 upgrade stability compared to previous versions
+    - Extended Support Considerations:
+      - Scope of extended support (production issues, excluding upgrades/bug fixes)
+      - Value for unsupported versions and high-availability environments
+      - Limitations of extended support (no major system changes)
+      - AutomWorx expertise beyond Broadcom support (integrations, specific applications)
+    - Service Manager/Service Manager Dialog Compatibility:
+      - Confirmation that both can run on the same host in version 24
+      - Server-side: Can run both versions with different ports
+      - Client-side: Can run both versions 21 and 24 in parallel
+- Upgrade Considerations:
+VII. (Continued in subsequent sections – not included in this outline)
+- Q&A

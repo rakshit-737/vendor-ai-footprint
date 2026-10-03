@@ -1,0 +1,49 @@
+Type: 
+            
+                On Demand
+            
+            
+            Duration: 
+            
+                60 Minutes
+            
+            
+            
+                Date & Time: 
+                
+                
+            
+            
+            
+            
+            
+        
+            
+            Member Fee: 
+            
+                $0
+            
+            
+            Non-Member Fee: 
+            
+                $379
+            
+            
+            
+            
+                
+            
+            
+            Audience: 
+            
+                AAP Candidates, Accounts Payable and Receivable, ACH Personnel, APRP Candidates, Audit, Cash Management, Compliance, Corporate Payments Professionals, Credit_Lending, General ACH, Operations, Payments Personnel, Retail/Frontline, Risk Managers, Sales, Senior Payments Personnel, Treasury
+            
+            
+        
+        
+            Originally recorded for Payments University in June of 2021, this session provides an introduction to the Automated Clearing House (ACH) network, its participants, and the Nacha Operating Rules & Guidelines ("ACH Rules") which govern the ACH network.  Topics discussed include:
+    - ACH Workflow
+- Key Features of ACH
+- SEC Codes
+- Returns
+- Risk Management

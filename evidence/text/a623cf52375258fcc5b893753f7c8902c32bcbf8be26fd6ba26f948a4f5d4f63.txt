@@ -1,0 +1,81 @@
+Automic Automation 24.4 is Here: Unlock the Power of GenAI in Your Automation!
+
+Kaj Wierda
+
+4 min read | March 28, 2025
+
+Key Takeaways
+
+With the Automic Automation 24.4 release, get the power of generative AI directly in the Automic UI.
+
+Build AI-powered workflows with the ASK_AI function by asking contextual questions within your scripting to get automatic processing of the data returned by the AI without requiring user interaction.
+
+Contextual AI-powered insights speed root cause analysis by effortlessly summarizing job execution reports, analyzing complex scripts, and receiving clear explanations of error messages.
+
+Automic Automation 24.4 has arrived, bringing the transformative power of Generative AI to your fingertips. This release empowers every user – from automation newcomers to seasoned experts – to boost productivity, gain deeper insights, and unlock new levels of efficiency. Discover how GenAI revolutionizes your automation workflows and elevates your expertise.
+
+Introducing AI-driven intelligence for Automic workflows
+
+Automic 24.4 introduces ground-breaking features that integrate GenAI, the intelligence of large language models (LLMs) directly into your automation environment. Experience the benefits of GenAI in Automic with AI-powered analysis and contextual guidance to become more productive, empower more users regardless of experience level, gain deeper insights into execution results, and catch potential problems before they occur.
+
+How AI in Automic transforms your automation workflow
+
+Flexible and secure AI model integration
+
+Maintain control over data security with Bring Your Own Model (BYOM) support for leading LLMs like Google’s Gemini, OpenAI’s GPT, or a local open source LLM via the Ollama platform. Keep your sensitive information within your own environment. Automic SaaS customers will leverage the default model, Gemini.
+
+Build AI-powered workflows
+
+Integrate AI into your automation workflows using the new ASK_AI function. Automatically generate enhanced notifications with error explanations, translations, and more. Receive alerts that tell you not only *what* went wrong, but *why* and *how* to fix it. Get effortless data extraction using natural language to use for example, to prioritize service tickets.
+
+Integrate AI prompts directly into your automation scripts with ASK_AI.
+
+Contextual AI-powered insights to speed root cause analysis
+
+Effortlessly summarize job execution reports, analyze complex scripts, and receive clear explanations of cryptic error messages, all within the familiar Automic UI. Right-click anywhere in the UI for instant access to AI-powered analysis of executions, tasks, and error messages. Uncover hidden insights and understand the impact of recent changes.
+
+Find the root cause of failure in a log with AI-powered analysis.
+
+AI-powered help
+
+Improve productivity and get help with natural language requests in any language through an AI-powered help chat interface. Get answers to your Automic and automation questions faster.
+
+By asking about the GCP Big Query agent in natural language, the AI-powered assistant will provide information about how the integration works.
+
+Global communication with multilingual support
+
+Conduct conversations and receive AI-powered insights in any language, breaking down communication barriers and expanding the reach of your automation.
+
+Experience the future of automation with the power of GenAI
+
+For our Automic on-premises and AAKE customers, upgrade to Automic 24.4 today. Join a Designated Upgrade Weekend to get dedicated support and fast efficient upgrades. Automic SaaS customers: these new features are available today.
+
+Related Resources
+
+Blog September 18, 2026
+
+Modernization at Scale: How Banco Inter Orchestrates 10 Million Accounts with Automic Automation
+
+Banco Inter made a strategic decision to replace the legacy tool with Broadcom's Automic Automation.
+
+Read More
+
+eBook September 14, 2026
+
+Beyond Observability with Automation Intelligence
+
+This eBook explores the challenges of fragmented automation and the key requirements for establishing comprehensive, enterprise-wide observability and critical business insight.
+
+Read More
+
+Blog September 14, 2026
+
+Broadcom Unveils AAI v26, Bringing Financial Accountability and AI-Driven Insights to Workload Automation
+
+AAI v26 introduces precise cost attribution and chargeback reporting, a natural-language interface for exploring operational data, and frontier AI led security process.
+
+Read More
+
+Tag(s): Automation , Automic Automation , GenAI Automation , GenAI
+
+Copyright © 2005- Broadcom. All Rights Reserved. The term “Broadcom” refers to Broadcom Inc. and/or its subsidiaries. Privacy Policy | Cookie Policy | Terms of Use | Contact Us

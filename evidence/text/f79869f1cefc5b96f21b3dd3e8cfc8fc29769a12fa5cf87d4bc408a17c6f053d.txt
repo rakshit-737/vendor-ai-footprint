@@ -1,0 +1,23 @@
+Topic: 
+                Third-Party Senders and the ACH Network 
+            
+            
+            Type: 
+                ACH
+            
+        
+                                
+             Member Fee: 
+                 $60
+            
+            
+            Non-Member Fee: 
+                $85
+            
+            
+            
+                
+            
+        
+        
+            This resource provides an overview of Third-Party Senders and their role in the ACH Network. This edition covers the Nacha Operating Rules as they relate to Third-Party Senders, provides real-world examples of Third-Party Sender relationships and covers areas such as agreements, and sound business practices for the ODFI as well as for the Originator.

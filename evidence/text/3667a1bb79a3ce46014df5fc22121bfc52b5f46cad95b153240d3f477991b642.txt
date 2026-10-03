@@ -1,0 +1,114 @@
+{
+  "count": 1,
+  "hasMore": false,
+  "items": [
+    {
+      "ApplyWhenNotPostedFlag": false,
+      "BeFirstToApplyFlag": false,
+      "BusinessUnit": null,
+      "BusinessUnitId": 300000094081469,
+      "Category": "Strategic Planning",
+      "ContentLocale": "en",
+      "ContractType": null,
+      "CorporateDescriptionStr": "",
+      "Department": null,
+      "DomesticTravelRequired": null,
+      "ExternalContactEmail": null,
+      "ExternalContactName": null,
+      "ExternalDescriptionStr": "<p><strong>Director, Technical Product Manager:</strong></p><p>At BNY, our culture allows us to run our company better and enables employees’ growth and success. As a leading global financial services company at the heart of the global financial system, we influence nearly 20% of the world’s investible assets. Every day, our teams harness cutting-edge AI and breakthrough technologies to collaborate with clients, driving transformative solutions that redefine industries and uplift communities worldwide.</p><p>Recognized as a top destination for innovators, BNY is where bold ideas meet advanced technology and exceptional talent. Together, we power the future of finance – and this is what #LifeAtBNY is all about. Join us and be part of something extraordinary.</p><p>We’re seeking a future team member for the role of Director, Technical Product Manager to join our Innovation Team and lead AI-driven business transformation initiatives that reimagine how work gets done across the bank. This leader will combine deep technical fluency in AI systems with strong product strategy and execution experience in large, complex organizations. The ideal candidate has successfully built and scaled AI-enabled platforms, led multidisciplinary teams, and driven measurable business outcomes in regulated enterprise environments.</p><p>This role is located in New York, NY (4 days in office per week).</p><p><strong>Role Overview:</strong></p><p>As Director, Technical Product Manager, you will define and drive the strategy for AI-powered process transformation across enterprise functions. You will lead cross-functional teams to design, build, and scale agentic and intelligent automation solutions that reduce risk, improve operational efficiency, and enhance client experiences. You will operate at the intersection of Product, Engineering, Data Science, Operations, Risk, and Compliance—ensuring solutions are secure, explainable, scalable, and production-ready.</p><p><strong>In this role, you’ll make an impact in the following ways:&nbsp;</strong></p><p><strong>Product Vision &amp; Strategy</strong></p><ul><li>Define and own the product vision, strategy, and roadmap for AI-driven business process transformation initiatives with key business stakeholders</li><li>Align roadmap priorities to enterprise modernization, AI strategy, and operational efficiency objectives</li><li>Identify high-value opportunities for AI, intelligent automation, LLMs, and agentic architectures to eliminate manual workflows and enhance decision intelligence (transform business processes into digital products)</li><li>Translate ambiguous, complex business problems into clear product tenets, PR/FAQs, and scalable execution plans</li><li>Champion an AI-first mindset across the organization, embedding modern product thinking and experimentation frameworks</li></ul><p><strong>AI-Native Process Reimagination at Scale</strong></p><ul><li>Oversee orchestration frameworks spanning:<ul><li>Event-driven architecture</li><li>APIs and microservices</li><li>Workflow engines and state management</li><li>Metadata-aware retrieval systems</li><li>Multi-agent coordination models</li></ul></li><li>Balance innovation velocity with enterprise-grade reliability and governance</li><li>Partner with Engineering and Data Science to operationalize AI at scale, incorporating model lifecycle management, observability, guardrails, and performance optimization</li><li>Ensure responsible AI governance, addressing bias, explainability, privacy, data security, and operational resilience</li></ul><p><strong>Execution &amp; Cross-Functional Delivery</strong></p><ul><li>Influence senior executives on investment prioritization and enterprise adoption</li><li>Translate complex AI and agentic concepts into clear, outcome-driven business narratives</li><li>Drive adoption through executive storytelling and structured change management</li><li>Lead a high-performing product team with strong systems-thinking capabilities</li><li>Remove blockers, align stakeholders, and ensure consistent value delivery across concurrent workstreams</li></ul><p><strong>Enterprise &amp; Stakeholder Leadership</strong></p><ul><li>Partner with senior executives and enterprise stakeholders to align AI strategies with business objectives</li><li>Communicate vision, strategy, progress, and measurable impact to leadership</li><li>Drive field-to-product feedback mechanisms to continuously refine AI solutions for enterprise-grade performance</li><li>Enable adoption through playbooks, governance frameworks, and change management strategies</li></ul><p><strong>Impact Measurement &amp; Outcomes</strong></p><ul><li>Define and track clear success metrics including:<ul><li>Productivity gains and operational efficiency improvements (e.g., 20-50% time reduction)</li><li>Cost savings and automation impact</li><li>Risk mitigation and compliance enhancements</li><li>Client experience and engagement growth</li></ul></li><li>Demonstrate measurable business impact through scalable AI platforms and intelligent workflow transformation</li></ul><p><strong>To be successful in this role, we’re seeking the following:</strong></p><p><strong>Required</strong></p><ul><li>Bachelor's degree in STEM, Economics, or related discipline</li><li>~Ten years of progressive experience in technical product management, program leadership, or AI-driven platform delivery</li><li>Strong understanding of:<ul><li>Generative AI and LLM-powered systems</li><li>Agentic architectures and orchestration frameworks</li><li>Distributed systems and microservices</li><li>Event-driven design</li><li>APIs and integration layers</li><li>Metadata indexing and retrieval systems</li><li>AI lifecycle management and model performance metrics</li></ul></li><li>Experience operationalizing enterprise-grade AI systems with:<ul><li>Secure tenant-aware access controls</li><li>Observability and telemetry</li><li>Production reliability standards</li></ul></li><li>Demonstrated ability to influence senior leadership and drive alignment across large organizations</li></ul><p><strong>Preferred</strong></p><ul><li>Experience in highly regulated industries</li><li>Experience operationalizing AI solutions for Big Tech or Fortune 500 enterprises</li><li>Certifications: CSPO, A-CSPO, SAFe POPM, CSM, AWS Cloud Practitioner, Generative AI specialization.</li><li>Advanced degree preferred</li></ul><p><strong>At BNY, our culture speaks for itself, check out the latest BNY news at:</strong></p><ul><li><a href=\"https://www.bny.com/corporate/global/en/about-us/newsroom.html\" target=\"_blank\" rel=\"nofollow\">BNY Newsroom</a></li><li><a href=\"https://www.linkedin.com/company/bnyglobal/posts/?feedView=all\" target=\"_blank\" rel=\"nofollow\">BNY LinkedIn&nbsp;</a></li><li>Here’s a few of our recent awards:&nbsp;</li><li>America’s Most Innovative Companies, Fortune, 2025</li><li>World’s Most Admired Companies, Fortune 2025</li><li>“Most Just Companies”, Just Capital and CNBC, 2025</li></ul><p><strong>Our Benefits and Rewards:</strong></p><p>BNY offers highly competitive compensation, benefits, and wellbeing programs rooted in a strong culture of excellence and our pay-for-performance philosophy. We provide access to flexible global resources and tools for your life’s journey. Focus on your health, foster your personal resilience, and reach your financial goals as a valued member of our team, along with generous paid leaves, including paid volunteer time, that can support you and your family through moments that matter.&nbsp;</p><p>BNY is an Equal Employment Opportunity/Affirmative Action Employer - Underrepresented racial and ethnic groups/Females/Individuals with Disabilities/Protected Veterans.</p><p>BNY assesses market data to ensure a competitive compensation package for our employees. The base salary for this position is expected to be between $127,000 and $250,000 per year at the commencement of employment. However, base salary if hired will be determined on an individualized basis, including as to experience and market location, and is only part of the BNY total compensation package, which, depending on the position, may also include commission earnings, discretionary bonuses, short and long-term incentive packages, and Company-sponsored benefit programs.&nbsp;</p><p>This position is at-will and the Company reserves the right to modify base salary (as well as any other discretionary payment or compensation) at any time, including for reasons related to individual performance, change in geographic location, Company or individual department/team performance, and market factors.</p>",
+      "ExternalPostedEndDate": null,
+      "ExternalPostedStartDate": "2026-02-13T15:51:56+00:00",
+      "ExternalQualificationsStr": "",
+      "ExternalResponsibilitiesStr": "",
+      "GeographyId": 300000090214594,
+      "GeographyNodeId": 100010357091606,
+      "HiringManager": null,
+      "HotJobFlag": false,
+      "Id": "74914",
+      "InternalQualificationsStr": "",
+      "InternalResponsibilitiesStr": "",
+      "InternationalTravelRequired": null,
+      "JobFamilyId": 300000094771974,
+      "JobFunction": "General Management/Business Op",
+      "JobFunctionCode": "MBO",
+      "JobGrade": null,
+      "JobLevel": null,
+      "JobSchedule": "Full time",
+      "JobShift": "Day",
+      "JobType": null,
+      "LegalEmployer": null,
+      "LegalEmployerId": 300000003582023,
+      "NumberOfOpenings": null,
+      "ObjectVerNumberProfile": null,
+      "Organization": null,
+      "OrganizationDescriptionStr": "",
+      "OrganizationId": 300000094781361,
+      "OtherRequisitionTitle": null,
+      "PrimaryLocation": "New York, NY, United States",
+      "PrimaryLocationCountry": "US",
+      "RequisitionId": 300009446155357,
+      "RequisitionType": "Experienced",
+      "ShortDescriptionStr": "",
+      "StudyLevel": null,
+      "Title": "Applied AI Technical Product Manager",
+      "TrendingFlag": true,
+      "WorkDays": null,
+      "WorkHours": null,
+      "WorkMonths": null,
+      "WorkYears": null,
+      "WorkerType": null,
+      "WorkplaceType": "",
+      "WorkplaceTypeCode": null,
+      "media": [],
+      "otherWorkLocations": [],
+      "primaryLocationCoordinates": [
+        {
+          "CountryCode": "US",
+          "GeographyId": 300000090214594,
+          "GeographyNodeId": 100010357091606,
+          "Latitude": "40.58055",
+          "Longitude": "-74.00391"
+        }
+      ],
+      "requisitionFlexFields": [
+        {
+          "ControlType": "TextArea",
+          "Prompt": "Base Salary Min",
+          "SequenceNumber": 12,
+          "Value": "127000"
+        }
+      ],
+      "secondaryLocations": [],
+      "skills": [],
+      "workLocation": [
+        {
+          "AddressLine1": "240 Greenwich Street",
+          "AddressLine2": null,
+          "AddressLine3": null,
+          "AddressLine4": null,
+          "Building": null,
+          "Country": "US",
+          "Latitude": "40.71455001",
+          "LocationId": 300000129875278,
+          "LocationName": "240 Greenwich Street,New York,NY",
+          "Longitude": "-74.00714004",
+          "PostalCode": "10286",
+          "Region1": "New York",
+          "Region2": "NY",
+          "Region3": null,
+          "TownOrCity": "New York"
+        }
+      ]
+    }
+  ],
+  "limit": 499,
+  "links": [
+    {
+      "href": "https://eofe.fa.us2.oraclecloud.com:443/hcmRestApi/resources/11.13.18.05/recruitingCEJobRequisitionDetails",
+      "kind": "collection",
+      "name": "recruitingCEJobRequisitionDetails",
+      "rel": "self"
+    }
+  ],
+  "offset": 0
+}

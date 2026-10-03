@@ -1,0 +1,139 @@
+{
+  "count": 1,
+  "hasMore": false,
+  "items": [
+    {
+      "ApplyWhenNotPostedFlag": false,
+      "BeFirstToApplyFlag": false,
+      "BusinessUnit": null,
+      "BusinessUnitId": 300000094081469,
+      "Category": "Infrastructure Engineering",
+      "ContentLocale": "en",
+      "ContractType": null,
+      "CorporateDescriptionStr": "<p>At BNY, our culture allows us to run our company better and enables employees’ growth and success. As a leading global financial services company at the heart of the global financial system, we influence nearly 20% of the world’s investible assets. Every day, our teams harness cutting-edge AI and breakthrough technologies to collaborate with clients, driving transformative solutions that redefine industries and uplift communities worldwide.</p>Recognized as a top destination for innovators, BNY is where bold ideas meet advanced technology and exceptional talent. Together, we power the future of finance – and this is what #LifeAtBNY is all about. Join us and be part of something extraordinary.",
+      "Department": null,
+      "DomesticTravelRequired": null,
+      "ExternalContactEmail": null,
+      "ExternalContactName": null,
+      "ExternalDescriptionStr": "<div class=\"SCXW146628051 BCX8\" style=\"-webkit-tap-highlight-color: transparent; -webkit-text-stroke-width: 0px; -webkit-user-drag: none; background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); font-family: &quot;Segoe UI&quot;, &quot;Segoe UI Web&quot;, Arial, Verdana, sans-serif; font-size: 12px; font-style: normal; font-variant-caps: normal; font-variant-ligatures: normal; font-weight: 400; letter-spacing: normal; margin: 0px; orphans: 2; padding: 0px; text-align: start; text-decoration-color: initial; text-decoration-style: initial; text-decoration-thickness: initial; text-indent: 0px; text-transform: none; user-select: text; white-space: normal; widows: 2; word-spacing: 0px;\"><div class=\"OutlineElement Ltr SCXW146628051 BCX8\" style=\"-webkit-tap-highlight-color: transparent; -webkit-user-drag: none; clear: both; cursor: text; direction: ltr; margin: 0px; overflow: visible; padding: 0px; position: relative; user-select: text;\"><p class=\"Paragraph SCXW146628051 BCX8\" paraid=\"1012490119\" paraeid=\"{0efba46e-ead4-41c1-8f5a-515a325dc285}{77}\" style=\"-webkit-tap-highlight-color: transparent; -webkit-user-drag: none; background-color: transparent; color: windowtext; font-kerning: none; font-style: normal; font-weight: normal; margin: 0px 0px 10.6667px; overflow-wrap: break-word; padding: 0px; text-align: left; text-indent: 0px; user-select: text; vertical-align: baseline;\"><span style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif;\"><span class=\"TextRun SCXW146628051 BCX8 NormalTextRun\" data-contrast=\"auto\" xml:lang=\"EN-GB\" lang=\"EN-GB\" style=\"-webkit-tap-highlight-color: transparent; -webkit-user-drag: none; font-size: 11pt; font-variant-ligatures: none !important; line-height: 18.3458px; margin: 0px; padding: 0px; user-select: text;\">&nbsp;</span></span>At BNY, our culture allows us to run our company better and enables employees’ growth and success.<span style=\"font-family: Arial, sans-serif;\"> </span><span lang=\"EN-GB\">As a leading global financial services company at the heart of the global financial system, we influence nearly 20% of the world’s investible assets. Every day, our teams harness cutting-edge AI and breakthrough technologies to collaborate with clients, driving transformative solutions that redefine industries and uplift communities worldwide.</span><span style=\"font-family: Arial, sans-serif;\"> </span>&nbsp;</p><p><span lang=\"EN-GB\">Recognized as a top destination for innovators, BNY is where bold ideas meet advanced technology and exceptional talent. Together, we power the future of finance – and this is what #LifeAtBNY is all about. Join us and be part of something extraordinary.</span><span style=\"font-family: Arial, sans-serif;\"> </span>&nbsp;</p><p><span lang=\"EN-GB\">We’re seeking&nbsp;a future team member for the role of&nbsp;Vice President, AI Infrastructure Support Engineer to join our&nbsp;AI Infrastructure Support&nbsp;team in&nbsp;Lake Mary, FL or New York, NY or Pittsburgh, PA&nbsp;Location.</span>&nbsp;</p><p><span data-teams=\"true\"><strong>In this role, you'll make an impact in the following ways:</strong>&nbsp;</span></p><ul><li><span data-teams=\"true\">Deliver operational support and drive issue resolution for AI infrastructure, GPU platforms, and associated production services.</span></li><li><span data-teams=\"true\">Support the deployment, orchestration, and monitoring of AI/ML workloads across distributed environments using <strong>Kubernetes</strong> and <strong>Docker</strong>.</span></li><li><span data-teams=\"true\">Apply hands-on expertise with <strong>NVIDIA GPU infrastructure</strong>, including <strong>A100, H100, and B200 nodes</strong>, to support provisioning, utilization, performance tuning, and ongoing platform operations.</span></li><li><span data-teams=\"true\">Build, maintain, and optimize automation scripts and tooling using <strong>Ansible</strong>, <strong>Python</strong> and <strong>Shell scripting</strong> to improve efficiency and reliability.</span></li><li><span data-teams=\"true\">Manage incidents, service requests, and change activity through enterprise workflow and ticketing platforms such as <strong>JIRA</strong> and <strong>ServiceNow</strong>.</span></li><li><span data-teams=\"true\">Partner with cross-functional teams across engineering, platform, and operations to implement <strong>DevOps</strong> best practices, including <strong>CI/CD using GitLab</strong>, containerized deployment models, and secure access management through <strong>Azure AD</strong>.</span></li><li><span data-teams=\"true\">Create and maintain clear technical documentation, including <strong>runbooks, standard operating procedures, support guides, and infrastructure architecture artifacts</strong>.</span></li><li><span data-teams=\"true\">Diagnose and resolve <strong>networking, storage, and system performance issues</strong> affecting AI infrastructure and high-performance compute workloads.</span></li><li><span data-teams=\"true\">Participate in a rotating <strong>on-call support model</strong>, including occasional weekend coverage, to help maintain high availability and operational excellence.</span></li></ul><p>&nbsp;</p><p><span data-teams=\"true\" style=\"font-size: inherit;\"><strong>To be successful in this role, we’re seeking the following:</strong></span></p><ul><li><span data-teams=\"true\">Bachelor’s degree in Computer Science, Engineering, Information Technology, or a related field, or equivalent practical experience.</span></li><li><span data-teams=\"true\">Strong experience supporting <strong>AI infrastructure, GPU platforms, or high-performance compute environments</strong> in enterprise or production settings.</span></li><li><span data-teams=\"true\">Hands-on experience working with <strong>NVIDIA GPU nodes</strong>, including <strong>A100, H100, and B200</strong> systems.</span></li><li><span data-teams=\"true\">Solid understanding of <strong>Kubernetes</strong> and <strong>Docker</strong> for deploying, managing, and troubleshooting distributed workloads.</span></li><li><span data-teams=\"true\">Proficiency in Ansible, &nbsp;<strong>Python</strong> and <strong>Shell scripting</strong> for automation, tooling, and operational support tasks.</span></li><li><span data-teams=\"true\">Experience with <strong>DevOps practices</strong> and tools, including <strong>GitLab CI/CD</strong>, infrastructure automation, and container-based delivery models.</span></li><li><span data-teams=\"true\">Familiarity with enterprise ticketing and service management platforms such as <strong>JIRA</strong> and <strong>ServiceNow</strong>.</span></li><li><span data-teams=\"true\">Good knowledge of <strong>networking, storage, Linux systems administration, and infrastructure troubleshooting</strong> in complex technical environments.</span></li><li><span data-teams=\"true\">Understanding of <strong>identity and access management</strong>, including secure access controls such as <strong>Azure AD</strong>.</span></li><li><span data-teams=\"true\">Strong problem-solving skills, attention to detail, and the ability to manage multiple priorities in a fast-paced environment.</span></li><li><span data-teams=\"true\">Effective written and verbal communication skills, with the ability to document processes and collaborate across technical and non-technical teams.</span></li><li><span data-teams=\"true\">Willingness to participate in <strong>on-call rotations</strong> and provide occasional weekend support as needed.</span></li></ul><p>&nbsp;</p><p>At BNY, our culture speaks for<span style=\"font-family: Arial, sans-serif;\"> </span>itself, check<span style=\"font-family: Arial, sans-serif;\"> </span>out the latest BNY news at:<span style=\"font-family: Arial, sans-serif;\"> </span><span>&nbsp;</span></p><p><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.bny.com/corporate/global/en/about-us/newsroom.html\"><span style=\"color: windowtext;\">BNY Newsroom</span></a><span style=\"font-family: Arial, sans-serif;\"> </span>&nbsp;</p><p><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.linkedin.com/company/bnyglobal/posts/?feedView=all\"><span style=\"color: windowtext;\">BNY LinkedIn</span><span style=\"color: windowtext; font-family: Arial, sans-serif;\"> </span></a><span style=\"font-family: Arial, sans-serif;\"> </span>&nbsp;</p><p><span style=\"font-family: Arial, sans-serif;\"> </span>&nbsp;</p><p><span style=\"font-family: Arial, sans-serif;\"> </span>Here’s a few of our recent awards:<span style=\"font-family: Arial, sans-serif;\">  </span><span>&nbsp;</span></p><ul style=\"list-style-type: disc;\"><li>America’s Most Innovative Companies, Fortune, 2025<span style=\"font-family: Arial, sans-serif;\"> </span><span>&nbsp;</span></li><li>World’s Most Admired Companies, Fortune 2025<span style=\"font-family: Arial, sans-serif;\"> </span><span>&nbsp;</span></li><li>“Most Just Companies”, Just Capital and CNBC, 2025<span style=\"font-family: Arial, sans-serif;\"> </span><span>&nbsp;</span></li></ul><p><span style=\"font-family: Arial, sans-serif;\"> </span>&nbsp;<br><span lang=\"EN\">Our Benefits and Rewards:</span><span style=\"font-family: Arial, sans-serif;\"><span lang=\"EN\"> </span> </span>&nbsp;</p><p><span lang=\"EN-GB\">BNY offers highly competitive compensation, benefits, and wellbeing programs rooted in a strong culture of excellence and our pay-for-performance philosophy. We provide access to flexible global resources and tools for your life’s journey. Focus on your health, foster your personal resilience, and reach your financial goals as a valued member of our team, along with generous paid leaves, including paid volunteer time, that can support you and your family through moments that matter.</span><span style=\"font-family: Arial, sans-serif;\"><span lang=\"EN-GB\"> </span> </span>&nbsp;</p><p><span style=\"font-family: Arial, sans-serif;\"> </span>&nbsp;</p><p><span lang=\"EN\">BNY is an Equal Employment Opportunity/Affirmative Action Employer - Underrepresented racial and ethnic groups/Females/Individuals with Disabilities/Protected Veterans.</span><span style=\"font-family: Arial, sans-serif;\"> </span>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p></div></div>",
+      "ExternalPostedEndDate": null,
+      "ExternalPostedStartDate": "2026-09-10T18:15:49+00:00",
+      "ExternalQualificationsStr": "",
+      "ExternalResponsibilitiesStr": "",
+      "GeographyId": 300000090199637,
+      "GeographyNodeId": 100010357090123,
+      "HiringManager": null,
+      "HotJobFlag": false,
+      "Id": "81715",
+      "InternalQualificationsStr": "",
+      "InternalResponsibilitiesStr": "",
+      "InternationalTravelRequired": null,
+      "JobFamilyId": 300000094774257,
+      "JobFunction": "Infrastructure Engineering",
+      "JobFunctionCode": "INFENG",
+      "JobGrade": null,
+      "JobLevel": null,
+      "JobSchedule": "Full time",
+      "JobShift": "Day",
+      "JobType": null,
+      "LegalEmployer": null,
+      "LegalEmployerId": 300000003582023,
+      "NumberOfOpenings": null,
+      "ObjectVerNumberProfile": null,
+      "Organization": null,
+      "OrganizationDescriptionStr": "<p>At BNY, our culture speaks for itself, check out the latest BNY news at&nbsp;<a href=\"https://www.bny.com/corporate/global/en/about-us/newsroom.html\" target=\"_blank\" rel=\"nofollow\">BNY Newsroom</a>&nbsp;&amp;&nbsp;<a href=\"https://www.linkedin.com/company/bnyglobal/posts/?feedView=all\" target=\"_blank\" rel=\"nofollow\">BNY LinkedIn</a></p>\n<p style=\"margin-bottom:0in\">&nbsp;Here’s a few of our recent awards:</p>\n<ul style=\"margin-top:0in\">\n <li style=\"margin-bottom:0in\">America’s Most Innovative Companies, Fortune, 2025</li>\n <li style=\"margin-bottom:0in\">World’s Most Admired Companies, Fortune 2025</li>\n <li style=\"margin-bottom:0in\">“Most Just Companies”, Just Capital and CNBC, 2025</li>\n</ul>\n<ul></ul>\n<p>Our Benefits and Rewards:</p>\n<p>BNY offers highly competitive compensation, benefits, and wellbeing programs rooted in a strong culture of excellence and our pay-for-performance philosophy. We provide access to flexible global resources and tools for your life’s journey. Focus on your health, foster your personal resilience, and reach your financial goals as a valued member of our team, along with generous paid leaves, including paid volunteer time, that can support you and your family through moments that matter.</p>\n<p>BNY is an Equal Employment Opportunity/Affirmative Action Employer - Underrepresented racial and ethnic groups/Females/Individuals with Disabilities/Protected Veterans.</p>\n<p>BNY assesses market data to ensure a competitive compensation package for our employees. The expected base salary for this position when employment commences can be found in the Job Info section at the bottom of the posting.&nbsp;</p>\n<p>Base salary offered may vary depending on multiple individualized factors, including market location, job-related knowledge, skills, and experience. Base salary is only part of the total rewards package, which may include eligibility for an annual discretionary incentive award. Subject to the terms and conditions of the applicable plans then in effect, eligible employees may enroll in a 401(k) plan as well as participate in Company-sponsored medical, dental, vision, and basic life insurance plans for the employee and the employee’s eligible dependents. Eligible employees also may receive other benefits (including various paid time off benefits, such as vacation and sick time), dependent on the position offered. Details of participation in these benefit plans will be provided if an employee receives an offer of employment.</p>\n<p>If hired, the employee will be in an “at will” position and the Company reserves the right to modify base salary (as well as any other discretionary payments or compensation programs) at any time, including for reasons related to individual performance, Company or individual department/team performance, and market factors.</p>",
+      "OrganizationId": 300000094736366,
+      "OtherRequisitionTitle": null,
+      "PrimaryLocation": "Lake Mary, FL, United States",
+      "PrimaryLocationCountry": "US",
+      "RequisitionId": 300010984232218,
+      "RequisitionType": "Experienced",
+      "ShortDescriptionStr": "",
+      "StudyLevel": null,
+      "Title": "Vice President, AI Infrastructure Support Engineer",
+      "TrendingFlag": false,
+      "WorkDays": null,
+      "WorkHours": null,
+      "WorkMonths": null,
+      "WorkYears": null,
+      "WorkerType": null,
+      "WorkplaceType": "",
+      "WorkplaceTypeCode": null,
+      "media": [],
+      "otherWorkLocations": [],
+      "primaryLocationCoordinates": [
+        {
+          "CountryCode": "US",
+          "GeographyId": 300000090199637,
+          "GeographyNodeId": 100010357090123,
+          "Latitude": "28.75641",
+          "Longitude": "-81.32345"
+        }
+      ],
+      "requisitionFlexFields": [
+        {
+          "ControlType": "TextArea",
+          "Prompt": "Base Salary Min",
+          "SequenceNumber": 12,
+          "Value": "69000"
+        },
+        {
+          "ControlType": "TextArea",
+          "Prompt": "Base Salary Max",
+          "SequenceNumber": 21,
+          "Value": "153000"
+        }
+      ],
+      "secondaryLocations": [
+        {
+          "CountryCode": "US",
+          "GeographyId": 300000090214594,
+          "GeographyNodeId": 100010357091606,
+          "Latitude": "40.58055",
+          "Longitude": "-74.00391",
+          "Name": "New York, NY, United States",
+          "RequisitionLocationId": 300011159965668
+        },
+        {
+          "CountryCode": "US",
+          "GeographyId": 300000090220393,
+          "GeographyNodeId": 100010357090073,
+          "Latitude": "40.43851",
+          "Longitude": "-79.99734",
+          "Name": "Pittsburgh, PA, United States",
+          "RequisitionLocationId": 300010984692561
+        }
+      ],
+      "skills": [],
+      "workLocation": [
+        {
+          "AddressLine1": "300 Colonial Center Parkway",
+          "AddressLine2": null,
+          "AddressLine3": null,
+          "AddressLine4": null,
+          "Building": null,
+          "Country": "US",
+          "Latitude": "28.76193",
+          "LocationId": 300000129871125,
+          "LocationName": "300 Colonial Center Parkway,Lake Mary,FL",
+          "Longitude": "-81.34815",
+          "PostalCode": "32746",
+          "Region1": "Seminole",
+          "Region2": "FL",
+          "Region3": null,
+          "TownOrCity": "Lake Mary"
+        }
+      ]
+    }
+  ],
+  "limit": 499,
+  "links": [
+    {
+      "href": "https://eofe.fa.us2.oraclecloud.com:443/hcmRestApi/resources/11.13.18.05/recruitingCEJobRequisitionDetails",
+      "kind": "collection",
+      "name": "recruitingCEJobRequisitionDetails",
+      "rel": "self"
+    }
+  ],
+  "offset": 0
+}

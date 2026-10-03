@@ -1,0 +1,313 @@
+AutomWorx
+
+July 2, 2025
+
+4 min read
+
+Webinar: Replatforming to Automic
+
+Consulting, Migrations, WLA
+
+Are you considering a major upgrade or changing your Workload automation platform or tool? This free webinar helps you understand what you need to know about major Automic projects.
+
+I. Introduction to AutomWorx Services
+
+Demonstrates technical excellence and a Rising Star award in technical enablement and expert advantage consulting from Broadcom.
+
+Services Offered:
+
+Traditional consulting (implementations, upgrades)
+
+Help checks and environment optimization
+
+Training (basic to advanced) to ensure team skills and maximum application usage
+
+Extended support for technical issues beyond in-house capability or when extra help is needed.
+
+Disclaimer: Webinar discusses both CA Technologies and Broadcom Technologies; forward-looking statements are not a promise of future functionality.
+
+II. Introduction of Dennis Strenkowski
+
+Head of Development at AutomWorx and Workload Automation Subject Matter Expert.
+
+AutomWorx Team Strength:
+
+Everyone has 15 to 20+ years of experience with these products.
+
+Started with AppWorks and continued through the Automic merger.
+
+Maintain great relationships with customers.
+
+Unique strength: Knowledge of products and the majority of major solutions and integrations (Oracle eBusiness, J.D. Edwards, Ellucian Banner, Informatica, Oracle Retail, Oracle Utilities Customer Care and Billing, and many others).
+
+III. Replatforming Your Workload Automation with Automic
+
+What Replatforming Means:
+
+Upgrading to a newer version of current software.
+
+Switching between vendors or solutions (e.g., from AppWorks to Automic).
+
+Moving from on-premise to cloud or hybrid solutions.
+
+Why Replatform?
+
+End-of-life or unsupported versions.
+
+Lack of scalability and performance.
+
+High maintenance costs.
+
+Need for newer, modern features (cloud, REST APIs, DevOps support).
+
+Security vulnerabilities (upgrading/patching to latest versions, policy requirements for current versions).
+
+IV. Why Migrate to Automic?
+
+Automic offers great features and stays up-to-date with new implementations.
+
+Key Features:
+
+Supports multiple databases (Oracle, SQL Server, Postgres, DB2)
+
+Experience helping customers migrate databases to reduce costs.
+
+Supports the majority of OSes and hardware on the market.
+
+Multi-Client Technology:
+
+Single Automic environment can be broken into smaller, manageable clients (test, development, QA, training).
+
+Clients can be quickly duplicated for testing and then deleted.
+
+Advantage over products like AppWorks that typically need multiple masters for different environments.
+
+Advanced Analytics and Reporting:
+
+Allows creation of custom dashboards.
+
+Supports Broadcom’s AAI (Automation, Analytics, and Intelligence) for tracking/meeting SLAs and pre-SLA alerts.
+
+Provides a single view into multiple automation solutions
+
+Robust Active-Active and High Availability:
+
+More scalable for high workload demands.
+
+Capable of running hundreds of thousands to millions of jobs a day.
+
+OS Agents are Backwards Compatible:
+
+No need to upgrade all agents at once.
+
+Latest versions include Centralized Agent Upgrade (CAU) for pushing agent upgrades from the automation engine.
+
+Full Set of APIs:
+
+Full Java API (everything available in the application).
+
+REST API (quickly catching up to Java API).
+
+Call API for running Automic scripting within other programs (Java, C++, COBOL) and integrating with scripting languages (Windows Batch, Unix shell).
+
+Rapid Automation Agents:
+
+Extensive integrations (REST and SOAP web services, Oracle eBusiness, Peoplesoft, Hyperion, J.D. Edwards, Ellucian Banner, FTP, Informatica, and more).
+
+AutomWorx can build custom solutions for internal applications.
+
+V. Key Considerations When Moving to Automic
+
+Analysis of Current State:
+
+Inventory of all jobs, dependencies, schedules.
+
+Identify any customizations.
+
+Check current integrations (Oracle eBusiness, J.D. Edwards shop).
+
+Assess usage of current solution APIs (e.g., submitting jobs from scripts) for redesign.
+
+Review current system performance limitations and pain points to identify redesign opportunities for improvement in Automic.
+
+Building Your Team:
+
+Dedicated Project Manager (to keep project moving and clear roadblocks).
+
+Workload Automation Experts (SMEs for Automic).
+
+Access to Infrastructure Admins (server, network, database).
+
+Admins of integrated applications (Oracle eBusiness, J.D. Edwards, Informatica).
+
+Business Stakeholders.
+
+VI. V24 Considerations (Latest Version of Automic)
+
+Required Personnel: Infrastructure team and application admins.
+
+Big Change: UTF-8 support in the database.
+
+Requires database conversion before upgrade.
+
+Typically involves parallel upgrades, standing up a new V24 system while the current system remains intact.
+
+Migration to V24 (from another product) will take longer than an upgrade from Automic 21.
+
+Timing the Migration:
+
+Avoid periods of heavy new project development in Automic.
+
+Look for periods of minimal development activity.
+
+Consider the possibility and duration of a code freeze.
+
+Upgrade (V21 to V24): Weeks at most.
+
+Conversion from another platform: Months (e.g., 3 to 6 months depending on size).
+
+If no complete code freeze, track changes.
+
+Testing:
+
+More time involved for migration vs. upgrade.
+
+Start with individual job types (batch scripts, FTP, Informatica).
+
+Move to smaller workflows and processes, then more complex ones.
+
+Work with customer to create a game plan, breaking out jobs/workflows into groups that can be migrated together.
+
+Migrate frequent, low-complexity jobs first.
+
+Group related processes and do them in batches.
+
+Gauge Number of Agents and Clients:
+
+Used to build statement of work.
+
+Testing in lower environments helps gauge production timeline.
+
+VII. Data Migrations
+
+AutomWorx specializes in migrating to Automic.
+
+Proven experience and existing solutions; can build custom solutions if needed.
+
+Will share customer experiences and case studies.
+
+Conversion Process:
+
+Inventory of the Source System:
+
+Identify current environments (prod, non-prod, QA, dev).
+
+Discuss using production data to build non-prod environments to save time and synchronize environments.
+
+Determine operating system (Windows, Linux, AIX).
+
+Identify systems where jobs are scheduled.
+
+List current integrations (Oracle eBusiness, J.D. Edwards, Informatica).
+
+Assess DR setup (current or desired).
+
+Review customizations and API usage in current environment for redesign in Automic.
+
+Source System Cleanup:
+
+Clean up old or unused objects (often 40% or more are inactive).
+
+Reduces conversion time and effort.
+
+Starts Automic environment cleaner without old baggage.
+
+Environment Preparation:
+
+Ensure hardware, OS, and databases meet system requirements.
+
+Provide prerequisites for Java, Apache Tomcat, and other required software versions.
+
+Conduct a compatibility checklist.
+
+Source System Export File Creation:
+
+Export data from current system for conversion programs.
+
+Time export for periods of low development activity in current automation tool.
+
+Instructions provided for export and upload.
+
+Data checked for correctness and format upon receipt.
+
+Migration Test:
+
+Process data through conversion tool and evaluate results.
+
+Identify successful conversions and issues.
+
+Adjust conversion program or redesign in Automic.
+
+Typically 80% or more converts automatically; remaining 20% or less requires redesign.
+
+Issues often lead to improvements due to better features in Automic.
+
+Generate Import File and Test:
+
+Run exported data through conversion program to generate import file.
+
+Load into test environment and begin testing.
+
+Start with low-level testing of individual job types (shell scripts, FTPs, Informatica jobs).
+
+Test processes, identifying workflows that represent others.
+
+Repeat process for each environment; first one is the hardest, subsequent ones get easier.
+
+VIII. General Questions & Answers
+
+Question about Code Freeze: Average duration for code freeze?
+
+Upgrade (V21 to V24): Maybe weeks at most.
+
+Conversion from another platform: Months (3 to 6 months depending on size).
+
+If no complete code freeze, track changes.
+
+Does Automic support Banner SaaS (most importantly continuing to trigger Banner Jobs)?
+
+Do you use proprietary conversion tool ?
+
+Do we have support for table conversion jobs for JDE Agents now ?
+
+Does conversion happen in bulk or do client teams have to do it job by job or workflow by workflow ?
+
+Take Me To The Webinar
+
+Share
+
+Recent Posts
+
+September 30, 2026
+
+2 min read
+
+Automate With Intent: Why People and Partners Matter
+
+Read more >
+
+September 17, 2026
+
+3 min read
+
+Automic Automation V26: Turning Orchestration Into the Control Center for Enterprise AI
+
+Read more >
+
+September 15, 2026
+
+2 min read
+
+The Last Mile of an SAP Landscape
+
+Read more >

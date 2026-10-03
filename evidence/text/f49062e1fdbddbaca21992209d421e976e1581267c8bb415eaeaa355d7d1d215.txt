@@ -1,0 +1,205 @@
+How-to Guides, Postage and Mailing, Postal Optimization, USPS
+USPS Postal Terms Glossary and Acronyms
+123 | A | B | C | D |
+E | F | G | H | I |
+J | | K | L| M | | N | O | P | Q |
+R | S | T | U |
+V | W | X | Y | Z 
+Understanding postal terminology is essential for businesses that rely on high-volume print and mail services. With over 45 years of experience in print and mail outsourcing, we’ve created a postal terms glossary to simplify complex USPS mailing terms and help organizations manage their mailing operations effectively.
+This glossary covers key USPS postal terms. It explains common acronyms and mailing definitions. Topics include addressing guidelines, barcoding, postage rates, and automation standards.
+Need to understand bulk mail classifications? Looking for clarity on presort levels or Intelligent Mail® Barcode (IMb) usage? This postal terms glossary provides essential information. It will help you improve mailing efficiency and ensure compliance.
+By clearly explaining USPS mailing terms, we help businesses navigate postal regulations, reduce costs, and optimize mailing strategies. Stay informed with our glossary of mailing and postage terms. We ensure your mailings align with the latest postal standards and get our clients the lowest possible postage rates.
+123
+2DAD (2D document assembly) – Instructs the inserter on how to assemble the document. This includes how many pages there are, and where one document ends and a new one begins. Mail pieces are scanned on the front insert by a camera to define the number and sequence of pages. It also covers which specific inserts are to be used. (Alternative to Optical Machine Recognition – OMR)
+A
+Address Service Requested (ASR) – Mail is forwarded if possible or returned if forwarding is not possible. A separate notice with new address information is provided for forwarded pieces and the address-correction fee is charged.
+Months 1-12: The mailpiece is forwarded; no charge; a separate notice of the new address is provided.
+Months 13-18: The mailpiece is returned with the new address attached.
+After month 18 or if undeliverable, the mailpiece is returned with the reason for non-delivery attached.
+Automated Area Distribution Center (AADC) – A presort level in which all pieces in the bundle are addressed for delivery within the service area of the same automated distribution area. An area distribution center (ADC) uses multi-line optical character readers (MLOCRs), barcode sorters (BCSs), and other equipment designed for processing automation-compatible mail.
+Address Change Service (ACS) – An automated address correction process that provides participating mailers with a data file containing change-of-address and undeliverable-as-addressed information. ACS is used in conjunction with Ancillary Service endorsements, Change Service Requested and Address Service Requested. There are three types of Address Change Service (ACS).
+The first type is traditional ACS. The mailer adds an ACS participation code to the address block. Another type is OneCode ACS. The mailer requests ACS using an Intelligent Mail Barcode (IMb). Finally, there’s full-service ACS. This uses the IMb and is for mail that qualifies for full-service discounts.
+Electronic Service Requested is a specific endorsement. It’s only for mailpieces that use ACS.
+Address Management – The creation and maintenance of address lists. It provides policies and systems for the national address database, mailing list services, address correction services, forwarding, and other related services.
+AEC II Services – An enhancement to Address Element Correction that identifies and corrects non-matching addresses using the computer program Delivery Force Knowledge™. The addresses are submitted via AEC II to delivery units to resolve address elements or determine whether the addresses exist.
+Ancillary Service Endorsements – Ancillary Endorsements provide the USPS instructions on how to handle forwarded and undeliverable-as-addressed pieces. They are the same across all mail classes, but the treatment and cost differ by class. Use of an ancillary endorsement on a mail piece obligates you to pay USPS any applicable charges for forwarding, return, and separate address notification charges.
+ANK-Link – ANKLink is an enhancement to NCOALink software. It lets licensed users get 30 months of limited change-of-address data. This is in addition to the 18 months of full data from NCOALink software.
+ANKLink software doesn’t return the new address. Instead, it indicates customer moves that happened between months 19 and 48. It also provides the effective date of the move. The initials ANK stand for “Address Not Known.”
+Aspect Ratio – The dimension of a mailpiece is expressed as a ratio of length (the direction parallel to the address) divided by height.
+Attention Line – A separate address line that is the name of a person or a department placed above the recipient line, which is usually the name of a company or organization
+Automated Business Mail Processing System (ABMPS) – A system that translates the address on a customer’s Business Reply Mail piece into a barcode consisting of a series of small vertical bars printed in the lower right corner of the mailpiece. The system enables identification and sorting by high-speed automated equipment.
+Application – A system developed for a specific client to process client data for print, mail and/or electronic delivery.
+Application Process Questionnaire (APQ) – An online form that is used to define requirements for a new application in Workfront.
+Application Programming Interface (API) – A hosted web service used to find and retrieve PDF images located in a secure and searchable database.
+American Standard Code for Information Exchange (ASCII) – A data format that is used for PCs (except for UNIX) and networks.
+B
+Bad and Foreign Address (BAFN/BFN) – Mail that either does not meet CASS standards (cannot be CASS certified), has an incomplete or incorrect address, or is going to a foreign country.
+BIT – The smallest possible unit of information that can be transmitted using the binary numbers of 0 or 1, commonly called ones and zeroes or two-state signals.
+Buck Slip – This is a paper about the size of a dollar bill. It can be placed in a mail piece or used as a routing slip for internal business communication.
+Bulk Business Mail – This is mail that qualifies for reduced postage rates. It must meet standards for volume and preparation before entering USPS facilities.
+Bulk Mail – This class of mail is sent at a reduced postage rate, but each item must be identical. Also referred to as advertising mail.
+Bull’s Eye – A postmark placed squarely in the middle of a postage stamp that shows the mailing date and location.
+Business Reply Mail (BRM) – This is a pre-addressed reply postcard, envelope, or carton that can be mailed free by the recipient. The recipient pays the standard mailing charges for each piece of mail delivered. The sender pays only the postage for returned mail pieces.
+Byte – 8 bits.
+C
+CD – A Compact Disc (CD) is a means of archiving or storing data for our customers.
+CPI – Characters Per Inch.
+Certified Mail – Certified Mail is a USPS service that provides the sender with proof of mailing and confirmation of delivery. This is achieved through a mailing receipt and a record of delivery kept by the USPS. This often requires the recipient’s signature. It offers a way to track important documents and verify their delivery.
+Change Service Requested (CSR) – This is an Ancillary Service endorsement printed on mail by the sender that directs the USPS to handle undeliverable-as-addressed mail according to the option selected by the sender. Ex: the mail is discarded, or the mail is forwarded if a change-of-address order is on file.
+COBOL – Common Business-Oriented Language, the standard computer language in which our application programs are written.
+Coding Accuracy Support System (CASS) – A program by the USPS that evaluates the accuracy of address-matching software programs using specific criteria that will standardize the address for postal discounts.
+Classes of Mail – There are several classes of USPS mail, including First-class, Priority, USPS Marketing Mail, Media Mail, EDDM and Package Services.
+Customized MarketingMail Pieces (CMM) – This abbreviation on mail labels identifies the piece as a MarketingMail piece.
+Co-Bundling – This is an alternative mail preparation method for First-Class mail. This allows the combining of flat-size automation and Presorted price pieces within the same bundle under the single minimum bundle size requirement.
+Co-mingle – Mail that is presorted at a third-party vendor (Pitney Bowes Presort Services, PBPS)
+Computer Operations (CO) – Where a client’s incoming data files are processed into a usable output for printing and mailing or internet/archival.
+Count – The number of images/pages/mailpieces in a job. Customer counts and counts within each department must match.
+CPU – Central Processing Unit – the actual computer processor of a PC.
+Corrective Action Report (CAR) – A web-based, detailed report accessible in QSO. Client Services and the production department usually initiate it due to an error or issue that includes the error/issue description, cause of the error/issue and process improvement/corrective action.
+Customer Code – The unique code consisting of three initials, established by the Accounting Department for each customer. This code is used for processing, printing and mailing all jobs, and for establishing inventory codes.
+Coding Accuracy Support Systems (CASS) – A certification process offered to mailers, service bureaus, and software vendors that standardizes addresses in address lists. It is used to improve the accuracy of matching each standardized address to the proper delivery point code, ZIP+4 code, 5-digit ZIP Code, and carrier route code.
+Coil/Coil Stamp – A coil is a roll of postage stamps that is one stamp wide. They are usually produced in quantities of 50, 100, 3,000, or 10,000. They are produced in a long single row with a straight edge on parallel sides and perforations on the two other sides. This format allows the mechanical application of adhesive stamps to high-volume mailings and the quick dispensing of stamps from vending machines.
+COD (Collect on Delivery) – This is a special service for mailers who need to ship items for which payment has not been received. The amount due is collected by either cash or by a personal check. The USPS returns the amount due to the mailer. This is an additional fee for mailers.
+Color Letter Scan Camera – This is a device on the Advanced Facer Canceler System (AFCS 200) used for image lift, indicia detection, facing, barcode reading (Intelligent Mail barcode, POSTNET barcode), and pre-ID tag detection.
+Combined Mailing – A mailing in which individually addressed mail pieces of the same mail class and generally of the same price category are merged and sorted together, usually using two or more postage payment methods. A combined mailing can also consist of nonidentical-weight permit-imprint mail pieces or pieces with different postage amounts affixed and used, mostly with periodicals mailed in bundles.
+Commercial Base Price – A price lower than the retail price that requires purchase through a channel other than retail. Specifically, a discounted price schedule for First-Class Mail parcels, Priority Mail Express service, and Priority Mail service that is lower than retail prices for customers using a specified means to pay postage, such as Click-N-Ship service, PC Postage, and Information-Based Indicia postage meters.
+Commercial Mail – This is a special term for the types of mailing products used by business mailers that require pre-handling of mail pieces such as barcoding and presorting, to qualify for lower postage rates.
+Commercial Mail Plus Price (CPP) – A discounted pricing schedule for First-Class Mail parcels, Priority Mail Express service, and Priority Mail service that is lower than retail prices and Commercial Base prices for customers shipping a required annual minimum number of pieces and using a specified means to pay postage such as Click-N-Ship service, PC Postage, and Information-Based Indicia postage meters.
+Cutoff Time – This is the latest time of day that mail can be accepted for processing; it is the last time a carrier makes the final withdrawal of mail from the distribution center before leaving for a route.
+D
+Dead Mail – Dead mail must meet 3 criteria: it is undeliverable as addressed, there is no forwarding address, and it cannot be returned to the sender (usually because there is no return address on the piece or the mail’s classification does not entitle it to return service).
+Delivery Confirmation – An add-on mailing service that provides information about the date and time an article was delivered or, if delivery was attempted but not successful, the date and time of the delivery attempt. USPS Tracking is included with all Priority Mail services, and Standard Post is available only at the time of mailing. Electronic notifications are available too.
+Delivery Point Barcode (DPBC) – A general term for a POSTNET barcode that contains the nine digits of the ZIP+4 code plus two digits. These are generally the last two digits of the primary street address number. The DPBC allows automated sorting of letter mail to the carrier. *Not used for an Intelligent Mail Barcode containing a delivery point code.
+Delivery Point Code – In mail processing and address management, the finest depth of code to which a mail piece can be sorted by its address. It is usually the 11–digit numeric code formed from the ZIP+4 code and the last two digits of the primary street address number (or Post Office Box, etc.) and represented by the delivery point barcode. The DPC can also be a firm (unique) 5-digit ZIP Code or an individual (unique) ZIP+4 code.
+Delivery Point Sequence – The arrangement of mail into delivery order by using the delivery point code and other data elements. An automated process of sorting mail by carrier routes into delivery orders, which eliminates the need for carriers to sort the mail manually in the delivery unit before their departure to the routes.
+Descender – In Intelligent Mail barcode terminology, it is the bar that covers two of the three possible regions (from bottom to top): the descending (bottom) region and tracking (middle) region. It does not cover the ascending (top) region.
+Destination Network Distribution Center (DNDC) – The network distribution center (NDC) or other postal facility designated as an NDC, such as an auxiliary service facility (ASF), where a mailer enters mail directly.
+Destination Sectional Center Facility (DSCF) – The sectional center facility (SCF) or other postal facility designated as an SCF where a mailer enters mail directly. DSCF is presorted letters mailed for local delivery at a Post Office that has neither city delivery nor collection and delivery by a rural carrier or highway contract route carrier. The addressees pick up letters.
+Digital Mailing Checklist – An electronic checklist in QSO that provides the mailing instructions for each mail piece, such as the envelope, inserts, mail disposition, etc.
+Digital Print Services (DPS) – the department that prints all documents.
+Direct Mail – another name for direct-response advertising mail sent to targeted markets. Direct mail can be any mail class or product, but is usually prepared as Standard Mail pieces. Direct mail can be the primary advertising channel for a business, or it can supplement and enhance other forms of advertising and sales activities.
+Double Card – A stamped card or postcard that consists of two attached cards mailed out as a single unit, of which one card is designed to be detached by the recipient and returned by mail as a single card.
+Drop Letter – A letter mailed for local delivery at a Post Office that has neither city delivery nor collection and delivery by a rural carrier or highway contract route carrier. Letters are picked up by the addressees.
+DJDE – Dynamic Job Descriptor Entries – print control characters embedded in formatted data for printing.
+DNS – DNS stands for Domain Name Server.
+DP – Data Processing.
+DPI – Dots Per Inch.
+DSN – Data Set Name.
+E
+Electronic Address Sequencing (EAS) – This USPS mailing option allows mailers to submit address lists in electronic format rather than on address cards. The USPS then arranges the submitted addresses into a carrier’s route, with additional services such as inserting missing addresses or new addresses. The submitted address lists must contain at least 90 percent and at most 110 percent of the total possible deliveries for a 5-digit ZIP Code.
+Electronic Mail Improvement Reporting (Emir) – An online tool designed for reporting irregularities in the mail that is prepared and presented to the USPS (ex, unreadable barcodes and bundles that fall apart). Mailers benefit from online access to report information, ready access to digital images of problem mail pieces, and feedback to improve the quality of future mailings.
+Electronic Postmark (EPM) – An EPM is an auditable time-and-date stamp service offered by authorized service providers under license from the USPS. The EPM can verify the authenticity of an electronically sent document or file, providing trusted proof of content and a specific point in time.
+Electronic Service Option – One of the two service options available for USPS Tracking service and Signature Confirmation service, in which the mailer applies identifying barcodes to each piece, submits an electronic file, and retrieves delivery status information electronically.
+Electronic Service Requested – A printed Ancillary Service endorsement available for mailers participating in Address Change Service (ACS) directs USPS to handle undeliverable-as-addressed mail as defined in the mailer’s profile or Intelligent Mail barcode (IMb). Endorsed mail pieces must be capable of Postal Automated Redirection System (PARS) or Computerized Forwarding System (CFS) processing.
+Endorsement – An endorsement is an authorized marking on a piece of mail that shows its delivery instructions; it can also indicate a special service, or request an addressed correction service, such as forwarding or return
+Every-Door-Direct-Mail – A simplified service designed for local businesses like auto dealers, banks, hardware stores, restaurants, real estate, and grocery stores to send geographically targeted advertising mail to every household or business on a postal delivery route. It uses a simplified address, such as “Postal Customer,” in place of a complete delivery address.
+Extra Service (Certified Mail, COD, Confirmation, Tracking, FAST) – A designation for an Ancillary Service that generally provides a specific additional service when applied to a mail class or product. Extra Services include Certified Mail, Collect on Delivery (COD), Confirm, USPS Tracking, Insured Mail, Registered Mail, Restricted Delivery, Return Receipt, Return Receipt for Merchandise, Signature Confirmation, and Special Handling. Not all Ancillary Services, which are part of the broader designation, Special Services, are considered Extra Services.
+F
+Facing Slip – This is a paper label attached to the top of a bundle that shows where the mail is to be distributed, the class and type of mail and for international and overseas mail, the country or military Post Office.
+FASTforward – A Move Update option by which presorting houses identifies changes of address and prints them and the new IMB on the envelope while sorting the mail. his is not a USPS-sanctioned Move Update option.
+File Segments – Output files based on the number of pages per envelope, bad addresses and/or foreign addresses, and mailing disposition (ie, FedEx).
+First Class Mail – This is a mail class that includes all pieces related to writing, personal correspondence, bills, statements, account notices, and other sealed or legally unopenable items for privacy reasons. t covers size products: single-piece letters or postcards, presorted letters and postcards, flats (single-piece presorted and automation prices, parcels, and outbound single-piece international.
+Flats – This is a flat-size mail piece. he modifier “f” ats” “s preferred to “f” at” “o distinguish the use of an item intended for flat-size mail from the physical attribute of horizontal evenness or smoothness of an item (e.g., flats case (a case for sorting flat-size mail) vs. flat case (a case that is level or compact).
+Folded Self Mailer – This is a mail piece without an envelope, made from a single sheet, no matter how many times it is folded down to letter-size, or from multiple sheets combined and not formed together into a spine.
+Font – The style and type of characters printed.
+Forwarding Service Requested – An ancillary service endorsement printed on mail by the sender that directs USPS to forward undeliverable-as-addressed mail. f no change-of-delivery address order is on file or the forwarding period has expired, the piece is returned to the sender with the reason for the non-delivery attached. ees vary by the class of mail.
+Full-Service Intelligent Mail – One of two Intelligent Mail offerings that require a maximum 31-digit Intelligent Mail barcode comprising five fields, including the Barcode ID, Service Type Identifier, Mailer ID, Serial Number, and Routing Code. his option requires unique mailpiece barcodes, Intelligent Mail barcodes on tray labels or container placards, electronic documentation, and Facility Access and Shipment Tracking to schedule appointments for the entry of mailings.
+G
+GUI – GUI stands for Graphical User Interface; it relates to how you interact with a computer.
+H
+HTML – HyperText Markup Language. is the standard markup language for creating web pages and web applications.
+HTTP – HyperText Transfer Protocol. I is the underlying protocol used by the World Wide Web. I defines how messages are formatted and transmitted, and what actions Web servers and browsers should take in response to various commands.
+Hybrid Mail – Hybrid mail is mail created from digital data that is electronically transmitted to distributed print sites, then transformed into physical form, then entered at a postal facility for delivery.
+I
+Identification Code Sorting (ICS) – A system that records and tracks the fluorescent ID tags applied by mail processing equipment on automation-compatible letter mail. D ta components of this tag provide information, including the location where the mail piece was introduced into the automated flow and the address assigned to the mail piece through address directory lookup.
+Image – Print applied to one side of a sheet by printers.
+Indicia – An imprint on a mail piece that signifies the postage has been prepaid. A postal Indicia replaces a stamp or postage meter imprint and is generally printed directly on the piece to be mailed.
+Input Data – The data received from the customer, which runs through a client application, is converted into the correct format for printing.
+Inkjet Printing – Inkjet printing is a digital printing technology where tiny droplets of ink are propelled from nozzles in a printhead directly onto a substrate, such as paper. T e printhead moves back and forth across the substrate, and the nozzles fire ink droplets in a precise pattern to create the desired text or image. D fferent ink colors are combined to produce a wide spectrum of hues.
+Inkjetting – Applying text directly to an envelope, such as a return address, a tagline or a variable mailing address on a closed-face envelope.
+Insert – Any separate piece of material inserted into an envelope with the address-bearing document.
+Institutional Costs – Postal costs that cannot be directly or indirectly assigned to any mail class or product. T ey can be considered common costs or overhead costs needed for overall operations.
+Integrated Barcode – A standard parcel barcode (symbology GS1–128) that combines two or more services into one barcode, eliminating the need to print separate barcodes for each service requested.
+Intelligent Mail (Barcode) – Using the Intelligent Mail system, mailers and USPS gain end-to-end visibility into the mailstream through the suite of Intelligent Mail barcodes and by submitting electronic documentation, which creates actionable information about mail for marketing, financial, and operational environments. A 31-character, four-state USPS-developed barcode consisting of 65 vertical bars that are used to sort and track letters, cards, and flats on automated equipment. T e 65 bars represent one of four possible states: full bar, ascender, tracker, and descender. T ese 65 bars encode a string of 31 digits, divided into two parts: a 20–digit tracking code and an 11-digit routing code (when required). T e 11-digit routing code may contain a ZIP Code, a ZIP+4 code, or a delivery point code, unless required to include a specific level of code in specific applications.
+Internal Piece Tracking (IPT) – An internal tracking and reporting system for every mail piece processed for a client.
+J
+Joint Mailing – A type of mailing that combines two or more complete mail pieces from two or more companies. T is includes outer envelopes, into a common envelope, as a way to share postage and lists rental costs. T e use of complete mail pieces inside a common envelope tends to make joint mailing more expensive than cooperative mailing.
+K
+L
+LAN – Local Area Network – It is a group of computers and associated devices that share a common communications line or wireless link to a server within a building or office.
+LACS Link – An Address Management Service that provides mailers with an automated method of obtaining new addresses when rural-style addresses are converted to street-style addresses.
+Lockbox – A service by which a bank processes a compcompany’sments from a post office box and deposits them directly into the compcompany’sk account.
+Lockbox Address – The address on the remittance stub where customers send a payment for a bill.
+M
+Mailer Identification (MID) – A unique number assigned to a client and used to track mail throughout the mailing process. I cluded in the IMB.
+Mailing List Service – A general term for certain Address Management Services offered for a fee to correct name and address lists, correct occupant lists, and sort mailing lists by 5-digit ZIP Code (available only for multi-ZIP Code Post Offices). T e services are available for mailing lists submitted by members of Congress, federal agencies, departments of state government, municipalities, religious, fraternal, and recognized charitable organizations, and concerns or persons soliciting business by mail.
+Mailer Scorecard – The Mailer Scorecard features a dashboard, an at-a-glance view of the results of a mailmailer’ster, a flat mailing activity over a month. T is data is available to both the mailer who submitted the electronic documentation and the mail owner and preparer.
+MailstreamPlus – Software that presorts mail to optimize postal rate qualifications.
+Manifest Mailing – The automated system used for mail pieces with the same dimensional size, with variable weight, and an indicia. T e software creates a detailed manifest of each piece of mail based on the envelope, the paperweight, and the inserts. T mail is presorted into one of two levels: 5 zip or mixed AADC. Ea envelope is tagged with a key line that defines its sortation level, class, weight and postage. Man est mail is delivered directly to the USPS.
+Media Mail – Media mail is a package service offered by USPS that includes books, sheet music, printed educational materials, film, sound recordings, and other media such as CDs and tapes. Medi mail prices are based on the weight of the piece, regardless of shipping zone.
+Metered – Prepaid postage applied to a mail piece.
+Metered Mail – Any mail class or product (except Periodicals and Bound Printed Matter) with postage printed with a USPS-approved postage meter or PC Postage product/system. This mail is entitled to all privileges and is subject to all conditions that apply to the various mail classes and products.
+MICR – Magnetic Ink Character Recognition – A technology used to verify the legitimacy or originality of paper documents, especially checks. Spec al ink, which is sensitive to magnetic fields.
+Micro Number – Small, tracking number printed on each statement above the address block used to verify and complete printing and inserting of all files.
+Move Update National Change of Address (NCOA) – A postal software program that contains the change-of-address (COA) records filed with the USPS for the previous 48 months, aiding mailers to identify address changes before mail is sent. To r NCOA on a client, the file must contain at least 100 records.
+Move Update – Move Update is a United States Postal Service (USPS) standard designed to reduce undeliverable-as-addressed (UAA) mail by requiring mailers to update their address lists with customer-filed Change of Address (COA) orders. This atching process minimizes the number of mailpieces that need to be forwarded or returned, which is a requirement for presorted First-Class Mail and all Standard Mail services. Maile s can comply with Move Update through approved methods like Address Change Service (ACS), National Change of Address Linkage System (NCOALink), and specific Ancillary Service endorsements (excluding “Forwarding “ervice Requested”).
+N
+Na “ional Change of Address Linkage (NCOA Link) – A secure dataset containing millions of permanent change-of-address (COA) records consisting of the names and addresses of individuals, families, and businesses who have filed a COA. The p oduct enables mailers who have purchased a license to process mailing lists and update them with new addresses before using them for a mailing. The o ficial product name is NCOALink.
+NDC Presort – A presort discount level in which all pieces in the bundle or container are addressed for delivery within the service area of the same network distribution center (NDC) or auxiliary service facility (ASF). Piece are sorted to NDCs if machinable or to NDCs or ASFs if nonmachinable and entered at a facility (other than an NDC or ASF) that accepts bulk mail.
+Negotiated Services Agreement (NSA) – A special agreement between the USPS and a mailer. It pr vides customized prices and special classifications and must meet and maintain certain volumes and other terms and conditions laid out in a signed agreement.
+NOOP – Non-Printable Image. It co ains the instructions DPS uses to set up a job. Someti s the instructions may appear in red on the PDF sample, but they do not print.
+O
+One Code ACS – An Address Change Service (ACS) that combines into a single Intelligent Mail barcode all elements separately printed on mail that are necessary under the Traditional ACS program. Partici ants using OneCode ACS receive electronic or automated address corrections.
+Optical Machine Recognition Barcodes (OMR) – Lines on a document that instructs inserting machines to determine how mail piece(s) are to be put together, including collation, page sequence, set sequence, and selective inserts.
+P
+PDF Archive (PDFA) – A PDF version of printed or print-suppressed images available over the web or offline in compressed, encrypted, password-protected CD-ROM and DVD formats
+PDF E-Statement (PDFE) – An electronic PDF statement hosted for the client.
+PDF Transfer (PDFT) – When a PDF is transmitted back to the client and archived.
+Performance-Based Verification – A process that uses experience-based mailer profiles to determine the frequency and sample size for verifying the preparation and eligibility of a mailer’s mailing.
+Permit Imprint – Printed indicia, instead of an adhesive postage stamp or meter stamp, that shows postage prepayment by an authorized mailer.
+Polystyrene – A smooth, semi-transparent film used in the window of an envelope.
+Postal Alpha Numeric Encoding Technique (PLANET) – An 11- or 13-digit barcode used in combination with the POSTNET barcode to identify mail pieces uniquely. Like th POSTNET barcode, it is a type of height-modulated two-state barcode, consisting of tall and short bars. The PLA ET Code digit symbology is the inverse of the POSTNET Code digit symbology. The PLA ET Code uses a combination of two short bars and three tall bars to define a digit, whereas the POSTNET Code uses three short bars and two tall bars. The PLA ET Code identifies the mail piece class and shape, confirms the subscriber ID, and, if selected by the Confirm subscriber, provides additional information. The Int lligent Mail barcode is replacing the PLANET Code and POSTNET Code barcodes.
+Post Mark – A postal imprint made on letters, flats, and parcels that shows the name of the Post Office that accepts custody of the mail, along with the two-letter state abbreviation and ZIP Code of the Post Office, and for some types of mail, the date of mailing, and the time abbreviation a.m. or p.m. The pos mark is generally applied, either by machine or by hand, with cancellation or killer bars to indicate that the postage cannot be reused.
+Presort Discounts – The process by which a mailer prepares mail so that it is sorted to the finest extent required by the standards for the price claimed. General y, presort is performed sequentially, from the lowest (finest) level (e.g., 5-digit) to the highest level (e.g., mixed ADC), to those destinations specified by standard mail, and is generally completed at each level before the next level is prepared. Not all presort levels apply to all mailings. For som automation price categories, all levels may be optional. (2) To repare mail by presorting levels to qualify for specific prices. A price specific marking combined with the required basic class or product marking, and, in some cases, with another price-specific marking, to indicate eligibility for a presorted category. The mar ing can also be abbreviated PRSRT.
+Project Coordinator (PC) – The person assigned to be the liaison between the developers and the AR to assist with any development or programming issues.
+Priority Mail – Expedited service for shipping any mailable matter, subject to certain standards such as size and weight limits. Unless riority Mail Express service is used, Priority Mail prices are required for a mail piece that weighs more than 13 ounces when the mailpiece contains matter that must be mailed at First-Class Mail prices. Priorit Mail service is closed to postal inspection. Except or Flat Rate Envelopes, Flat Rate Boxes, Critical Mail, and Commercial Plus Cubic, Priority Mail postage is charged for each addressed piece according to weight (up to 70 pounds), zone, and, in some cases, dimensions.
+Promotion – When an application is ready to go into the production environment (CO, DPS, Mailing/CI, Archival Services, eStatement Services). There a two types of Promotions:
+*Development Promotion – when the job is promoted by the development team
+*Production Promotion Testing – When a project is ready to test via a test work order created by the AR, before putting the job into live production
+Proof of Mail (POM) – Provides evidence that mail has been presented to USPS for mailing.
+Pull(s) – Any document(s) that cannot be mailed because of a client request, a BAFN file segment, or an entire output file, and requires special disposition.
+Q
+R
+Reprint – A document that was torn or destroyed during the printing or mailing production process, or damaged and returned by PBPS/USPS, that is reprinted by QA and mailed.
+Registered Mail –A Special Service by which, through a system of receipts, USPS monitors the movement of the mail piece from the point of acceptance to delivery. The send r receives a receipt at the time of mailing, and a delivery record is kept at the Post Office of the address. This ser ice also provides indemnity in case of loss or damage. Register d Mail is the most secure service offered by USPS. Register d Mail is also available for international mail service.
+Remittance Mail – Remittance mail is a segment of First-Class Mail containing payments, typically enclosed in pre-barcoded, automation-compatible courtesy reply envelopes, and mailed back to the mailers who originally sent the bill, invoice, or statement.
+Reply Mail – Any type of mail product designed for the recipient to send back to the sender using a pre-addressed envelope or pre-addressed label. The retu n piece could be merchandise, a remittance, a questionnaire, or another form of communication. Some rep y mail, such as Business Reply Mail service, is paid for by the sender.
+Return Receipt – This additional service on a mail piece provides the sender with evidence of delivery, including the recipient’s signatrecipient’sand address. It can b physical or digital.
+S
+Service Level Agreement (SLA) – An agreement between a service provider and the client that defines the parameters of a job, including the quality and delivery by specifications.
+Service Type Indicator (STID) – 3 digits that identify the class of mail, the Address Change Service (ACS) desired and whether or not confirm service is requested and is embedded in the Intelligent Mail Barcode (IMB).
+Signature Confirmation – A Special Service that provides information about the date and time an article was delivered or, if delivery was attempted but not successful, the date and time of the delivery attempt. A delive y record, including the recipient’s signatrecipient’sntained by USPS and is available (via fax or mail) upon request.
+Single-Sign-On (SSO) – For our clients’ customersclients’enticate on their website, then link to a third-party hosted interface, which retrieves and presents images of their requested documents from a searchable database.
+Standard Mail – A mail class consisting of mailings that are not required to be mailed using First-Class Mail or Periodicals service. A Standa d Mail piece must weigh less than 16 ounces. Standard mail has six categories:
+Letters
+Flats
+Parcels and not flat-machinables (NFMs)
+High-density and saturation letters
+High-density and saturation flats and parcels
+Carrier route letters, flats, and parcels.
+Standard Mail matter includes circulars, printed matter, pamphlets, catalogs, newsletters, direct mail, and merchandise. Standard Mail letters may be sent at presorted prices and automation prices. Standard Mail service is a market-dominant product.
+Statement Of Work (SOW) – A formal document that defines the work activities, deliverables and timeline an outsourcing company must execute in the performance of specified work for each client. Signed b the president and client.
+Stock Order Detail (SOD) – A form that details what stock is required for an application with set minimums to be stored and when a reorder needs to be placed.
+Surface Mail – A general term to describe international mail that is transported by any mode other than air (that is, sea, rail, or highway).
+T
+Tabber – A machine that applies paper or plastic tabs to seal the ends of open-ended mail pieces such as booklets or folded self-mailers (pieces that are not in envelopes).
+U
+Undeliverable-As-Addressed – Mail that cannot be delivered as addressed and must be forwarded to the addressee, returned to the sender, or treated as waste. UAA mail an occur for several reasons, such as an incomplete or incorrect address, or because the addressee is not at that address because they have moved or are deceased. Mail can lso become UAA due to address changes, such as the renumbering of houses, renaming of streets, or conversion from rural route and box-number-style addresses to city-style street addresses.
+Undeliverable Mail – Mail that cannot be delivered for various reasons. It includ s not only undeliverable-as-addressed mail but also mail without postage, mail with an incomplete, illegible, or incorrect address, unclaimed or refused mail, mail not meeting minimum mailability criteria, mail exceeding maximum dimensions or weights, or mail not conforming to USPS address adjustments and conversions.
+Unique Piece Tracking (UPT) – A service enhancement that tracks and reports specific product information on every mail piece processed, viewable by a client.
+V
+Value-Added Refund – The postage returned by USPS to an authorized mailer or service provider who prepares metered First-Class Mail or Standard Mail pieces received from customers and adds value to the mail by sorting it to a finer level or moving it to an automation category. The maile or service provider receives a refund for postage affixed to the mail more than the price applicable to the value-added category.
+W
+Work Order – Generated when a file is processed under an application and associated with a job from start to finish.
+X
+Y

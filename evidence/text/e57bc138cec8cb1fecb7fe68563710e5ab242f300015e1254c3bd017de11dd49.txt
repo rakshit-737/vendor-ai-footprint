@@ -1,0 +1,15 @@
+Compensation
+Incentive compensation management for wealth management firms
+Automate incentive compensation management processes for efficiency, accuracy, and visibility. Our compensation and commission accounting tools are flexible and configurable and simplifies advisor comp planning and administration. Tracking, calculating, and paying commissions is easy regardless of the uniqueness or complexity of a firm’s compensation program.
+Track all revenue sources
+Our technology platform supports a wide variety of revenue data sources whether brokerage or off platform direct business including, but not limited to, National Financial, Pershing, LPL, Raymond James, Thomson BETA, First Clearing, DTCC/NSCC, DAZL, and DST. This diverse range of financial data is aggregated into our proprietary data structure. This structure is designed to keep track of critical information, such as: capped and uncapped commissions, source of funds, referral information, and branch credit. Also, storing trail and fee revenue at the customer account level allows for quick reallocation during territory reassignment.
+Benefits
+- Daily trade blotter for advisors
+- Support for multiple and unique hierarchies
+- Numerous grid configurations including flat, rolling 12, year-to-date, and retroactive
+- Configurable rules for splits, tiers, overrides, trailers, and ticket charges
+- Options for pre and post grid adjustments as well as bulk adjustments
+- General ledger integration and payroll reporting
+Intuitive and configurable
+With intuitive interfaces, staff can configure compensation plans and rules that fit their firm’s unique needs. In addition, staff can edit customer and trade information to correct errors that might have occurred at the carrier or clearing firm. Automated data aggregation of all sources of revenue into one central database increases the accuracy of the data and reduces the amount of back office labor required to process the revenue.
+Robust reporting features are available for reps and management alike. Advisors have access to a dashboard and trade blotter with up-to-date sales numbers and can view pending trades. Management can see current and historical figures and can preview payroll numbers throughout the month.

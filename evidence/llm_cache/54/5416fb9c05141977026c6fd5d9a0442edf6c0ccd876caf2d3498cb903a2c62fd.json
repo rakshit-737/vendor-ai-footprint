@@ -1,0 +1,212 @@
+{
+ "key": "5416fb9c05141977026c6fd5d9a0442edf6c0ccd876caf2d3498cb903a2c62fd",
+ "model": "gemini-3.5-flash-lite",
+ "payload_sha256": "1080502c48c89ea9167b2ee52c265a2a041e7e812cb833cc5820d9ffbd16243e",
+ "prompt_sha256": "065bd458ace52ff274c72967cfe1b90c794a1ec8d3a3696ec78d7d8cf636df94",
+ "response": {
+  "claims": [
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "not_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M4",
+      "span": "workload automation"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P1",
+    "quote": "One unifying standard. One AI platform. One expert bench with twenty years inside every major workload automation environment in the enterprise market.",
+    "subject": "vendor_product",
+    "temporal": "unclear"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "extend recall, surface relevant runbooks, and reduce bus-factor risk"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P2",
+    "quote": "Experts use AI to extend recall, surface relevant runbooks, and reduce bus-factor risk.",
+    "subject": "vendor_operations",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "powers Labarum AI engagements"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P4",
+    "quote": "NEO is the customer-side AI platform that powers Labarum AI engagements.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "ai_governance",
+    "data_mentioned": [
+     "confidential workload metadata",
+     "schedule definitions",
+     "operational context"
+    ],
+    "indicators": [
+     {
+      "code": "G3",
+      "span": "keeps confidential workload metadata, schedule definitions, and operational context inside the customer boundary"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P4",
+    "quote": "On customer infrastructure or in air-gapped Labarum AI environments, NEO keeps confidential workload metadata, schedule definitions, and operational context inside the customer boundary.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "extend recall, surface relevant runbooks, and reduce bus-factor risk"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P5",
+    "quote": "Experts use AI to extend recall, surface relevant runbooks, and reduce bus-factor risk.",
+    "subject": "vendor_operations",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "industry_commentary",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G1",
+      "span": "Google Cloud"
+     },
+     {
+      "code": "M3",
+      "span": "The session, “The Human Advantage: Trusted Orchestration for AI Amplification, Not Replacement,” was hosted by Automation by Broadcom and Google Cloud."
+     }
+    ],
+    "named_providers": [
+     "Google Cloud"
+    ],
+    "passage_id": "P6",
+    "quote": "The session, “The Human Advantage: Trusted Orchestration for AI Amplification, Not Replacement,” was hosted by Automation by Broadcom and Google Cloud.",
+    "subject": "other_or_industry",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "industry_commentary",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M3",
+      "span": "She put the share of AI initiatives that stop, pause or get cancelled at proof of concept somewhere between 74 and 88 percent, and called it perpetual POC purgatory."
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P6",
+    "quote": "She put the share of AI initiatives that stop, pause or get cancelled at proof of concept somewhere between 74 and 88 percent, and called it perpetual POC purgatory.",
+    "subject": "other_or_industry",
+    "temporal": "unclear"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "industry_commentary",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M3",
+      "span": "Using AI tools to speed up individual tasks has its place, but she sees the real return in redesigning the work"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P7",
+    "quote": "Using AI tools to speed up individual tasks has its place, but she sees the real return in redesigning the work: taking a function apart, looking at its tasks and how it runs today, improving the process, and then deciding where automation, agents or AI fit.",
+    "subject": "other_or_industry",
+    "temporal": "unclear"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "industry_commentary",
+    "data_mentioned": [
+     "it"
+    ],
+    "indicators": [
+     {
+      "code": "M3",
+      "span": "her advice was to classify it early, so you know what’s sensitive, where it flows and who has access, and to remember that governance looks different for applied, generative and agentic AI."
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P8",
+    "quote": "On the data side, her advice was to classify it early, so you know what’s sensitive, where it flows and who has access, and to remember that governance looks different for applied, generative and agentic AI.",
+    "subject": "other_or_industry",
+    "temporal": "unclear"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "generic_ai_marketing",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M6",
+      "span": "Let AI, automation and agents carry the execution"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P9",
+    "quote": "Let AI, automation and agents carry the execution, and keep the thinking, the judgment and the relationships with people.",
+    "subject": "vendor_product",
+    "temporal": "unclear"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "generic_ai_marketing",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M1",
+      "span": "AI-enabled"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P10",
+    "quote": "AutomWorx specializes in Automic workload automation, orchestration, and AI-enabled infrastructure modernization consulting.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   }
+  ]
+ },
+ "role": "extract",
+ "schema_sha256": "f1cd07fdb8e496624608717927261043432a3bd93d84723a126b7c7d951d68df",
+ "seed": 1234
+}

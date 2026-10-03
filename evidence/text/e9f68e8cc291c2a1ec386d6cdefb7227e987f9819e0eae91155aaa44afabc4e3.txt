@@ -1,0 +1,130 @@
+{
+  "count": 1,
+  "hasMore": false,
+  "items": [
+    {
+      "ApplyWhenNotPostedFlag": true,
+      "BeFirstToApplyFlag": false,
+      "BusinessUnit": null,
+      "BusinessUnitId": 300000094081469,
+      "Category": "POM Product Management",
+      "ContentLocale": "en",
+      "ContractType": null,
+      "CorporateDescriptionStr": "<p>At BNY, our culture allows us to run our company better and enables employees’ growth and success. As a leading global financial services company at the heart of the global financial system, we influence nearly 20% of the world’s investible assets. Every day, our teams harness cutting-edge AI and breakthrough technologies to collaborate with clients, driving transformative solutions that redefine industries and uplift communities worldwide.</p>Recognized as a top destination for innovators, BNY is where bold ideas meet advanced technology and exceptional talent. Together, we power the future of finance – and this is what #LifeAtBNY is all about. Join us and be part of something extraordinary.",
+      "Department": null,
+      "DomesticTravelRequired": null,
+      "ExternalContactEmail": null,
+      "ExternalContactName": null,
+      "ExternalDescriptionStr": "<p>We’re seeking a future team member for the role of Senior Vice President, AI Employee Support Product Owner to join our People Enablement team. This role is in Lake Mary, FL; Pittsburgh, PA; or NYC, New York.</p><p>In this role, you’ll make an impact in the following ways:</p><ul><li>Lead the strategy and execution to unify fragmented HR support experiences, bringing together AI, workflow automation, and case management into a single, intuitive support journey across Eliza and Oracle.</li><li>Architect and deploy foundational agentic self-service capabilities, shifting the enterprise toward an AI-first operating model where employee needs are increasingly resolved through intelligent self-service rather than creating a manual case.</li><li>Design scalable, automated routing logic and disambiguation models to reduce employee effort, accelerate first-time-right issue resolution, and lower the overall HR cost-to-serve.</li><li><p>Partner closely with Service Delivery Groups (SDGs), engineering pods, and executive stakeholders to prioritize the product backlog, ensuring strict readiness gates are met before deploying technology to solve complex operational challenges.</p><p>&nbsp;</p></li></ul><p>To be successful in this role, we’re seeking the following:</p><ul><li>Bachelor's degree or the equivalent combination of education and experience is required.</li><li>Proven experience as a Product Owner or Product Manager within an agile delivery model, successfully translating complex enterprise workflows into scalable digital products.</li><li>Deep expertise in HR help desk architecture, AI-driven self-service tools, or natural language processing ecosystems, with a track record of driving tangible ROI and capacity savings.&nbsp;<br>Exceptional strategic execution skills with the ability to navigate enterprise governance (e.g., AI Hub approvals), manage cross-functional stakeholders, and balance top-down mandates with bottom-up process simplification.</li><li>Demonstrated leadership experience guiding cross-functional engineering, UX, and delivery squads, fostering a culture of high velocity, ruthless prioritization, and rigorous burndown discipline.&nbsp;</li></ul>",
+      "ExternalPostedEndDate": null,
+      "ExternalPostedStartDate": "2026-09-01T14:35:48+00:00",
+      "ExternalQualificationsStr": "",
+      "ExternalResponsibilitiesStr": "",
+      "GeographyId": 300000090199637,
+      "GeographyNodeId": 100010357090123,
+      "HiringManager": null,
+      "HotJobFlag": false,
+      "Id": "81502",
+      "InternalQualificationsStr": "",
+      "InternalResponsibilitiesStr": "",
+      "InternationalTravelRequired": null,
+      "JobFamilyId": 300005337003813,
+      "JobFunction": "POM Product Management",
+      "JobFunctionCode": "POMPM",
+      "JobGrade": null,
+      "JobLevel": null,
+      "JobSchedule": "Full time",
+      "JobShift": "Day",
+      "JobType": null,
+      "LegalEmployer": null,
+      "LegalEmployerId": 300000003582023,
+      "NumberOfOpenings": null,
+      "ObjectVerNumberProfile": null,
+      "Organization": null,
+      "OrganizationDescriptionStr": "<p>At BNY, our culture speaks for itself, check out the latest BNY news at&nbsp;<a href=\"https://www.bny.com/corporate/global/en/about-us/newsroom.html\" target=\"_blank\" rel=\"nofollow\">BNY Newsroom</a>&nbsp;&amp;&nbsp;<a href=\"https://www.linkedin.com/company/bnyglobal/posts/?feedView=all\" target=\"_blank\" rel=\"nofollow\">BNY LinkedIn</a></p>\n<p style=\"margin-bottom:0in\">&nbsp;Here’s a few of our recent awards:</p>\n<ul style=\"margin-top:0in\">\n <li style=\"margin-bottom:0in\">America’s Most Innovative Companies, Fortune, 2025</li>\n <li style=\"margin-bottom:0in\">World’s Most Admired Companies, Fortune 2025</li>\n <li style=\"margin-bottom:0in\">“Most Just Companies”, Just Capital and CNBC, 2025</li>\n</ul>\n<ul></ul>\n<p>Our Benefits and Rewards:</p>\n<p>BNY offers highly competitive compensation, benefits, and wellbeing programs rooted in a strong culture of excellence and our pay-for-performance philosophy. We provide access to flexible global resources and tools for your life’s journey. Focus on your health, foster your personal resilience, and reach your financial goals as a valued member of our team, along with generous paid leaves, including paid volunteer time, that can support you and your family through moments that matter.</p>\n<p>BNY is an Equal Employment Opportunity/Affirmative Action Employer - Underrepresented racial and ethnic groups/Females/Individuals with Disabilities/Protected Veterans.</p>\n<p>BNY assesses market data to ensure a competitive compensation package for our employees. The expected base salary for this position when employment commences can be found in the Job Info section at the bottom of the posting.&nbsp;</p>\n<p>Base salary offered may vary depending on multiple individualized factors, including market location, job-related knowledge, skills, and experience. Base salary is only part of the total rewards package, which may include eligibility for an annual discretionary incentive award. Subject to the terms and conditions of the applicable plans then in effect, eligible employees may enroll in a 401(k) plan as well as participate in Company-sponsored medical, dental, vision, and basic life insurance plans for the employee and the employee’s eligible dependents. Eligible employees also may receive other benefits (including various paid time off benefits, such as vacation and sick time), dependent on the position offered. Details of participation in these benefit plans will be provided if an employee receives an offer of employment.</p>\n<p>If hired, the employee will be in an “at will” position and the Company reserves the right to modify base salary (as well as any other discretionary payments or compensation programs) at any time, including for reasons related to individual performance, Company or individual department/team performance, and market factors.</p>",
+      "OrganizationId": 300000094755471,
+      "OtherRequisitionTitle": null,
+      "PrimaryLocation": "Lake Mary, FL, United States",
+      "PrimaryLocationCountry": "US",
+      "RequisitionId": 300010912919543,
+      "RequisitionType": "Experienced - Human Resources",
+      "ShortDescriptionStr": "",
+      "StudyLevel": null,
+      "Title": "Senior Vice President, AI Employee Support Product Owner",
+      "TrendingFlag": true,
+      "WorkDays": null,
+      "WorkHours": null,
+      "WorkMonths": null,
+      "WorkYears": null,
+      "WorkerType": null,
+      "WorkplaceType": "",
+      "WorkplaceTypeCode": null,
+      "media": [],
+      "otherWorkLocations": [],
+      "primaryLocationCoordinates": [
+        {
+          "CountryCode": "US",
+          "GeographyId": 300000090199637,
+          "GeographyNodeId": 100010357090123,
+          "Latitude": "28.75641",
+          "Longitude": "-81.32345"
+        }
+      ],
+      "requisitionFlexFields": [
+        {
+          "ControlType": "TextArea",
+          "Prompt": "Base Salary Min",
+          "SequenceNumber": 12,
+          "Value": "104000"
+        },
+        {
+          "ControlType": "TextArea",
+          "Prompt": "Base Salary Max",
+          "SequenceNumber": 21,
+          "Value": "168500"
+        }
+      ],
+      "secondaryLocations": [
+        {
+          "CountryCode": "US",
+          "GeographyId": 300000090220393,
+          "GeographyNodeId": 100010357090073,
+          "Latitude": "40.43851",
+          "Longitude": "-79.99734",
+          "Name": "Pittsburgh, PA, United States",
+          "RequisitionLocationId": 300010915923339
+        }
+      ],
+      "skills": [],
+      "workLocation": [
+        {
+          "AddressLine1": "300 Colonial Center Parkway",
+          "AddressLine2": null,
+          "AddressLine3": null,
+          "AddressLine4": null,
+          "Building": null,
+          "Country": "US",
+          "Latitude": "28.76193",
+          "LocationId": 300000129871125,
+          "LocationName": "300 Colonial Center Parkway,Lake Mary,FL",
+          "Longitude": "-81.34815",
+          "PostalCode": "32746",
+          "Region1": "Seminole",
+          "Region2": "FL",
+          "Region3": null,
+          "TownOrCity": "Lake Mary"
+        }
+      ]
+    }
+  ],
+  "limit": 499,
+  "links": [
+    {
+      "href": "https://eofe.fa.us2.oraclecloud.com:443/hcmRestApi/resources/11.13.18.05/recruitingCEJobRequisitionDetails",
+      "kind": "collection",
+      "name": "recruitingCEJobRequisitionDetails",
+      "rel": "self"
+    }
+  ],
+  "offset": 0
+}

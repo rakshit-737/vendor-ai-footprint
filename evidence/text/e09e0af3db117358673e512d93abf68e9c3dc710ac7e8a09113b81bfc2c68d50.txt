@@ -1,0 +1,9 @@
+Large Majority of U.S.-based Financial Institutions Indicate Real-Time Payments is a High Priority in 2020
+According to the 2020 Real-Time Payments Report from Levvel, a strategic consulting and technical execution services provider, a large majority of financial institutions (FIs) are prioritizing real-time payments over the next 12-18 months, but strategy and execution remain a challenge.
+“The reality is that real-time payments are here,” says Kathleen McDowell, Senior Director of Financial Services and Payments at Levvel in a blog post. “The technology is available, and customer demand is undeniable. FIs are realizing that to maintain customer satisfaction, reduce attrition, and stay competitive, they absolutely need [a real-time] strategy.”
+Currently, 74% of FIs are now in progress with or considering real-time payments for at least one of their customer segments to meet growing demand and gain a competitive advantage. However, the research also reveals a gap between strategy and execution as many institutions have not determined how to make real-time payments a reality and thus risk missing the opportunities from faster payments innovation.
+Other key findings from the research include:
+- 53% are either planning or have completed a significant technology upgrade or a full digital transformation to offer real-time payments
+- 72% say they will need to rely on third-party technology providers to help implement real-time payments
+- 84% indicate they will use real-time payments to drive other technology changes
+Click here to access the full 2020 Real-Time Payments Report

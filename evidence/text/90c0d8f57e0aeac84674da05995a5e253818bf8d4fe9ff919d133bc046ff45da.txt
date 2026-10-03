@@ -1,0 +1,82 @@
+{
+  "AD": false,
+  "Answer": [
+    {
+      "TTL": 1800,
+      "data": "\"atlassian-domain-verification=m8FiIhipL8D4cKQnfBt3mQJJA6UNWRClSSSC0fCfazyhjB5gc6phQQhhnfEPYFfz\"",
+      "name": "terrapintech.com",
+      "type": 16
+    },
+    {
+      "TTL": 1800,
+      "data": "\"anthropic-domain-verification-9aq3kr=73tzcSxHSSLJVpJGhNo7EEOXN\"",
+      "name": "terrapintech.com",
+      "type": 16
+    },
+    {
+      "TTL": 1800,
+      "data": "\"duo_sso_verification=iq4tIJOZzuHHCB2Qay3l6CJEFXXApICyuCTJ1ilsXlC83nhUtp4hpUkJIxHASXKi\"",
+      "name": "terrapintech.com",
+      "type": 16
+    },
+    {
+      "TTL": 1800,
+      "data": "\"openai-domain-verification=dv-PCbu8fARAow5Q9VteO3A6end\"",
+      "name": "terrapintech.com",
+      "type": 16
+    },
+    {
+      "TTL": 1800,
+      "data": "\"ppe-29cd3033bae439cf13fee380b98816e7de8bf345\"",
+      "name": "terrapintech.com",
+      "type": 16
+    },
+    {
+      "TTL": 1800,
+      "data": "\"atlassian-sending-domain-verification=76280165-f10c-453a-bfae-a81622733201\"",
+      "name": "terrapintech.com",
+      "type": 16
+    },
+    {
+      "TTL": 1800,
+      "data": "\"sophos-domain-verification=dd64d8f1e5b4e079aba9653419631660b036fb2f2a12947049919a6be9179734\"",
+      "name": "terrapintech.com",
+      "type": 16
+    },
+    {
+      "TTL": 1800,
+      "data": "\"apple-domain-verification=3XkjFafDEhGm1k9P\"",
+      "name": "terrapintech.com",
+      "type": 16
+    },
+    {
+      "TTL": 1800,
+      "data": "\"v=spf1 mx ip4:173.160.97.145 ip4:216.203.18.25 ip4:63.232.215.34/29 ip4:208.75.123.0/24 ip4:74.120.65.0/24 ip4:66.179.251.252/29 include:_spf.google.com include:_spf.psm.knowbe4.com include:787045.spf07.hubspotemail.net ip4:149.72.142.168 a:dispatch-us.pp\" \"e-hosted.com ~all\"",
+      "name": "terrapintech.com",
+      "type": 16
+    },
+    {
+      "TTL": 1800,
+      "data": "\"atlassian-sending-domain-verification=ce725d42-4589-4ba9-a067-b6114463f1fe\"",
+      "name": "terrapintech.com",
+      "type": 16
+    },
+    {
+      "TTL": 1800,
+      "data": "\"atlassian-domain-verification=u/S3hLQMYTVBFHjGqncVzRD4Ze8wdamIg1ZH0l2qqnhnfH6KHDz1dw4fjBD9m3oz\"",
+      "name": "terrapintech.com",
+      "type": 16
+    }
+  ],
+  "CD": false,
+  "Question": [
+    {
+      "name": "terrapintech.com",
+      "type": 16
+    }
+  ],
+  "RA": true,
+  "RD": true,
+  "Status": 0,
+  "TC": false
+}

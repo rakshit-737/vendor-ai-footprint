@@ -1,0 +1,197 @@
+{
+ "key": "536628ab6ecd05373c0df3546b65878b3ddcaad15cc64679d0944e8d1e73f82a",
+ "model": "gemini-3.5-flash-lite",
+ "payload_sha256": "f64bbf9f3143edf09ad4fe02a0e5f63989cdf65ade2f3ca2a669cf0be7937290",
+ "prompt_sha256": "065bd458ace52ff274c72967cfe1b90c794a1ec8d3a3696ec78d7d8cf636df94",
+ "response": {
+  "claims": [
+   {
+    "action_level": "none",
+    "ai_type": "unspecified",
+    "claim_kind": "generic_ai_marketing",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M1",
+      "span": "AI-enabled"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P2",
+    "quote": "AutomWorx specializes in Automic workload automation, SAP landscape orchestration, and AI-enabled infrastructure modernization consulting.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G1",
+      "span": "Oracle 23 AI"
+     }
+    ],
+    "named_providers": [
+     "Oracle"
+    ],
+    "passage_id": "P3",
+    "quote": "Oracle 23 AI support",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "genai_llm",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "enhance existing automation workflows"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P4",
+    "quote": "For enterprises using Automic, this means leveraging technologies like generative AI (GenAI), machine learning (ML), and predictive analytics to enhance existing automation workflows.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "advisory",
+    "ai_type": "genai_llm",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [
+     "scripts",
+     "automation outputs"
+    ],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "analyze scripts and automation outputs, providing clear, natural-language explanations"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P5",
+    "quote": "Understand and explain complex processes: GenAI can analyze scripts and automation outputs, providing clear, natural-language explanations of what happened, why a process failed, and what the root cause was.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "advisory",
+    "ai_type": "predictive_ml",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [
+     "historical data"
+    ],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "predict potential bottlenecks or failures before they occur"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P5",
+    "quote": "Predict and prevent issues: By analyzing historical data, AI can predict potential bottlenecks or failures before they occur, allowing for proactive intervention.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "advisory",
+    "ai_type": "unspecified",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [
+     "logs",
+     "reports"
+    ],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "analyze logs and reports, identify the problem, and even suggest potential fixes"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P5",
+    "quote": "Automate troubleshooting: When a job fails, the AI assistant can analyze logs and reports, identify the problem, and even suggest potential fixes, drastically reducing mean time to repair.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "advisory",
+    "ai_type": "unspecified",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [
+     "complex scripts"
+    ],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "analyze and understand complex scripts"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P6",
+    "quote": "Simplify development and maintenance: Developers can use the AI assistant to analyze and understand complex scripts, making it easier to maintain existing workflows and create new ones.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "automated_action",
+    "ai_type": "predictive_ml",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "automatically optimize resource allocation, predict and prevent failures, and streamline complex workflows"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P8",
+    "quote": "AI empowers Automic to make smarter decisions in real-time. It can automatically optimize resource allocation, predict and prevent failures, and streamline complex workflows.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "advisory",
+    "ai_type": "genai_llm",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "interact with the system using simple queries, asking questions about job status or troubleshooting issues"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P11",
+    "quote": "The natural-language capabilities of generative AI make automation more accessible to a wider audience. Business users can interact with the system using simple queries, asking questions about job status or troubleshooting issues without needing a deep technical understanding of the underlying scripts.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "advisory",
+    "ai_type": "unspecified",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [
+     "logs"
+    ],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "instantly analyzes the logs from the failed execution, explains the reason for the failure in plain English, and suggests a code snippet to fix the issue"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P12",
+    "quote": "Automated Troubleshooting: A bank’s daily batch job fails. The AI assistant in Automic instantly analyzes the logs from the failed execution, explains the reason for the failure in plain English, and suggests a code snippet to fix the issue.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   }
+  ]
+ },
+ "role": "extract",
+ "schema_sha256": "f1cd07fdb8e496624608717927261043432a3bd93d84723a126b7c7d951d68df",
+ "seed": 1234
+}

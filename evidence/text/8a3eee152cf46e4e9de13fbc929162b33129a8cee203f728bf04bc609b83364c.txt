@@ -1,0 +1,49 @@
+Type: 
+            
+                On Demand
+            
+            
+            Duration: 
+            
+                20 Minutes
+            
+            
+            
+                Date & Time: 
+                
+                
+            
+            
+            
+            
+            
+        
+            
+            Member Fee: 
+            
+                $0
+            
+            
+            Non-Member Fee: 
+            
+                $1,265
+            
+            
+            
+            
+                
+            
+            
+            
+            
+                
+            
+            
+        
+        
+             The Intermediate ACH Certificate dives into the responsibilities of the Originating Depository Financial Institution (ODFI), Third-Party Senders, and how to handle common exceptions. 
+Sessions include: 
+ODFI Responsibilities & Warranties
+Third-Party Sender Roles & Responsibilities
+ACH Exceptions
+You will have two attempts to pass the test embedded in this session.

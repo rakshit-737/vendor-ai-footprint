@@ -1,0 +1,143 @@
+{
+  "count": 1,
+  "hasMore": false,
+  "items": [
+    {
+      "ApplyWhenNotPostedFlag": false,
+      "BeFirstToApplyFlag": false,
+      "BusinessUnit": null,
+      "BusinessUnitId": 300000094081469,
+      "Category": "POM Product Management",
+      "ContentLocale": "en",
+      "ContractType": null,
+      "CorporateDescriptionStr": "",
+      "Department": null,
+      "DomesticTravelRequired": null,
+      "ExternalContactEmail": null,
+      "ExternalContactName": null,
+      "ExternalDescriptionStr": "<p>At BNY, our culture allows us to run our company better and enables employees’ growth and success. As a leading global financial services company at the heart of the global financial system, we influence nearly 20% of the world’s investible assets. Every day, our teams harness cutting-edge AI and breakthrough technologies to collaborate with clients, driving transformative solutions that redefine industries and uplift communities worldwide.</p><p>Recognized as a top destination for innovators, BNY is where bold ideas meet advanced technology and exceptional talent. Together, we power the future of finance – and this is what #LifeAtBNY is all about. Join us and be part of something extraordinary.</p><p>We’re seeking a future team member for the role of Senior Product Manager to join our Developer Experience team. This role is located in New York, NY.</p><p>In this role, you’ll make an impact in the following ways:</p><ul><li>Define the vision and develop the long-term product strategy and roadmap for BNY’s developer-facing AI capabilities, including generative AI-powered tools that transform software engineering practices.</li><li>Lead cross-functional collaboration with Engineering, DevEx teams, and BNY’s AI Hub to build impactful solutions that supercharge BNY’s global developer community.</li><li>Drive product discovery efforts to deeply understand developer pain points and identify valuable automation and augmentation opportunities.</li><li>Own the strategy behind both internally developed AI capabilities and vendor AI tools that augment the developer experience.</li><li>Evangelize the vision and secure buy-in from senior technology and business stakeholders across the organization.</li><li>Define success metrics and partner with analytics teams to measure adoption, performance, business impact, and customer sentiment.</li><li>Stay current on trends in Generative AI, Developer Experience, and MLOps, incorporating emerging capabilities into the product roadmap.</li></ul><p>To be successful in this role, we’re seeking the following:</p><ul><li>Bachelor's degree in business management, Finance or a related discipline, or equivalent work experience required</li><li>10-12 years of experience in product management, with a focus on internal platforms, developer tools, or infrastructure.</li><li>Strong technical literacy with the ability to partner directly with engineers and understand modern software development practices.</li><li>Proven track record of delivering impactful internal products that solve real engineering problems at scale.</li><li>Exceptional communication, stakeholder management, and cross-functional collaboration skills.</li><li>Passion for emerging technologies and a pragmatic mindset about their application in large-scale enterprise settings.</li><li>Experience mentoring or managing less senior members of the product community.</li></ul><p>Preferred qualifications include:</p><ul><li>Familiarity with large language models (LLMs), prompt engineering, or GenAI-powered developer tools.</li><li>Experience working on Developer Experience (DevEx), Developer Relations (DevRel), or Platform Engineering teams.</li><li>Deep knowledge of DevEx measurement strategies, including SPACE-like survey design and DORA metrics.</li><li>Prior experience building or scaling AI/ML-powered internal products.</li><li>Strong understanding of secure SDLC, CI/CD pipelines, or enterprise software development ecosystems.</li></ul><p>At BNY, our culture speaks for itself, check out the latest BNY news at:</p><p><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.bny.com/corporate/global/en/about-us/newsroom.html\">BNY Newsroom</a><br><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.linkedin.com/company/bnyglobal/posts/?feedView=all\">BNY LinkedIn</a></p><p>Here’s a few of our recent awards:</p><p>America’s Most Innovative Companies, Fortune, 2025<br>World’s Most Admired Companies, Fortune 2025<br>“Most Just Companies”, Just Capital and CNBC, 2025</p><p>Our Benefits and Rewards:</p><p>BNY offers highly competitive compensation, benefits, and wellbeing programs rooted in a strong culture of excellence and our pay-for-performance philosophy. We provide access to flexible global resources and tools for your life’s journey. Focus on your health, foster your personal resilience, and reach your financial goals as a valued member of our team, along with generous paid leaves, including paid volunteer time, that can support you and your family through moments that matter.</p><p>BNY assesses market data to ensure a competitive compensation package for our employees. The base salary for this position is expected to be between $127,000 and&nbsp;$250,000&nbsp;per&nbsp;year&nbsp;at the commencement of employment. However, base salary if hired will be determined on an individualized basis, including as to experience and market location, and is only part of the BNY total compensation package, which, depending on the position, may also include commission earnings, discretionary bonuses, short and long-term incentive packages, and company- sponsored benefit programs.</p><p>BNY is an Equal Employment Opportunity/Affirmative Action Employer - Underrepresented racial and ethnic groups/Females/Individuals with Disabilities/Protected Veterans.</p>",
+      "ExternalPostedEndDate": null,
+      "ExternalPostedStartDate": "2026-08-18T14:38:08+00:00",
+      "ExternalQualificationsStr": "",
+      "ExternalResponsibilitiesStr": "",
+      "GeographyId": 300000090214594,
+      "GeographyNodeId": 100010357091606,
+      "HiringManager": null,
+      "HotJobFlag": false,
+      "Id": "76514",
+      "InternalQualificationsStr": "",
+      "InternalResponsibilitiesStr": "",
+      "InternationalTravelRequired": null,
+      "JobFamilyId": 300005337003813,
+      "JobFunction": "POM Product Management",
+      "JobFunctionCode": "POMPM",
+      "JobGrade": null,
+      "JobLevel": null,
+      "JobSchedule": "Full time",
+      "JobShift": "Day",
+      "JobType": null,
+      "LegalEmployer": null,
+      "LegalEmployerId": 300000003582023,
+      "NumberOfOpenings": null,
+      "ObjectVerNumberProfile": null,
+      "Organization": null,
+      "OrganizationDescriptionStr": "",
+      "OrganizationId": 300007008467879,
+      "OtherRequisitionTitle": null,
+      "PrimaryLocation": "New York, NY, United States",
+      "PrimaryLocationCountry": "US",
+      "RequisitionId": 300009789918283,
+      "RequisitionType": "Experienced",
+      "ShortDescriptionStr": "",
+      "StudyLevel": null,
+      "Title": "Director, Product Manager, Developer Experience, AI",
+      "TrendingFlag": false,
+      "WorkDays": null,
+      "WorkHours": null,
+      "WorkMonths": null,
+      "WorkYears": null,
+      "WorkerType": null,
+      "WorkplaceType": "Hybrid",
+      "WorkplaceTypeCode": "ORA_HYBRID",
+      "media": [],
+      "otherWorkLocations": [
+        {
+          "AddressLine1": "500 Ross Street",
+          "AddressLine2": null,
+          "AddressLine3": null,
+          "AddressLine4": null,
+          "Building": null,
+          "Country": "US",
+          "Latitude": "40.43913498",
+          "LocationId": 300000129875553,
+          "LocationName": "500 Ross Street,Pittsburgh,PA",
+          "Longitude": "-79.99553016",
+          "PostalCode": "15262",
+          "Region1": "Allegheny",
+          "Region2": "PA",
+          "Region3": null,
+          "RequisitionWorkLocationId": 300009789918297,
+          "TownOrCity": "Pittsburgh"
+        }
+      ],
+      "primaryLocationCoordinates": [
+        {
+          "CountryCode": "US",
+          "GeographyId": 300000090214594,
+          "GeographyNodeId": 100010357091606,
+          "Latitude": "40.58055",
+          "Longitude": "-74.00391"
+        }
+      ],
+      "requisitionFlexFields": [
+        {
+          "ControlType": "TextArea",
+          "Prompt": "Base Salary Min",
+          "SequenceNumber": 12,
+          "Value": "127000"
+        }
+      ],
+      "secondaryLocations": [
+        {
+          "CountryCode": "US",
+          "GeographyId": 300000090220393,
+          "GeographyNodeId": 100010357090073,
+          "Latitude": "40.43851",
+          "Longitude": "-79.99734",
+          "Name": "Pittsburgh, PA, United States",
+          "RequisitionLocationId": 300009789918291
+        }
+      ],
+      "skills": [],
+      "workLocation": [
+        {
+          "AddressLine1": "240 Greenwich Street",
+          "AddressLine2": null,
+          "AddressLine3": null,
+          "AddressLine4": null,
+          "Building": null,
+          "Country": "US",
+          "Latitude": "40.71455001",
+          "LocationId": 300000129875278,
+          "LocationName": "240 Greenwich Street,New York,NY",
+          "Longitude": "-74.00714004",
+          "PostalCode": "10286",
+          "Region1": "New York",
+          "Region2": "NY",
+          "Region3": null,
+          "TownOrCity": "New York"
+        }
+      ]
+    }
+  ],
+  "limit": 499,
+  "links": [
+    {
+      "href": "https://eofe.fa.us2.oraclecloud.com:443/hcmRestApi/resources/11.13.18.05/recruitingCEJobRequisitionDetails",
+      "kind": "collection",
+      "name": "recruitingCEJobRequisitionDetails",
+      "rel": "self"
+    }
+  ],
+  "offset": 0
+}

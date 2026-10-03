@@ -1,0 +1,2 @@
+TCH Comments on NACHA’s Proposal to Improve Network Quality
+The Clearing House submitted a letter to NACHA regarding the RFC to Improve Network Quality. TCH supports the proposal to lower the unauthorized return rate threshold to 0.5%, however, it emphasized that the 3% erroneous data return rate and 15% overall return rate should not function as return limits but as triggers for additional review of the origination and business practices of originators that exceed the rates.

@@ -1,0 +1,197 @@
+{
+ "key": "a1b8654b177f90ee507c2c566ea05f09d28010772edd47d5aaf3e8e68661d01e",
+ "model": "gemini-3.5-flash-lite",
+ "payload_sha256": "a3be7173595549d2aadcf3bcc32e84171d03911d4da030923be7f212808c1ac6",
+ "prompt_sha256": "065bd458ace52ff274c72967cfe1b90c794a1ec8d3a3696ec78d7d8cf636df94",
+ "response": {
+  "claims": [
+   {
+    "action_level": "unknown",
+    "ai_type": "genai_llm",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "AI Assistant"
+     },
+     {
+      "code": "G5",
+      "span": "Model Context Protocol"
+     }
+    ],
+    "named_providers": [
+     "Model Context Protocol"
+    ],
+    "passage_id": "P3",
+    "quote": "AI Assistant, built on MCP. Automic’s AI layer connects to your models through the Model Context Protocol, acting as both client and server.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "advisory",
+    "ai_type": "genai_llm",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [
+     "logs",
+     "execution reports",
+     "documentation"
+    ],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "pars[e]s logs, execution reports, and documentation"
+     },
+     {
+      "code": "G3",
+      "span": "pars[e]s logs, execution reports, and documentation"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P3",
+    "quote": "Ask it what happened in last night’s run, and it parses logs, execution reports, and documentation to tell you not just what happened, but why root causes, upstream delays, similar fixes that worked before.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "genai_llm",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "connect Automic to whichever LLM provider you already use"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P4",
+    "quote": "On SaaS, a default model comes built in. On-prem, you connect Automic to whichever LLM provider you already use cloud-hosted or a local model.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "advisory",
+    "ai_type": "genai_llm",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [
+     "Python script",
+     "PowerShell"
+    ],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "AI-assisted scripting and workflow building"
+     },
+     {
+      "code": "G2",
+      "span": "explains, troubleshoots, and generates scripts on request"
+     },
+     {
+      "code": "G2",
+      "span": "Natural-language workflow building"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P5",
+    "quote": "AI-assisted scripting and workflow building. The AI Assistant explains, troubleshoots, and generates scripts on request, including converting a Python script to PowerShell on the spot.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "advisory",
+    "ai_type": "genai_llm",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "Natural-language workflow building"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P5",
+    "quote": "Natural-language workflow building is part of this too.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "genai_llm",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M1",
+      "span": "generative artificial intelligence (AI)"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P9",
+    "quote": "The Broadcom Software may incorporate generative artificial intelligence (AI) technology to implement certain features. Features that use generative AI are typically identified in the Broadcom Software interface or Documentation.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "human_reviewed_decision",
+    "ai_type": "genai_llm",
+    "claim_kind": "ai_governance",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G3",
+      "span": "validate all output before use"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P9",
+    "quote": "AI-generated output may contain errors and unexpected results. Customer must use caution when relying upon responses and validate all output before use.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "genai_llm",
+    "claim_kind": "ai_governance",
+    "data_mentioned": [
+     "confidential data",
+     "Personal Data",
+     "prompts"
+    ],
+    "indicators": [
+     {
+      "code": "G3",
+      "span": "Include any confidential data or Personal Data in its prompts"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P10",
+    "quote": "Customer must not: o Include any confidential data or Personal Data in its prompts.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "genai_llm",
+    "claim_kind": "ai_governance",
+    "data_mentioned": [
+     "Customer data"
+    ],
+    "indicators": [
+     {
+      "code": "G3",
+      "span": "Customer data is not retained by the Model and is not used to train the Model"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P12",
+    "quote": "Customer data is not retained by the Model and is not used to train the Model.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   }
+  ]
+ },
+ "role": "extract",
+ "schema_sha256": "f1cd07fdb8e496624608717927261043432a3bd93d84723a126b7c7d951d68df",
+ "seed": 1234
+}

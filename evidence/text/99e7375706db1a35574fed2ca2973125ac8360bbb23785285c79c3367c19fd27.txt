@@ -1,0 +1,44 @@
+Type: 
+            
+                Webinar
+            
+            
+            Duration: 
+            
+                30 Minutes
+            
+            
+            
+                Date & Time: 
+                
+                
+            
+            
+            
+            
+            
+        
+            
+            Member Fee: 
+            
+                $0
+            
+            
+            Non-Member Fee: 
+            
+                $279
+            
+            
+            
+            
+                
+            
+            
+            Audience: 
+            
+                ACH Personnel, General ACH, Payments Personnel, AAP Candidates, AAPs, APRP Candidates, APRPs
+            
+            
+        
+        
+            Prenotes allow Originators and ODFIs to verify an account number for a Receiver prior to sending a live dollar transaction, but did you know that RDFIs are responsible for ensuring every Prenote received contains a valid account number and that Originators can send live entries as soon as the third banking day following settlement of a Prenote?  Did you know that the RDFI accepts liability for the NOCs that they send? Are you handling them in a timely manner? Attendees will leave with a better understanding of Prenotes and Notifications of Change (NOCs).

@@ -1,0 +1,22 @@
+Custom Solutions
+Custom integration services for Automic, UC4, and AppWorx software and underlying systems.
+Examples of Custom Integrations
+Communication
+Email systems and SMS push and notification management.
+Web Services
+Web services across third-party, legacy applications or systems.
+Security
+Kerberos and custom certificate management.
+Cloud Apps
+Social media, marketing, CRM, and other applications.
+Our Custom Integration Process
+Take automation to the next level with custom solutions and system integrations. AutomWorx offers end-to-end custom solution development and integration expertise:
+- In-depth architectural analysis, business and technical requirements gathering, development, testing, deployment, and formal knowledge transfer and handoff
+- Technical and sizing consultation around the hardware, operating systems, database management systems & third-party utilities for deploying your custom solution or performing custom integration tasks
+- Installing the applicable software in your non-production and production environments
+- Proprietary, custom-written solutions to meet your business requirements
+- Establishing a Disaster Recovery plan and configuration with you
+- Testing and issue remediation
+- Deployment and go-live support
+- Formal knowledge transfer and walkthrough
+- Project management oversight

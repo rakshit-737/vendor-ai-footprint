@@ -1,0 +1,47 @@
+Customer Success &#8211; HNI Corporation
+
+Customer Success - HNI Corporation
+
+Learn how HNI converted a complicated workload automation environment in a short amount of time with AutomWorx.
+
+Contact Us
+
+HNI Corporation converts 3,000 workflows, 2700 scheduled jobs, 400 variables, and 20 agent groups with AutomWorx
+
+HNI Corporation is a large manufacturer specializing in office furniture and hearth products founded in 1944 as an employee-owned industrial enterprise. Today, though the company has expanded their presence globally and become a Fortune 500 company, they still are headquartered in Muscatine, Iowa and most personnel are also shareholders.
+
+An early adopter of automation tools, HNI had been successfully using the AppWorx automation platform for decades. The company had also invested heavily in enterprise-wide technology and created tight integrations across applications. Yet, in February of 2020, they were faced with the fact that by the end of the year, their version of AppWorx would no longer be functional which would jeopardize critical business functions. Their 2 best options: either upgrade to a newer version of AppWorx, or migrate to a new tool.
+
+Either way, this meant that in just 10 months, the team would be tasked with converting over 3,000 workflows, 2700 scheduled jobs, 400 variables, 20 agent groups, along with schedule objects, connection objects, and login objects. They also had to do this across three environments: development, quality assurance, and production.
+
+With no time to lose, and well aware of the many challenges that they were facing, HNI chose AutomWorx to keep their business running.
+
+About HNI Corporation
+
+Headquartered in Muscatine, Iowa, the HNI Corporation’s brand portfolio includes The HON Company, Allsteel, Gunlocke, Heat & Glo, Harman, Quadra-Fire, and more.
+
+Problem
+
+Large conversion of business automation in a short amount of time.
+
+Solution
+
+Partnership with AutomWorx to get the project done ahead of schedule.
+
+Getting the Project Moving​
+
+“I immediately reached out to AutomWorx because I had worked with their consultants in the past,” said Eric Leacox, Senior Developer, HNI Corporation. “We were in a position where we needed a partner who we could really trust, especially as many of our internal resources were already committed to other projects.”
+
+Complicating the project were not just the time constraints but the many customizations HNI had made to both their ERP system and to AppWorx over the years. AutomWorx had to address these customizations when converting HNI’s AppWorx objects to ensure that jobs would still run correctly.
+
+Working together, HNI and AutomWorx came up with a strategy to convert HNI from AppWorx v5 to Automic v12. AutomWorx consultants were familiar with both the soon-to-be deprecated version of AppWorx and the newest version of Automic OneAutomation. AutomWorx consultants also have deep application specialization, so they were able to navigate HNI’s Oracle environment. Once that work was completed, Leacox was able to import the files into an Automic client, using a standard utility program.
+
+“Every time I thought we’d hit a show-stopper, AutomWorx would come up with a solution that kept the conversion moving,” said Leacox.
+
+In November of 2020, HNI installed the final wave of jobs in Automic, going live with well over a month to spare and just in time for year-end processing.
+
+“The implementation was virtually flawless. We had high expectations of the AutomWorx team from the start, but it went better than we even expected, and AutomWorx made all of us involved successful,” he said. “Actually, though I am happy we are live, I miss working with them.”
+
+Contact Us
+
+Download the Case Study

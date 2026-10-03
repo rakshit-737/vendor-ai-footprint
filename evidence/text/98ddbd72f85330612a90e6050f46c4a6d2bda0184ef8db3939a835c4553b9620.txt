@@ -1,0 +1,187 @@
+Cloud Computing Engineer - AWS
+
+Position summary:
+
+We are seeking a highly skilled Cloud Computing Engineer specializing in Amazon WorkSpaces to design, implement, optimize, and support our cloud-based virtual desktop environment. This role will serve as the primary technical owner for AWS WorkSpaces architecture, image management, automation, identity integration, security, monitoring, and platform operations.
+
+The ideal candidate possesses deep expertise across AWS WorkSpaces, Active Directory, Microsoft Entra ID, Intune, Windows endpoint management, cloud networking, automation, and authentication technologies. This individual will lead platform engineering efforts, establish operational standards, drive automation initiatives, support large-scale desktop deployments, and help evolve our virtual desktop strategy from traditional on-premises VDI solutions toward a modern cloud-based desktop platform.
+
+This is a hands-on engineering role requiring strong technical leadership, troubleshooting expertise, and the ability to independently own complex infrastructure initiatives from design through production support.
+
+About The Clearing House: The Clearing House Payments Company L.L.C. is a bank-owned industry utility that shapes the payments landscape and provides infrastructure for safe, reliable, and efficient payments. We see an economy where everyone is connected and a future where modern payments make life easier. The Clearing House operates four payment systems: a high-value wire-transfer system (the CHIPS® network), the country’s first and largest instant payments system (the RTP® network), an automated clearinghouse network (the EPN® network), and a check image exchange network (the Image Exchange Network). TCH also operates a bank account number tokenization service, runs a payments association known as the TCH Payments Authority, and maintains the rules for private-sector check image exchange through its ECCHO® business line.
+
+Key Responsibilities
+
+AWS WorkSpaces Engineering & Architecture
+
+Design, implement, and maintain enterprise-scale Amazon WorkSpaces environments.
+
+Architect and manage AWS WorkSpaces deployments across multiple environments.
+
+Develop long-term platform strategy, scalability planning, and operational standards.
+
+Evaluate and implement new AWS EUC technologies and features.
+
+Conduct capacity planning, performance analysis, and platform optimization.
+
+Support disaster recovery planning, testing, and recovery validation procedures.
+
+Perform root cause analysis for complex platform-wide issues.
+
+undefined
+
+Image Management & Desktop Engineering
+
+Build, maintain, and optimize AWS WorkSpaces custom images and bundles.
+
+Create standardized gold images aligned with security and operational requirements.
+
+Validate Windows updates, application patching, and security configurations before promotion to production.
+
+Manage image lifecycle processes, testing procedures, rollback strategies, and release documentation.
+
+Implement automation for image creation, validation, and deployment.
+
+Ensure image consistency across development, testing, and production environments.
+
+Establish desktop hardening standards and compliance baselines.
+
+Identity, Directory Services & Authentication
+
+Design and support integrations between AWS WorkSpaces, Microsoft Active Directory, and Microsoft Entra ID.
+
+Manage AWS Directory Services and hybrid identity configurations.
+
+Troubleshoot directory synchronization, computer object creation, OU placement, and authentication workflows.
+
+Support hybrid identity solutions involving Active Directory, Entra Connect, and Intune.
+
+Configure and maintain MFA integrations utilizing RADIUS authentication.
+
+Lead initiatives to migrate legacy authentication methods toward SAML-based federation.
+
+Support Single Sign-On solutions and modern authentication architectures.
+
+Intune & Endpoint Management Integration
+
+Partner with Endpoint Engineering teams to integrate AWS WorkSpaces with Microsoft Intune.
+
+Ensure proper enrollment and management of hybrid-joined WorkSpaces devices.
+
+Support application deployment, policy management, compliance enforcement, and reporting through Intune.
+
+Troubleshoot device registration and management issues involving Entra ID and Intune.
+
+Develop standards for cloud-hosted desktop management using Microsoft technologies.
+
+Collaborate on endpoint security, patching, and configuration management initiatives.
+
+Cloud Infrastructure & Networking
+
+Administer AWS networking components supporting WorkSpaces environments.
+
+Manage Route 53 DNS configurations and name resolution services.
+
+Troubleshoot connectivity, routing, firewall, VPN, and DNS-related issues.
+
+Work closely with network engineering teams to optimize cloud connectivity and user experience.
+
+Understand VPC design, subnets, security groups, network ACLs, and routing principles as they relate to WorkSpaces deployments.
+
+Support desktop access from Windows, macOS, thin clients, and mobile platforms.
+
+Automation & Platform Engineering
+
+Develop automation solutions utilizing AWS Lambda, PowerShell, Python, and AWS native services.
+
+Automate provisioning, monitoring, remediation, reporting, and operational workflows.
+
+Create self-healing mechanisms for common platform issues.
+
+Maintain infrastructure-as-code standards where applicable.
+
+Reduce operational overhead through orchestration and automation initiatives.
+
+Monitoring & Operational Excellence
+
+Configure and maintain CloudWatch dashboards, metrics, alarms, and logging.
+
+Develop proactive monitoring and alerting capabilities.
+
+Analyze performance trends and resource utilization.
+
+Implement operational reporting and executive dashboards.
+
+Participate in incident management, problem management, and root cause analysis activities.
+
+Drive continuous service improvements and platform optimization efforts.
+
+Security & Compliance
+
+Ensure AWS WorkSpaces environments meet security, regulatory, and audit requirements.
+
+Partner with cybersecurity teams to implement security controls and monitoring.
+
+Support vulnerability remediation and platform hardening initiatives.
+
+Participate in audits, risk assessments, and compliance reviews.
+
+Maintain secure access standards, least privilege permissions, and identity governance controls.
+
+Support logging, monitoring, and security event investigations.
+
+Operational Requirements
+
+Execute infrastructure changes under strict Change Management procedures.
+
+Create technical documentation, architecture diagrams, operational runbooks, and support guides.
+
+Participate in after-hours maintenance activities as required.
+
+Provide Level 3 engineering support and escalation assistance.
+
+Collaborate across cloud, infrastructure, security, networking, and endpoint management teams.
+
+Qualifications
+
+7+ years of enterprise infrastructure engineering experience.
+
+5+ years of AWS engineering experience.
+
+3+ years of Amazon WorkSpaces administration and architecture experience.
+
+Deep understanding of AWS WorkSpaces Images, Bundles, Directories, and lifecycle management.
+
+Strong experience with Microsoft Active Directory and hybrid identity environments.
+
+Experience integrating AWS WorkSpaces with Microsoft Entra ID and Intune.
+
+Experience supporting RADIUS MFA authentication and SAML federation solutions.
+
+Strong understanding of cloud networking concepts including Route 53, DNS, VPCs, subnets, routing, and security controls.
+
+Experience with AWS CloudWatch monitoring and alerting.
+
+Strong PowerShell and automation experience.
+
+Experience utilizing AWS Lambda for operational automation.
+
+Knowledge of endpoint deployment and application delivery practices.
+
+Experience supporting Windows 11 enterprise desktop environments.
+
+Excellent troubleshooting and root cause analysis skills.
+
+Strong documentation and communication skills.
+
+Work Conditions & Expectations
+
+Hybrid Schedule: 3 days onsite (Charlotte NC preferred, occasional asks to report to Winston-Salem NC as needed); remaining days remote. On-site requirement can change at any time.
+
+Operational Flexibility: Ability to perform after-hours changes and participate in on-call rotations when required.
+
+Dynamic Environment: Work involves frequent troubleshooting, collaboration across teams, and adapting to evolving technologies.
+
+Security & Compliance: Must adhere to strict Change Management processes and participate in security reviews as needed.
+
+Standard Office Setup: Role primarily uses standard IT equipment (laptops, conferencing tools, monitoring systems) with occasional interaction with server rooms or networking hardware.

@@ -1,0 +1,44 @@
+Type: 
+            
+                On Demand
+            
+            
+            Duration: 
+            
+                37 Minutes
+            
+            
+            
+                Date & Time: 
+                
+                
+            
+            
+            
+            
+            
+        
+            
+            Member Fee: 
+            
+                $0
+            
+            
+            Non-Member Fee: 
+            
+                $279
+            
+            
+            
+            
+                
+            
+            
+            Audience: 
+            
+                AAP Candidates, AAPs, ACH Personnel, Audit, BSA Investigators_Analysts, BSA Officers, Cash Management, Compliance, Credit_Lending, General ACH, IT Personnel, Operations, Payments Personnel, Retail/Frontline, Risk, Risk Managers, Sales, Senior Payments Personnel, Treasury
+            
+            
+        
+        
+            This session is intended for financial institutions, and will address the responsibilities of ODFIs and RDFIs in the processing of ACH reversal entries.  Through the use of case studies, we'll discuss risk considerations and sound business practices for monitoring Originator reversal activity.

@@ -1,0 +1,41 @@
+Innovative Banks Back Intelligent Bill Pay Capability on the RTP® Network
+New York – Today, CEOs of 23 leading financial institutions, along with the chief executives of Jack Henry & Associates and Fiserv, are committing to delivering the next revolution in how bills are delivered and paid by creating a smarter, safer, and more transparent digital experience via the RTP® Network, the real-time payments network from The Clearing House.
+In a letter, the CEOs of the companies backing the new bill pay capabilities stated their organizations are making the investments needed to deliver a new bill-pay experience over mobile and online channels. Billers will be able to present a bill securely through a bank’s digital channel using a RfP (Request for Payment) message over the RTP network. Customers will review the bill, pay immediately, or schedule the payment for a future date. The payment happens in seconds over the RTP network, delivering funds to the biller with confirmations sent to all parties. 
+Later this year 40% of digitally-enabled US consumer accounts are expected to support this new customer experience. Core technology providers, including Jack Henry & Associates and Fiserv, are also introducing the capability and will make it available to their bank and credit union clients. 
+For billers, this represents an opportunity to reimagine their customers’ payment experience, providing added convenience, while delivering meaningful processing efficiencies, including the elimination of paper invoicing and traditional multi-day debit processing. Payments are immediately available and fully reconciled in real-time. 
+The following CEOs signed the letter:
+Brian Moynihan, Bank of America
+Nandita Bakhshi, Bank of the West
+Ashok Vaswani, Barclays
+Todd Gibbons, BNY Mellon
+Richard D. Fairbank, CapitalOne 
+Jane Fraser, Citigroup, Inc.
+Bruce Van Saun, Citizens Financial Group, Inc.
+Curtis C. Farmer, Comerica
+Christiana Riley, Deutsche Bank
+Greg Carmichael, Fifth Third Bank
+Michael M. Roberts, HSBC
+Steve Steinour, The Huntington National Bank
+Gordon Smith, JPMorgan Chase & Co.
+Christopher M. Gorman, KeyCorp
+Rene F. Jones, M&T Bank
+Kevin Cronin, MUFG Americas Holdings Corp.
+William S. Demchak, PNC Financial Services Group
+John Turner, Regions Financial Corp.
+Tim Wennes, Santander Holding, USA Inc.
+Bharat B. Masrani, TD Bank Group
+Kelly S King, Truist
+Andrew Cecere, U.S. Bancorp
+Charles W. Scharf, Wells Fargo & Co.
+Frank Bisignano, Fiserv
+David Foss, Jack Henry & Associates
+The introduction of the RTP network ushered in a new era in payments. Consumers and businesses are benefiting from the flexibility the RTP network and new use cases continue to emerge, including real-time capabilities to pay employees on demand, expedited payment of insurance claims, and merchant acquirers providing merchants the option of real-time settlement over the RTP network.
+The RTP network, developed by The Clearing House, is the first new payments infrastructure built in the U.S. in more than 40 years and is empowering financial institutions and businesses to implement innovative, value-added use cases for faster payments. TCH has invested $320 million to deliver the RTP network to the industry and the network is open to all depository financial institutions.
+###
+About The Clearing House
+The Clearing House operates U.S-based payments networks that clear and settle more than $2 trillion each day through wire, ACH, check image, and the RTP® network. It is the nation’s most experienced payments company, with a long track record of providing secure and reliable systems, payments innovation, and strategic thought leadership to financial institutions. Most recently, The Clearing House has revolutionized U.S. payments infrastructure with the RTP network, which supports the immediate clearing and settlement of payments, along with the ability to exchange related payment information across the same secure channel. These RTP capabilities enable all financial institutions to offer safer, faster, and smarter digital transaction services for their corporate and retail customers. Learn more at www.theclearinghouse.org.
+Media Contact 
+Greg MacSweeney
+The Clearing House
+212-612-9282
+greg.macsweeney@theclearinghouse.org

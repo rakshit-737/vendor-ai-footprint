@@ -1,0 +1,41 @@
+The go-live is behind you. Your Automic environment is running in the new platform. The stakeholders who needed to sign off have signed off. By most measures, the migration is done.
+But there is a window that comes after go-live – one that is either managed proactively or discovered painfully – and how you handle it determines whether your migration actually holds.
+Here is what to watch for, and how to watch for it.
+Watch for Behavior, Not Just Completion
+The first thing most teams monitor after go-live is whether jobs are completing. That is the right instinct, but it is not the full picture.
+You are not just watching for failures. You are watching for variance.
+Is a job that ran in eight minutes now consistently taking twenty-two? That is not a failure on paper. But it is a signal, and it is one worth catching before it becomes a missed SLA or a downstream dependency issue.
+Before go-live, establish baseline expectations for job completion windows in the new environment. After go-live, compare actual runtimes against those baselines. Flag variance, not just failures. The distinction matters more than most teams realize until it does not.
+Validate Alert Routing Before You Need It
+Alert routing is one of the most common gaps in post-migration environments, and one of the quietest. Alerts that worked correctly in the source environment need to be validated in the new one – not assumed.
+Job ownership that existed before the migration may not map cleanly to the new environment. People change roles during long migration timelines. Teams reorganize. The person who was responsible for a critical job chain six months ago may have moved on.
+After go-live, verify:
+- Every critical job chain has a named owner who is current and reachable
+- Test alerts are firing to the correct inboxes, not the ones from the migration plan
+- Escalation paths are documented and known by the people who will actually use them
+Do this before you need it to work at 2am, not after.
+Define When Manual Monitoring Ends
+Most teams set up some level of manual monitoring after go-live. Someone checks the jobs each morning. Someone reviews the overnight run. That is appropriate – for a defined period.
+The risk is when manual monitoring becomes indefinite. When it does, it is usually a sign that the team does not yet trust the environment. And that distrust has a cost: it keeps migration team resources tied to a project that should be closing.
+Define the threshold before go-live. What does the environment need to demonstrate, and for how long, before manual oversight steps down? Make it explicit. Document it. Hold to it.
+Indefinite manual monitoring is not a safety net. It is deferred closure.
+Surface the Ownership Gap
+Job ownership documentation is one thing. Actual ownership is another.
+After go-live, watch for the gap between the two. When a job fails, does the right person take action – or does it default back to the migration team? When an alert fires, does it get resolved by the person who owns it or escalated to whoever is available?
+If escalations are consistently landing back on the migration team, ownership has not actually transferred. The project plan says it has. The behavior says otherwise.
+This is worth surfacing explicitly in a post-go-live review rather than letting it persist as an unspoken workaround.
+Schedule the Post-Go-Live Review Before Go-Live
+Most migration projects end at go-live. The team disperses, the next project starts, and the post-go-live review – if it was ever planned – gets pushed or skipped entirely.
+That is a missed opportunity, and often a costly one.
+A structured post-go-live review, two to four weeks after cutover, gives the team a defined moment to:
+- Review job completion data against the baselines established before go-live
+- Validate that alert routing and ownership are working as expected, not just as documented
+- Document any manual interventions and their root causes
+- Make a formal decision – out loud, on record – that the environment is stable
+It is also the moment where someone says the migration worked. That moment matters more than teams give it credit for.
+The review has to be scheduled before go-live, not after. After go-live, everyone is already on the next thing.
+The Window Is Short
+The period right after go-live is when the team is most alert, most invested, and most positioned to catch and correct issues. It is also when the environment is most likely to surface the gaps that testing did not.
+Use that window deliberately. Watch for behavior variance, not just failures. Validate alert routing before you need it. Define when manual monitoring ends and hold to it. Surface the ownership gaps in a review that was already on the calendar.
+The migration is not done when you go live. It is done when the environment runs on its own and the team knows it.
+AutomWorx specializes in Automic workload automation consulting, migration planning, and post-go-live support. Contact us at automworx.com.

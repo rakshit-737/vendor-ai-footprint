@@ -1,0 +1,102 @@
+{
+  "count": 1,
+  "hasMore": false,
+  "items": [
+    {
+      "ApplyWhenNotPostedFlag": true,
+      "BeFirstToApplyFlag": false,
+      "BusinessUnit": null,
+      "BusinessUnitId": 300000094081469,
+      "Category": "Data Science",
+      "ContentLocale": "en",
+      "ContractType": null,
+      "CorporateDescriptionStr": "<p>At BNY, our culture allows us to run our company better and enables employees’ growth and success. As a leading global financial services company at the heart of the global financial system, we influence nearly 20% of the world’s investible assets. Every day, our teams harness cutting-edge AI and breakthrough technologies to collaborate with clients, driving transformative solutions that redefine industries and uplift communities worldwide.</p>Recognized as a top destination for innovators, BNY is where bold ideas meet advanced technology and exceptional talent. Together, we power the future of finance – and this is what #LifeAtBNY is all about. Join us and be part of something extraordinary.",
+      "Department": null,
+      "DomesticTravelRequired": null,
+      "ExternalContactEmail": null,
+      "ExternalContactName": null,
+      "ExternalDescriptionStr": "<p style=\"margin-bottom: 0in;\"><span style=\"font-family: &quot;Aptos Display&quot;, sans-serif;\"><strong>Overview</strong></span></p><p style=\"margin-bottom: 0in;\"><span style=\"font-family: &quot;Aptos Display&quot;, sans-serif;\">This is a senior hands-on engineering role focused on building and scaling AI-powered solutions for Wealth &amp; Investment Management. You will work at the intersection of investment expertise, quantitative analysis, and modern AI technologies to create intelligent applications that enhance portfolio construction, investment research, advisor productivity, and client outcomes.</span></p><p style=\"margin-bottom: 0in;\"><span style=\"font-family: &quot;Aptos Display&quot;, sans-serif;\">The ideal candidate combines strong mathematical and analytical capabilities with a passion for software engineering and applied AI. You will partner with investment professionals, product leaders, data scientists, and engineers to transform complex financial challenges into innovative, production-grade AI solutions.</span></p><p style=\"margin-bottom: 0in;\">&nbsp;</p><p style=\"margin-bottom: 0in;\"><span style=\"font-family: &quot;Aptos Display&quot;, sans-serif;\"><strong>In this role, you'll make an impact by:</strong></span></p><ul style=\"list-style-type: disc; padding-left: 33.6px;\"><li><p style=\"margin-bottom: 0in; margin-right: 0in; margin-top: 0in;\"><span style=\"font-family: &quot;Aptos Display&quot;, sans-serif;\">Designing and developing AI-powered applications, intelligent workflows, and agent-based solutions that support Wealth &amp; Investment Management business objectives.</span></p></li><li><p style=\"margin-bottom: 0in; margin-right: 0in; margin-top: 0in;\"><span style=\"font-family: &quot;Aptos Display&quot;, sans-serif;\">Building portfolio analytics, investment research, and decision-support solutions leveraging market, client, and third-party data sources.</span></p></li><li><p style=\"margin-bottom: 0in; margin-right: 0in; margin-top: 0in;\"><span style=\"font-family: &quot;Aptos Display&quot;, sans-serif;\">Integrating and operationalizing data from multiple investment platforms, market data providers, and financial systems to create scalable AI-ready data products.</span></p></li><li><p style=\"margin-bottom: 0in; margin-right: 0in; margin-top: 0in;\"><span style=\"font-family: &quot;Aptos Display&quot;, sans-serif;\">Developing APIs, data pipelines, automation frameworks, and reusable software components that accelerate solution delivery.</span></p></li><li><p style=\"margin-bottom: 0in; margin-right: 0in; margin-top: 0in;\"><span style=\"font-family: &quot;Aptos Display&quot;, sans-serif;\">Applying quantitative and statistical techniques to support portfolio construction, risk analysis, performance attribution, and investment insights.</span></p></li><li><p style=\"margin-bottom: 0in; margin-right: 0in; margin-top: 0in;\"><span style=\"font-family: &quot;Aptos Display&quot;, sans-serif;\">Assisting in the implementation of retrieval, embedding, semantic search, and knowledge-driven capabilities to enhance investment workflows.</span></p></li><li><p style=\"margin-bottom: 0in; margin-right: 0in; margin-top: 0in;\"><span style=\"font-family: &quot;Aptos Display&quot;, sans-serif;\">Supporting testing, model evaluation, monitoring, and operational activities to ensure solution quality, accuracy, and reliability.</span></p></li><li><p style=\"margin-bottom: 0in; margin-right: 0in; margin-top: 0in;\"><span style=\"font-family: &quot;Aptos Display&quot;, sans-serif;\">Contributing to shared frameworks, engineering standards, reusable assets, and technical documentation across the AI Garage.</span></p></li><li><p style=\"margin-bottom: 0in; margin-right: 0in; margin-top: 0in;\"><span style=\"font-family: &quot;Aptos Display&quot;, sans-serif;\">Participating in code reviews and adopting engineering best practices to promote maintainability, scalability, and security.</span></p></li><li><p style=\"margin-bottom: 0in; margin-right: 0in; margin-top: 0in;\"><span style=\"font-family: &quot;Aptos Display&quot;, sans-serif;\">Continuously exploring emerging AI, data science, and financial technology innovations to drive differentiated business value.</span></p></li></ul><p style=\"margin-bottom: 0in;\">&nbsp;</p><p style=\"margin-bottom: 0in;\"><span style=\"font-family: &quot;Aptos Display&quot;, sans-serif;\"><strong>To be successful in this role, we're seeking the following:</strong></span></p><ul style=\"list-style-type: disc; padding-left: 33.6px;\"><li><p style=\"margin-bottom: 0in; margin-right: 0in; margin-top: 0in;\"><span style=\"font-family: &quot;Aptos Display&quot;, sans-serif;\">4-7 years of experience in software engineering, quantitative analytics, financial technology, data engineering, AI engineering, or a related field.</span></p></li><li><p style=\"margin-bottom: 0in; margin-right: 0in; margin-top: 0in;\"><span style=\"font-family: &quot;Aptos Display&quot;, sans-serif;\">Strong mathematical, statistical, and analytical foundation with the ability to apply quantitative concepts to real-world investment and wealth management challenges.</span></p></li><li><p style=\"margin-bottom: 0in; margin-right: 0in; margin-top: 0in;\"><span style=\"font-family: &quot;Aptos Display&quot;, sans-serif;\">Practical experience with portfolio construction, investment analysis, asset allocation, risk modeling, investment research, or related Wealth &amp; Investment Management disciplines.</span></p></li><li><p style=\"margin-bottom: 0in; margin-right: 0in; margin-top: 0in;\"><span style=\"font-family: &quot;Aptos Display&quot;, sans-serif;\">Strong programming skills in Python and proficiency with data analysis libraries and software engineering best practices.</span></p></li><li><p style=\"margin-bottom: 0in; margin-right: 0in; margin-top: 0in;\"><span style=\"font-family: &quot;Aptos Display&quot;, sans-serif;\">Experience working with financial data sets, investment platforms, market data vendors (FactSet, Bloomberg, Morningstar, or similar), and portfolio analytics solutions.</span></p></li><li><p style=\"margin-bottom: 0in; margin-right: 0in; margin-top: 0in;\"><span style=\"font-family: &quot;Aptos Display&quot;, sans-serif;\">Familiarity with cloud-native development, APIs, databases, and modern software development lifecycle practices.</span></p></li><li><p style=\"margin-bottom: 0in; margin-right: 0in; margin-top: 0in;\"><span style=\"font-family: &quot;Aptos Display&quot;, sans-serif;\">Exposure to Generative AI, machine learning, agentic applications, retrieval-augmented generation (RAG), or advanced analytics solutions.</span></p></li><li><p style=\"margin-bottom: 0in; margin-right: 0in; margin-top: 0in;\"><span style=\"font-family: &quot;Aptos Display&quot;, sans-serif;\">Hands-on experience developing data pipelines, integrating third-party data sources, and building scalable analytical applications.</span></p></li><li><p style=\"margin-bottom: 0in; margin-right: 0in; margin-top: 0in;\"><span style=\"font-family: &quot;Aptos Display&quot;, sans-serif;\">Strong problem-solving and critical-thinking skills with the ability to translate complex business requirements into practical technical solutions.</span></p></li><li><p style=\"margin-bottom: 0in; margin-right: 0in; margin-top: 0in;\"><span style=\"font-family: &quot;Aptos Display&quot;, sans-serif;\">Excellent communication and collaboration skills with the ability to work effectively across investment, product, and engineering teams.</span></p></li><li><p style=\"margin-bottom: 0in; margin-right: 0in; margin-top: 0in;\"><span style=\"font-family: &quot;Aptos Display&quot;, sans-serif;\">Intellectual curiosity and a passion for applying emerging AI technologies to solve complex financial and investment challenges.</span></p></li></ul><p style=\"margin-bottom: 0in;\">&nbsp;</p><p style=\"margin-bottom: 0in;\"><span style=\"font-family: &quot;Aptos Display&quot;, sans-serif;\"><strong>Preferred Qualifications</strong></span></p><ul style=\"list-style-type: disc; padding-left: 33.6px;\"><li><p style=\"margin-bottom: 0in; margin-right: 0in; margin-top: 0in;\"><span style=\"font-family: &quot;Aptos Display&quot;, sans-serif;\">Experience supporting portfolio management, investment advisory, model portfolio, or wealth management platforms.</span></p></li><li><p style=\"margin-bottom: 0in; margin-right: 0in; margin-top: 0in;\"><span style=\"font-family: &quot;Aptos Display&quot;, sans-serif;\">Knowledge of optimization techniques, quantitative finance, portfolio construction methodologies, and risk analytics.</span></p></li><li><p style=\"margin-bottom: 0in; margin-right: 0in; margin-top: 0in;\"><span style=\"font-family: &quot;Aptos Display&quot;, sans-serif;\">Practical implementation experience with agentic AI solutions, MCP/A2A integration patterns, and automated evaluation and validation frameworks.</span></p></li><li><p style=\"margin-bottom: 0in; margin-right: 0in; margin-top: 0in;\"><span style=\"font-family: &quot;Aptos Display&quot;, sans-serif;\">Experience building production-grade AI applications in regulated financial services environments.</span></p></li></ul>",
+      "ExternalPostedEndDate": null,
+      "ExternalPostedStartDate": "2026-09-17T14:21:28+00:00",
+      "ExternalQualificationsStr": "",
+      "ExternalResponsibilitiesStr": "",
+      "GeographyId": 300000090214594,
+      "GeographyNodeId": 100010357091606,
+      "HiringManager": null,
+      "HotJobFlag": false,
+      "Id": "81040",
+      "InternalQualificationsStr": "",
+      "InternalResponsibilitiesStr": "",
+      "InternationalTravelRequired": null,
+      "JobFamilyId": 300000094771360,
+      "JobFunction": "AI Engineering",
+      "JobFunctionCode": "AIENG",
+      "JobGrade": null,
+      "JobLevel": null,
+      "JobSchedule": "Full time",
+      "JobShift": "Day",
+      "JobType": null,
+      "LegalEmployer": null,
+      "LegalEmployerId": 300000003582023,
+      "NumberOfOpenings": null,
+      "ObjectVerNumberProfile": null,
+      "Organization": null,
+      "OrganizationDescriptionStr": "<p>At BNY, our culture speaks for itself, check out the latest BNY news at&nbsp;<a href=\"https://www.bny.com/corporate/global/en/about-us/newsroom.html\" target=\"_blank\" rel=\"nofollow\">BNY Newsroom</a>&nbsp;&amp;&nbsp;<a href=\"https://www.linkedin.com/company/bnyglobal/posts/?feedView=all\" target=\"_blank\" rel=\"nofollow\">BNY LinkedIn</a></p>\n<p style=\"margin-bottom:0in\">&nbsp;Here’s a few of our recent awards:</p>\n<ul style=\"margin-top:0in\">\n <li style=\"margin-bottom:0in\">America’s Most Innovative Companies, Fortune, 2025</li>\n <li style=\"margin-bottom:0in\">World’s Most Admired Companies, Fortune 2025</li>\n <li style=\"margin-bottom:0in\">“Most Just Companies”, Just Capital and CNBC, 2025</li>\n</ul>\n<ul></ul>\n<p>Our Benefits and Rewards:</p>\n<p>BNY offers highly competitive compensation, benefits, and wellbeing programs rooted in a strong culture of excellence and our pay-for-performance philosophy. We provide access to flexible global resources and tools for your life’s journey. Focus on your health, foster your personal resilience, and reach your financial goals as a valued member of our team, along with generous paid leaves, including paid volunteer time, that can support you and your family through moments that matter.</p>\n<p>BNY is an Equal Employment Opportunity/Affirmative Action Employer - Underrepresented racial and ethnic groups/Females/Individuals with Disabilities/Protected Veterans.</p>\n<p>BNY assesses market data to ensure a competitive compensation package for our employees. The expected base salary for this position when employment commences can be found in the Job Info section at the bottom of the posting.&nbsp;</p>\n<p>Base salary offered may vary depending on multiple individualized factors, including market location, job-related knowledge, skills, and experience. Base salary is only part of the total rewards package, which may include eligibility for an annual discretionary incentive award. Subject to the terms and conditions of the applicable plans then in effect, eligible employees may enroll in a 401(k) plan as well as participate in Company-sponsored medical, dental, vision, and basic life insurance plans for the employee and the employee’s eligible dependents. Eligible employees also may receive other benefits (including various paid time off benefits, such as vacation and sick time), dependent on the position offered. Details of participation in these benefit plans will be provided if an employee receives an offer of employment.</p>\n<p>If hired, the employee will be in an “at will” position and the Company reserves the right to modify base salary (as well as any other discretionary payments or compensation programs) at any time, including for reasons related to individual performance, Company or individual department/team performance, and market factors.</p>",
+      "OrganizationId": 300000094725002,
+      "OtherRequisitionTitle": null,
+      "PrimaryLocation": "New York, NY, United States",
+      "PrimaryLocationCountry": "US",
+      "RequisitionId": 300010796095371,
+      "RequisitionType": "Experienced",
+      "ShortDescriptionStr": "",
+      "StudyLevel": null,
+      "Title": "Senior Associate, Data Scientist",
+      "TrendingFlag": true,
+      "WorkDays": null,
+      "WorkHours": null,
+      "WorkMonths": null,
+      "WorkYears": null,
+      "WorkerType": null,
+      "WorkplaceType": "",
+      "WorkplaceTypeCode": null,
+      "media": [],
+      "otherWorkLocations": [],
+      "primaryLocationCoordinates": [
+        {
+          "CountryCode": "US",
+          "GeographyId": 300000090214594,
+          "GeographyNodeId": 100010357091606,
+          "Latitude": "40.58055",
+          "Longitude": "-74.00391"
+        }
+      ],
+      "requisitionFlexFields": [
+        {
+          "ControlType": "TextArea",
+          "Prompt": "Base Salary Min",
+          "SequenceNumber": 12,
+          "Value": "71000"
+        },
+        {
+          "ControlType": "TextArea",
+          "Prompt": "Base Salary Max",
+          "SequenceNumber": 21,
+          "Value": "121000"
+        }
+      ],
+      "secondaryLocations": [],
+      "skills": [],
+      "workLocation": []
+    }
+  ],
+  "limit": 499,
+  "links": [
+    {
+      "href": "https://eofe.fa.us2.oraclecloud.com:443/hcmRestApi/resources/11.13.18.05/recruitingCEJobRequisitionDetails",
+      "kind": "collection",
+      "name": "recruitingCEJobRequisitionDetails",
+      "rel": "self"
+    }
+  ],
+  "offset": 0
+}

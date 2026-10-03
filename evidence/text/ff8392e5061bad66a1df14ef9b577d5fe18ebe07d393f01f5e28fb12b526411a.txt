@@ -1,0 +1,46 @@
+Type: 
+            
+                Webinar
+            
+            
+            Duration: 
+            
+                30 Minutes
+            
+            
+            
+                Date & Time: 
+                
+                
+            
+            
+            
+            
+            
+        
+            
+            Member Fee: 
+            
+                $0
+            
+            
+            Non-Member Fee: 
+            
+                $279
+            
+            
+            
+            
+                
+            
+            
+            Audience: 
+            
+                AAP Candidates, AAPs, ACH Personnel, APRP Candidates, APRPs, Audit, BSA Investigators_Analysts, BSA Officers, Cash Management, Compliance, Corporate Payments Professionals, General ACH, IT Personnel, Operations, Payments Personnel, Risk, Risk Managers, Senior Payments Personnel, Treasury
+            
+            
+        
+        
+            On March 19, 2021, the WEB Debit Account Validation Rule will take effect.  This effective date was affirmed in ACH Operations Bulletin #7-2020. Nacha will not enforce this rule for an additional period of one year from the effective date for those covered entities that are working in good faith toward compliance, but that require additional time to implement a solution.
+Currently, ACH Originators of WEB debit entries are required to use a “commercially reasonable fraudulent transaction detection system” to screen WEB debits for fraud. This existing requirement will be supplemented to make it explicit that “account validation” is part of a “commercially reasonable fraudulent transaction detection system.” The supplemental requirement applies to the first use of an account number, or changes to the account number.
+Join TCHPA as we discuss the new rule requirements, impacts and considerations.

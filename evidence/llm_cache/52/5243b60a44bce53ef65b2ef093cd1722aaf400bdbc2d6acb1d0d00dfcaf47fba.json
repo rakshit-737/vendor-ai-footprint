@@ -1,0 +1,12 @@
+{
+ "key": "5243b60a44bce53ef65b2ef093cd1722aaf400bdbc2d6acb1d0d00dfcaf47fba",
+ "model": "gemini-3.5-flash-lite",
+ "payload_sha256": "06f0bc01b752b0b2ddd5c079a21e4bc9317e893851689cc7c48eae9df5cf67ac",
+ "prompt_sha256": "39cf8aaf00e873db502e5bf775befd08cd90b405cd5cbb72410c24f061d42c7b",
+ "response": {
+  "items": []
+ },
+ "role": "triage",
+ "schema_sha256": "bfa518f5696a8a888caa1694ae1f4e6c5352444eba62055f162e4368869b27d3",
+ "seed": 1234
+}

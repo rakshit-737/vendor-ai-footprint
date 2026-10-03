@@ -1,0 +1,12 @@
+[
+  [
+    "timestamp",
+    "original",
+    "statuscode"
+  ],
+  [
+    "20260108145112",
+    "https://mondovisione.com/media-and-resources/news/fiserv-collaborates-with-microsoft-to-accelerate-ai-driven-innovation-the-two-202618/",
+    "200"
+  ]
+]

@@ -1,0 +1,122 @@
+DATA SHEET 
+ 
+ 
+ 
+Migrate to Automic 
+from Control-M  
+ 
+AutomWorx is an independent consulting company staffed with a team of highly experienced solution 
+architects, consultants, and project managers with extensive workload automation software expertise 
+across multiple platforms 
+ 
+Transitioning from BMC Control-M to Automic Workload 
+Automation does not have to be painful for your team. AutomWorx 
+Consulting will help preserve your existing jobs, workflows, and 
+processes. 
+AutomWorx conversion programs have an over 80% 
+conversion rate. 
+Use Automic Saas, or deploy on-premises in your own data center. 
+Key Advantages of Automic Automation:  
+• Predefined Templates: Automic offers ready-to-use 
+templates for specific applications, streamlining setup and 
+reducing manual configuration. 
+• Enhanced User Access: Different users can easily access and 
+manage their respective tasks within Automic, improving 
+collaboration and efficiency. 
+• Robust Architecture: Automic's multi-tenancy architecture 
+provides a scalable and secure environment for multi-client 
+organizations. It can also be deployed as SaaS. 
+Considerations: 
+• User Friendliness: Automic utilizes an intuitive and easy-to-
+use interface 
+• Documentation and Monitoring: Automic provides 
+comprehensive documentation  
+• Modern Architecture: Never run into limitations in terms of 
+scalability and integration with modern technologies. 
+• Reporting: Robust reporting options. 
+  
+ 
+AutomWorx Benefits 
+• Maximize your Automic® 
+Automation investment by 
+understanding and 
+leveraging more product 
+capabilities 
+• AutomWorx is an authorized 
+Broadcom software reseller 
+and offers software 
+subscriptions, including SaaS, 
+license renewals, and 
+Extended Support plans 
+• We develop custom solutions, 
+including proprietary 
+migration utilities 
+• Extensive Automic software 
+implementation experience
+
+Why Use A Workload Automation Consultant?  
+AutomWorx, a Broadcom Expert Advantage Partner, can 
+significantly enhance the success and efficiency of your 
+Automic implementation.  
+Expertise and Best Practices:  
+• Deep understanding of Automic: Consultants possess in-
+depth knowledge of Automic's features, capabilities, and 
+best practices. 
+• Proven methodologies: We follow established 
+implementation methodologies to ensure a smooth and 
+structured process.    
+Tailored Solutions: 
+• Needs assessment: Consultants work with you to identify 
+your specific automation requirements and objectives. 
+• Customized implementation: Get the Automic 
+configuration that aligns to your business processes. 
+Risk Mitigation:  
+• Avoid common pitfalls: Experienced consultants help you 
+steer clear of common challenges that delay conversions. 
+• Mitigate risks: They implement strategies to minimize risks 
+and ensure a successful rollout. 
+Process Integrity:  
+• Zero Downtime Upgrade (ZDU): Environments can run in 
+parallel until you are ready to go live. 
+• Reduced Risk: Minimize the risk of data loss or corruption. 
+Training 
+• Everything Automic: We help your team become Automic 
+experts.  
+Ongoing Support and Maintenance:  
+• Post-implementation support: Consultants can provide 
+ongoing support and maintenance to ensure Automic 
+continues to operate smoothly.    
+• Extended Support: Reach the AutomWorx team directly, 
+even after hours. 
+ 
+ 
+ 
+ 
+Service Offerings 
+• Architecture & Design 
+• Assessment and Health Check 
+• Implementation 
+• Migration and Data Conversion 
+• Policy Development 
+• Pre-sales & POC 
+• Training & Education 
+• Transformation Services 
+ 
+About AutomWorx 
+AutomWorx specializes in helping 
+organizations get the most out of 
+workload automation investments. 
+Automation and application integration 
+is our passion, and it’s the sole focus of 
+our practice. How can we help you? 
+ 
+Contact 
+ 
+  Phone 
+  800.420.6176 
+ 
+  Web 
+  www.automworx.com 
+ 
+  Email 
+  info@automworx.com

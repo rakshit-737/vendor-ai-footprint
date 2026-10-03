@@ -1,0 +1,120 @@
+{
+  "count": 1,
+  "hasMore": false,
+  "items": [
+    {
+      "ApplyWhenNotPostedFlag": true,
+      "BeFirstToApplyFlag": false,
+      "BusinessUnit": null,
+      "BusinessUnitId": 300000094081469,
+      "Category": "Product Management",
+      "ContentLocale": "en",
+      "ContractType": null,
+      "CorporateDescriptionStr": "<p>At BNY, our culture allows us to run our company better and enables employees’ growth and success. As a leading global financial services company at the heart of the global financial system, we influence nearly 20% of the world’s investible assets. Every day, our teams harness cutting-edge AI and breakthrough technologies to collaborate with clients, driving transformative solutions that redefine industries and uplift communities worldwide.</p>Recognized as a top destination for innovators, BNY is where bold ideas meet advanced technology and exceptional talent. Together, we power the future of finance – and this is what #LifeAtBNY is all about. Join us and be part of something extraordinary.",
+      "Department": null,
+      "DomesticTravelRequired": null,
+      "ExternalContactEmail": null,
+      "ExternalContactName": null,
+      "ExternalDescriptionStr": "<div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\">\n <p><strong>Senior Vice President, Applied AI Product Manager:</strong>&nbsp;</p>\n</div>\n<div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\">\n <p>At BNY, our culture allows us to run our company better and enables employees’ growth and success. As a leading global financial services company at the heart of the global financial system, we influence nearly 20% of the world’s investible assets. Every day, our teams harness cutting-edge AI and breakthrough technologies to collaborate with clients, driving transformative solutions that redefine industries and uplift communities worldwide.&nbsp;</p>\n</div>\n<div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\">\n <p>Recognized as a top destination for innovators, BNY is where bold ideas meet advanced technology and exceptional talent. Together, we power the future of finance – and this is what #LifeAtBNY is all about. Join us and be part of something extraordinary.&nbsp;</p>\n</div>\n<div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\">\n <p>We’re seeking a future team member for the role of Senior Vice President, Applied AI Product Manager to join our Innovation Team and drive the design, development, and delivery of AI-powered solutions that transform how work gets done across the bank. This leader will partner closely with product, engineering, and business teams to operationalize AI capabilities and bring intelligent automation platforms to production at enterprise scale.&nbsp;</p>\n</div>\n<div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\">\n <p>This role is located in New York, NY (4 days in office per week).&nbsp;</p>\n</div>\n<div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\">\n <p><strong>Role Overview:</strong>&nbsp;</p>\n</div>\n<div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\">\n <p>As Senior Vice President, Applied AI Product Manager, you will lead the development and execution of AI-driven products that modernize business processes and enable scalable automation across enterprise functions. You will partner with engineering, data science, and business stakeholders to translate complex operational challenges into AI-enabled solutions that improve efficiency, reduce risk, and enhance client outcomes.&nbsp;</p>\n</div>\n<div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\">\n <p>You will focus on product execution, platform delivery, and adoption, ensuring solutions are reliable, scalable, and aligned with enterprise governance standards.&nbsp;</p>\n</div>\n<div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\">\n <p><strong>In this role, you’ll make an impact in the following ways:</strong>&nbsp;</p>\n</div>\n<div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\">\n <p><strong>Product Strategy &amp; Roadmap Execution</strong>&nbsp;</p>\n</div>\n<div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\">\n <ul>\n  <li>Execute the applied AI product roadmap aligned to enterprise AI strategy and platform priorities&nbsp;</li>\n </ul>\n</div>\n<div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\">\n <ul>\n  <li>Translate business needs into product requirements, backlog priorities, and release plans&nbsp;</li>\n </ul>\n</div>\n<div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\">\n <ul>\n  <li>Identify opportunities for AI-enabled automation within specific domains or workflows&nbsp;</li>\n </ul>\n</div>\n<div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\">\n <ul>\n  <li>Work with engineering and data science to refine technical solutions and product features&nbsp;</li>\n </ul>\n</div>\n<div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\">\n <p><strong>AI-Powered Process Innovation</strong>&nbsp;</p>\n</div>\n<div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\">\n <ul>\n  <li>Translate operational challenges into AI-enabled features, automation workflows, or decision-support tools&nbsp;</li>\n </ul>\n</div>\n<div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\">\n <ul>\n  <li>Support development of LLM-powered solutions, intelligent automation, and agent-enabled workflows&nbsp;</li>\n </ul>\n</div>\n<div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\">\n <ul>\n  <li>Work with platform teams to implement AI capabilities within existing business processes&nbsp;</li>\n </ul>\n</div>\n<div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\">\n <p><strong>Execution &amp; Cross-Functional Delivery</strong>&nbsp;</p>\n</div>\n<div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\">\n <ul>\n  <li>Leads delivery of specific AI products or capabilities across product, engineering, and data science teams&nbsp;</li>\n </ul>\n</div>\n<div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\">\n <ul>\n  <li>Coordinates development, testing, and deployment of AI-enabled solutions&nbsp;</li>\n </ul>\n</div>\n<div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\">\n <ul>\n  <li>Removes blockers and ensures alignment within product delivery teams&nbsp;</li>\n </ul>\n</div>\n<div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\">\n <p><strong>Stakeholder Engagement</strong>&nbsp;</p>\n</div>\n<div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\">\n <ul>\n  <li>Work with engineering, data science, and operational stakeholders to deliver AI product features&nbsp;</li>\n </ul>\n</div>\n<div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\">\n <ul>\n  <li>Communicate requirements, priorities, and delivery progress&nbsp;</li>\n </ul>\n</div>\n<div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\">\n <ul>\n  <li>Help translate technical capabilities into practical business outcomes&nbsp;</li>\n </ul>\n</div>\n<div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\">\n <p>&nbsp;</p>\n</div>\n<div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\">\n <p><strong>Impact Measurement</strong>&nbsp;</p>\n</div>\n<div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\">\n <ul>\n  <li>Track product-level metrics such as automation adoption, workflow efficiency, and user engagement&nbsp;</li>\n </ul>\n</div>\n<div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\">\n <ul>\n  <li>Use feedback and data to iterate and improve AI product performance&nbsp;</li>\n </ul>\n</div>\n<div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\">\n <p>&nbsp;</p>\n</div>\n<div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\">\n <p><strong>To be successful in this role, we’re seeking the following:</strong>&nbsp;</p>\n</div>\n<div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\">\n <p><strong>Required</strong>&nbsp;</p>\n</div>\n<div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\">\n <ul>\n  <li>8–10 years of experience in Applied AI product management, AI-enabled product development, or enterprise software delivery&nbsp;</li>\n </ul>\n</div>\n<div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\">\n <ul>\n  <li>Strong understanding of:&nbsp;</li>\n </ul>\n</div>\n<div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\">\n <ul>\n  <li>AI-powered product capabilities&nbsp;</li>\n </ul>\n</div>\n<div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\">\n <ul>\n  <li>Generative AI&nbsp;&nbsp;</li>\n </ul>\n</div>\n<div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\">\n <ul>\n  <li>Intelligent automation and agentification&nbsp;</li>\n </ul>\n</div>\n<div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\">\n <ul>\n  <li>Experience working with engineering and data science teams to deliver applied AI products&nbsp;</li>\n </ul>\n</div>\n<div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\">\n <ul>\n  <li>Knowledge of enterprise architecture patterns including APIs, microservices, and distributed systems&nbsp;</li>\n </ul>\n</div>\n<div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\">\n <ul>\n  <li>Ability to translate complex business challenges into scalable technical solutions&nbsp;</li>\n </ul>\n</div>\n<div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\">\n <ul>\n  <li>Strong product delivery, prioritization, and stakeholder management skills&nbsp;</li>\n </ul>\n</div>\n<div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\">\n <ul>\n  <li>Bachelor's degree in STEM or related discipline&nbsp;</li>\n </ul>\n</div>\n<div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\">\n <p>&nbsp;</p>\n</div>\n<div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\">\n <p><strong>Preferred</strong>&nbsp;</p>\n</div>\n<div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\">\n <ul>\n  <li>Experience implementing LLM-based solutions or intelligent automation platforms&nbsp;</li>\n </ul>\n</div>\n<div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\">\n <ul>\n  <li>Familiarity with AI lifecycle management, model monitoring, and observability tools&nbsp;</li>\n </ul>\n</div>\n<div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\">\n <ul>\n  <li>Experience working in regulated or enterprise environments&nbsp;</li>\n </ul>\n</div>\n<div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\">\n <ul>\n  <li>Certifications: CSPO, A-CSPO, SAFe POPM, CSM, AWS Cloud Practitioner, Generative AI specialization.&nbsp;</li>\n </ul>\n</div>\n<div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\">\n <ul>\n  <li>Advanced degree preferred&nbsp;</li>\n </ul>\n</div>\n<div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\">\n <p>&nbsp;</p>\n</div>\n<div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\">\n <p><strong>At BNY, our culture speaks for itself, check out the latest BNY news at:</strong>&nbsp;</p>\n</div>\n<div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\">\n <p><a target=\"_blank\" rel=\"nofollow\"><u>BNY Newsroom</u></a></p>\n</div>\n<div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\">\n <p><a target=\"_blank\" rel=\"nofollow\"><u>BNY LinkedIn</u></a>&nbsp;&nbsp;</p>\n</div>\n<div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\">\n <p>Here’s a few of our recent awards:&nbsp;&nbsp;</p>\n</div>\n<div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\">\n <ul>\n  <li>America’s Most Innovative Companies, Fortune, 2025&nbsp;</li>\n </ul>\n</div>\n<div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\">\n <ul>\n  <li>World’s Most Admired Companies, Fortune 2025&nbsp;</li>\n </ul>\n</div>\n<div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\">\n <ul>\n  <li>“Most Just Companies”, Just Capital and CNBC, 2025&nbsp;</li>\n </ul>\n</div>\n<div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\">\n <p><strong>Our Benefits and Rewards:</strong>&nbsp;</p>\n</div>\n<div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\">\n <p>BNY offers highly competitive compensation, benefits, and wellbeing programs rooted in a strong culture of excellence and our pay-for-performance philosophy. We provide access to flexible global resources and tools for your life’s journey. Focus on your health, foster your personal resilience, and reach your financial goals as a valued member of our team, along with generous paid leaves, including paid volunteer time, that can support you and your family through moments that matter.&nbsp;&nbsp;</p>\n</div>\n<div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\">\n <p>&nbsp;&nbsp;</p>\n</div>\n<div style=\"font-style: normal; font-weight: 400; margin: 0px; padding: 0px;\">\n <p>BNY is an Equal Employment Opportunity/Affirmative Action Employer - Underrepresented racial and ethnic groups/Females/Individuals with Disabilities/Protected Veterans.&nbsp;</p>\n</div>\n<p><br><br>\n BNY assesses market data to ensure a competitive compensation package for our employees. The base salary for this position is expected to be between $104,000 and $253,000 per year at the commencement of employment. However, base salary if hired will be determined on an individualized basis, including as to experience and market location, and is only part of the BNY total compensation package, which, depending on the position, may also include commission earnings, discretionary bonuses, short and long-term incentive packages, and Company-sponsored benefit programs.&nbsp;<br>\n This position is at-will and the Company reserves the right to modify base salary (as well as any other discretionary payment or compensation) at any time, including for reasons related to individual performance, change in geographic location, Company or individual department/team performance, and market factors.</p>",
+      "ExternalPostedEndDate": null,
+      "ExternalPostedStartDate": "2026-08-24T18:57:39+00:00",
+      "ExternalQualificationsStr": "",
+      "ExternalResponsibilitiesStr": "",
+      "GeographyId": 300000090214594,
+      "GeographyNodeId": 100010357091606,
+      "HiringManager": null,
+      "HotJobFlag": false,
+      "Id": "81361",
+      "InternalQualificationsStr": "",
+      "InternalResponsibilitiesStr": "",
+      "InternationalTravelRequired": null,
+      "JobFamilyId": 300000094774293,
+      "JobFunction": "Product/Solutions Delivery",
+      "JobFunctionCode": "PSD",
+      "JobGrade": null,
+      "JobLevel": null,
+      "JobSchedule": "Full time",
+      "JobShift": "Day",
+      "JobType": null,
+      "LegalEmployer": null,
+      "LegalEmployerId": 300000003582023,
+      "NumberOfOpenings": null,
+      "ObjectVerNumberProfile": null,
+      "Organization": null,
+      "OrganizationDescriptionStr": "<p>At BNY, our culture speaks for itself, check out the latest BNY news at&nbsp;<a href=\"https://www.bny.com/corporate/global/en/about-us/newsroom.html\" target=\"_blank\" rel=\"nofollow\">BNY Newsroom</a>&nbsp;&amp;&nbsp;<a href=\"https://www.linkedin.com/company/bnyglobal/posts/?feedView=all\" target=\"_blank\" rel=\"nofollow\">BNY LinkedIn</a></p>\n<p style=\"margin-bottom:0in\">&nbsp;Here’s a few of our recent awards:</p>\n<ul style=\"margin-top:0in\">\n <li style=\"margin-bottom:0in\">America’s Most Innovative Companies, Fortune, 2025</li>\n <li style=\"margin-bottom:0in\">World’s Most Admired Companies, Fortune 2025</li>\n <li style=\"margin-bottom:0in\">“Most Just Companies”, Just Capital and CNBC, 2025</li>\n</ul>\n<ul></ul>\n<p>Our Benefits and Rewards:</p>\n<p>BNY offers highly competitive compensation, benefits, and wellbeing programs rooted in a strong culture of excellence and our pay-for-performance philosophy. We provide access to flexible global resources and tools for your life’s journey. Focus on your health, foster your personal resilience, and reach your financial goals as a valued member of our team, along with generous paid leaves, including paid volunteer time, that can support you and your family through moments that matter.</p>\n<p>BNY is an Equal Employment Opportunity/Affirmative Action Employer - Underrepresented racial and ethnic groups/Females/Individuals with Disabilities/Protected Veterans.</p>\n<p>BNY assesses market data to ensure a competitive compensation package for our employees. The expected base salary for this position when employment commences can be found in the Job Info section at the bottom of the posting.&nbsp;</p>\n<p>Base salary offered may vary depending on multiple individualized factors, including market location, job-related knowledge, skills, and experience. Base salary is only part of the total rewards package, which may include eligibility for an annual discretionary incentive award. Subject to the terms and conditions of the applicable plans then in effect, eligible employees may enroll in a 401(k) plan as well as participate in Company-sponsored medical, dental, vision, and basic life insurance plans for the employee and the employee’s eligible dependents. Eligible employees also may receive other benefits (including various paid time off benefits, such as vacation and sick time), dependent on the position offered. Details of participation in these benefit plans will be provided if an employee receives an offer of employment.</p>\n<p>If hired, the employee will be in an “at will” position and the Company reserves the right to modify base salary (as well as any other discretionary payments or compensation programs) at any time, including for reasons related to individual performance, Company or individual department/team performance, and market factors.</p>",
+      "OrganizationId": 300000094781361,
+      "OtherRequisitionTitle": null,
+      "PrimaryLocation": "New York, NY, United States",
+      "PrimaryLocationCountry": "US",
+      "RequisitionId": 300010890593823,
+      "RequisitionType": "Experienced",
+      "ShortDescriptionStr": "",
+      "StudyLevel": null,
+      "Title": "AI Technical Product Manager",
+      "TrendingFlag": true,
+      "WorkDays": null,
+      "WorkHours": null,
+      "WorkMonths": null,
+      "WorkYears": null,
+      "WorkerType": null,
+      "WorkplaceType": "",
+      "WorkplaceTypeCode": null,
+      "media": [],
+      "otherWorkLocations": [],
+      "primaryLocationCoordinates": [
+        {
+          "CountryCode": "US",
+          "GeographyId": 300000090214594,
+          "GeographyNodeId": 100010357091606,
+          "Latitude": "40.58055",
+          "Longitude": "-74.00391"
+        }
+      ],
+      "requisitionFlexFields": [
+        {
+          "ControlType": "TextArea",
+          "Prompt": "Base Salary Min",
+          "SequenceNumber": 12,
+          "Value": "104000"
+        },
+        {
+          "ControlType": "TextArea",
+          "Prompt": "Base Salary Max",
+          "SequenceNumber": 21,
+          "Value": "253000"
+        }
+      ],
+      "secondaryLocations": [],
+      "skills": [],
+      "workLocation": [
+        {
+          "AddressLine1": "240 Greenwich Street",
+          "AddressLine2": null,
+          "AddressLine3": null,
+          "AddressLine4": null,
+          "Building": null,
+          "Country": "US",
+          "Latitude": "40.71455001",
+          "LocationId": 300000129875278,
+          "LocationName": "240 Greenwich Street,New York,NY",
+          "Longitude": "-74.00714004",
+          "PostalCode": "10286",
+          "Region1": "New York",
+          "Region2": "NY",
+          "Region3": null,
+          "TownOrCity": "New York"
+        }
+      ]
+    }
+  ],
+  "limit": 499,
+  "links": [
+    {
+      "href": "https://eofe.fa.us2.oraclecloud.com:443/hcmRestApi/resources/11.13.18.05/recruitingCEJobRequisitionDetails",
+      "kind": "collection",
+      "name": "recruitingCEJobRequisitionDetails",
+      "rel": "self"
+    }
+  ],
+  "offset": 0
+}

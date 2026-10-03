@@ -1,0 +1,303 @@
+{
+ "key": "07b3e02c10df24d02557b285a4ac381d4e4ae4c7122370f30449b2893af7d9dc",
+ "model": "gemini-3.5-flash-lite",
+ "payload_sha256": "05324ffd51bad191b45bf47c340204fa16d1d05e31c4a0c52d9d42f149d49c2a",
+ "prompt_sha256": "065bd458ace52ff274c72967cfe1b90c794a1ec8d3a3696ec78d7d8cf636df94",
+ "response": {
+  "claims": [
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "generic_ai_marketing",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M2",
+      "span": "Our long-term focus is"
+     },
+     {
+      "code": "M1",
+      "span": "artificial intelligence"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P3",
+    "quote": "Our long-term focus is to meet our financial commitments, deliver compelling, innovative solutions that address our clients’ most critical needs, and realize productivity and efficiency gains by embedding artificial intelligence (“AI”) in our products, services and business operations.",
+    "subject": "vendor_product",
+    "temporal": "planned"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "generic_ai_marketing",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M5",
+      "span": "pre-eminent"
+     },
+     {
+      "code": "M1",
+      "span": "AI"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P4",
+    "quote": "One Fiserv Action Plan\nIn the third quarter of 2025, we launched the One Fiserv action plan designed to prioritize and enhance client focus across five strategic pillars. The One Fiserv action plan centers our investments in areas that build on Fiserv’s strengths, including: operating with a client-first mindset to win new enterprise clients and grow average revenue per client; building the pre-eminent small business operating platform through Clover®; creating differentiated, innovative platforms in finance and commerce, including embedded finance and stablecoin; delivering operational excellence enabled by AI; and employing disciplined capital allocation for the long-term.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "generic_ai_marketing",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M1",
+      "span": "AI"
+     },
+     {
+      "code": "M5",
+      "span": "higher-quality"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P5",
+    "quote": "To advance this transformation, we are simplifying and standardizing processes, adopting new ways of working, and embedding AI to create a higher-quality, more productive business.",
+    "subject": "vendor_operations",
+    "temporal": "planned"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M1",
+      "span": "AI"
+     },
+     {
+      "code": "M4",
+      "span": "advanced automation"
+     },
+     {
+      "code": "M2",
+      "span": "We expect"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P6",
+    "quote": "We are modernizing our technology infrastructure, enhancing resiliency, and reengineering our operating model through AI and advanced automation. We expect these efforts to strengthen efficiency, scalability, and innovation to deliver differentiated value and an exceptional experience for our clients.",
+    "subject": "vendor_operations",
+    "temporal": "planned"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "ai_partnership",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G1",
+      "span": "OpenAI"
+     },
+     {
+      "code": "M5",
+      "span": "global leader"
+     },
+     {
+      "code": "M1",
+      "span": "AI"
+     }
+    ],
+    "named_providers": [
+     "OpenAI"
+    ],
+    "passage_id": "P7",
+    "quote": "Fiserv, Inc. (NASDAQ: FISV), a global leader in payments and financial technology solutions, today announced a new effort with OpenAI aimed at modernizing how financial institutions operate in the new age of AI.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G1",
+      "span": "OpenAI"
+     },
+     {
+      "code": "M2",
+      "span": "is exploring"
+     },
+     {
+      "code": "M1",
+      "span": "AI"
+     }
+    ],
+    "named_providers": [
+     "OpenAI"
+    ],
+    "passage_id": "P8",
+    "quote": "With OpenAI, Fiserv is exploring how AI can fundamentally compress these timelines, reduce risk, and enable financial institutions to modernize without disrupting day-to-day operations.",
+    "subject": "vendor_product",
+    "temporal": "planned"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G1",
+      "span": "OpenAI"
+     },
+     {
+      "code": "M2",
+      "span": "is exploring"
+     },
+     {
+      "code": "G2",
+      "span": "bring banking-specific AI capabilities to Fiserv platforms"
+     }
+    ],
+    "named_providers": [
+     "OpenAI"
+    ],
+    "passage_id": "P9",
+    "quote": "With OpenAI, Fiserv is exploring how to bring banking-specific AI capabilities to Fiserv platforms — encoding deep domain context and platform knowledge to power the next generation of products built on Fiserv infrastructure.",
+    "subject": "vendor_product",
+    "temporal": "planned"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "ai_partnership",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G1",
+      "span": "OpenAI"
+     },
+     {
+      "code": "M2",
+      "span": "are exploring"
+     },
+     {
+      "code": "G2",
+      "span": "advance the cybersecurity capabilities"
+     }
+    ],
+    "named_providers": [
+     "OpenAI"
+    ],
+    "passage_id": "P9",
+    "quote": "Fiserv and OpenAI are exploring how AI can advance the cybersecurity capabilities Fiserv already delivers to thousands of financial institutions —further extending modern security to clients of every size, including the community banks and credit unions Fiserv serves.",
+    "subject": "vendor_product",
+    "temporal": "planned"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "ai_partnership",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M2",
+      "span": "expects to"
+     },
+     {
+      "code": "M1",
+      "span": "AI"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P10",
+    "quote": "As the collaboration evolves, Fiserv expects to expand this relationship into additional workflows where AI can deliver meaningful operational impact for clients.",
+    "subject": "vendor_product",
+    "temporal": "planned"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "ai_partnership",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G1",
+      "span": "OpenAI"
+     },
+     {
+      "code": "G2",
+      "span": "bring frontier AI directly into our platforms and products"
+     }
+    ],
+    "named_providers": [
+     "OpenAI"
+    ],
+    "passage_id": "P10",
+    "quote": "\"Financial institutions are dealing with operational challenges that have outpaced what conventional software can solve. This collaboration with OpenAI lets us bring frontier AI directly into our platforms and products and how we serve our clients – so our clients see real, tangible differences in their day-to-day operations,\" said Dhivya Suryadevara, Co-President of Fiserv.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "ai_partnership",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G1",
+      "span": "OpenAI"
+     },
+     {
+      "code": "M1",
+      "span": "AI's"
+     },
+     {
+      "code": "M5",
+      "span": "biggest"
+     }
+    ],
+    "named_providers": [
+     "OpenAI"
+    ],
+    "passage_id": "P11",
+    "quote": "\"We believe AI's biggest impact will come from how deeply it's embedded into the systems financial institutions already trust,” said Ashley Kramer, VP, Enterprise at OpenAI. “That's why we're working with Fiserv to bring frontier AI to the work that matters most — helping financial institutions modernize faster, operate more intelligently, and deliver better experiences for their customers.\"",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "ai_partnership",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G1",
+      "span": "OpenAI"
+     },
+     {
+      "code": "M2",
+      "span": "expected to"
+     }
+    ],
+    "named_providers": [
+     "OpenAI"
+    ],
+    "passage_id": "P12",
+    "quote": "Joint teams from Fiserv and OpenAI are already at work across the focus areas, with progress expected to reach Fiserv client institutions through the rest of 2026 and beyond.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   }
+  ]
+ },
+ "role": "extract",
+ "schema_sha256": "f1cd07fdb8e496624608717927261043432a3bd93d84723a126b7c7d951d68df",
+ "seed": 1234
+}

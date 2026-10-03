@@ -1,0 +1,75 @@
+What We Offer keyboard_arrow_down Securities Services arrow_forward Fund & Investor Solutions Custody Managed Account Solutions Integrated Middle Office Solutions Global Clearing Issuer Services arrow_forward Conventional Trust Structured Debt Depositary Receipts Liquidity, Financing & Collateral arrow_forward Liquidity & Financing Credit & Lending Global Collateral Global Payments & Trade arrow_forward Payments Cash Management Trade Finance Markets Execution Services arrow_forward FX Fixed Income Equities Buy-Side Trading Solutions Investments arrow_forward Wealth arrow_forward BNY Pershing/Wealth Services arrow_forward Data & Analytics arrow_forward Digital Assets arrow_forward
+
+Who We Serve keyboard_arrow_down Alternative Asset Managers Investment Managers Asset Owners Insurance Companies Banks Broker-Dealers Corporations Wealth Intermediaries Individuals, Families & Family Offices
+
+Insights keyboard_arrow_down BNY Institute arrow_forward All Insights arrow_forward BNY Institute At the Table with BNY Experts: Summer Edition Read more arrow_forward BNY Wealth Structuring the Sale: Insights for Private Business Owners Read more arrow_forward
+
+About Us keyboard_arrow_down About BNY arrow_forward Leadership Office Locations Sustainability Technology & Innovation Thrive Together Newsroom arrow_forward Trust Center arrow_forward Careers arrow_forward Search BNY Jobs Early Career Opportunities Experienced Professionals
+
+Investor Relations keyboard_arrow_right Overview Press Releases Quarterly Earnings Events & Presentations Annual Reports & Proxy Statements SEC Filings & Other Disclosures Shareholder Services Fixed Income Corporate Governance Contact JULY 2026 BNY Reports Second Quarter 2026 Results Learn more arrow_forward FEBRUARY 2026 Annual Report 2025: Built for Opportunity Learn more arrow_forward
+
+Investor Relations Overview Press Releases Quarterly Earnings Events & Presentations Annual Reports & Proxy Statements SEC Filings & Other Disclosures Shareholder Services Fixed Income Corporate Governance Contact JULY 2026 BNY Reports Second Quarter 2026 Results Learn more arrow_forward FEBRUARY 2026 Annual Report 2025: Built for Opportunity Learn more arrow_forward
+
+Client Access
+
+SUGGESTED RESULTS
+
+Search Results
+
+Unlocking the AI growth multiplier
+
+Time to Read: 5 minutes
+
+For companies across industries, AI can be a powerful growth tool by unlocking insights, capabilities and productivity. For financial services, it could go even further by transforming how institutions and individuals interact with their financial services providers.
+
+Unlocking the AI Growth Multiplier
+
+AI’s contribution to the global economy is currently estimated to be $19.9 trillion through 2030, driving 3.5% of global GDP.1 Many practical uses of AI are already embedded in industries like financial services, with the technology beginning to transform the way products and services are offered, opening the door to innovation, new operating models and inspiring how organizations reimagine growth.
+
+REPORTED USE CASE OF AI WITHIN BUSINESS & TYPES OF USE CASES
+
+Sources: BNY Advisors as of November 2024. U.S. Census Bureau. Business Trends Outlook Survey, Artificial Intelligence supplement.
+
+Advancements in AI have enabled financial institutions to leverage large datasets to generate market insights, use generative AI to help improve decision-making and enhance client experience and harness machine learning and natural language processing to automate. AI is also being used to develop sophisticated trading algorithms, detect fraud and cyber threats, and provide and enhance personalized financial planning.
+
+At BNY, we built our enterprise AI platform, Eliza, on the premise of foundational, reusable capabilities. Eliza is designed to enhance client service and company operations while also driving a culture of innovation for our employees. Named after Eliza Hamilton, wife of our founder Alexander Hamilton, Eliza offers BNY employees a marketplace of AI solutions, access to approved datasets and a community for showcasing initiatives and tools. As a company-wide resource, Eliza empowers employees with advanced AI capabilities to streamline workflows and foster innovation across the company within a robust governance framework.
+
+Through broad employee engagement, BNY’s AI Hub, established in 2023 to bring together data scientists and AI professionals from across the firm, was able to identify problem statements and develop foundational capabilities to deploy the first large wave of generative AI solutions in 2024. The focus of the AI Hub is now on deploying, adopting and scaling solutions for additional high-impact use cases. The process for exploring AI use cases is driven by business needs, prioritizing problem statements based on impact (e.g., financial and risk reduction) and feasibility (e.g., data availability, technical capabilities and legal/regulatory considerations).
+
+We are already leveraging AI across multiple parts of our business to drive growth.
+
+Process Excellence: According to a report by Accenture, AI can increase productivity by 40% through automation of repetitive tasks and optimization of workflows,2 enabling businesses to achieve more in less time and reallocate time saved to more strategic work. BNY aims to evolve from utilizing AI for basic automation to autonomous operations, focusing on increasing operating leverage through AI-driven processes with appropriate controls and human oversight. This could help streamline operations, enhance efficiencies and improve risk management and compliance, helping to scale operations and minimize proportional cost increases. For example, we implemented an AI solution for anomaly detection within certain daily calculation processes, improving employees’ ability to identify key areas for further assessment in minutes as opposed to a more manual process that could take several hours. In addition, BNY deployed an enterprise-wide generative AI solution that helps employees find information on various processes and procedures faster — allowing them to focus on more impactful work.
+
+AI can be an important tool for mitigating certain types of risk as it can help detect anomalies and fraud by continuously monitoring transactions and identifying suspicious activities. AI-enabled scenario creation/analysis, anomaly detection and predication/classification can help supercharge risk management and control mitigation processes. In fact, BNY is actively developing and deploying many of these capabilities to enhance preexisting risk management processes.
+
+Product Innovation: BNY’s goals include transforming our products into smart, integrated solutions that dynamically meet client needs using our AI capabilities and to embed AI-powered products and intelligent decision-making in client interactions and transaction processing. As an example, we are using AI to enhance our data management offering by helping clients interact with their data more seamlessly and accelerate onboarding of datasets with automated mapping across various schemas.
+
+Business Model Evolution: The next phase of AI for financial institutions involves creating new value streams through AI capabilities, preparing for the evolution of financial market infrastructure and helping other market participants and clients through their transformation journeys. For example, companies can share best practices for responsible AI, partner with AI companies for continued innovation and find ways to facilitate interaction between humans and AI.
+
+While AI can clearly be a growth multiplier, it is imperative to prioritize the responsible development and usage of this technology given the potential risks. Appropriate use of AI within the financial sector relies on comprehensive risk management, governance checks and balances at multiple stages of development, maintaining human involvement through validation, continuous education and collaborative discourse. In 2024, BNY published our commitment to the ethical and responsible use of data and AI, outlining our view on the below key tenets of responsible AI:
+
+The responsible and ethical use of AI is not solely achieved using technical safeguards, governance, advanced models and knowledge sharing, but also through the democratization of AI itself. At BNY, we believe that every employee should be able to leverage the capabilities of our Eliza platform in a responsible manner and we actively pursue our initiatives with the perspectives and input of our global workforce through educational forums, internal “promptathons” and hackathons, and other collaboration opportunities. Throughout 2024, we focused on empowering our workforce with the knowledge and tools to thrive in an AI-driven world. We now have tens of thousands of employees on the Eliza platform, many of whom had never written a line of code but with the right training are now developing their own AI initiatives. We are committed to harnessing the power of AI by putting helpful tools in the hands of our people because we believe that AI can amplify human potential. Outside of upskilling our current talent, as a major recruiter from the top AI university programs, we are also keenly focused on bringing the next generation of talent into the firm and on our AI journey.
+
+This is how we are reimagining growth — we are inspiring innovation by giving our employees access to AI in a responsible manner, so we can collectively be more for our clients. With over 240 years of history and our broad role in the financial system, we have the privilege of being able to innovate on behalf of our clients. The future of financial services will be defined by the industry’s ability to harness innovation.
+
+Michael Demissie, Christopher Martin and Saed Shonnar contributed to this article.
+
+1 Lapo Fioretti, Carla La Croce, Andrea Siviero, Elisabeth Clemmons, “The Global Impact of Artificial Intelligence on the Economy and Jobs: AI will Steer 3.5% of GDP in 2030,” IDC, August 2024. https://www.idc.com/getdoc.jsp?containerId=prUS52600524
+
+2 “Artificial Intelligence Poised to Double Annual Economic Growth Rate in 12 Developed Economies and Boost Labor Productivity by up to 40 Percent by 2035, According to New Research by Accenture,” Accenture, September 28, 2016. https://newsroom.accenture.com/news/2016/artificial-intelligence-poised-to-double-annual-economic-growth-rate-in-12-developed-economies-and-boost-labor-productivity-by-up-to-40-percent-by-2035-according-to-new-research-by-accenture
+
+Disclaimers:
+
+BNY
+
+BNY is the corporate brand of The Bank of New York Mellon Corporation and may be used to reference the corporation as a whole and/or its various subsidiaries generally. This material does not constitute a recommendation by BNY of any kind. The information herein is not intended to provide tax, legal, investment, accounting, financial or other professional advice on any matter, and should not be used or relied upon as such. The views expressed within this material are those of the contributors and not necessarily those of BNY. BNY has not independently verified the information contained in this material and makes no representation as to the accuracy, completeness, timeliness, merchantability or fitness for a specific purpose of the information provided in this material. BNY assumes no direct or consequential liability for any errors in or reliance upon this material.
+
+This material may not be reproduced or disseminated in any form without the express prior written permission of BNY. BNY will not be responsible for updating any information contained within this material and opinions and information contained herein are subject to change without notice. Trademarks, service marks, logos and other intellectual property marks belong to their respective owners.
+
+© 2025 The Bank of New York Mellon. All rights reserved. Member FDIC.
+
+Ready to grow your business? Speak to our team.
+
+BNY is the corporate brand of The Bank of New York Mellon Corporation and may be used to reference the corporation as a whole or its various subsidiaries generally. BNY.com provides information about services provided by BNY and its affiliates. Not all accounts, products, and services are available in all jurisdictions or to all customers. ©2026 BNY.
+
+Visit our websites around the world.

@@ -1,0 +1,55 @@
+Type: 
+            
+                Webinar
+            
+            
+            Duration: 
+            
+                90 Minutes
+            
+            
+            
+                Date & Time: 
+                
+                
+            
+            
+            
+            
+            
+        
+            
+            Member Fee: 
+            
+                $179.00 per line
+            
+            
+            Non-Member Fee: 
+            
+                $279.00 per line
+            
+            
+            
+            
+                
+            
+            
+            Audience: 
+            
+                AAP Candidates, AAPs, ACH Personnel, APRP Candidates, APRPs, Audit, BSA Investigators_Analysts, BSA Officers, Cash Management, Compliance, Corporate Payments Professionals, Credit_Lending, General ACH, IT Personnel, Operations, Payments Personnel, Payments Strategists, Retail/Frontline, Risk, Risk Managers, Sales, Senior Payments Personnel, Treasury
+            
+            
+        
+        
+            NACHA recently announced that nearly 41 million Same Day ACH transactions have flowed through the ACH Network. Based on this strong performance, it is clear that businesses and consumers are embracing Same Day ACH. As Same Day ACH adoption grows, NACHA continues to expand the capabilities of Same Day ACH and the ACH Network.
+During the next two years, changes to Same Day ACH will include expanding the hours of access for Originators, increasing the per-transaction dollar limit, and improving funds availability for Receivers.
+With proposed effective dates in 2019 and 2020, there is much to be accomplished.  Join this webinar and learn what the new capabilities mean for your financial institution or business organization. The ballot for these amendments is approved and work is underway as the industry prepares for the implementation of smarter, faster Same Day ACH. Hear directly from NACHA to begin your internal preparations today.
+Gain Knowledge and Understanding
+Speakers provide insights on:
+    - Use-cases that support increasing the Same Day ACH dollar limit to $100,000 per transaction
+- Establishing additional funds availability standards for ACH credits
+- The details of creating a third processing window and what it means for ODFIs and their customers
+- And more!
+Speakers:
+Joe W. Hussey, Managing Director, J.P. Morgan
+Amy K. Morris, Senior Director, ACH Network Rules, NACHA – The Electronic Payments Association

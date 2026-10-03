@@ -1,0 +1,272 @@
+{
+ "key": "ba47fe7e5c1911e4241d33f27c4f6940e6001d1625adc04e967a51f52d9df4e6",
+ "model": "gemini-3.5-flash-lite",
+ "payload_sha256": "4de068e51f300ff39c163833942bcb0d8c3d9b247789a96be9f7beeea8c3abe6",
+ "prompt_sha256": "065bd458ace52ff274c72967cfe1b90c794a1ec8d3a3696ec78d7d8cf636df94",
+ "response": {
+  "claims": [
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "ai_hiring",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G8",
+      "span": "Process Engineering, Automation & AI"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P1",
+    "quote": "Lead process engineering and optimization initiatives across the platform portfolio, identifying manual processes, control gaps, service failure points, and opportunities for standardization. Process Engineering, Automation & AI",
+    "subject": "vendor_staff_tools",
+    "temporal": "unclear"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "genai_llm",
+    "claim_kind": "ai_hiring",
+    "data_mentioned": [
+     "employee, customer, procurement, sales, and technology workflows"
+    ],
+    "indicators": [
+     {
+      "code": "G8",
+      "span": "Identify high-value opportunities to apply AI, generative AI"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P2",
+    "quote": "Identify high-value opportunities to apply AI, generative AI, and intelligent automation across employee, customer, procurement, sales, and technology workflows.",
+    "subject": "vendor_staff_tools",
+    "temporal": "unclear"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "ai_governance",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G8",
+      "span": "Partner with Security, Risk, Compliance, Legal, and Data teams to ensure appropriate governance of AI-enabled capabilities"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P2",
+    "quote": "Partner with Security, Risk, Compliance, Legal, and Data teams to ensure appropriate governance of AI-enabled capabilities.",
+    "subject": "vendor_staff_tools",
+    "temporal": "unclear"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "ai_hiring",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G8",
+      "span": "Measure automation and AI investments"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P2",
+    "quote": "Measure automation and AI investments through productivity, service, customer experience, risk-reduction, and financial outcomes.",
+    "subject": "vendor_staff_tools",
+    "temporal": "unclear"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "ai_hiring",
+    "data_mentioned": [
+     "platform data"
+    ],
+    "indicators": [
+     {
+      "code": "G8",
+      "span": "available for operations, reporting, analytics, automation, and AI"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P3",
+    "quote": "Ensure platform data is accurate, governed, and available for operations, reporting, analytics, automation, and AI.",
+    "subject": "vendor_operations",
+    "temporal": "unclear"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "ai_hiring",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G8",
+      "span": "introducing modern automation and AI-assisted engineering practices into its software development lifecycle"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P4",
+    "quote": "The organization is actively transforming its payment platforms toward cloud-native, distributed architectures while introducing modern automation and AI-assisted engineering practices into its software development lifecycle.",
+    "subject": "vendor_staff_tools",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "ai_hiring",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G8",
+      "span": "introducing modern automation and AI-assisted engineering practices into its software development lifecycle"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P5",
+    "quote": "The organization is actively transforming its payment platforms toward cloud-native, distributed architectures while introducing modern automation and AI-assisted engineering practices into its software development lifecycle.",
+    "subject": "vendor_staff_tools",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "ai_hiring",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G8",
+      "span": "Use approved AI-assisted development tools"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P6",
+    "quote": "Use approved AI-assisted development tools to improve software design, development, testing, documentation, and engineering productivity while following enterprise SDLC and security controls.",
+    "subject": "vendor_staff_tools",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "predictive_ml",
+    "claim_kind": "ai_hiring",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G8",
+      "span": "machine learning"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P7",
+    "quote": "Working knowledge of Python for data pipelines and analysis, machine learning, and automation",
+    "subject": "vendor_staff_tools",
+    "temporal": "unclear"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "ai_hiring",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G8",
+      "span": "AI-assisted software development"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P8",
+    "quote": "Familiarity with security and governance principles in AI-assisted software development",
+    "subject": "vendor_staff_tools",
+    "temporal": "unclear"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "ai_hiring",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G8",
+      "span": "AI-enabled workflows"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P9",
+    "quote": "This role owns the operating discipline behind the coverage model, including new inquiry decisioning, service provider outreach programs, campaign follow-up, event follow-up, CRM discipline, reporting, account materials, market intelligence and AI-enabled workflows.",
+    "subject": "vendor_staff_tools",
+    "temporal": "unclear"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "ai_hiring",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G8",
+      "span": "AI tools"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P10",
+    "quote": "• Use CRM and AI tools to improve research, updates and market intelligence.",
+    "subject": "vendor_staff_tools",
+    "temporal": "unclear"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "ai_hiring",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G8",
+      "span": "approved AI and digital productivity tools"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P11",
+    "quote": "• Comfort using approved AI and digital productivity tools to improve account research, meeting preparation, market intelligence, and content development.",
+    "subject": "vendor_staff_tools",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "industry_commentary",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M3",
+      "span": "Banking and payments are entering a new era – fueled by real-time money movement, AI-driven innovation, digital assets, and regulatory shifts"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P12",
+    "quote": "Banking and payments are entering a new era – fueled by real-time money movement, AI-driven innovation, digital assets, and regulatory shifts.",
+    "subject": "other_or_industry",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "industry_commentary",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M3",
+      "span": "transforming occurring in the payments industry, examining how these forces are reshaping financial services"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P12",
+    "quote": "In this American Banker interview, David Watson, President and CEO of The Clearing House, discusses the transformation occurring in the payments industry, examining how these forces are reshaping financial services and what banks and businesses must do to stay ahead.",
+    "subject": "other_or_industry",
+    "temporal": "in_production"
+   }
+  ]
+ },
+ "role": "extract",
+ "schema_sha256": "f1cd07fdb8e496624608717927261043432a3bd93d84723a126b7c7d951d68df",
+ "seed": 1234
+}

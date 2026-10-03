@@ -1,0 +1,12 @@
+[
+  [
+    "timestamp",
+    "original",
+    "statuscode"
+  ],
+  [
+    "20250222000509",
+    "https://www.fssi-ca.com/driving-efficiency-in-auto-finance-the-role-of-print-and-mail-in-customer-communications/",
+    "200"
+  ]
+]

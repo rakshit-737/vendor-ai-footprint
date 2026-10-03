@@ -1,0 +1,31 @@
+HSBC Bank USA Now Offers Business Clients the Ability to Send and Receive Payments in Real Time
+NEW YORK – HSBC Bank USA, N.A. (HSBC) announced today the launch of real-time payments capabilities on the RTP® network that allow business and institutional clients of all sizes to pay and be paid immediately with enhanced convenience and security.
+With this latest enhancement in HSBC’s implementation of the RTP network these clients began sending real-time payments this morning, having been able to receive real-time payments since July 2019.
+The RTP network is developed by The Clearing House (TCH) and its owner banks, including HSBC. HSBC is using the RTP network to provide business and institutional clients with payment functionality that supports activities such as just-in-time cash management, instant delivery of payroll, and immediate customer refunds. The RTP network is also available to HSBC’s individual customers when receiving payments from businesses and other individuals.
+“As digital banking and e-commerce are embraced around the world, people expect to move money just as fast as they are able to check their account balance or buy a new app for their mobile phone,” said Drew Douglas, Head of Global Liquidity and Cash Management for the United States and Canada, HSBC. “All our U.S. customers from individual checking account holders to multinational corporations are now able to receive payments at the speed of modern life. Now, our U.S. business clients can send RTP payments, and our retail customers soon will be able to do the same.”
+The roll-out of capabilities for HSBC’s consumer customers to send payments via the RTP network is expected to be completed early in 2020.
+The payments industry is undergoing a real-time revolution for in-country transactions. Globally, 46 real time payment networks are live, and 18 more are in discussion or development. HSBC is supporting the transition to real time payments in many countries, including the United States.
+HSBC has been working with TCH and other banks to modernize the U.S. payments industry through the development and adoption of the RTP network, which moves U.S. Dollars in real time between accounts at any U.S. depository institution on the RTP network. Every federally insured U.S. depository institution is eligible to directly participate in the RTP network.
+Launched in 2017, the RTP network now reaches more than 51% of the demand deposit accounts in the United States, and transaction volume is growing steadily.
+“We are delighted that HSBC is expanding the benefits of the real-time payments revolution to institutional and business clients,” said Steve Ledford, Senior Vice President of Product Strategy and Development, for The Clearing House. “HSBC’s commercial clients can now send and receive money in real time, as well as benefit from other enhanced payments functionality, such as real-time cash management.”
+Other RTP network benefits:
+- Completed payments in seconds, 24/7/365 with no “off hours” and no holidays
+- Real time availability of funds
+- Instant confirmation to both parties
+- Improved control: only the account owner can initiate payments
+Customers who are currently eligible to make and receive payments via the RTP network are those with a U.S. Dollar account in HSBC USA’s Global Banking and Markets, Commercial Banking and Privating Banking units, and use HSBCnet or HSBCConnect for online banking services. For more information, these customers may contact their HSBC representative.
+About HSBC
+HSBC Holdings plc, the parent company of the HSBC Group, is headquartered in London. HSBC serves customers worldwide from offices in 65 countries and territories in our geographical regions: Europe, Asia, North America, Latin America, and Middle East and North Africa. With assets of US$2.728bn at 30 September 2019, HSBC is one of the world’s largest banking and financial services organizations.
+Global Liquidity and Cash Management (GLCM) provides fast, simple, and secure digital solutions to help clients move, access and invest their cash. GLCM serves corporate and financial institution clients across 55 countries and territories, and manages more than US$550bn deposits for the HSBC Group.
+HSBC Bank USA, National Association (HSBC Bank USA, N.A.) serves customers through retail banking and wealth management, commercial banking, private banking, and global banking and markets segments. It operates bank branches in: California; Connecticut; Washington, D.C.; Florida; Maryland; New Jersey; New York; Pennsylvania; Virginia; and Washington. HSBC Bank USA, N.A. is the principal subsidiary of HSBC USA Inc., a wholly-owned subsidiary of HSBC North America Holdings Inc. HSBC Bank USA, N.A. is a Member of FDIC. Investment and brokerage services are provided through HSBC Securities (USA) Inc., (Member NYSE/FINRA/SIPC) and insurance products are provided through HSBC Insurance Agency (USA) Inc.
+About The Clearing House
+Since its founding in 1853, The Clearing House has delivered safe and reliable payments systems, facilitated bank-led payments innovation, and provided thought leadership on strategic payments issues. The Clearing House is the operator of RTP® network, a real-time payment system that modernizes core payments capabilities for all U.S. financial institutions, and is the only private-sector ACH and wire operator in the United States, clearing and settling nearly $2 trillion in U.S. dollar payments each day, representing half of all commercial ACH and wire volume. The Clearing House is owned by 24 financial institutions and supports hundreds of banks and credit unions through its core systems and related services. RTP® is a registered service mark of The Clearing House Payments Company L.L.C. Learn more at www.theclearinghouse.org.
+Media Contacts:
+Rob Sherman
+212-525-6901
+HSBC
+Greg MacSweeney
+212-612-9282
+gregory.macsweeney@theclearinghouse.org
+The Clearing House
+###

@@ -1,0 +1,49 @@
+{
+  "hiringOrganization": {
+    "name": "PAYCO The Clearing House Payments Company L.L.C.",
+    "url": ""
+  },
+  "jobPostingInfo": {
+    "additionalLocations": [
+      "North Carolina Office"
+    ],
+    "canApply": true,
+    "country": {
+      "descriptor": "United States of America",
+      "id": "bc33aa3152ec42d4995f4791a106ed09"
+    },
+    "externalUrl": "https://theclearinghouse.wd108.myworkdayjobs.com/TheClearingHouse/job/Charlotte-Office/Incident-Management-Analyst_JR100194-4",
+    "id": "2254508b4c1a100962bb37a524370000",
+    "includeResumeParsing": true,
+    "jobDescription": "<p><b>Position Summary</b></p><p>The Incident Management Analyst is responsible for the day-to-day execution of Incident Management activities within the Service organization. This is a hands-on individual contributor role responsible for coordinating incidents from identification through resolution and closure, completing post-mortem activities, tracking follow-up actions, and supporting continuous improvement of the Incident Management process. This role works closely with Service, Operations, Technology, Product, Risk, and other stakeholders to ensure incidents are managed consistently, timely, and in accordance with established procedures. The role requires strong ownership, communication, organization, and the ability to coordinate activities across multiple teams during time-sensitive events.</p><p></p><p><b>About The Clearing House: </b>The Clearing House Payments Company L.L.C. is a bank-owned industry utility that shapes the payments landscape and provides infrastructure for safe, reliable, and efficient payments. We see an economy where everyone is connected and a future where modern payments make life easier. The Clearing House operates four payment systems: a high-value wire-transfer system (the CHIPS® network), the country’s first and largest instant payments system (the RTP® network), an automated clearinghouse network (the EPN® network), and a check image exchange network (the Image Exchange Network). TCH also operates a bank account number tokenization service, runs a payments association known as the TCH Payments Authority, and maintains the rules for private-sector check image exchange through its ECCHO® business line. </p><p></p><p><b>Key Responsibilities</b></p><p><b>Incident Management Execution</b></p><ul><li>Coordinate incidents from identification through resolution and closure, ensuring appropriate stakeholders are engaged and actions are clearly assigned and tracked.</li><li>Facilitate incident calls as appropriate, maintaining focus on impact assessment, restoration of service, client considerations, and timely escalation.</li><li>Ensure incidents are appropriately classified, documented, communicated, and managed in accordance with established Incident Management procedures.</li><li>Maintain accurate and timely incident records, including event timelines, impacts, key decisions, actions, and resolution details.</li><li>Partner across Service, Operations, Technology, Product, Risk, and other functions to drive effective incident resolution and ensure client and operational impacts are appropriately identified.</li><li>Support the development of timely and accurate internal, executive, and client-facing incident communications as required.</li></ul><p><b>Post-Mortem and Follow-Up Activities</b></p><ul><li>Prepare and complete incident post-mortems within the established <b>two-week target</b>, working with business and technology stakeholders to ensure contributing factors, impacts, and lessons learned are appropriately documented.</li><li>Ensure corrective and preventative actions are clearly documented, assigned, and tracked through completion.</li><li>Proactively follow up on outstanding information and actions required to complete incident documentation and post-mortems.</li><li>Identify recurring incident themes and opportunities to strengthen processes, controls, monitoring, and procedures.</li><li>Support implementation of improvements identified through incidents and post-mortem reviews.</li></ul><p><b>Process, Reporting and Team Support</b></p><ul><li>Maintain Incident Management records, procedures, templates, and supporting documentation.</li><li>Support preparation and validation of Incident Management metrics and reporting.</li><li>Escalate risks, delays, recurring issues, or other matters requiring additional attention to the Team Lead or Service leadership.</li><li>Participate in audit, risk, regulatory, and governance activities involving Incident Management as needed.</li><li>Share knowledge and lessons learned with other team members and contribute to consistent application of Incident Management practices.</li><li>Support other Incident Management priorities and continuous improvement initiatives as assigned.</li></ul><p><b>Qualifications Required</b></p><ul><li>Experience in incident management, production support, operations, service management, or a related discipline within a complex operational environment.</li><li>Strong ability to manage multiple priorities and independently drive assigned work to completion in a time-sensitive environment.</li><li>Strong analytical and problem-solving skills, with the ability to organize complex information and identify key issues, impacts, and required actions.</li><li>Strong written and verbal communication skills, including the ability to work effectively with technical and non-technical stakeholders.</li><li>Strong documentation skills and attention to detail.</li><li>Ability to coordinate and influence cross-functional stakeholders without direct authority.</li><li>Ability to exercise sound judgment and appropriately escalate issues.</li></ul><p><b>Preferred Qualifications</b></p><ul><li>Experience within financial services, payments, financial market infrastructure, or another highly regulated and operationally critical environment.</li><li>Knowledge of formal Incident Management frameworks and practices.</li><li>Experience preparing post-mortems, root-cause documentation, incident summaries, or similar materials.</li><li>Experience with ServiceNow or comparable IT service management platforms.</li></ul><p><b>Key Competencies</b></p><ul><li><b>Ownership and accountability</b> – takes responsibility for assigned incidents and deliverables through completion.</li><li><b>Execution discipline</b> – maintains focus on deadlines, follow-up, documentation, and closure.</li><li><b>Sound judgment under pressure</b> – remains organized and effective during time-sensitive incidents.</li><li><b>Collaboration and influence</b> – works effectively across teams and drives necessary actions without direct authority.</li><li><b>Analytical thinking</b> – identifies key issues, patterns, and opportunities for improvement.</li><li><b>Clear communication</b> – communicates complex operational and technical information clearly and concisely.</li><li><b>Attention to detail</b> – produces accurate, complete, and timely incident documentation.</li><li><b>Continuous improvement</b> – applies lessons learned to strengthen Incident Management processes and practices.</li></ul><p><b>Physical Demands and Work Environment:</b> The working environment is generally favorable. Lighting and temperature are adequate, and there are no hazardous or unpleasant conditions caused by noise, dust, etc. Work is generally performed within an office environment, with standard office equipment available. Candidates will report to the office up to three days each week. Onsite work requirements may change at any time. </p><p></p>",
+    "jobPostingId": "Incident-Management-Analyst_JR100194-4",
+    "jobPostingSiteId": "TheClearingHouse",
+    "jobReqId": "JR100194",
+    "jobRequisitionLocation": {
+      "country": {
+        "alpha2Code": "US",
+        "descriptor": "United States of America",
+        "id": "bc33aa3152ec42d4995f4791a106ed09"
+      },
+      "descriptor": "Charlotte Office"
+    },
+    "location": "Charlotte Office",
+    "posted": true,
+    "postedOn": "Posted 11 Days Ago",
+    "questionnaireId": "416fc4b6e988100114d79736c4ff0000",
+    "startDate": "2026-09-21",
+    "timeType": "Full time",
+    "title": "Incident Management Analyst"
+  },
+  "similarJobs": [
+    {
+      "externalPath": "/job/Charlotte-Office/Analyst--Enterprise-Risk-Management_JR100152",
+      "locationsText": "Charlotte Office",
+      "postedOn": "Posted 30+ Days Ago",
+      "startDate": "2026-08-05",
+      "timeType": "Full time",
+      "title": "Analyst, Enterprise Risk Management"
+    }
+  ],
+  "userAuthenticated": false
+}

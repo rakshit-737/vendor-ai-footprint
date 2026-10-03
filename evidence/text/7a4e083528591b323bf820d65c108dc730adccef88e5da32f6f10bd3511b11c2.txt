@@ -1,0 +1,55 @@
+Type: 
+            
+                Webinar
+            
+            
+            Duration: 
+            
+                90 Minutes
+            
+            
+            
+                Date & Time: 
+                
+                
+            
+            
+            
+            
+            
+        
+            
+            Member Fee: 
+            
+                $179 Per Line
+            
+            
+            Non-Member Fee: 
+            
+                $279 Per Line
+            
+            
+            
+            
+                
+            
+            
+            Audience: 
+            
+                AAP Candidates, AAPs, ACH Personnel, BSA Investigators_Analysts, BSA Officers, Compliance, General ACH, IT Personnel, Operations, Payments Personnel, Retail/Frontline, Risk, Risk Managers, Senior Payments Personnel
+            
+            
+        
+        
+            The ACH Network has new and expanded return reason codes for you to use! Financial institutions can now use R17 to return ACH transactions containing an invalid account number. Beginning next April, institutions can start using R10 and R11 to return unauthorized debits during phase one of implementation. 
+Attend this webinar to learn the definition of R17 and how RDFIs can use it to alert ODFIs of suspicious activity. And hear a thorough explanation of the R10 and R11 changes to learn what your institution needs to do to prepare for April 2020 to avoid being in violation of these new Rules. 
+Gain Insight & Understanding
+• How RDFIs can use R17 to identify and return questionable ACH entries 
+• Understanding the two implementation phases for R10 and R11 – Effective April 1, 2020 & April 1, 2021
+• Learn the definitions and proper usage of R10 and R11 
+• Discover the expected benefits and potential impacts of the Rule changes
+• Take action to update both ODFI and RDFI processes and procedures 
+• Determine which return reason code is appropriate for each situation using sample scenarios
+Speakers:
+Amy K. Morris | Senior Director, ACH Network Rules, Nacha
+Shelly Sipple, AAP, APRP, NCP | Director, Certifications & Continuing Education, EPCOR

@@ -1,0 +1,23 @@
+Topic: 
+                
+            
+            
+            Type: 
+                ACH, Audit & Compliance
+            
+        
+                                
+             Member Fee: 
+                 $0
+            
+            
+            Non-Member Fee: 
+                $50
+            
+            
+            
+                
+            
+        
+        
+            Are you familiar with the process of when a Receiving Depositary Financial Institution (RDFI) has an option to take advantage of a voluntary exception from the existing funds availability requirements that are set out in the ACH Rules? This document discusses considerations for when an RDFI invokes the RDFI Voluntary Exception for suspected unauthorized credit entries.

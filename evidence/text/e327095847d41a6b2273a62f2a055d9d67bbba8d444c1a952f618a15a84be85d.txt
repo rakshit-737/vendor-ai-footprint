@@ -1,0 +1,12 @@
+[
+  [
+    "timestamp",
+    "original",
+    "statuscode"
+  ],
+  [
+    "20210623174753",
+    "https://www.fssi-ca.com/use-predictive-analytics-to-forecast-your-consumers-next-purchase/",
+    "200"
+  ]
+]

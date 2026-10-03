@@ -1,0 +1,8 @@
+For decades, institutional asset managers and asset owners have organized operations around a familiar tripartite structure: investment teams driving portfolio decisions, risk and operations teams supporting trade execution and risk management, and accounting and servicing teams managing settlement, books and records. This architecture made sense when data moved in batches, performance attribution was calculated monthly, and investment decisions could wait for start-of-day reports.
+Now, however, two converging forces are changing traditional boundaries and demanding a new operational paradigm. First, data is becoming real-time, driven by the rise of digital assets, expanded data availability, on-demand processing and institutional requirements for instant analytics. Second, deterministic risk, accounting and performance calculations are being augmented with generative predictive capabilities, powered by machine learning and autonomous AI agents that serve as always-on advisors across the investment lifecycle.
+This paper examines the evidence for these shifts and plots their trajectory toward a state where self-improving AI agents build tailored experiences for investment professionals.
+Key Takeaways
+- Real-time data and agentic AI are converging to reshape how institutional investors manage operations and decisions.
+- Firms clinging to siloed, batch-oriented architectures face slower decisions and rising friction across every handoff.
+- AI tools that automate isolated tasks deliver linear gains but cannot resolve fragmented, inconsistent data.
+- Individual AI capabilities that automate isolated tasks deliver linear gains but cannot resolve fragmented, inconsistent data.

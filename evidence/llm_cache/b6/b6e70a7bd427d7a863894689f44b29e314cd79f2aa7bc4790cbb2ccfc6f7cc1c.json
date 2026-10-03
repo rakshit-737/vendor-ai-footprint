@@ -1,0 +1,160 @@
+{
+ "key": "b6e70a7bd427d7a863894689f44b29e314cd79f2aa7bc4790cbb2ccfc6f7cc1c",
+ "model": "gemini-3.5-flash-lite",
+ "payload_sha256": "0756f00d34b0135ae28540b6c09d73f78a515778ebb082d72f7d5cb68c8cad4d",
+ "prompt_sha256": "065bd458ace52ff274c72967cfe1b90c794a1ec8d3a3696ec78d7d8cf636df94",
+ "response": {
+  "claims": [
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "generic_ai_marketing",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M1",
+      "span": "AI"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P2",
+    "quote": "Embracing AI aggressively",
+    "subject": "vendor_operations",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M1",
+      "span": "AI"
+     },
+     {
+      "code": "G11",
+      "span": "$500M+"
+     },
+     {
+      "code": "G11",
+      "span": "200bps+"
+     },
+     {
+      "code": "M2",
+      "span": "Expected"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P7",
+    "quote": "Deliver Project Elevate, an AI-led productivity plan Technology Modernization $500M+ Process Reengineering Expected reduction in 2029 and Simplification run-rate costs, driving an incremental People and Organizational 200bps+ Realignment adjusted operating margin Third-Party Optimization",
+    "subject": "vendor_operations",
+    "temporal": "planned"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "generic_ai_marketing",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M1",
+      "span": "AI"
+     },
+     {
+      "code": "M5",
+      "span": "unmatched"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P8",
+    "quote": "With modest share and unmatched capabilities amplified by AI, we are positioned to capture a long runway of durable growth.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M1",
+      "span": "artificial intelligence"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P9",
+    "quote": "2 Represents costs, primarily third-party fees, associated with a multi-year transformation initiative focused on operational excellence enabled by artificial intelligence, including process reengineering and technology infrastructure modernization.",
+    "subject": "vendor_operations",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "generic_ai_marketing",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M1",
+      "span": "AI"
+     },
+     {
+      "code": "M5",
+      "span": "few companies can match"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P10",
+    "quote": "And for us, AI amplifies all of this, building on the mission critical infrastructure we provide to move money and information at a scale and with a level of reliability that few companies can match.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "generic_ai_marketing",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M1",
+      "span": "AI"
+     },
+     {
+      "code": "M5",
+      "span": "unique"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P11",
+    "quote": "So we believe our competitive position is unique and AI only makes it stronger.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "industry_commentary",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M1",
+      "span": "AI"
+     },
+     {
+      "code": "M3",
+      "span": "As AI comes to banking and commerce"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P12",
+    "quote": "As AI comes to banking and commerce, the dislocation disruption is concentrating at the application or surface layer while routing, clearing, settlement and compliance require deep integration, licensing, regulatory approval and institutional trust built over decades.",
+    "subject": "other_or_industry",
+    "temporal": "unclear"
+   }
+  ]
+ },
+ "role": "extract",
+ "schema_sha256": "f1cd07fdb8e496624608717927261043432a3bd93d84723a126b7c7d951d68df",
+ "seed": 1234
+}

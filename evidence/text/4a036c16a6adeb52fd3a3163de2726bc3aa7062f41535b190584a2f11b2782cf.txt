@@ -1,0 +1,37 @@
+{
+  "hiringOrganization": {
+    "name": "PAYCO The Clearing House Payments Company L.L.C.",
+    "url": ""
+  },
+  "jobPostingInfo": {
+    "canApply": true,
+    "country": {
+      "descriptor": "United States of America",
+      "id": "bc33aa3152ec42d4995f4791a106ed09"
+    },
+    "externalUrl": "https://theclearinghouse.wd108.myworkdayjobs.com/TheClearingHouse/job/North-Carolina-Office/Specialist-Network-Engineer_JR100182",
+    "id": "39ec302f782310020913df6710740000",
+    "includeResumeParsing": true,
+    "jobDescription": "<p><b>Position Summary: </b>We are seeking a Specialist Network Engineer to join our team in our Winston-Salem, North Carolina office. The ideal candidate will be responsible for designing, implementing, and maintaining our network infrastructure to ensure smooth operations.</p><p></p><p><b>About The Clearing House:</b> The Clearing House (TCH) is a banking association and payments company that is owned by the largest commercial banks in the United States. TCH owns and operates the core payments system infrastructure in the US and is currently working to modernize that infrastructure by launching a new, ubiquitous, real-time payment system. TCH is the only private-sector ACH and wire operator in the US, clearing and settling nearly $2 trillion in US dollar payments each day, representing half of all commercial ACH and wire volume. TCH has provided critical services to the banking industry since 1853, and today, our core products facilitate services including Direct Deposit of payroll, bill payments, and check image exchange.</p><p></p><p><b>Qualifications Required: </b></p><ul><li>Bachelor’s degree in computer science, Information Technology, or related field.</li><li>5&#43; years of proven experience working in network engineering or a related field.</li><li>Cisco CCNA required, a CCNP track as a plus.</li><li>Experience in network design, operational support, internetworking concepts, protocols, configuration of network devices such as routers, switches, firewalls, associated software tools, and cabling in a large LAN/MAN/WAN environment. Preferable Cisco Systems.</li><li>Excellent communication, teamwork abilities, written, verbal and interpersonal skills.</li><li>Must be available for 24/7 on-call support and be able to deploy changes during off-hour change control windows.</li><li>Must be proficient with project coordination to manage the execution of maintenance activities and evaluating network outages. Strong analytical and problem-solving skills.</li></ul><p><b>Essential Functions and Responsibilities:</b></p><ul><li>Participates in the planning, designing, implementation, installation, testing, supporting and maintenance of the network infrastructure.</li><li>Responsible for network system quality assurance and must be consistent with installation standards and project development methodology.</li><li>Assists in preparing project and unit budgets.</li><li>Obtain quotes and assist in the preparation of proposals for network equipment.</li><li>Must be able to create and maintain the configuration and procedural documentation for accuracy and usability. Proficient with Microsoft Office &amp; Visio documentation/diagramming.</li><li>Must be able to develop, improve and implement efficient network utilization strategies and security standards.</li><li>Deploy and assist in the installation of equipment and cables. Ability to rack and stack equipment, up to 25 pounds.</li><li>A working knowledge of global data centers and colocation facilities.</li><li>Secure internal and external platforms by reviewing and replacing at-risk or end-of-life (EOL) equipment and code.</li><li>Provide operations monitoring and reporting systems for all network environments.</li><li>Review of network systems hardening configurations based on company standards.</li><li>A working knowledge of network security models which include HSMs, encryption, authentication, key management and cryptography.</li></ul><p><b>Success factors/job competencies:    </b></p><ul><li>Excellent understanding of the OSI model.</li><li>Strong understanding of network performance monitoring tools, such as WhatsUp Gold, SolarWinds or OpManager.</li><li>Working knowledge of F5 GTM/LTM load balancers and Cisco IPS/IDS.</li><li>Must be able to use packet analyzer and evaluate trace files, such as Wireshark. </li><li>Thorough understanding of TCP/IP, HTTP, SSL and DNS Protocols.</li><li>Working knowledge of RSA security products.</li><li>Experience working with Virtual Private Networks (VPN), Ivanti Networks SSL VPN a plus.</li><li>Ability to develop and maintain scripts using Visual Basic, Python and Secure CRT.</li><li>Understanding of virtualization technologies, including VMWare and VMware NSX.</li><li>Hands-on experience deploying network cloud services within AWS and Azure.</li><li>VPC, TGW, ALB, NLB, SG, IGW, VNet, NSG.</li><li>Working knowledge of wireless network, including access points, controllers and wireless management.</li><li>Excellent working knowledge of Cisco’s Identity Services Engine (ISE).</li><li>Understanding of MPLS network design and support.</li></ul><p><b>Physical demands and work environment:</b></p><ul><li>Work is generally sedentary in nature, but may require standing and walking. The working environment is generally favorable. Lighting and temperature are adequate, and there are no hazardous or unpleasant conditions caused by noise, dust, etc. Work is generally performed within an office environment, with standard office equipment available.</li><li>Employees in this position will report to the office 3 days per week. Employees in this position will be expected to be on-call 24/7 to support off-hour changes and system updates.</li><li>Occasional travel may be required. Onsite work requirements may change at any time.</li></ul>",
+    "jobPostingId": "Specialist-Network-Engineer_JR100182",
+    "jobPostingSiteId": "TheClearingHouse",
+    "jobReqId": "JR100182",
+    "jobRequisitionLocation": {
+      "country": {
+        "alpha2Code": "US",
+        "descriptor": "United States of America",
+        "id": "bc33aa3152ec42d4995f4791a106ed09"
+      },
+      "descriptor": "North Carolina Office"
+    },
+    "location": "North Carolina Office",
+    "posted": true,
+    "postedOn": "Posted 30 Days Ago",
+    "questionnaireId": "416fc4b6e988100114d79736c4ff0000",
+    "startDate": "2026-09-02",
+    "timeType": "Full time",
+    "title": "Specialist Network Engineer"
+  },
+  "similarJobs": [],
+  "userAuthenticated": false
+}

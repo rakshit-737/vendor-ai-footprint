@@ -1,0 +1,22 @@
+AI capex surge introduces a fresh risk for IG portfolios
+iFlow > Special Report
+David Tam
+Time to Read: 4 minutes
+EXHIBIT #1: 2026 PRIMARY IG ISSUANCE LARGEST ON RECORD, DRIVEN BY HYPERSCALERS
+Source: Credit Flow
+Hyperscaler issuance is the big credit story of 2026: Total IG issuance is nearly $1.5tn year to date as of August 12, and hyperscalers represent over 12% of the total USD IG issuance. While financial issuers are always the largest component of the market, what’s different this year is hyperscaler issuance.1
+EXHIBIT #2: HYPERSCALERS DOMINATE THE YEAR’S LARGEST IG DEALS
+Note: Rating at time of issuance; market cap as of 8/13
+   Source: Bloomberg, BNY Capital Markets
+Hyperscaler jumbo deals: Hyperscalers have made headlines in part because the scale of their issuance has been driven by splashy jumbo deals. Hyperscalers, or hyperscaler-adjacent firms, were responsible for eight of the top ten largest issues of the year. Estimates suggest that total hyperscaler issuance over the full year 2026 could exceed $250bn.
+EXHIBIT #3: HYPERSCALER SHARE OF THE AGGREGATE IG INDEX HAS GROWN RAPIDLY
+Source: Bloomberg, BNY Capital Markets
+Hyperscaler issuance increases their share of debt outstanding: Rapid issuance has swelled these firms’ total debt outstanding and raised their share of total debt in IG indices. As Exhibit 3 shows, hyperscalers’ share of the Bloomberg aggregate IG bond index has grown by 60% in the past year alone. Their overall share of the IG bond market remains modest, but the pace of their growth is unprecedented.
+Growing concentration risk?
+Hyperscaler issuance increases concentration risk: The hyperscalers make up more than 20% of the S&P 500. While hyperscalers’ concentration in equity markets is not new, their growing share of the IG market is. Investors may be accumulating large exposures to the same companies across multiple asset classes without recognizing it – each can appear sufficiently diversified on its own.
+Benchmark mechanics can amplify exposure: Since the heavy issuers are taking up more room in IG indices, they could, over time, mechanically take up a greater share of passive or index-tracking investors’ credit portfolios. This potentially weakens traditional market discipline. In practice, indexing and passive investment strategies are less prevalent in credit than in equities, given the greater number of issues and pockets of illiquidity common in credit markets.
+Default is not the main risk: The base case is not widespread default. The hyperscalers still benefit from a track record of strong management, large and diversified businesses, and significant positive free cash flow, although that flow is projected to turn negative in the midst of the AI capex boom. Furthermore, credit ratings have remained strong despite the issuance surge.
+EXHIBIT #4: HYPERSCALER SPREADS MOVE TOGETHER ON MACRO DEVELOPMENTS
+Correlation is the pressure point: The hyperscalers trade with growing correlation, and their mutual dependence on the AI capex theme means spreads can widen together if that theme is challenged.
+This already happened: During the week of July 20, spreads on the hyperscalers all widened simultaneously even as the broader index (the red line in Exhibit 4) barely moved. This points to a sector-specific shock. There are several plausible drivers of the move:
+While the spread widening likely overshot fundamentals and later retraced, the message was clear. Hyperscalers have become increasingly vulnerable to thematic or supply-based concerns specific to the sector.

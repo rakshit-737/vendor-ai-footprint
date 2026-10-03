@@ -1,0 +1,358 @@
+{
+  "AD": false,
+  "Answer": [
+    {
+      "TTL": 3600,
+      "data": "\"_thgywd2rpx9hgqed7jc8qnzcrw4x1yf\"",
+      "name": "fiserv.com",
+      "type": 16
+    },
+    {
+      "TTL": 3600,
+      "data": "\"ddc4c422-c2aa-4b9e-a71c-1f781faa5cc5\"",
+      "name": "fiserv.com",
+      "type": 16
+    },
+    {
+      "TTL": 3600,
+      "data": "\"hcp-domain-verification=d7eeb26b7066067aabfb44e977a62f8629c2c4003e4b5ff27e8296a60e74b8d2\"",
+      "name": "fiserv.com",
+      "type": 16
+    },
+    {
+      "TTL": 3600,
+      "data": "\"MS=ms16798604\"",
+      "name": "fiserv.com",
+      "type": 16
+    },
+    {
+      "TTL": 3600,
+      "data": "\"wiz-domain-verification=74fc5d21018494a6fdd53bfffe6018f2ab2f78e8be60ad639ba5f4798726106f\"",
+      "name": "fiserv.com",
+      "type": 16
+    },
+    {
+      "TTL": 3600,
+      "data": "\"v=spf1 include:%{ir}.%{v}.%{d}.spf.has.pphosted.com ~all\"",
+      "name": "fiserv.com",
+      "type": 16
+    },
+    {
+      "TTL": 3600,
+      "data": "\"_vvx4goxq3kx13ccg1dcwpx5aoa7posb\"",
+      "name": "fiserv.com",
+      "type": 16
+    },
+    {
+      "TTL": 3600,
+      "data": "\"atlassian-domain-verification=4DD5xow20HdsTyFCBc0Ndpi/eVc0ZhsBsB3yI3ZSXLcOpG0HW9TqE82vamXfylRO\"",
+      "name": "fiserv.com",
+      "type": 16
+    },
+    {
+      "TTL": 3600,
+      "data": "\"webexdomainverification.4C675B8B3013B136E053AB06FC0A3F65=7f825ad8-afbd-4387-8b1d-50ce111e6c26\"",
+      "name": "fiserv.com",
+      "type": 16
+    },
+    {
+      "TTL": 3600,
+      "data": "\"anthropic-domain-verification-zmvjvn=xzTk6WAnm9pKPFIDLdlw4icpM\"",
+      "name": "fiserv.com",
+      "type": 16
+    },
+    {
+      "TTL": 3600,
+      "data": "\"miro-verification=1f3759e11be6ef2f755b87e65f93699bea6b74ed\"",
+      "name": "fiserv.com",
+      "type": 16
+    },
+    {
+      "TTL": 3600,
+      "data": "\"MS=ms64210103\"",
+      "name": "fiserv.com",
+      "type": 16
+    },
+    {
+      "TTL": 3600,
+      "data": "\"MS=ms21998472\"",
+      "name": "fiserv.com",
+      "type": 16
+    },
+    {
+      "TTL": 3600,
+      "data": "\"_vv7xn63cbo5isfeqmeabw5d64p404bq\"",
+      "name": "fiserv.com",
+      "type": 16
+    },
+    {
+      "TTL": 3600,
+      "data": "\"webexdomainverification.4C675B87A9E9B136E053AB06FC0A3F65=06144af7-42ac-437e-bd04-8b76890c5cb3\"",
+      "name": "fiserv.com",
+      "type": 16
+    },
+    {
+      "TTL": 3600,
+      "data": "\"klaviyo-site-verification=ULTxtq\"",
+      "name": "fiserv.com",
+      "type": 16
+    },
+    {
+      "TTL": 3600,
+      "data": "\"openai-domain-verification=dv-6OGUWNNYoi7eZykFaMojyXDt\"",
+      "name": "fiserv.com",
+      "type": 16
+    },
+    {
+      "TTL": 3600,
+      "data": "\"google-gws-recovery-domain-verification=55860565\"",
+      "name": "fiserv.com",
+      "type": 16
+    },
+    {
+      "TTL": 3600,
+      "data": "\"pexip-ms-tenant-domain-verification=ef008caa-325a-491d-94c8-20fa87367151\"",
+      "name": "fiserv.com",
+      "type": 16
+    },
+    {
+      "TTL": 3600,
+      "data": "\"onetrust-domain-verification=c2df4c4d7918479caeffad0d63d97376\"",
+      "name": "fiserv.com",
+      "type": 16
+    },
+    {
+      "TTL": 3600,
+      "data": "\"Docusign=docusign=0371d67d-bccd-48bd-8581-a4011ab45fd8\"",
+      "name": "fiserv.com",
+      "type": 16
+    },
+    {
+      "TTL": 3600,
+      "data": "\"apple-domain-verification=nVMmNhm1yw2oMhvA\"",
+      "name": "fiserv.com",
+      "type": 16
+    },
+    {
+      "TTL": 3600,
+      "data": "\"jamf-site-verification=q11x7bw2-61hvjiAlRH-MA\"",
+      "name": "fiserv.com",
+      "type": 16
+    },
+    {
+      "TTL": 3600,
+      "data": "\"cisco-ci-domain-verification=36496db70cd00a0d2b0080444fe50f9768c761347afce669dd8fcb03adb96a42\"",
+      "name": "fiserv.com",
+      "type": 16
+    },
+    {
+      "TTL": 3600,
+      "data": "\"flexera-domain-verification-zhhplnnzgomfpypr\"",
+      "name": "fiserv.com",
+      "type": 16
+    },
+    {
+      "TTL": 3600,
+      "data": "\"17816170\"",
+      "name": "fiserv.com",
+      "type": 16
+    },
+    {
+      "TTL": 3600,
+      "data": "\"ibmid=6e4a213b-e42f-44b3-8fcb-adc839f378b1\"",
+      "name": "fiserv.com",
+      "type": 16
+    },
+    {
+      "TTL": 3600,
+      "data": "\"MS=ms52021924\"",
+      "name": "fiserv.com",
+      "type": 16
+    },
+    {
+      "TTL": 3600,
+      "data": "\"00DA0000000Yhcv=1TBUJ0000000Fa9\"",
+      "name": "fiserv.com",
+      "type": 16
+    },
+    {
+      "TTL": 3600,
+      "data": "\"_uuksxgbjbs15u8hqlmming028cc3qlu\"",
+      "name": "fiserv.com",
+      "type": 16
+    },
+    {
+      "TTL": 3600,
+      "data": "\"onetrust-domain-verification=f0266e443f264394815154216d01be44\"",
+      "name": "fiserv.com",
+      "type": 16
+    },
+    {
+      "TTL": 3600,
+      "data": "\"docusign=7cafbe80-deea-4662-8a2f-1b65f4bf1530\"",
+      "name": "fiserv.com",
+      "type": 16
+    },
+    {
+      "TTL": 3600,
+      "data": "\"73f21cb821420b941dfa4c9abb0d4738448a6e9e08e12ff6e01a2fdac690dcdf\"",
+      "name": "fiserv.com",
+      "type": 16
+    },
+    {
+      "TTL": 3600,
+      "data": "\"atlassian-domain-verification=UUQbbVvMvjF4/Haa4wZPYq9FxrYqfMLH3E6gI2ri2gGiM1YehJSYASzKT5Kfz2hn\"",
+      "name": "fiserv.com",
+      "type": 16
+    },
+    {
+      "TTL": 3600,
+      "data": "\"google-site-verification=b5nZvs7RMeBwCHBH_DUCJbksBxallgTMmqUY2dosvn8\"",
+      "name": "fiserv.com",
+      "type": 16
+    },
+    {
+      "TTL": 3600,
+      "data": "\"docker-verification=e324deec-96a4-4285-86ed-b44fbe28a45e\"",
+      "name": "fiserv.com",
+      "type": 16
+    },
+    {
+      "TTL": 3600,
+      "data": "\"calendly-site-verification=UjVC4Dr8mmigGznR3cq9QlScDEMiX5jllkqkErDph\"",
+      "name": "fiserv.com",
+      "type": 16
+    },
+    {
+      "TTL": 3600,
+      "data": "\"google-site-verification=pY6PSz8aLpZa4dM9SXh89JqnL8ldTSrPWBLEXvJpT04\"",
+      "name": "fiserv.com",
+      "type": 16
+    },
+    {
+      "TTL": 3600,
+      "data": "\"webexdomainverification.4C675B87894CB136E053AB06FC0A3F65=9c402228-b6d3-41f8-924f-f2dae03b7fb3\"",
+      "name": "fiserv.com",
+      "type": 16
+    },
+    {
+      "TTL": 3600,
+      "data": "\"google-site-verification=ynXfaWL1dv3_HHZ2XOCbC7Gr_3LivbK1aRt6TJq70x8\"",
+      "name": "fiserv.com",
+      "type": 16
+    },
+    {
+      "TTL": 3600,
+      "data": "\"jamf-site-verification=CgoRYdNnnRd96I3o_HFGlw\"",
+      "name": "fiserv.com",
+      "type": 16
+    },
+    {
+      "TTL": 3600,
+      "data": "\"pexip-ms-tenant-domain-verification=value1,ef008caa-325a-491d-94c8-20fa87367151\"",
+      "name": "fiserv.com",
+      "type": 16
+    },
+    {
+      "TTL": 3600,
+      "data": "\"docusign=0371d67d-bccd-48bd-8581-a4011ab45fd8\"",
+      "name": "fiserv.com",
+      "type": 16
+    },
+    {
+      "TTL": 3600,
+      "data": "\"postman-domain-verification=44b89265aa1f6208ef132bb7d29d89729d3199b131b8ac72d6d365a28709b243b268377a291059cf9427976c869730c9e6cf283c18569adcc1341a6fe854faec\"",
+      "name": "fiserv.com",
+      "type": 16
+    },
+    {
+      "TTL": 3600,
+      "data": "\"workbrew-domain-verification-efjr2d=\\208\\181\\209\\128\\208\\156CEyW2EIECnxzPnuXQ9U3gc\"",
+      "name": "fiserv.com",
+      "type": 16
+    },
+    {
+      "TTL": 3600,
+      "data": "\"webexdomainverification.1TZGB=c6da537b-9979-44d0-997a-4d8aae81f836\"",
+      "name": "fiserv.com",
+      "type": 16
+    },
+    {
+      "TTL": 3600,
+      "data": "\"atlassian-domain-verification=HrlQKJmTa7huoM91otWhTMt8iuvJexiWdrAMFkuc7xaDCzoHmZiovBUKLGuqZFGO\"",
+      "name": "fiserv.com",
+      "type": 16
+    },
+    {
+      "TTL": 3600,
+      "data": "\"Dynatrace-site-verification=6702af45-fdc3-4e5b-8e4e-c9b0571968f3__vr9j5nn7e4vvbtubo94gu526h9\"",
+      "name": "fiserv.com",
+      "type": 16
+    },
+    {
+      "TTL": 3600,
+      "data": "\"webexdomainverification.68e7ebd06891d6cee053ad06fc0a97a5=9f558815-85bc-49e6-a1d0-6d48961bb66a\"",
+      "name": "fiserv.com",
+      "type": 16
+    },
+    {
+      "TTL": 3600,
+      "data": "\"adobe-idp-site-verification=463b510d83ded0c6f6c18a6b69641df700cd806ac1e9dc15a39c537d5bbb2c91\"",
+      "name": "fiserv.com",
+      "type": 16
+    },
+    {
+      "TTL": 3600,
+      "data": "\"MS=ms28448833\"",
+      "name": "fiserv.com",
+      "type": 16
+    },
+    {
+      "TTL": 3600,
+      "data": "\"00DRL00000GkGyg=1TBRL0000000Io9\"",
+      "name": "fiserv.com",
+      "type": 16
+    },
+    {
+      "TTL": 3600,
+      "data": "\"h1-domain-verification=agZJZTpsF1CE9svirVCKqHU5FBuEzCPPkHs2NzVmKf5KY6wG\"",
+      "name": "fiserv.com",
+      "type": 16
+    },
+    {
+      "TTL": 3600,
+      "data": "\"18115065\"",
+      "name": "fiserv.com",
+      "type": 16
+    },
+    {
+      "TTL": 3600,
+      "data": "\"I1BDJ/f8alg9s+nmYeCH+3d7ksEsAfPy71FlELanJAR9pjmx3McFNW+nJSzQJAzd08J2qY79q+rHcYDCeYdXlw==\"",
+      "name": "fiserv.com",
+      "type": 16
+    },
+    {
+      "TTL": 3600,
+      "data": "\"webexdomainverification.4C675B8BBA3DB136E053AB06FC0A3F65=b60a76e1-3a2b-4758-a56b-537dc796b69a\"",
+      "name": "fiserv.com",
+      "type": 16
+    },
+    {
+      "TTL": 3600,
+      "data": "\"atlassian-domain-verification=YAhqS9SVBU9hqZzapXziOasqaHmr6K/t1VQyFO6/fag9ObcDMKMA87s647RXr1Q2\"",
+      "name": "fiserv.com",
+      "type": 16
+    }
+  ],
+  "CD": false,
+  "Question": [
+    {
+      "name": "fiserv.com",
+      "type": 16
+    }
+  ],
+  "RA": true,
+  "RD": true,
+  "Status": 0,
+  "TC": false
+}

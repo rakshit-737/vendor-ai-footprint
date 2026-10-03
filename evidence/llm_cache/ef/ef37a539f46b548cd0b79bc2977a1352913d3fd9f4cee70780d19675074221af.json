@@ -1,0 +1,64 @@
+{
+ "key": "ef37a539f46b548cd0b79bc2977a1352913d3fd9f4cee70780d19675074221af",
+ "model": "gemini-3.5-flash-lite",
+ "payload_sha256": "d2b22a82676447b9d1b0334f51d6beb2af651d49f379218363495f9387f15992",
+ "prompt_sha256": "065bd458ace52ff274c72967cfe1b90c794a1ec8d3a3696ec78d7d8cf636df94",
+ "response": {
+  "claims": [
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "generic_ai_marketing",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M1",
+      "span": "AI"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P6",
+    "quote": "Automic maximizes the value that AI delivers to your business.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "AI built into Automic solution"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P6",
+    "quote": "AI built into Automic solution",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "industry_commentary",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M3",
+      "span": "Every workload automation vendor is shipping AI features inside their platform."
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P8",
+    "quote": "Every workload automation vendor is shipping AI features inside their platform.",
+    "subject": "other_or_industry",
+    "temporal": "in_production"
+   }
+  ]
+ },
+ "role": "extract",
+ "schema_sha256": "f1cd07fdb8e496624608717927261043432a3bd93d84723a126b7c7d951d68df",
+ "seed": 1234
+}

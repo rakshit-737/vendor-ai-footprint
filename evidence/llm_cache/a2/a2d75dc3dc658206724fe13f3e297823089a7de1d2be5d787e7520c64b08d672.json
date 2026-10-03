@@ -1,0 +1,165 @@
+{
+ "key": "a2d75dc3dc658206724fe13f3e297823089a7de1d2be5d787e7520c64b08d672",
+ "model": "gemini-3.5-flash-lite",
+ "payload_sha256": "ff87298ff0feae68cb79408ddb3f89b44904e4ebc8ec84660e017a7974340fe4",
+ "prompt_sha256": "065bd458ace52ff274c72967cfe1b90c794a1ec8d3a3696ec78d7d8cf636df94",
+ "response": {
+  "claims": [
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "ai_hiring",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G8",
+      "span": "leverages technology and AI to improve operational efficiency"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P1",
+    "quote": "The successful candidate is a hands-on leader who thrives in a fast-paced production environment, effectively develops people, leverages technology and AI to improve operational efficiency, and uses data-driven decision making to enhance service reliability and customer satisfaction.",
+    "subject": "vendor_staff_tools",
+    "temporal": "unclear"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "genai_llm",
+    "claim_kind": "ai_hiring",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G1",
+      "span": "Microsoft Copilot"
+     },
+     {
+      "code": "G1",
+      "span": "ChatGPT"
+     },
+     {
+      "code": "G1",
+      "span": "ServiceNow AI"
+     },
+     {
+      "code": "G8",
+      "span": "Utilize AI-powered tools such as Microsoft Copilot, ChatGPT, ServiceNow AI, or similar technologies to enhance documentation, reporting, knowledge management, and incident response."
+     }
+    ],
+    "named_providers": [
+     "Microsoft Copilot",
+     "ChatGPT",
+     "ServiceNow AI"
+    ],
+    "passage_id": "P2",
+    "quote": "Utilize AI-powered tools such as Microsoft Copilot, ChatGPT, ServiceNow AI, or similar technologies to enhance documentation, reporting, knowledge management, and incident response.",
+    "subject": "vendor_staff_tools",
+    "temporal": "unclear"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "ai_hiring",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G8",
+      "span": "Experience using AI-enabled productivity and operational tools to improve efficiency and decision making."
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P3",
+    "quote": "Experience using AI-enabled productivity and operational tools to improve efficiency and decision making.",
+    "subject": "vendor_staff_tools",
+    "temporal": "unclear"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "ai_hiring",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G8",
+      "span": "using AI-assisted automation and engineering practices within the software development lifecycle"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P5",
+    "quote": "You will work alongside experienced engineers to develop, test, enhance, and support highly reliable applications for the payments industry while using AI-assisted automation and engineering practices within the software development lifecycle.",
+    "subject": "vendor_staff_tools",
+    "temporal": "unclear"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "ai_hiring",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G8",
+      "span": "Use approved AI-assisted development tools to support coding, testing, documentation, and continuous quality improvements"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P6",
+    "quote": "Use approved AI-assisted development tools to support coding, testing, documentation, and continuous quality improvements in accordance with enterprise controls",
+    "subject": "vendor_staff_tools",
+    "temporal": "unclear"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "ai_hiring",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G8",
+      "span": "supports the use and training of approved AI tools"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P7",
+    "quote": "Additionally, the person in this role helps improve contract processes, supports the use and training of approved AI tools, and may guide or oversee contract negotiations handled by other paralegals.",
+    "subject": "vendor_staff_tools",
+    "temporal": "unclear"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "ai_hiring",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G8",
+      "span": "supporting effective contract processes and the appropriate use of approved AI tools"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P9",
+    "quote": "Develop, update, and maintain contract templates, clause libraries, negotiation playbooks, and standard procedures, while supporting effective contract processes and the appropriate use of approved AI tools.",
+    "subject": "vendor_staff_tools",
+    "temporal": "unclear"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "ai_hiring",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G8",
+      "span": "Familiarity with AI tools and their appropriate use in legal and contract-related work."
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P10",
+    "quote": "Familiarity with AI tools and their appropriate use in legal and contract-related work.",
+    "subject": "vendor_staff_tools",
+    "temporal": "unclear"
+   }
+  ]
+ },
+ "role": "extract",
+ "schema_sha256": "f1cd07fdb8e496624608717927261043432a3bd93d84723a126b7c7d951d68df",
+ "seed": 1234
+}

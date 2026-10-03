@@ -1,0 +1,233 @@
+{
+ "key": "a435f61914695172a8d7c4a0aa71d9216da2b7cd96b6ece0ec53bf5881abea25",
+ "model": "gemini-3.5-flash-lite",
+ "payload_sha256": "94deb3c7504f960afaea924ef074dd8549b4ca940a1e559e218803c1e26da28d",
+ "prompt_sha256": "065bd458ace52ff274c72967cfe1b90c794a1ec8d3a3696ec78d7d8cf636df94",
+ "response": {
+  "claims": [
+   {
+    "action_level": "automated_action",
+    "ai_type": "predictive_ml",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [
+     "auto loans"
+    ],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "identify members whose auto loans are nearing payoff and automatically send targeted refinancing or new vehicle loan offers"
+     },
+     {
+      "code": "M1",
+      "span": "AI-powered"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P1",
+    "quote": "AI-powered systems can identify members whose auto loans are nearing payoff and automatically send targeted refinancing or new vehicle loan offers.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "predictive_ml",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [
+     "transaction patterns, demographic data, and behavioral signals"
+    ],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "identify which members are approaching major life events"
+     },
+     {
+      "code": "G3",
+      "span": "based on transaction patterns, demographic data, and behavioral signals"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P2",
+    "quote": "Predictive analytics can identify which members are approaching major life events based on transaction patterns, demographic data, and behavioral signals.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "predictive_ml",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [
+     "member preferences and engagement patterns"
+    ],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "analyze member preferences and engagement patterns to ensure every interaction feels personalized and relevant"
+     },
+     {
+      "code": "G3",
+      "span": "member preferences and engagement patterns"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P3",
+    "quote": "AI systems can analyze member preferences and engagement patterns to ensure every interaction feels personalized and relevant.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "avoid repetitive conversations and reduce member annoyance"
+     },
+     {
+      "code": "M1",
+      "span": "AI-driven"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P4",
+    "quote": "Implement centralized communication records systems that use AI-driven tools to avoid repetitive conversations and reduce member annoyance.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [
+     "previous interactions"
+    ],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "track previous interactions so staff can reference past issues without making members repeat themselves"
+     },
+     {
+      "code": "G3",
+      "span": "track previous interactions"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P5",
+    "quote": "Use AI to track previous interactions so staff can reference past issues without making members repeat themselves.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "industry_commentary",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M1",
+      "span": "AI-driven personalization"
+     },
+     {
+      "code": "M3",
+      "span": "Modern outsourcing providers leverage cutting-edge technologies"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P6",
+    "quote": "Modern outsourcing providers leverage cutting-edge technologies to enhance communication workflows. Innovations such as AI-driven personalization and automated production systems allow for more accurate and efficient processes.",
+    "subject": "other_or_industry",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "industry_commentary",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M3",
+      "span": "The 2025 AFSA Vehicle Finance Conference & Expo shone a spotlight on innovative solutions, including the integration of artificial intelligence and automation in communication workflows."
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P7",
+    "quote": "The 2025 AFSA Vehicle Finance Conference & Expo shone a spotlight on innovative solutions, including the integration of artificial intelligence and automation in communication workflows.",
+    "subject": "other_or_industry",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "predictive_ml",
+    "claim_kind": "generic_ai_marketing",
+    "data_mentioned": [
+     "customer data"
+    ],
+    "indicators": [
+     {
+      "code": "G3",
+      "span": "customer data"
+     },
+     {
+      "code": "M1",
+      "span": "AI"
+     },
+     {
+      "code": "M5",
+      "span": "astonishing accuracy"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P8",
+    "quote": "With an ever-increasing wealth of customer data, AI can now eerily predict customer behavior with astonishing accuracy.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "predictive_ml",
+    "claim_kind": "generic_ai_marketing",
+    "data_mentioned": [
+     "preferences, dislikes, social interactions, values, hobbies, occupation, and even your taste in movies"
+    ],
+    "indicators": [
+     {
+      "code": "G3",
+      "span": "preferences, dislikes, social interactions, values, hobbies, occupation, and even your taste in movies"
+     },
+     {
+      "code": "M1",
+      "span": "AI algorithms"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P9",
+    "quote": "AI algorithms delve into your preferences, dislikes, social interactions, values, hobbies, occupation, and even your taste in movies to forecast your actions before you even contemplate them.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "predictive_ml",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [
+     "customer data"
+    ],
+    "indicators": [
+     {
+      "code": "G3",
+      "span": "customer data"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P10",
+    "quote": "By leveraging artificial intelligence and machine learning, we can tap into the vast amount of customer data available to us.",
+    "subject": "vendor_operations",
+    "temporal": "in_production"
+   }
+  ]
+ },
+ "role": "extract",
+ "schema_sha256": "f1cd07fdb8e496624608717927261043432a3bd93d84723a126b7c7d951d68df",
+ "seed": 1234
+}

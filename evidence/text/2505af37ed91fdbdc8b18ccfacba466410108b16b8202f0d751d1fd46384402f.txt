@@ -1,0 +1,225 @@
+The Clearing House Payments Authority (TCHPA) Sign In
+
+TCHPA Login
+
+Sign In
+
+Forgot your password? Click Here
+
+Create an Account
+
+Don't have an account? You'll need one to register for courses, purchase publications and view members-only resources.
+
+Need Help?
+
+If you have tried resetting your password and are still having trouble, please contact The Clearing House support team at 800-875-2242, extension 5.
+
+This resource is temporarily unavailable. Please try again later.
+
+The Clearing House Site Header
+
+Main Utility Navigation
+
+Networks & Services About Payments Networks ACH CHIPS Image Exchange RTP Services UID Lookup DDA Token Service
+
+About Payments
+
+About Payments
+
+Networks ACH CHIPS Image Exchange RTP
+
+ACH
+
+ACH
+
+CHIPS
+
+CHIPS
+
+Image Exchange
+
+Image Exchange
+
+RTP
+
+RTP
+
+Services UID Lookup DDA Token Service
+
+UID Lookup
+
+UID Lookup
+
+DDA Token Service
+
+DDA Token Service
+
+Advocacy Recent Activities Archive
+
+Recent Activities
+
+Recent Activities
+
+Archive
+
+Archive
+
+TCHPA / ECCHO TCHPA TCHPA Home TCHPA Membership Payments Education Corporate Payments Center Payments Accreditations Concepts Conference Compliance & Consulting Payments Store Education Calendar My Account Sign In ECCHO ECCHO Home ECCHO Membership NCP Home ECCHO Education ECCHO STORE Account Login
+
+TCHPA TCHPA Home TCHPA Membership Payments Education Corporate Payments Center Payments Accreditations Concepts Conference Compliance & Consulting Payments Store Education Calendar My Account Sign In
+
+TCHPA Home
+
+TCHPA Home
+
+TCHPA Membership
+
+TCHPA Membership
+
+Payments Education
+
+Payments Education
+
+Corporate Payments Center
+
+Corporate Payments Center
+
+Payments Accreditations
+
+Payments Accreditations
+
+Concepts Conference
+
+Concepts Conference
+
+Compliance & Consulting
+
+Compliance & Consulting
+
+Payments Store
+
+Payments Store
+
+Education Calendar
+
+Education Calendar
+
+My Account
+
+My Account
+
+Sign In
+
+Sign In
+
+ECCHO ECCHO Home ECCHO Membership NCP Home ECCHO Education ECCHO STORE Account Login
+
+ECCHO Home
+
+ECCHO Home
+
+ECCHO Membership
+
+ECCHO Membership
+
+NCP Home
+
+NCP Home
+
+ECCHO Education
+
+ECCHO Education
+
+ECCHO STORE
+
+ECCHO STORE
+
+Account Login
+
+Account Login
+
+UID Lookup
+
+UID Lookup
+
+About Us Our History Owner Banks Leadership Team News Podcasts Insights Events Our Commitment to Diversity Careers Contact Us
+
+Our History
+
+Our History
+
+Owner Banks
+
+Owner Banks
+
+Leadership Team
+
+Leadership Team
+
+News
+
+News
+
+Podcasts
+
+Podcasts
+
+Insights
+
+Insights
+
+Events
+
+Events
+
+Our Commitment to Diversity
+
+Our Commitment to Diversity
+
+Careers
+
+Careers
+
+Contact Us
+
+Contact Us
+
+Service Status
+
+Service Status
+
+TCH Site Search
+
+Main Content
+
+Payments Education
+
+RTP® Ready Webinar Series
+
+Member Fee: $375.00 Non-Member Fee: $375.00 Audience: Compliance, IT Personnel, Operations, Payments Personnel, Payments Strategists, Risk, Risk Managers, Sales, Senior Payments Personnel, Treasury
+
+The RTP® Ready Webinar Series is a 6-week program that will help community banks and credit unions move from the planning stage to execution. Registrants will participate in six webinars that address key concepts related to becoming a RTP® Participant. This is the perfect program for those who need to fully understand the specifics of RTP® and are ready to move from the conceptual to the practical. Each webinar is part of a series and culminate with an action plan for implementing RTP®
+
+Each webinar is 50 minutes in length and offered over a 6-week period that runs from October 10 - November 14, 2018
+
+All webinars begin at 2:00 p.m. ET
+
+Webinar series may be eligible for continuing education credits
+
+October 10, 2018 | Understanding the Faster Payments Landscape and RTP® Speed has become the standard. Whether its Same Day ACH or credit push payments over the debit card rails, the payments industry has focused on getting transactions from one account to another faster. Join us for the first webinar in this series that will help to provide the foundation attendees will need to appreciate fully the value proposition of RTP®. Attendees will learn how increasing the clearing and settlement for ACH provides value for real-time payments. Additionally participants will explore the way the debit card rails support faster payments. The program will wrap up with a discussion on how RTP® fits into this new payments eco-system.
+
+October 17, 2018 | RTP® Function and Capabilities RTP® is the new payments network in over 40 years. This webinar will review the functions that make it unique including its speed and extensibility. The program will begin with a review of the message flows for RTP®. Participants will then review the messages supported by the network and gain an understanding of the value they bring to RTP®. In addition, participants will learn how RTP® credits are settled. This webinar will provide attendees with a solid understanding of the capabilities of this network.
+
+October 24, 2018 | RTP® Clearing and Settlement Implications The RTP® network requires network participants to receive messages around the clock and every day of the year. Operating in this type of a processing environment requires participants to pay special attention to certain processes to support continuous clearing and settlement of payments. This webinar will highlight those areas that financial institutions will need to take into consideration. From providing accountholders with immediate funds availability to adapting to real-time settlement this webinar will give participants insight into those back-office processes that will need to be adapted.
+
+October 31, 2018 | Back-Office Considerations for RTP® RTP® requires back-office processes that can support continuous processing, delivery of payment-related data and accelerate posting decisions. This webinar will review the issues that financial institutions will need to incorporate into their operational processes. Participants will gain an understanding of the requirements for handling inbound RTP® credits as well as payment-related messages. Additionally we will review the operational considerations for sending RTP® messages. Participants will also learn about RTP® exceptions handling. This webinar will provide a good foundation for understanding how RTP® will affect back-office operations.
+
+November 7, 2018 | RTP® and Risk Management Every payments network requires effective risk management and RTP® is no different. This webinar will explore the risk characteristics of RTP®. Participants will learn how the credit push nature of RTP® reduces its risk profile and which risk management strategies financial institutions should consider when implementing RTP®. This program will also provide financial institutions with insights on how the risk management capabilities of the nature can augment individual risk management strategies.
+
+November 14, 2018 | Successfully Implementing RTP®: An Action Plan The culminating program of this webinar series will provide attendees with an action plan for implementing RTP®. This webinar will review the various considerations associated with implementing RTP® and give participants an action plan for executing an implementation strategy. The program will highlight the integration points and the type solution providers that a financial institution should engage in order to go-live. The program will review a five-step action plan that attendees can follow to move their RTP® strategy from planning to execution.
+
+Discounted rates will appear when signed in as a TCHPA FI Member or Corporate Subscriber.
+
+The Clearing House Site Footer
+
+Copyright and Legal

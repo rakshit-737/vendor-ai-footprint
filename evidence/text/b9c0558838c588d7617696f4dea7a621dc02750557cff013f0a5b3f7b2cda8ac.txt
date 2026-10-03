@@ -1,0 +1,46 @@
+Type: 
+            
+                Webinar
+            
+            
+            Duration: 
+            
+                30 Minutes
+            
+            
+            
+                Date & Time: 
+                
+                
+            
+            
+            
+            
+            
+        
+            
+            Member Fee: 
+            
+                $0
+            
+            
+            Non-Member Fee: 
+            
+                $279
+            
+            
+            
+            
+                
+            
+            
+            Audience: 
+            
+                AAP Candidates, AAPs, ACH Personnel, APRPs, Audit, BSA Investigators_Analysts, BSA Officers, Cash Management, Compliance, Corporate Payments Professionals, Credit_Lending, General ACH, IT Personnel, Operations, Payments Personnel, Payments Strategists, Retail/Frontline, Risk, Risk Managers, Sales, Senior Management, Senior Payments Personnel, Treasury, Wire Personnel
+            
+            
+        
+        
+            On March 19, 2021, the ACH Network expands access to Same Day ACH by allowing Same Day ACH transactions to be submitted for an additional two hours each business day through a new, third Same Day ACH processing window.
+This new window will allow Same Day ACH files to be submitted until 4:45 p.m. ET (1:45 p.m. PT), providing greater access for Originating Depository Financial Institutions (ODFIs) and their account holders.  Currently, the latest that an ODFI can submit files of Same Day ACH transactions to an ACH Operator is 2:45 p.m. ET (11:45 a.m. PT).
+Join TCHPA as we discuss the new rule requirements, impacts, and considerations.

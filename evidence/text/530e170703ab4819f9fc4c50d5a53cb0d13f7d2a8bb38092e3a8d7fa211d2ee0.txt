@@ -1,0 +1,23 @@
+With instant payments becoming more mainstream, there are more opportunities for fraud.
+Scott Anchin: Keeping Up with Instant Payments Fraud
+1025 Fraud 2k
+October 01, 2025 / By Scott Anchin
+With instant payments becoming more mainstream, there are more opportunities for fraud.
+With instant payments becoming more mainstream, there are more opportunities for fraud. Reports indicate that instant payment fraud has been limited so far, but projected growth in these payments could increase the volume of authorized push payment (APP) scams. Luckily, in the past year, the industry has shifted toward proactive fraud prevention, and FedNow and The Clearing House’s RTP network have enhanced their fraud‑related rules and tools.
+For FedNow, the Federal Reserve has set a maximum transaction amount at the network level, capped the amount a correspondent can send on behalf of others, and allowed institutions to set lower limits based on their own risk policies. Those same institutions can block transactions to or from suspicious accounts and set limits on how much money customers can send and the size of each transaction, based on the type of customer. Participants must report suspected fraud promptly to help contain threats, and banks can request the return of funds from transactions flagged as fraudulent.
+The Clearing House has implemented its own compliance criteria and enhanced fraud alert protocols for its RTP network. It has clarified how funds can be returned after a credit transfer is accepted, a critical step in managing APP scams. RTP participants are increasingly adopting machine learning models to detect fraud before transactions are processed. Institutions are encouraged to build real-time fraud interdiction systems and centralized command centers for rapid response, with emphasis on sharing fraud data across networks for detection and prevention efforts.
+These steps have helped considerably, but it’s a race against time. The use of AI for real-time scoring and cross-channel monitoring has allowed banks to flag suspicious activity in milliseconds and catch fraud before the money starts to move—a critically important approach to fraud mitigation.
+But fraudsters are also adapting, which means detection algorithms and internal policies and procedures require constant updates. There’s also a need for customer education and collaboration across banks, regulators and tech providers.
+Community banks may not have the same resources as larger banks, but they have an edge when it comes to knowing their customers. The trust between community bankers and their customers is a highly effective tool, so think about ways to reach out and educate customers about fraud.
+This trust also makes it easier to spot fraud attempts, often because they just don’t “feel right.” In those instances, bankers can act quickly when fraud is suspected and immediately freeze suspicious transactions. In a rapidly changing world, it’s this combination of technology, trust and vigilance that will help community bankers stay ahead of the curve.
+Subscribe now
+Sign up for the Independent Banker newsletter to receive twice-monthly emails about new issues and must-read content you might have missed.
+Sponsored Content
+Featured Webinars
+Join ICBA Community
+Interested in discussing this and other topics? Network with and learn from your peers with the app designed for community bankers.
+Subscribe Today
+Sign up for Independent Banker eNews to receive twice-monthly emails that alert you when a new issue drops and highlight must-read content you might have missed.
+News Watch Today
+Join the Conversation with ICBA Community
+ICBA Community is an online platform led by community bankers to foster connections, collaborations, and discussions on industry news, best practices, and regulations, while promoting networking, mentorship, and member feedback to guide future initiatives.

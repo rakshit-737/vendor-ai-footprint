@@ -1,0 +1,12 @@
+DNS records for fssi-ca.com (DoH: dns.google, cloudflare-dns.com)
+TXT	MS=ms70031358
+TXT	_04cqhzkfw0ptr1jwnu3n3g33cidlm8u
+TXT	_f6vofct0h2q5mc2hannud9434fy3is4
+TXT	google-site-verification=_yRtGROalXYtD8Zvl8VsLuLQ7nxGb4Y3hbLBZJSz7Bs
+TXT	google-site-verification=b0ss9uy-zRaPd_IkotWbQP95u7NgdjtDqQCp6MXtsFI
+TXT	google-site-verification=hi3SRxVtB6OhAYTsjYonVElE2j6mAw6zgaRLEoeNbQM
+TXT	google-site-verification=z_HmhKDLoKY5OTsRXf1cupL_r6LXXh1A78OHLHKJkNQ
+TXT	rzwj5r0nkcxl2sbm2l430vqgndccktj5
+TXT	v=spf1 ip4:173.227.56.144/29 ip4:173.227.26.32/27 ip4:75.98.162.236 include:spf.protection.outlook.com include:spf.workfront.com include:_spf.getresponse.com include:sendgrid.net include:_spf.psm.knowbe4.com include:spf.bccsoftware.com include:one.zoho.com include:_spf.socketlabs.com include:email-od.com ~all
+MX	0 fssica-com01b.mail.protection.outlook.com
+SPF	v=spf1 ip4:173.227.56.144/29 ip4:173.227.26.32/27 ip4:75.98.162.236 include:spf.protection.outlook.com include:spf.workfront.com include:_spf.getresponse.com include:sendgrid.net include:_spf.psm.knowbe4.com include:spf.bccsoftware.com include:one.zoho.com include:_spf.socketlabs.com include:email-od.com ~all

@@ -1,0 +1,25 @@
+{
+ "key": "5be52aa75c1ebdac339eeebd1a91b7fa98101755aadacf75533dfc13503f13b4",
+ "model": "gemini-3.5-flash-lite",
+ "payload_sha256": "d438a290cf5816c28443b2b3597e26ad530b7788cb24dc33ad0cbd06745e5142",
+ "prompt_sha256": "ad6f9fb7b2bcec4a24437dc2fe0c068247c2d943f01fe4d318a12c62837015d4",
+ "response": {
+  "names": [
+   {
+    "kind": "product",
+    "name": "Wealth Data Solutions"
+   },
+   {
+    "kind": "alias",
+    "name": "Terrapin Technologies"
+   },
+   {
+    "kind": "alias",
+    "name": "Terrapin Technologies, Inc."
+   }
+  ]
+ },
+ "role": "expand",
+ "schema_sha256": "172bbf2d6bf06bd8693508bbf8f56d2d7a91e191136764b8300dedb84508e09d",
+ "seed": 1234
+}

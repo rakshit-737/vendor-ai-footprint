@@ -1,0 +1,78 @@
+{
+  "hiringOrganization": {
+    "name": "PAYCO The Clearing House Payments Company L.L.C.",
+    "url": ""
+  },
+  "jobPostingInfo": {
+    "canApply": true,
+    "country": {
+      "descriptor": "United States of America",
+      "id": "bc33aa3152ec42d4995f4791a106ed09"
+    },
+    "externalUrl": "https://theclearinghouse.wd108.myworkdayjobs.com/TheClearingHouse/job/Charlotte-Office/Sr-Software-Engineer_JR100176-2",
+    "id": "b13cb382977e100657b401f3acb00000",
+    "includeResumeParsing": true,
+    "jobDescription": "<p><b>Position summary</b>:</p><p>The Clearing House (TCH) is seeking a Senior Software Engineer to join our RTP Product Engineering team. As a senior member of the team, you will be responsible for designing, developing, and enhancing our critical real-time interbank payment platform, including development of new applications and features while improving the functionality, reliability, and performance of existing applications. The Senior Software Engineer works directly with RTP Product teams and the Director of Product Engineering to ensure quality deliverables are completed on time and in accordance with TCH standards. The Senior Software Engineer also works closely with Operations and Technology to define and implement new maintainability features and to ensure system resiliency.</p><p>This role is well suited for an experienced engineer who enjoys solving complex technical problems, building highly reliable systems, and delivering innovative applications that operate at the core of financial infrastructure. The organization is actively transforming its payment platforms toward cloud-native, distributed architectures while introducing modern automation and AI-assisted engineering practices into its software development lifecycle.</p><p>TCH values engineers who are technically curious, pragmatic, and interested in understanding how complex systems work, end to end. The ideal candidate will be a hands-on software engineer who has strong Java development experience, deep expertise in distributed application architectures, and an avid interest in building critical systems where performance, security, resiliency, and sustainability are vital for success.</p><p><b>Essential functions and responsibilities</b>: </p><ul><li>Design, develop, test, and maintain highly reliable software supporting real-time payment processing</li></ul><ul><li>Serve as a senior technical contributor across the complete software development lifecycle</li></ul><ul><li>Develop software components primarily in Java, leveraging frameworks such as Spring and Spring Boot</li></ul><ul><li>Develop critical applications using AWS cloud-native services and event-driven architectures, including containerized and serverless stacks for streaming data and real-time messaging</li></ul><ul><li>Develop Python scripts and programs as needed for data automation and integration services</li></ul><ul><li>Design and implement services and APIs using modern software engineering principles and patterns</li></ul><ul><li>Participate in architecture and technical design decisions involving scalability, availability, resiliency, security, and maintainability</li></ul><ul><li>Develop and maintain automated build, test, deployment, and infrastructure processes using CI/CD pipelines for engineering and software quality automation</li></ul><ul><li>Apply Infrastructure as Code practices for cloud deployments using software tools such as Terraform</li></ul><ul><li>Apply observability, monitoring, fault handling, and operational readiness practices appropriate for mission-critical systems</li></ul><ul><li>Participate in troubleshooting and root-cause analysis of complex application and production issues</li></ul><ul><li>Mentor less experienced engineers and contribute to engineering standards, secure development practices, peer code reviews, and architectural best practices.</li></ul><ul><li>Work closely with product, architecture, infrastructure, security, operations, and other engineering teams, following an agile development methodology as part of a scrum team </li></ul><ul><li>Use approved AI-assisted development tools to improve software design, development, testing, documentation, and engineering productivity while following enterprise SDLC and security controls.</li></ul><ul><li>undefined</li></ul><p><b>Qualifications required</b>:</p><ul><li>Bachelor&#39;s degree or equivalent experience in Computer Science, Information Systems, Computer Engineering, Data Science, or related fields</li></ul><ul><li>8&#43; years in Java software development experience including analysis, design, development, documentation, implementation and testing of systems, preferably using Spring or Spring Boot</li></ul><ul><li>Expertise in cloud-native application architectures, microservices, containers, and distributed systems</li></ul><ul><li><span style=\"color:#000000\">Hands-on experience developing solutions using managed services and serverless technologies on AWS or another major public cloud provider</span></li></ul><ul><li>Experience implementing event-driven architectures with Kafka, RabbitMQ, or similar messaging or data streaming technologies </li></ul><ul><li><span style=\"color:#000000\">Working knowledge of Python for data pipelines and analysis, machine learning, and automation</span></li></ul><ul><li><span style=\"color:#000000\">Ability to communicate clearly with highly technical leaders as well as non-technical partners</span></li></ul><ul><li><span style=\"color:#000000\">Collaborative team player that connects across groups with proven ability to influence stakeholders</span></li></ul><ul><li><span style=\"color:#000000\">Positive track record of delivering large scale complex projects and enterprise software solutions</span></li></ul><ul><li><span style=\"color:#000000\">Ability to travel up to 10% between NYC and NC offices</span></li></ul><ul><li>undefined</li></ul><p><b>Qualifications desired</b>: </p><ul><li>Master’s degree or equivalent experience in Computer Science or related fields</li></ul><ul><li><span style=\"color:#000000\">AWS Certification as Associate or Professional Developer, Solutions Architect or DevOps Engineer</span></li></ul><ul><li>Certification as an Agile Service or Product Owner and familiarity with tools such as Jira</li></ul><ul><li>Hands-on experience with Terraform or comparable Infrastructure-as-Code technologies</li></ul><ul><li><span style=\"color:#000000\">Deep understanding of security best practices and respective enterprise tooling</span></li></ul><ul><li><span style=\"color:#000000\">Familiarity with Python data integration libraries and third-party ETL tools such as SnapLogic</span></li></ul><ul><li>Experience with automated testing, deployment automation, observability, and site reliability practices</li></ul><ul><li>Familiarity with security and governance principles in AI-assisted software development</li></ul><ul><li>Experience in in payments, banking, clearing, settlement, or related transaction-processing systems</li></ul><ul><li>Experience designing and implementing software solutions for critical infrastructures</li></ul><ul><li>undefined</li></ul><p><b>Behavioral &amp; Leadership Competencies:</b></p><ul><li>Possesses and applies broad knowledge of concepts, exhibiting technical expertise in core subject areas</li></ul><ul><li><span style=\"color:#000000\">Demonstrates commitment to excellence, anticipates needs, mitigates risks and minimizes challenges</span></li></ul><ul><li>Effectively engages teammates and internal/external partners through a customer focused approach</li></ul><ul><li>Works well independently with minimal instruction/guidance, confident to escalate issues appropriately</li></ul><ul><li>Set priorities and handle multiple tasks and projects in a fast-paced environment</li></ul><ul><li>Recommends innovative solutions aligned with organizational initiatives and recognized problem areas</li></ul><p><b>Physical demands and work environment</b>:</p><ul><li>Ability to remain seated for long periods of time while working on computer or editing.</li></ul><ul><li>Ability to work under highly stressful deadlines.</li></ul><ul><li>Ability to handle multiple tasks simultaneously.</li></ul><ul><li>Ability to prioritize appropriately</li></ul><ul><li>Ability to sit and review information on a computer screen for long periods of time</li><li>Ability to report to the office three days each week. Onsite work requirements may change at any time. </li></ul>",
+    "jobPostingId": "Sr-Software-Engineer_JR100176-2",
+    "jobPostingSiteId": "TheClearingHouse",
+    "jobReqId": "JR100176",
+    "jobRequisitionLocation": {
+      "country": {
+        "alpha2Code": "US",
+        "descriptor": "United States of America",
+        "id": "bc33aa3152ec42d4995f4791a106ed09"
+      },
+      "descriptor": "Charlotte Office"
+    },
+    "location": "Charlotte Office",
+    "posted": true,
+    "postedOn": "Posted 21 Days Ago",
+    "questionnaireId": "416fc4b6e988100114d79736c4ff0000",
+    "startDate": "2026-09-11",
+    "timeType": "Full time",
+    "title": "Sr. Software Engineer"
+  },
+  "similarJobs": [
+    {
+      "externalPath": "/job/Charlotte-Office/Software-Engineer_JR100177-5",
+      "locationsText": "Charlotte Office",
+      "postedOn": "Posted 21 Days Ago",
+      "startDate": "2026-09-11",
+      "timeType": "Full time",
+      "title": "Software Engineer"
+    },
+    {
+      "externalPath": "/job/Charlotte-Office/Senior-Software-Developer-Engineer-in-Testing_JR100159",
+      "locationsText": "Charlotte Office",
+      "postedOn": "Posted 30+ Days Ago",
+      "startDate": "2026-08-27",
+      "timeType": "Full time",
+      "title": "Senior Software Developer Engineer in Testing"
+    },
+    {
+      "externalPath": "/job/North-Carolina-Office/Senior-Technology-Architect---Hybrid-Infrastructure---Cloud_JR100199-1",
+      "locationsText": "2 Locations",
+      "postedOn": "Posted 3 Days Ago",
+      "startDate": "2026-09-29",
+      "timeType": "Full time",
+      "title": "Senior Technology Architect - Hybrid Infrastructure & Cloud"
+    },
+    {
+      "externalPath": "/job/North-Carolina-Office/Senior-Technology-Architect---Hybrid-Infrastructure---Cloud_JR100187",
+      "locationsText": "2 Locations",
+      "postedOn": "Posted 23 Days Ago",
+      "startDate": "2026-09-09",
+      "timeType": "Full time",
+      "title": "Senior Technology Architect - Hybrid Infrastructure & Cloud"
+    },
+    {
+      "externalPath": "/job/Charlotte-Office/Cloud-Computing-Engineer---AWS_JR100196-4",
+      "locationsText": "Charlotte Office",
+      "postedOn": "Posted 4 Days Ago",
+      "startDate": "2026-09-28",
+      "timeType": "Full time",
+      "title": "Cloud Computing Engineer - AWS"
+    }
+  ],
+  "userAuthenticated": false
+}

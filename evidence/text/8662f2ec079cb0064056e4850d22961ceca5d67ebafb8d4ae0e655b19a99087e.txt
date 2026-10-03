@@ -1,0 +1,39 @@
+Main Content
+Experienced and Proven: Impact at Scale By-The-Numbers
+Since 2017, the RTP network has processed over 1.8 billion transactions and cleared and settled over $3.6 trillion instantly and with unmatched scale, performance, and reliability.
+- Instant Settlement: Final, anytime, every day
+- High Limits: Send up to $10 million per transaction
+- Reliable Infrastructure: 100% uptime, zero scheduled downtime
+- Smart Messaging: Rich ISO® 20022 data for real-time reconciliation
+- Massive Volume: 150 million transactions totaling $621 billion in Q3 2026 alone
+- Daily Average Value: $6.9 billion as of September 2026
+- Participant Reach: over 1,378 participants as of September 2026
+Why Financial Institutions Choose the RTP Network
+- Corporate clients improve liquidity, automate receivables, and streamline disbursements
+- Small business and other business banking customers benefit from real‑time payouts, faster invoicing, and improved cash‑flow visibility
+- Retail customers enjoy instant money movement from loan disbursements to P2P transfers
+- FinTech platform providers and processors access a stable, open platform with flexible APIs and broad reach
+Real-Time Payments In Action
+- Account-to-account (A2A) transfers and digital wallet payouts
+- Merchant settlement, insurance, and gig economy disbursements
+- Treasury, supplier, and cash concentration payments
+With Constant Expansion
+The RTP ecosystem continues to expand every month, bringing on more financial institutions, core platforms, and integration partners, including technology providers and funding agents, that simplify and accelerate access to the network.
+Third-Party Service Providers: Your Fast Track to the RTP network
+Connecting to the RTP network doesn't require a complex lift. Many FIs integrate seamlessly by leveraging an array of third-party service providers (TPSPs) who already support simple connectivity and funding capabilities for the RTP network. Technology providers offer turnkey integration paths, technical expertise, and ongoing support, allowing you to bring real-time payments to market faster and with less overhead.
+Whether you're a credit union or a community bank looking to minimize implementation complexity or a large FI scaling across business lines, TPSPs provide a flexible, proven option to access our growing network.
+Explore the RTP Ecosystem
+Proven Infrastructure. Future-Ready Platform.
+The RTP network is purpose-built to handle growing payment volumes and increasing transaction values. Our highly resilient 24x7 network and continuously expanding use cases make the RTP network the most reliable and scalable instant payments solution in the U.S. No outages. No limits to your growth.
+Ready to Join the RTP Network?
+RTP Deposits Value Calculator
+Try the RTP Deposits Value Calculator to estimate the deposit value RTP Payments could generate for your institution based on asset size.
+| Total Assets | Average Annual Deposits Value* | 
+|---|---|
+| $200B – $999.9B | ~$18.5B | 
+| $50B – $199.9B | ~$8.7B | 
+| $5.0B – $49.9B | ~$228.7M | 
+| $2.5B – $4.9B | ~$39.7M | 
+| $1.0B – $2.4B | ~$36.2M | 
+| $500M – $999M | ~$14.2M | 
+| <$499M | ~$2.2M |

@@ -1,0 +1,234 @@
+{
+ "key": "1eba6c975ccb4f774b860dbe423812f95286e67895ca8ab2775eff1606bc13f2",
+ "model": "gemini-3.5-flash-lite",
+ "payload_sha256": "0ea78d453e50cd3d5cbb30cee315f23c68d31c3f5c659479a2d98e7d420b420c",
+ "prompt_sha256": "065bd458ace52ff274c72967cfe1b90c794a1ec8d3a3696ec78d7d8cf636df94",
+ "response": {
+  "claims": [
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "generic_ai_marketing",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M1",
+      "span": "AI"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P1",
+    "quote": "Automic maximizes the value that AI delivers to your business.",
+    "subject": "vendor_product",
+    "temporal": "unclear"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "generic_ai_marketing",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M1",
+      "span": "AI-enabled"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P6",
+    "quote": "AutomWorx specializes in Automic workload automation, orchestration, and AI-enabled infrastructure modernization consulting.",
+    "subject": "vendor_operations",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "genai_llm",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G4",
+      "span": "Automic Automation 24.4 is Here"
+     },
+     {
+      "code": "M1",
+      "span": "GenAI"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P7",
+    "quote": "Automic Automation 24.4 is Here: Unlock the Power of GenAI in Your Automation!",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "genai_llm",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G4",
+      "span": "Automic Automation 24.4 release"
+     },
+     {
+      "code": "M1",
+      "span": "generative AI"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P8",
+    "quote": "With the Automic Automation 24.4 release, get the power of generative AI directly in the Automic UI.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "automated_action",
+    "ai_type": "genai_llm",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [
+     "data returned by the AI"
+    ],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "ASK_AI function"
+     },
+     {
+      "code": "G3",
+      "span": "automatic processing of the data returned by the AI without requiring user interaction"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P8",
+    "quote": "Build AI-powered workflows with the ASK_AI function by asking contextual questions within your scripting to get automatic processing of the data returned by the AI without requiring user interaction.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "advisory",
+    "ai_type": "genai_llm",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [
+     "job execution reports",
+     "complex scripts",
+     "error messages"
+    ],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "summarizing job execution reports, analyzing complex scripts, and receiving clear explanations of error messages"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P8",
+    "quote": "Contextual AI-powered insights speed root cause analysis by effortlessly summarizing job execution reports, analyzing complex scripts, and receiving clear explanations of error messages.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "genai_llm",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G4",
+      "span": "Automic 24.4 introduces"
+     },
+     {
+      "code": "M1",
+      "span": "GenAI"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P9",
+    "quote": "Automic 24.4 introduces ground-breaking features that integrate GenAI, the intelligence of large language models (LLMs) directly into your automation environment.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "genai_llm",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G1",
+      "span": "Google’s Gemini, OpenAI’s GPT, or a local open source LLM via the Ollama platform"
+     },
+     {
+      "code": "G3",
+      "span": "Bring Your Own Model (BYOM) support"
+     }
+    ],
+    "named_providers": [
+     "Google",
+     "OpenAI",
+     "Ollama"
+    ],
+    "passage_id": "P10",
+    "quote": "Maintain control over data security with Bring Your Own Model (BYOM) support for leading LLMs like Google’s Gemini, OpenAI’s GPT, or a local open source LLM via the Ollama platform.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "genai_llm",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G1",
+      "span": "Gemini"
+     }
+    ],
+    "named_providers": [
+     "Gemini"
+    ],
+    "passage_id": "P11",
+    "quote": "Automic SaaS customers will leverage the default model, Gemini.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "automated_action",
+    "ai_type": "genai_llm",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "Automatically generate enhanced notifications with error explanations, translations"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P11",
+    "quote": "Automatically generate enhanced notifications with error explanations, translations, and more.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "document_ai",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [
+     "service tickets"
+    ],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "effortless data extraction using natural language"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P12",
+    "quote": "Get effortless data extraction using natural language to use for example, to prioritize service tickets.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   }
+  ]
+ },
+ "role": "extract",
+ "schema_sha256": "f1cd07fdb8e496624608717927261043432a3bd93d84723a126b7c7d951d68df",
+ "seed": 1234
+}

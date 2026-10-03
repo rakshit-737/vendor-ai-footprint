@@ -1,0 +1,55 @@
+Customer Success &#8211; AvMed
+
+Customer Success - AvMed
+
+Learn how AvMed changed their payor engine, updated their database, and automated across the entire organization.
+
+Contact Us
+
+AvMed Achieves True IT Modernization and Automates HealthRules with AutomWorx
+
+Transforming the IT and application infrastructure of an organization that’s been operating for more than a half century is no easy task, but that’s exactly the challenge AvMed took on more than two years ago.
+
+“It was not unlike performing a heart transplant,” said Tony Puccio, Applications Architect at AvMed, referring to the project.
+
+Founded in 1969 as Aviation Medicine, AvMed began as a healthcare option for Miami-area pilots. Now with nearly a quarter of a million members in 30 counties, it is one of Florida’s oldest and largest non-for-profit health plans, as well as one the most highly rated. The company offers coverage for individuals and families, through employer-sponsored plans, and via Medicare.
+
+To ensure their workload automation solution was upgraded and integrated with new critical applications, AvMed chose AutomWorx.
+
+About AvMed
+
+AvMed is a Florida-based health plan headquartered in Miami with regional offices in Fort Lauderdale, Gainesville and Orlando. Approximately 230,000 Members count on AvMed for their Employer Group, Medicare and Individual and Family plan coverage.
+
+Problem
+
+Aging application created operational and automation challenges.
+
+Solution
+
+Application migration and workload automation converstion with AutomWorx.
+
+Changing Application Landscape
+
+As a health plan administrator, AvMed had relied heavily on AMISYS Advance as the company’s central application. AMISYS Advance was designed for healthcare payers and had been used widely in the industry, but over time it became less effective in meeting AvMed’s requirements. With AMISYS intellectual property starting to fade, AvMed decided to look for a new Payer Engine and ultimately selected HealthEdge HealthRules. They were also faced with an aging database, and needed get from Oracle 11 to Oracle Database 12c and SQL Server Database in order to support the new application stack.
+
+"Even after we went live, we found AutomWorx very helpful when we ran into questions. If I could give them a rating higher than 10 out of 10, I would.”
+
+—Tony Puccio, Applications Architect, AvMed
+
+Inside of AMISYS, Puccio and his team had automated over 400 workloads with Broadcom’s AppWorx tool, and many of these workloads would need to be rebuilt in HealthRules. Puccio, in the spirit of the larger modernization project, chose to migrate from AppWorx to Automic Workload Automation, a more robust scheduling application that is also part of the Broadcom portfolio.
+
+“We contacted AutomWorx because I knew how much experience they have with business applications, and there is no consulting firm out there who has more experience with AppWorx, UC4, or Automic,” Puccio said. “We weren’t disappointed. The conversion went nearly flawlessly, and projects actually finished ahead of time.”
+
+Consulting Approach
+
+AutomWorx was founded by veterans of the workload automation industry and takes a different approach to consulting than many traditional systems integrators. With deep technical experience with AppWorx, UC4, and Automic solutions, AutomWorx can advise on the workload automation platform that will best help businesses meet their goals. Central to every engagement is hands-on training to ensure that customers can use upgraded or new workload automation software effectively.
+
+“My team watched the entire conversion of our AppWorx jobs to AWA, and the consultant explained each step,” said Puccio. “This was the beginning of what was an extremely efficient knowledge transfer.”
+
+Though AutomWorx empowers customer to manage their own environments, they also provide extended support plans and options for ongoing maintenance and can deliver on consulting services throughout the entire product lifecycle.
+
+“Even after we went live, we found AutomWorx very helpful when we ran into questions,” Puccio said. “If I could give them a rating higher than 10 out of 10, I would.”
+
+Contact Us
+
+Download the Case Study

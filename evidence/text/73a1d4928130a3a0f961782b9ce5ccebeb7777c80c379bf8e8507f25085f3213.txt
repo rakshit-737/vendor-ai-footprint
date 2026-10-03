@@ -1,0 +1,93 @@
+How to Define Migration Success Before the Build Starts
+
+Most migration projects define success at go-live. The system is live, the jobs are running, the cutover window closed without a rollback.
+
+The problem is that by the time go-live arrives, “success” has usually contracted to mean “we did not fail.” And that is a much lower bar than what the migration was supposed to achieve.
+
+The teams that avoid this pattern define success before the build starts. Here is how to do it, and why it changes everything that follows.
+
+Why This Matters More Than It Sounds
+
+Undefined success criteria do not stay undefined. They get filled in by whoever has the most authority at the moment the question comes up.
+
+That is usually an executive, mid-project, under pressure, when something has already gone sideways.
+
+Defining success early takes that decision out of the pressure moment and puts it where it belongs: in the planning phase, when the conversation is still objective and everyone is still aligned.
+
+It also forces a clarifying question that most teams skip: what is this migration actually supposed to accomplish? Not technically. Operationally. For the business.
+
+Start With the Business Outcome
+
+The most common mistake in migration success criteria is leading with technical milestones: jobs migrated, environments decommissioned, go-live date hit.
+
+Those are milestones. They are not outcomes.
+
+The business outcome is the reason the migration is happening. Reducing operational complexity. Reducing operational overhead. Enabling a new automation capability that the old environment could not support. Whatever the business case was – that is what the migration is supposed to deliver.
+
+Success criteria should trace back to that outcome. A migration that hits every technical milestone but does not move the needle on the original business case has not succeeded. It has just completed.
+
+Define SLAs Before the Build Begins
+
+If the migration is supposed to maintain or improve operational performance, what does that mean specifically?
+
+Before the build begins, agree on:
+
+Expected job completion windows in the new environment
+
+Acceptable variance from current baselines
+
+SLA commitments the new environment needs to meet on an ongoing basis
+
+These numbers become the post-go-live benchmark. Without them, you have no basis for evaluating whether the migration performed. You can look at the go-live and say it happened. You cannot say whether it worked.
+
+Make Acceptance Criteria Explicit and Owned
+
+Acceptance criteria answer a specific question: what does the environment need to demonstrate before we declare success?
+
+Good acceptance criteria are:
+
+Specific and measurable – not “the environment is stable,” but “all critical job chains complete within agreed windows for a defined consecutive period under normal conditions”
+
+Agreed in writing before the build begins, not negotiated at go-live
+
+Owned by someone who has the authority to formally sign off
+
+The last point matters as much as the first two. Acceptance criteria without an owner are suggestions. They will be overridden by whoever has the most urgency when the go-live date arrives.
+
+Get Stakeholder Alignment on the Criteria, Not Just the Date
+
+Most stakeholders sign off on the go-live date. Fewer sign off on what success looks like before the build begins.
+
+That is backwards.
+
+If a stakeholder signs off on go-live without having agreed to acceptance criteria, you are asking them to approve something that has not been defined. When the question of whether the migration “worked” comes up later – and it will – there is no shared reference point. Everyone remembers a different conversation.
+
+Get stakeholder alignment on what success looks like before the first configuration change is made. It is a harder conversation to have upfront. It is a much harder conversation to have six months later.
+
+Build the Post-Go-Live Review Into the Plan Before the Build Starts
+
+Success criteria are only useful if someone evaluates them.
+
+Before the build begins, schedule a post-go-live review. Assign it a date, an owner, and a clear agenda: the acceptance criteria are evaluated, and success is formally declared or not.
+
+That review cannot be an afterthought. If it is not on the project plan before the build starts, it will be the first thing dropped when the schedule compresses.
+
+Without it, success gets declared informally – usually at go-live, by whoever feels the most pressure to close the project. The open questions stay open. The acceptance criteria that were so carefully defined never get evaluated. The migration ends not with a clear close but with the team drifting to the next project.
+
+What Happens When You Skip This Step
+
+When success criteria are not defined before the build, a familiar pattern tends to play out.
+
+Go-live becomes the de facto definition of success, regardless of whether the environment performs as expected. Post-go-live issues get treated as new problems rather than gaps in the original scope – because there is no criteria to evaluate them against. The business outcome that justified the migration is never formally assessed. Nobody confirms whether the migration delivered on its operational goals. Nobody validates whether the new environment reduced operational overhead. The migration “worked” because it went live.
+
+And somewhere downstream, a question gets asked: was this worth it? And no one has a good answer.
+
+The Conversation Worth Having Early
+
+Defining migration success before the build starts requires a harder conversation earlier. It asks stakeholders to agree on something specific before the project is underway, when it is easier to stay vague and move fast.
+
+But that conversation changes the entire shape of the migration. It gives the technical team a clear target. It gives stakeholders a shared definition they agreed to before any trade-offs were made. It gives the post-go-live review a purpose.
+
+And it means that when the migration is done, everyone knows it – because they agreed on what done meant before the build began.
+
+AutomWorx specializes in Atomic workload automation consulting, migration planning, and post-go-live support. Contact us at automworx.com.

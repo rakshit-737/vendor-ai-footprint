@@ -1,0 +1,115 @@
+{
+  "_shards": {
+    "failed": 0,
+    "skipped": 0,
+    "successful": 50,
+    "total": 50
+  },
+  "aggregations": {
+    "biz_states_filter": {
+      "buckets": [],
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0
+    },
+    "entity_filter": {
+      "buckets": [],
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0
+    },
+    "form_filter": {
+      "buckets": [],
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0
+    },
+    "sic_filter": {
+      "buckets": [],
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0
+    }
+  },
+  "hits": {
+    "hits": [],
+    "max_score": null,
+    "total": {
+      "relation": "eq",
+      "value": 0
+    }
+  },
+  "query": {
+    "_source": {
+      "exclude": [
+        "doc_text"
+      ]
+    },
+    "aggregations": {
+      "biz_states_filter": {
+        "terms": {
+          "field": "biz_states",
+          "size": 30
+        }
+      },
+      "entity_filter": {
+        "terms": {
+          "field": "display_names.raw",
+          "size": 30
+        }
+      },
+      "form_filter": {
+        "terms": {
+          "field": "root_forms",
+          "size": 30
+        }
+      },
+      "sic_filter": {
+        "terms": {
+          "field": "sics",
+          "size": 30
+        }
+      }
+    },
+    "from": 0,
+    "query": {
+      "bool": {
+        "filter": [
+          {
+            "terms": {
+              "root_forms": [
+                "10-K",
+                "10-Q",
+                "8-K",
+                "DEFA14A"
+              ]
+            }
+          },
+          {
+            "terms": {
+              "ciks": [
+                "0000798354"
+              ]
+            }
+          },
+          {
+            "range": {
+              "file_date": {
+                "gte": "2024-10-02",
+                "lte": "2026-10-02"
+              }
+            }
+          }
+        ],
+        "must": [
+          {
+            "match_phrase": {
+              "doc_text": "generative AI"
+            }
+          }
+        ],
+        "must_not": [],
+        "should": []
+      }
+    },
+    "size": 100
+  },
+  "timed_out": false,
+  "took": 154
+}

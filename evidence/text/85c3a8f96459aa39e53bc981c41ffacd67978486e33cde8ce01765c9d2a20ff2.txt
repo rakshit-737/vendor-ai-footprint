@@ -1,0 +1,54 @@
+Type: 
+            
+                Webinar
+            
+            
+            Duration: 
+            
+                90 Minutes
+            
+            
+            
+                Date & Time: 
+                
+                
+            
+            
+            
+            
+            
+        
+            
+            Member Fee: 
+            
+                $179.00 per line
+            
+            
+            Non-Member Fee: 
+            
+                $279.00 per line
+            
+            
+            
+            
+                
+            
+            
+            Audience: 
+            
+                AAPs, APRPs, Compliance, Corporate Payments Professionals, Payments Strategists, Risk Managers
+            
+            
+        
+        
+            
+SAVE when you register via TCHPA to attend this Nacha webinar!
+Starting in 2022, ACH participants may need to change the way they handle Micro-Entries due to a new, two-phase, Nacha Operating Rule being implemented. Although Micro-Entries are often referred to as “test” transactions, they are actual “live” ACH entries resulting in the movement of money. As such, ACH participants will need to apply the new Rule to improve the quality and effectiveness of Micro-Entries.
+Join Nacha experts as they discuss the new Rule for Micro-Entries and what this means for all ACH Network participants. Speakers will explore the benefits and impacts of the upcoming Rule change and important updates that Originators and ODFIs must be aware of to remain in compliance.
+You will learn:
+    - How it improves the effectiveness of Micro-Entries as a method of account validation.
+- How this Rule improves the quality of Micro-Entries in the ACH Network.
+- When ACH Network participants must act to remain in compliance.
+Speakers:
+Amy K. Morris  Senior Director, ACH Network Rules, Nacha
+Chris Selmi  Senior Vice President, Risk & Regulatory Compliance, WesPay

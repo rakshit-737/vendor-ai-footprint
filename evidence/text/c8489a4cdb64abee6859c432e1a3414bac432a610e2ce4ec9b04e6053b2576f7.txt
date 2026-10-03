@@ -1,0 +1,44 @@
+Type: 
+            
+                Webinar
+            
+            
+            Duration: 
+            
+                30 Minutes
+            
+            
+            
+                Date & Time: 
+                
+                
+            
+            
+            
+            
+            
+        
+            
+            Member Fee: 
+            
+                $0
+            
+            
+            Non-Member Fee: 
+            
+                $299
+            
+            
+            
+            
+                
+            
+            
+            Audience: 
+            
+                ACH Personnel, General ACH
+            
+            
+        
+        
+            Explore the key differences between unauthorized transactions and legitimate stop payment requests. Participants will learn how to identify and resolve unauthorized ACH debits and the proper handling of stop payment requests.

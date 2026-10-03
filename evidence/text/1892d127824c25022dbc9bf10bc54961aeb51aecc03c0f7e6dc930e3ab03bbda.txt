@@ -1,0 +1,23 @@
+{
+  "AD": false,
+  "Authority": [
+    {
+      "TTL": 300,
+      "data": "ns-79.awsdns-09.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400",
+      "name": "theclearinghouse.org.",
+      "type": 6
+    }
+  ],
+  "CD": false,
+  "Comment": "Response from 205.251.195.186.",
+  "Question": [
+    {
+      "name": "theclearinghouse.org.",
+      "type": 5
+    }
+  ],
+  "RA": true,
+  "RD": true,
+  "Status": 0,
+  "TC": false
+}

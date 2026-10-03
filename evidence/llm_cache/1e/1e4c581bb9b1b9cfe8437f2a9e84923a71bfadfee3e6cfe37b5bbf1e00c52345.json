@@ -1,0 +1,208 @@
+{
+ "key": "1e4c581bb9b1b9cfe8437f2a9e84923a71bfadfee3e6cfe37b5bbf1e00c52345",
+ "model": "gemini-3.5-flash-lite",
+ "payload_sha256": "7b467800b28d3d4694d8779b5df8aaf471f3474c1c2cbed39a006e614f93ac2f",
+ "prompt_sha256": "065bd458ace52ff274c72967cfe1b90c794a1ec8d3a3696ec78d7d8cf636df94",
+ "response": {
+  "claims": [
+   {
+    "action_level": "none",
+    "ai_type": "unspecified",
+    "claim_kind": "ai_partnership",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G1",
+      "span": "OpenAI"
+     }
+    ],
+    "named_providers": [
+     "OpenAI"
+    ],
+    "passage_id": "P1",
+    "quote": "And this position is validated by our work with the world’s leading AI companies, including OpenAI, with whom we were thrilled to announce a strategic collaboration process with this morning.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "strengthen the infrastructure our clients already rely on us for"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P2",
+    "quote": "On the revenue side, we’re intensely using AI to strengthen the infrastructure our clients already rely on us for, taking systems of record to systems of greater value. Think about better auth rates, lower fraud rates, and richer data products, offering hyper personalization of offers.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "agentic",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "agentic commerce"
+     },
+     {
+      "code": "G2",
+      "span": "agentOS"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P2",
+    "quote": "And then new products, entirely new products like agentic commerce that Takis will cover, and agentOS, a new and transformative operating system that Dhivya will unveil. We announced this morning, which brings agentic capabilities from everywhere safely to our banking clients.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "Project Elevate"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P4",
+    "quote": "Fourth pillar is Project Elevate, our AI driven transformation program designed to make Fiserv a structurally more productive company that’s easier for our employees and our clients to interact with and benefit from the natural synergies in the business.",
+    "subject": "vendor_operations",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "advisory",
+    "ai_type": "unspecified",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G11",
+      "span": "40% of our engineers using AI daily"
+     },
+     {
+      "code": "G11",
+      "span": "25% of our code written by AI"
+     },
+     {
+      "code": "M2",
+      "span": "are going to take"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P6",
+    "quote": "If you look on the right side of the page from a standing start, today, we have 40% of our engineers using AI daily and 25% of our code written by AI. And we are going to take both of those numbers close to 100% by year end.",
+    "subject": "vendor_staff_tools",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "predictive_ml",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [
+     "behavioral information",
+     "pre and post sale signals"
+    ],
+    "indicators": [
+     {
+      "code": "G1",
+      "span": "NVIDIA"
+     },
+     {
+      "code": "G3",
+      "span": "embed those into a graph neural network"
+     },
+     {
+      "code": "G11",
+      "span": "significant increase in the accuracy"
+     }
+    ],
+    "named_providers": [
+     "NVIDIA"
+    ],
+    "passage_id": "P9",
+    "quote": "And then to that, we add behavioral information through partners like Signifyd that capture pre and post sale signals, how people browse, how often do they return or dispute, for example, and then we embed those into a graph neural network that we developed in collaboration with NVIDIA, which resulted in a significant increase in the accuracy of our models and that we just deployed in production.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "agentic",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "Commerce Hub’s agentic orchestrator"
+     },
+     {
+      "code": "M2",
+      "span": "We want to"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P11",
+    "quote": "We want to enable our customers to securely connect to all major LLM protocols through Commerce Hub’s agentic orchestrator, minimizing the work that they have to do while maintaining the security and integrity of their transactions.",
+    "subject": "vendor_product",
+    "temporal": "planned"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "agentic",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "autonomous agents"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P12",
+    "quote": "On the right side, autonomous agents or A to A interactions present a different set of complexities and opportunities and we are very excited as we partner with our clients and LLM providers to power both B2B and B2C use cases.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "agentic",
+    "claim_kind": "ai_partnership",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G1",
+      "span": "Google"
+     },
+     {
+      "code": "G1",
+      "span": "Alibaba"
+     },
+     {
+      "code": "M2",
+      "span": "going live soon"
+     }
+    ],
+    "named_providers": [
+     "Google",
+     "Alibaba"
+    ],
+    "passage_id": "P12",
+    "quote": "And our first SMB agents are going live soon through our partnerships with Google and Alibaba.",
+    "subject": "vendor_product",
+    "temporal": "planned"
+   }
+  ]
+ },
+ "role": "extract",
+ "schema_sha256": "f1cd07fdb8e496624608717927261043432a3bd93d84723a126b7c7d951d68df",
+ "seed": 1234
+}

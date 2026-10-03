@@ -1,0 +1,10 @@
+The Clearing House Unveils Business Principles for the RTP Network
+As adoption and volumes continue to increase on its faster payments network, The Clearing House released a set of eight business principles that will govern the operation of the RTP network.
+The principles — which were informed by input from community banks, credit unions and corporate end users — emphasize openness, accessibility and transparency, reports the ABA Banking Journal.
+According to the ABA Banking Journal, TCH’s principles “make clear that RTP is open to every federally insured U.S. depository institution; that RTP operates as an industry utility with flat fees for all participants; that rules and specifications will be publicly available; and that all major decisions about RTP will be disclosed to relevant stakeholders.”
+Here are the first three business principles devised by The Supervisory Board of the Clearing House Payments Co.:
+- Every federally insured U.S. depository institution* is eligible to directly participate in the RTP network in accordance with publicly available, nondiscriminatory eligibility requirements.
+- TCH runs the RTP network as a utility for the benefit of the industry and RTP fees shall continue to be flat for all participants regardless of size, and shall not include volume discounts or minimum volume requirements.
+- The RTP rules, message specifications, use cases, and other educational resources are and shall remain publically available.
+Read the complete set of the Business Principles for the RTP Network.
+* An uninsured branch or agency of a foreign bank that is included in the term ‘insured depository institution’ under 12 USC § 1813(c) for purposes of 12 USC § 1818 is also eligible to directly participate in the RTP network.

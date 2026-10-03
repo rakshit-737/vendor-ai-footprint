@@ -1,0 +1,44 @@
+Type: 
+            
+                Webinar
+            
+            
+            Duration: 
+            
+                60 Minutes
+            
+            
+            
+                Date & Time: 
+                
+                
+            
+            
+            
+            
+            
+        
+            
+            Member Fee: 
+            
+                $0
+            
+            
+            Non-Member Fee: 
+            
+                $379
+            
+            
+            
+            
+                
+            
+            
+            
+            
+                
+            
+            
+        
+        
+            This session addresses how Request for Payments and Request for Return of Funds non-payments messages are utilized in the RTP Network. Learn the participant responsibilities and liabilities that apply.

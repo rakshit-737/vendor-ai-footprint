@@ -1,0 +1,367 @@
+{
+ "key": "6bc64aeda264c3cb1d60e99a0013d61a8878a4a445e5c943bf0030d5babb734c",
+ "model": "gemini-3.5-flash-lite",
+ "payload_sha256": "132dff63d0a4a63943fdf8ef4465a200e13de88e04b109ea429b35e2a6250205",
+ "prompt_sha256": "065bd458ace52ff274c72967cfe1b90c794a1ec8d3a3696ec78d7d8cf636df94",
+ "response": {
+  "claims": [
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "generic_ai_marketing",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M1",
+      "span": "accelerated by AI"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P1",
+    "quote": "Open, modular platforms accelerated by AI allow for delivery with greater capital efficiency",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "agentic",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "Agentic AI Resolution"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P2",
+    "quote": "Agentic AI Resolution",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "predictive_ml",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "AI-Driven Client Health Index"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P2",
+    "quote": "AI-Driven Client Health Index, Improved Coverage",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M1",
+      "span": "AI-Enabled"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P3",
+    "quote": "Modular and Open Architecture, AI-Enabled",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "conversational",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "Conversational AI as the next layer of abstraction"
+     },
+     {
+      "code": "G5",
+      "span": "API-First"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P4",
+    "quote": "Conversational AI as the next layer of abstraction With a Single Prompt Componentized | Multi-Rail | API-First | Cloud-Native | Global “Send $200 to my landlord for rent”",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M1",
+      "span": "Recent AI Advances"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P5",
+    "quote": "Modernization and New Platform Build Accelerated by Recent AI Advances",
+    "subject": "vendor_operations",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M2",
+      "span": "2026 Focus"
+     },
+     {
+      "code": "M1",
+      "span": "AI acceleration"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P6",
+    "quote": "2026 Focus: Rebuilt platform, AI acceleration, expanded partner integrations",
+    "subject": "vendor_product",
+    "temporal": "planned"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "predictive_ml",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [
+     "Merchant-side data elements"
+    ],
+    "indicators": [
+     {
+      "code": "G3",
+      "span": "Merchant-side data elements"
+     },
+     {
+      "code": "M2",
+      "span": "2026 Focus"
+     },
+     {
+      "code": "G2",
+      "span": "hyper-personalization AI pilot"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P6",
+    "quote": "Loyalty and Rewards Fraud Decisioning Merchant-side data elements 2026 Focus: Pay with Points expansion, hyper-personalization AI pilot",
+    "subject": "vendor_product",
+    "temporal": "pilot_or_beta"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "predictive_ml",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "AI-Driven Data Solutions"
+     },
+     {
+      "code": "M2",
+      "span": "Coming"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P7",
+    "quote": "NEXT Fiserv New Products and AI-Driven Data Solutions Coming A foundation only Fiserv could build — and a product roadmap accelerating from here",
+    "subject": "vendor_product",
+    "temporal": "planned"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "agentic",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [
+     "every transaction"
+    ],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "Better decisions, lower fraud, higher authorization rates"
+     },
+     {
+      "code": "G3",
+      "span": "across every transaction"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P8",
+    "quote": "Three Ways AI Reshapes Financial Solutions 1 2 3 TM In Our Products agentOS Velocity and Rigor Better decisions, lower fraud, A new operating system that lets AI higher authorization rates FIs deploy agents safely across timelines and operating costs across every transaction. core, processing, payments, across our own platforms. and digital.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "industry_commentary",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M3",
+      "span": "AI is a solution but need safe ways to deploy"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P8",
+    "quote": "AI is a solution but need safe ways to deploy",
+    "subject": "other_or_industry",
+    "temporal": "unclear"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "industry_commentary",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M3",
+      "span": "AI is a solution but need safe ways to deploy"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P9",
+    "quote": "AI is a solution but need safe ways to deploy",
+    "subject": "other_or_industry",
+    "temporal": "unclear"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "agentic",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [
+     "Data of Record"
+    ],
+    "indicators": [
+     {
+      "code": "G3",
+      "span": "Identity Data Masking Audit Log"
+     },
+     {
+      "code": "G2",
+      "span": "Control Plane for Agents"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P9",
+    "quote": "agentOS: The Control Plane for Agents Agent Fiserv Agents Bank Agents Partner Agents Marketplace Identity Data Masking Audit Log Kill Switch Orchestration + + Control Plane Existing LLMs Custom LLMs Future LLMs LLMs Fiserv Client Card Digital Core Payments Systems Data Systems Processing Surrounds Data of Record",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "agentic",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [
+     "every transaction"
+    ],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "Better decisions, lower fraud, higher authorization rates"
+     },
+     {
+      "code": "G3",
+      "span": "across every transaction"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P10",
+    "quote": "Three Ways AI Reshapes Financial Solutions 1 2 3 TM In Our Products agentOS Velocity and Rigor Better decisions, lower fraud, A new operating system that lets AI higher authorization rates FIs deploy agents safely across timelines and operating costs across every transaction. core, processing, payments, across our own platforms. and digital.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M1",
+      "span": "AI Enables"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P11",
+    "quote": "AI Enables Faster Delivery, Operations, and Output per Employee",
+    "subject": "vendor_operations",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "automated_action",
+    "ai_type": "conversational",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "Call Containment"
+     },
+     {
+      "code": "G11",
+      "span": "~98%"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P11",
+    "quote": "Call Center: Call Containment ~98% (IVR + Voice AI)",
+    "subject": "vendor_operations",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "automated_action",
+    "ai_type": "conversational",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "AI Assistant and Inquiry Intake"
+     },
+     {
+      "code": "G11",
+      "span": "~95% Self-Resolution"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P11",
+    "quote": "Client Servicing: AI Assistant and Inquiry Intake ~95% Self-Resolution Financial Medium-Term Solutions With AI Today Embedded SELECT TECHNOLOGY PARTNERS *Not drawn to scale 1.",
+    "subject": "vendor_operations",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "generic_ai_marketing",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M1",
+      "span": "accelerated by AI"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P12",
+    "quote": "Open, modular platforms accelerated by AI allow for delivery with greater capital efficiency",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   }
+  ]
+ },
+ "role": "extract",
+ "schema_sha256": "f1cd07fdb8e496624608717927261043432a3bd93d84723a126b7c7d951d68df",
+ "seed": 1234
+}

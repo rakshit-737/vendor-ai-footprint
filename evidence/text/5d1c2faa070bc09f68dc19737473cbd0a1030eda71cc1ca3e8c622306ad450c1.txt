@@ -1,0 +1,44 @@
+Type: 
+            
+                On Demand
+            
+            
+            Duration: 
+            
+                24 Minutes
+            
+            
+            
+                Date & Time: 
+                
+                
+            
+            
+            
+            
+            
+        
+            
+            Member Fee: 
+            
+                $0
+            
+            
+            Non-Member Fee: 
+            
+                $379
+            
+            
+            
+            
+                
+            
+            
+            Audience: 
+            
+                AAP Candidates, AAPs, ACH Personnel, APRP Candidates, APRPs, Compliance, Operations
+            
+            
+        
+        
+            A June 2021 ACH rule change limits the length of time in which an RDFI is permitted to make a claim against the ODFI’s authorization warranty; however, the language and timelines can be confusing (95 days vs. 1 year, vs 2 years from settlement date). This session defines the timelines, explains how Regulation E plays a part in these timelines, delivers sample scenarios and explains Nacha’s Warranty Claims Tool.

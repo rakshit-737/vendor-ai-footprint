@@ -1,0 +1,44 @@
+Type: 
+            
+                On Demand
+            
+            
+            Duration: 
+            
+                60 Minutes
+            
+            
+            
+                Date & Time: 
+                
+                
+            
+            
+            
+            
+            
+        
+            
+            Member Fee: 
+            
+                $0
+            
+            
+            Non-Member Fee: 
+            
+                $379
+            
+            
+            
+            
+                
+            
+            
+            Audience: 
+            
+                AAP Candidates, AAPs, ACH Personnel, APRP Candidates, APRPs, Audit, Compliance, Operations, Senior Management
+            
+            
+        
+        
+            This session focuses on a financial institution's reporting requirements as defined by the Nacha Rules.  Third-Party Sender registration, Direct Access registration, and the newest reporting requirement, the ACH Contact Registry are discussed.  Includes requirements for  registration and timing, and considerations for ensuring registered information is kept up-to-date.

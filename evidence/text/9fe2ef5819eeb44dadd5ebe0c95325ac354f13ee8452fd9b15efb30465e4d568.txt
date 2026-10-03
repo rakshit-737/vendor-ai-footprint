@@ -1,0 +1,106 @@
+{
+  "count": 1,
+  "hasMore": false,
+  "items": [
+    {
+      "ApplyWhenNotPostedFlag": false,
+      "BeFirstToApplyFlag": false,
+      "BusinessUnit": null,
+      "BusinessUnitId": 300000094081469,
+      "Category": "AI / Machine Learning Data Engineering",
+      "ContentLocale": "en",
+      "ContractType": null,
+      "CorporateDescriptionStr": "",
+      "Department": null,
+      "DomesticTravelRequired": null,
+      "ExternalContactEmail": null,
+      "ExternalContactName": null,
+      "ExternalDescriptionStr": "<p><span><strong>Director, AI / Machine Learning Data Engineer</strong></span></p><p><span>At BNY, our culture allows us to run our company better and enables employees’ growth and success.&nbsp;As a leading global financial services company at the heart of the global financial system, we influence nearly 20% of the world’s investible assets. Every day, our teams harness cutting-edge AI and breakthrough technologies to collaborate with clients, driving transformative solutions that redefine industries and uplift communities worldwide.</span></p><p><span>Recognized as a top destination for innovators and champions of inclusion, BNY is where bold ideas meet advanced technology and exceptional talent. Together, we power the future of finance – and this is what #LifeAtBNY is all about. Join us and be part of something extraordinary.</span></p><p><span>We’re seeking a future team member for the role of Director, AI / Machine Learning Data Engineer&nbsp;to join our AI Hub&nbsp;team. This role is located in New York, NY or Lake Mary, FL</span></p><p><span>In this role, you’ll make an impact in the following ways:</span></p><ul><li><span>Managing multiple, complex development projects, often global in scope</span></li><li><span>Defining resource requirements and allocations, monitoring and improving quality, and ensuring best practice development techniques</span></li><li><span>Providing subject matter expertise to teams, as needed</span></li><li><span>Developing group-wide business plans and participating in firm-wide initiatives as per the direction from management</span></li><li><span>Leading identification of risks and proposing and implementing mitigation plans</span></li><li><span>Handling escalations and acting as an advocate for change management, encouraging innovation and creativity in technology solutions</span></li></ul><p>&nbsp;</p><p><span>To be successful in this role, we’re seeking the following:</span></p><ul><li><span>Bachelor's degree in computer science engineering or a related discipline, or equivalent work experience required; advanced degree is beneficial</span></li><li><span>12+ years of experience in software development required; experience in the securities or financial services industry is a plus</span></li><li><span>At least 6-8 years of experience managing development project teams</span></li><li><span>Experience in the securities or financial services industry is a plus</span></li></ul><p>&nbsp;</p><p><span>At BNY, our culture speaks for itself, check out the latest BNY news at:</span></p><p><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.bny.com/corporate/global/en/about-us/newsroom.html\"><a target=\"_blank\" rel=\"nofollow\"><span>BNY Newsroom</span></a></a></p><p><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.linkedin.com/company/bnyglobal/posts/?feedView=all\"><a target=\"_blank\" rel=\"nofollow\"><span>BNY LinkedIn&nbsp;</span></a></a></p><p><span>Here’s a few of our recent awards:&nbsp;</span></p><ul><li><span>America’s Most Innovative Companies, Fortune, 2025</span></li><li><span>World’s Most Admired Companies, Fortune 2025</span></li><li><span>“Most Just Companies”, Just Capital and CNBC, 2025</span></li></ul><p><span>Our Benefits and Rewards:</span></p><p><span>BNY offers highly competitive compensation, benefits, and wellbeing programs rooted in a strong culture of excellence and our pay-for-performance philosophy. We provide access to flexible global resources and tools for your life’s journey. Focus on your health, foster your personal resilience, and reach your financial goals as a valued member of our team, along with generous paid leaves, including paid volunteer time, that can support you and your family through moments that matter.&nbsp;</span></p><p><span>BNY assesses market data to ensure a competitive compensation package for our employees. The base salary for this position is expected to be between $127,000 and $228,000 per year at the commencement of employment. However, base salary if hired will be determined on an individualized basis, including as to experience and market location, and is only part of the BNY total compensation package, which, depending on the position, may also include commission earnings, discretionary bonuses, short and long-term incentive packages, and Company-sponsored benefit programs.</span><br><span>This position is at-will and the Company reserves the right to modify base salary (as well as any other discretionary payment or compensation) at any time, including for reasons related to individual performance, change in geographic location, Company or individual department/team performance, and market factors.</span></p><p><span>BNY is an Equal Employment Opportunity/Affirmative Action Employer - Underrepresented racial and ethnic groups/Females/Individuals with Disabilities/Protected Veterans.</span></p><p>&nbsp;</p><p><br><br>&nbsp;</p>",
+      "ExternalPostedEndDate": null,
+      "ExternalPostedStartDate": "2026-09-21T19:32:45+00:00",
+      "ExternalQualificationsStr": "",
+      "ExternalResponsibilitiesStr": "",
+      "GeographyId": 300000090214594,
+      "GeographyNodeId": 100010357091606,
+      "HiringManager": null,
+      "HotJobFlag": false,
+      "Id": "68225",
+      "InternalQualificationsStr": "",
+      "InternalResponsibilitiesStr": "",
+      "InternationalTravelRequired": null,
+      "JobFamilyId": 300004319452500,
+      "JobFunction": "Tech - Data Management",
+      "JobFunctionCode": "TDM",
+      "JobGrade": null,
+      "JobLevel": null,
+      "JobSchedule": "Full time",
+      "JobShift": "Day",
+      "JobType": null,
+      "LegalEmployer": null,
+      "LegalEmployerId": 300000003582023,
+      "NumberOfOpenings": null,
+      "ObjectVerNumberProfile": null,
+      "Organization": null,
+      "OrganizationDescriptionStr": "",
+      "OrganizationId": 300000094736366,
+      "OtherRequisitionTitle": null,
+      "PrimaryLocation": "New York, NY, United States",
+      "PrimaryLocationCountry": "US",
+      "RequisitionId": 300008278850560,
+      "RequisitionType": "Experienced",
+      "ShortDescriptionStr": "",
+      "StudyLevel": null,
+      "Title": "Director, AI / Machine Learning Data Engineer",
+      "TrendingFlag": true,
+      "WorkDays": null,
+      "WorkHours": null,
+      "WorkMonths": null,
+      "WorkYears": null,
+      "WorkerType": null,
+      "WorkplaceType": "Hybrid",
+      "WorkplaceTypeCode": "ORA_HYBRID",
+      "media": [],
+      "otherWorkLocations": [],
+      "primaryLocationCoordinates": [
+        {
+          "CountryCode": "US",
+          "GeographyId": 300000090214594,
+          "GeographyNodeId": 100010357091606,
+          "Latitude": "40.58055",
+          "Longitude": "-74.00391"
+        }
+      ],
+      "requisitionFlexFields": [
+        {
+          "ControlType": "TextArea",
+          "Prompt": "Base Salary Min",
+          "SequenceNumber": 12,
+          "Value": "127000"
+        }
+      ],
+      "secondaryLocations": [
+        {
+          "CountryCode": "US",
+          "GeographyId": 300000090199637,
+          "GeographyNodeId": 100010357090123,
+          "Latitude": "28.75641",
+          "Longitude": "-81.32345",
+          "Name": "Lake Mary, FL, United States",
+          "RequisitionLocationId": 300011203418596
+        }
+      ],
+      "skills": [],
+      "workLocation": []
+    }
+  ],
+  "limit": 499,
+  "links": [
+    {
+      "href": "https://eofe.fa.us2.oraclecloud.com:443/hcmRestApi/resources/11.13.18.05/recruitingCEJobRequisitionDetails",
+      "kind": "collection",
+      "name": "recruitingCEJobRequisitionDetails",
+      "rel": "self"
+    }
+  ],
+  "offset": 0
+}

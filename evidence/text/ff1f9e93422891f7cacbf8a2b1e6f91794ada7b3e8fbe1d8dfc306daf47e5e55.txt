@@ -1,0 +1,120 @@
+{
+  "count": 1,
+  "hasMore": false,
+  "items": [
+    {
+      "ApplyWhenNotPostedFlag": false,
+      "BeFirstToApplyFlag": false,
+      "BusinessUnit": null,
+      "BusinessUnitId": 300000094081469,
+      "Category": "Data Science",
+      "ContentLocale": "en",
+      "ContractType": null,
+      "CorporateDescriptionStr": "<p>At BNY, our culture allows us to run our company better and enables employees’ growth and success. As a leading global financial services company at the heart of the global financial system, we influence nearly 20% of the world’s investible assets. Every day, our teams harness cutting-edge AI and breakthrough technologies to collaborate with clients, driving transformative solutions that redefine industries and uplift communities worldwide.</p>Recognized as a top destination for innovators, BNY is where bold ideas meet advanced technology and exceptional talent. Together, we power the future of finance – and this is what #LifeAtBNY is all about. Join us and be part of something extraordinary.",
+      "Department": null,
+      "DomesticTravelRequired": null,
+      "ExternalContactEmail": null,
+      "ExternalContactName": null,
+      "ExternalDescriptionStr": "<p style=\"line-height: normal; margin-bottom: 0in; text-align: justify;\"><span lang=\"EN-GB\">We’re seeking a future team member for the role of <strong>Associate, First Line Risk Manager</strong>&nbsp;to join our First Line Risk team in Markets. This role is located in New York, NY.</span></p><p style=\"line-height: normal; margin-bottom: 0in; text-align: justify;\">&nbsp;</p><p style=\"line-height: normal; margin-bottom: 0in;\"><span lang=\"EN-GB\"><strong>In this role, you’ll make an impact in the following ways:&nbsp;</strong></span></p><ul style=\"list-style-type: disc; padding-left: 24px;\"><li><p class=\"xxxmsonormal\" style=\"margin-bottom: 0in; margin-right: 0in; margin-top: 0in;\"><span>Join the First Line Exposure Optimization Team with focus on the Execution Service Business.</span></p></li></ul><p class=\"xxxmsonormal\" style=\"margin: 0in;\"><span lang=\"EN-GB\"><strong>Governance &amp; Monitoring</strong></span></p><ul style=\"list-style-type: disc; padding-left: 24px;\"><li><p class=\"xxxmsonormal\" style=\"margin-bottom: 0in; margin-right: 0in; margin-top: 0in;\"><span lang=\"EN-GB\">Monitor and analyze key financial resource metrics including RWA, leverage, liquidity stress testing (LST), SCCL, capital consumption and balance-sheet utilization.</span></p></li><li><p class=\"xxxmsonormal\" style=\"margin-bottom: 0in; margin-right: 0in; margin-top: 0in;\"><span lang=\"EN-GB\">Perform portfolio, client and counterparty exposure analysis across FX, FIEQ, Agency Lending, Securities Financing and other Markets businesses.</span></p></li><li><p class=\"xxxmsonormal\" style=\"margin-bottom: 0in; margin-right: 0in; margin-top: 0in;\"><span lang=\"EN-GB\">Support stress testing, limit monitoring and exposure-management processes, including SCCL and liquidity-risk frameworks.</span></p></li><li><p class=\"xxxmsonormal\" style=\"margin-bottom: 0in; margin-right: 0in; margin-top: 0in;\"><span lang=\"EN-GB\">Identify material exposure trends, concentrations and emerging risks and provide actionable recommendations to business and risk stakeholders.</span></p></li></ul><p class=\"xxxmsonormal\" style=\"margin: 0in;\"><span lang=\"EN-GB\"><strong>Product Design</strong></span></p><ul style=\"list-style-type: disc; padding-left: 24px;\"><li><p class=\"xxxmsonormal\" style=\"margin-bottom: 0in; margin-right: 0in; margin-top: 0in;\"><span lang=\"EN-GB\">Develop and maintain risk dashboards, management information packs, Tableau reporting and analytical tools supporting first-line risk oversight.</span></p></li><li><p class=\"xxxmsonormal\" style=\"margin-bottom: 0in; margin-right: 0in; margin-top: 0in;\"><span lang=\"EN-GB\">Partner with Treasury, Credit Risk, Market Risk, Liquidity Risk and business leadership to optimize scarce financial resources and improve risk-adjusted returns.</span></p></li><li><p class=\"xxxmsonormal\" style=\"margin-bottom: 0in; margin-right: 0in; margin-top: 0in;\"><span lang=\"EN-GB\">Automate reporting and monitoring processes using data analytics and technology solutions to improve efficiency and control effectiveness.</span></p></li></ul><p class=\"xxxmsonormal\" style=\"margin: 0in;\"><span lang=\"EN-GB\"><strong>Escalation &amp; Workouts</strong></span></p><ul style=\"list-style-type: disc; padding-left: 24px;\"><li><p class=\"xxxmsonormal\" style=\"margin-bottom: 0in; margin-right: 0in; margin-top: 0in;\"><span lang=\"EN-GB\">Lead exposure reviews and escalation processes for material limit excesses, concentration concerns and emerging risk events.</span></p></li><li><p class=\"xxxmsonormal\" style=\"margin-bottom: 0in; margin-right: 0in; margin-top: 0in;\"><span lang=\"EN-GB\">Coordinate with business, Treasury, Risk and senior management stakeholders to develop remediation actions and optimize resource consumption.</span></p></li><li><p class=\"xxxmsonormal\" style=\"margin-bottom: 0in; margin-right: 0in; margin-top: 0in;\"><span lang=\"EN-GB\">Produce executive summaries and ad-hoc exposure analyses during periods of market stress, elevated volatility or significant client activity.</span></p></li></ul><p style=\"line-height: normal; margin-bottom: 0in;\"><span lang=\"EN-GB\"><strong>The successful candidate will demonstrate/possess:</strong></span></p><p style=\"line-height: normal; margin-bottom: 0in;\">&nbsp;</p><ul style=\"list-style-type: disc; padding-left: 24px;\"><li><p class=\"xxxmsonormal\" style=\"margin-bottom: 0in; margin-right: 0in; margin-top: 0in;\">Bachelor's degree in Finance, Economics, Mathematics, Engineering, Statistics or related quantitative discipline.</p></li><li><p class=\"xxxmsonormal\" style=\"margin-bottom: 0in; margin-right: 0in; margin-top: 0in;\">Experience in Markets, Financial Resource Management, Treasury, Risk Analytics, Liquidity Risk, Counterparty Risk or Financial Risk Management.</p></li><li><p class=\"xxxmsonormal\" style=\"margin-bottom: 0in; margin-right: 0in; margin-top: 0in;\">Excel and data analytics capabilities; experience with Python preferred, but not necessary.</p></li><li><p class=\"xxxmsonormal\" style=\"margin-bottom: 0in; margin-right: 0in; margin-top: 0in;\">Strong written and verbal communication skills with experience preparing materials for senior management.</p></li></ul>",
+      "ExternalPostedEndDate": null,
+      "ExternalPostedStartDate": "2026-09-18T16:51:44+00:00",
+      "ExternalQualificationsStr": "",
+      "ExternalResponsibilitiesStr": "",
+      "GeographyId": 300000090214594,
+      "GeographyNodeId": 100010357091606,
+      "HiringManager": null,
+      "HotJobFlag": false,
+      "Id": "82204",
+      "InternalQualificationsStr": "",
+      "InternalResponsibilitiesStr": "",
+      "InternationalTravelRequired": null,
+      "JobFamilyId": 300000094771360,
+      "JobFunction": "AI Engineering",
+      "JobFunctionCode": "AIENG",
+      "JobGrade": null,
+      "JobLevel": null,
+      "JobSchedule": "Full time",
+      "JobShift": "Day",
+      "JobType": null,
+      "LegalEmployer": null,
+      "LegalEmployerId": 300000003582023,
+      "NumberOfOpenings": null,
+      "ObjectVerNumberProfile": null,
+      "Organization": null,
+      "OrganizationDescriptionStr": "<p>At BNY, our culture speaks for itself, check out the latest BNY news at&nbsp;<a href=\"https://www.bny.com/corporate/global/en/about-us/newsroom.html\" target=\"_blank\" rel=\"nofollow\">BNY Newsroom</a>&nbsp;&amp;&nbsp;<a href=\"https://www.linkedin.com/company/bnyglobal/posts/?feedView=all\" target=\"_blank\" rel=\"nofollow\">BNY LinkedIn</a></p>\n<p style=\"margin-bottom:0in\">&nbsp;Here’s a few of our recent awards:</p>\n<ul style=\"margin-top:0in\">\n <li style=\"margin-bottom:0in\">America’s Most Innovative Companies, Fortune, 2025</li>\n <li style=\"margin-bottom:0in\">World’s Most Admired Companies, Fortune 2025</li>\n <li style=\"margin-bottom:0in\">“Most Just Companies”, Just Capital and CNBC, 2025</li>\n</ul>\n<ul></ul>\n<p>Our Benefits and Rewards:</p>\n<p>BNY offers highly competitive compensation, benefits, and wellbeing programs rooted in a strong culture of excellence and our pay-for-performance philosophy. We provide access to flexible global resources and tools for your life’s journey. Focus on your health, foster your personal resilience, and reach your financial goals as a valued member of our team, along with generous paid leaves, including paid volunteer time, that can support you and your family through moments that matter.</p>\n<p>BNY is an Equal Employment Opportunity/Affirmative Action Employer - Underrepresented racial and ethnic groups/Females/Individuals with Disabilities/Protected Veterans.</p>\n<p>BNY assesses market data to ensure a competitive compensation package for our employees. The expected base salary for this position when employment commences can be found in the Job Info section at the bottom of the posting.&nbsp;</p>\n<p>Base salary offered may vary depending on multiple individualized factors, including market location, job-related knowledge, skills, and experience. Base salary is only part of the total rewards package, which may include eligibility for an annual discretionary incentive award. Subject to the terms and conditions of the applicable plans then in effect, eligible employees may enroll in a 401(k) plan as well as participate in Company-sponsored medical, dental, vision, and basic life insurance plans for the employee and the employee’s eligible dependents. Eligible employees also may receive other benefits (including various paid time off benefits, such as vacation and sick time), dependent on the position offered. Details of participation in these benefit plans will be provided if an employee receives an offer of employment.</p>\n<p>If hired, the employee will be in an “at will” position and the Company reserves the right to modify base salary (as well as any other discretionary payments or compensation programs) at any time, including for reasons related to individual performance, Company or individual department/team performance, and market factors.</p>",
+      "OrganizationId": 300000094785519,
+      "OtherRequisitionTitle": null,
+      "PrimaryLocation": "New York, NY, United States",
+      "PrimaryLocationCountry": "US",
+      "RequisitionId": 300011123665111,
+      "RequisitionType": "Experienced",
+      "ShortDescriptionStr": "",
+      "StudyLevel": null,
+      "Title": "Associate First Line Risk Manager",
+      "TrendingFlag": true,
+      "WorkDays": null,
+      "WorkHours": null,
+      "WorkMonths": null,
+      "WorkYears": null,
+      "WorkerType": null,
+      "WorkplaceType": "Hybrid",
+      "WorkplaceTypeCode": "ORA_HYBRID",
+      "media": [],
+      "otherWorkLocations": [],
+      "primaryLocationCoordinates": [
+        {
+          "CountryCode": "US",
+          "GeographyId": 300000090214594,
+          "GeographyNodeId": 100010357091606,
+          "Latitude": "40.58055",
+          "Longitude": "-74.00391"
+        }
+      ],
+      "requisitionFlexFields": [
+        {
+          "ControlType": "TextArea",
+          "Prompt": "Base Salary Min",
+          "SequenceNumber": 12,
+          "Value": "59000"
+        },
+        {
+          "ControlType": "TextArea",
+          "Prompt": "Base Salary Max",
+          "SequenceNumber": 21,
+          "Value": "117000"
+        }
+      ],
+      "secondaryLocations": [],
+      "skills": [],
+      "workLocation": [
+        {
+          "AddressLine1": "240 Greenwich Street",
+          "AddressLine2": null,
+          "AddressLine3": null,
+          "AddressLine4": null,
+          "Building": null,
+          "Country": "US",
+          "Latitude": "40.71455001",
+          "LocationId": 300000129875278,
+          "LocationName": "240 Greenwich Street,New York,NY",
+          "Longitude": "-74.00714004",
+          "PostalCode": "10286",
+          "Region1": "New York",
+          "Region2": "NY",
+          "Region3": null,
+          "TownOrCity": "New York"
+        }
+      ]
+    }
+  ],
+  "limit": 499,
+  "links": [
+    {
+      "href": "https://eofe.fa.us2.oraclecloud.com:443/hcmRestApi/resources/11.13.18.05/recruitingCEJobRequisitionDetails",
+      "kind": "collection",
+      "name": "recruitingCEJobRequisitionDetails",
+      "rel": "self"
+    }
+  ],
+  "offset": 0
+}

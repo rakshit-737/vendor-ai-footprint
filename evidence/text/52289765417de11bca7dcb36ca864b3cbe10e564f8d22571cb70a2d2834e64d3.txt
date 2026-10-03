@@ -1,0 +1,120 @@
+{
+  "count": 1,
+  "hasMore": false,
+  "items": [
+    {
+      "ApplyWhenNotPostedFlag": false,
+      "BeFirstToApplyFlag": false,
+      "BusinessUnit": null,
+      "BusinessUnitId": 300000094081469,
+      "Category": "Full-Stack Development",
+      "ContentLocale": "en",
+      "ContractType": null,
+      "CorporateDescriptionStr": "<p>At BNY, our culture allows us to run our company better and enables employees’ growth and success. As a leading global financial services company at the heart of the global financial system, we influence nearly 20% of the world’s investible assets. Every day, our teams harness cutting-edge AI and breakthrough technologies to collaborate with clients, driving transformative solutions that redefine industries and uplift communities worldwide.</p>Recognized as a top destination for innovators, BNY is where bold ideas meet advanced technology and exceptional talent. Together, we power the future of finance – and this is what #LifeAtBNY is all about. Join us and be part of something extraordinary.",
+      "Department": null,
+      "DomesticTravelRequired": null,
+      "ExternalContactEmail": null,
+      "ExternalContactName": null,
+      "ExternalDescriptionStr": "<p><span lang=\"EN\">We’re seeking a future team member for the role of Senior Associate, Full Stack Engineer to&nbsp;join our Enterprise Onboarding platform&nbsp;team. This role is located in&nbsp;Pittsburgh, PA.</span></p><p><span lang=\"EN\">In this role, you’ll make an impact in the following ways:&nbsp;</span></p><ul style=\"list-style-type: disc;\"><li><span lang=\"EN-GB\">Contribute to the design, development, and delivery of software solutions that power BNY's business-critical Enterprise Onboarding platform.</span></li><li><span lang=\"EN-GB\">Apply sound engineering judgment to build scalable, reliable, and maintainable applications and services.</span></li><li><span lang=\"EN-GB\">Partner with senior engineers to develop AI-enabled capabilities leveraging large language models (LLMs), retrieval-augmented generation (RAG), model APIs, prompt engineering, agentic workflows, and related technologies.</span></li><li><span lang=\"EN-GB\">Collaborate with architects, engineers, product partners, and operations teams to translate business requirements into high-quality technical solutions.</span></li><li><span lang=\"EN-GB\">Develop, test, deploy, and support application features and services across the software development lifecycle.</span></li><li><span lang=\"EN-GB\">Participate in technical design discussions, code reviews, troubleshooting, and continuous improvement initiatives that enhance engineering quality and team effectiveness.</span></li><li><span lang=\"EN-GB\">Leverage modern engineering practices, automation, AI-assisted development tools, and CI/CD pipelines to improve software quality and delivery efficiency.</span></li><li><span lang=\"EN-GB\">Support operational excellence through observability, resiliency, production readiness, incident response, and operational documentation.</span></li><li><span lang=\"EN-GB\">Contribute as an active member of Agile teams, helping deliver against business priorities and committed outcomes.</span></li><li><span lang=\"EN-GB\">Build knowledge of financial services and onboarding processes to develop solutions that align technology capabilities with business needs.&nbsp;</span><br>&nbsp;</li></ul><p><span lang=\"EN\">To be successful in this role, we’re seeking the following:&nbsp;</span></p><ul style=\"list-style-type: disc;\"><li><span lang=\"EN-GB\">Bachelor’s degree in computer science, Engineering, or a&nbsp;</span>related discipline, or equivalent work experience required.</li><li><span lang=\"EN-GB\">2 plus years of experience in software development required.</span></li><li><span lang=\"EN-GB\">Experience designing, developing, and supporting reliable, scalable applications in production environments.</span></li><li><span lang=\"EN-GB\">Proficiency in Java, Spring Boot, RESTful APIs, and distributed systems development.</span></li><li><span lang=\"EN-GB\">Experience with relational databases, data modeling, and application performance optimization.</span></li><li><span lang=\"EN-GB\">Hands-on experience with microservices architecture, CI/CD pipelines, and containerization technologies.</span></li><li><span lang=\"EN-GB\">Familiarity with event-driven architectures, messaging platforms such as Kafka and MQ, and large-scale data processing environments.</span>&nbsp;</li><li><span lang=\"EN-GB\">Experience working within Agile development teams, including software testing, source code management, release management, and production support.</span>&nbsp;</li><li><span lang=\"EN-GB\">Strong analytical, problem-solving, communication, and collaboration skills.</span></li><li><span lang=\"EN-GB\">Experience with Python or other scripting languages is preferred.</span></li><li><span lang=\"EN-GB\">Foundational knowledge of generative AI and machine learning technologies, including LLMs, prompt engineering, retrieval-augmented generation (RAG) context management, and model APIs.</span></li><li><span lang=\"EN-GB\">Experience within financial services or other regulated industries is preferred.</span></li></ul>",
+      "ExternalPostedEndDate": null,
+      "ExternalPostedStartDate": "2026-09-17T13:44:45+00:00",
+      "ExternalQualificationsStr": "",
+      "ExternalResponsibilitiesStr": "",
+      "GeographyId": 300000090220393,
+      "GeographyNodeId": 100010357090073,
+      "HiringManager": null,
+      "HotJobFlag": false,
+      "Id": "82009",
+      "InternalQualificationsStr": "",
+      "InternalResponsibilitiesStr": "",
+      "InternationalTravelRequired": null,
+      "JobFamilyId": 300000094771332,
+      "JobFunction": "Software Engineering",
+      "JobFunctionCode": "SOENG",
+      "JobGrade": null,
+      "JobLevel": null,
+      "JobSchedule": "Full time",
+      "JobShift": "Day",
+      "JobType": null,
+      "LegalEmployer": null,
+      "LegalEmployerId": 300000003582023,
+      "NumberOfOpenings": null,
+      "ObjectVerNumberProfile": null,
+      "Organization": null,
+      "OrganizationDescriptionStr": "<p>At BNY, our culture speaks for itself, check out the latest BNY news at&nbsp;<a href=\"https://www.bny.com/corporate/global/en/about-us/newsroom.html\" target=\"_blank\" rel=\"nofollow\">BNY Newsroom</a>&nbsp;&amp;&nbsp;<a href=\"https://www.linkedin.com/company/bnyglobal/posts/?feedView=all\" target=\"_blank\" rel=\"nofollow\">BNY LinkedIn</a></p>\n<p style=\"margin-bottom:0in\">&nbsp;Here’s a few of our recent awards:</p>\n<ul style=\"margin-top:0in\">\n <li style=\"margin-bottom:0in\">America’s Most Innovative Companies, Fortune, 2025</li>\n <li style=\"margin-bottom:0in\">World’s Most Admired Companies, Fortune 2025</li>\n <li style=\"margin-bottom:0in\">“Most Just Companies”, Just Capital and CNBC, 2025</li>\n</ul>\n<ul></ul>\n<p>Our Benefits and Rewards:</p>\n<p>BNY offers highly competitive compensation, benefits, and wellbeing programs rooted in a strong culture of excellence and our pay-for-performance philosophy. We provide access to flexible global resources and tools for your life’s journey. Focus on your health, foster your personal resilience, and reach your financial goals as a valued member of our team, along with generous paid leaves, including paid volunteer time, that can support you and your family through moments that matter.</p>\n<p>BNY is an Equal Employment Opportunity/Affirmative Action Employer - Underrepresented racial and ethnic groups/Females/Individuals with Disabilities/Protected Veterans.</p>\n<p>BNY assesses market data to ensure a competitive compensation package for our employees. The expected base salary for this position when employment commences can be found in the Job Info section at the bottom of the posting.&nbsp;</p>\n<p>Base salary offered may vary depending on multiple individualized factors, including market location, job-related knowledge, skills, and experience. Base salary is only part of the total rewards package, which may include eligibility for an annual discretionary incentive award. Subject to the terms and conditions of the applicable plans then in effect, eligible employees may enroll in a 401(k) plan as well as participate in Company-sponsored medical, dental, vision, and basic life insurance plans for the employee and the employee’s eligible dependents. Eligible employees also may receive other benefits (including various paid time off benefits, such as vacation and sick time), dependent on the position offered. Details of participation in these benefit plans will be provided if an employee receives an offer of employment.</p>\n<p>If hired, the employee will be in an “at will” position and the Company reserves the right to modify base salary (as well as any other discretionary payments or compensation programs) at any time, including for reasons related to individual performance, Company or individual department/team performance, and market factors.</p>",
+      "OrganizationId": 300004965663310,
+      "OtherRequisitionTitle": null,
+      "PrimaryLocation": "Pittsburgh, PA, United States",
+      "PrimaryLocationCountry": "US",
+      "RequisitionId": 300011063115274,
+      "RequisitionType": "Experienced",
+      "ShortDescriptionStr": "",
+      "StudyLevel": null,
+      "Title": "Senior Associate, Full-Stack Engineer",
+      "TrendingFlag": true,
+      "WorkDays": null,
+      "WorkHours": null,
+      "WorkMonths": null,
+      "WorkYears": null,
+      "WorkerType": null,
+      "WorkplaceType": "",
+      "WorkplaceTypeCode": null,
+      "media": [],
+      "otherWorkLocations": [],
+      "primaryLocationCoordinates": [
+        {
+          "CountryCode": "US",
+          "GeographyId": 300000090220393,
+          "GeographyNodeId": 100010357090073,
+          "Latitude": "40.43851",
+          "Longitude": "-79.99734"
+        }
+      ],
+      "requisitionFlexFields": [
+        {
+          "ControlType": "TextArea",
+          "Prompt": "Base Salary Min",
+          "SequenceNumber": 12,
+          "Value": "71000"
+        },
+        {
+          "ControlType": "TextArea",
+          "Prompt": "Base Salary Max",
+          "SequenceNumber": 21,
+          "Value": "113000"
+        }
+      ],
+      "secondaryLocations": [],
+      "skills": [],
+      "workLocation": [
+        {
+          "AddressLine1": "500 Grant Street",
+          "AddressLine2": null,
+          "AddressLine3": null,
+          "AddressLine4": null,
+          "Building": null,
+          "Country": "US",
+          "Latitude": "40.43980998",
+          "LocationId": 300000129875415,
+          "LocationName": "500 Grant Street,Pittsburgh,PA",
+          "Longitude": "-79.99647516",
+          "PostalCode": "15258",
+          "Region1": "Allegheny",
+          "Region2": "PA",
+          "Region3": null,
+          "TownOrCity": "Pittsburgh"
+        }
+      ]
+    }
+  ],
+  "limit": 499,
+  "links": [
+    {
+      "href": "https://eofe.fa.us2.oraclecloud.com:443/hcmRestApi/resources/11.13.18.05/recruitingCEJobRequisitionDetails",
+      "kind": "collection",
+      "name": "recruitingCEJobRequisitionDetails",
+      "rel": "self"
+    }
+  ],
+  "offset": 0
+}

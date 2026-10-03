@@ -1,0 +1,125 @@
+Finovate is part of the Informa Connect Division of Informa PLC
+
+Informa PLC
+
+About us
+
+Investor relations
+
+Talent
+
+This site is operated by a business or businesses owned by Informa PLC and all copyright resides with them. Informa PLC's registered office is 5 Howick Place, London SW1P 1WG. Registered in England and Wales. Number 8860726.
+
+Events▾ FinovateEurope FinovateSpring FinovateFall FinovateAwards
+
+FinovateEurope
+
+FinovateSpring
+
+FinovateFall
+
+FinovateAwards
+
+Blog
+
+Programs▾ Product Demos Sustainable & Inclusive Demo Scholarships Discounted Startup Access Leadership Program
+
+Product Demos
+
+Sustainable & Inclusive Demo Scholarships
+
+Discounted Startup Access
+
+Leadership Program
+
+Best of Show
+
+Demo Videos
+
+Podcast
+
+Finovate Blog
+
+Tracking fintech, banking & financial services innovations since 1994
+
+Fiserv Turns to Devin AI to Speed Core Banking Upgrades
+
+Fiserv has partnered with AI agent lab Cognition to use Devin, an autonomous AI software engineer, to accelerate banks’ core modernization efforts and shorten development cycles.
+
+Devin can autonomously plan, write, test, and deploy code across complex codebases, helping Fiserv deliver new features, security updates, and integrations to bank clients faster.
+
+Banks increasingly expect quicker deployment cycles and more flexibility, and providing faster infrastructure changes will offer Fiserv a competitive advantage.
+
+Fiserv has tapped AI agent lab Cognition to help its bank clients modernize their core banking technology faster. The Wisconsin-based company anticipates the partnership will help it accelerate the process of bringing new capabilities to its bank clients.
+
+Specifically, Fiserv will leverage Devin, Cognition’s AI-powered, autonomous software engineer, to shorten release cycles. Released in 2024, Devin plans, writes, tests, iterates, and ships production code on its own, working inside banks’ codebases and using existing tools. Firms like Goldman Sachs, Ramp, Zillow, and Lowe’s use Devin to help extend engineering capacity to free up their teams to focus on delivering improvements such as enhancements, strengthened quality checks, and improved platform resilience.
+
+Because Devin is able to work at scale across complex codebases, it can help modernize a firm’s infrastructure quickly. Fiserv will use Devin to help modernize its core platform and for other complex engineering initiatives.
+
+“Speed matters more than ever in banking, and our clients are counting on us to deliver. With Devin, we can accelerate modernization of the platforms our clients run their business on, ship new capabilities faster, and free our teams to focus on the work that matters most,” said Fiserv Co-President Dhivya Suryadevara.
+
+Core modernization has historically been expensive, resource-intensive, and slow, often taking years to complete. If AI-powered software engineers can materially accelerate development cycles, banks may be able to upgrade infrastructure, launch products, and respond to market shifts faster than previously possible.
+
+Fiserv notes that while this move will help ship new capabilities to its clients faster, it is doing so with controls in mind. The company is also strengthening its governance and security controls specifically for AI-assisted development.
+
+“Fiserv is exactly the kind of organization where Devin creates compounding value—massive scale and an engineering organization that has ambitious goals for what it needs to build and maintain,” said Cognition Co-Founder and President Russell Kaplan. “We are proud to partner with Fiserv to help teams deliver measurable improvements, so clients see faster access to new capabilities, more consistent releases, and continued focus on quality and security.”
+
+Because Fiserv provides infrastructure powering thousands of financial institutions, accelerating modernization efforts could allow the company to roll out new features, security improvements, integrations, and core platform upgrades to banks faster. Banks increasingly expect quicker deployment cycles and more flexible technology stacks, and providing faster infrastructure changes will offer Fiserv a competitive advantage.
+
+Photo by Kindel Media
+
+Share this:
+
+Search
+
+FinovateEurope 2026
+
+FinovateSpring 2026
+
+FinovateFall
+
+FinovateAwards
+
+Subscribe by Email
+
+Please enter your email Email is invalid
+
+Please enter your email Email is invalid
+
+Please enter your email Email is invalid
+
+Want us to cover your news?
+
+LinkedIn
+
+Tags
+
+Latest Finovate blog posts
+
+Mifundo Teams Up with Yapily to Enhance Cross-Border Credit
+
+Banks Know What You Spend. AI Knows Why.
+
+Fintech Rundown: A Rapid Review of Weekly News
+
+Get Involved
+
+Events
+
+Videos
+
+Demo Videos
+
+Podcast
+
+Podcast Archives
+
+Home
+
+Cookies
+
+Privacy
+
+Terms
+
+Demo your latest fintech product or innovation in front of 1000+ decision makers including 600+ from banks and investors.

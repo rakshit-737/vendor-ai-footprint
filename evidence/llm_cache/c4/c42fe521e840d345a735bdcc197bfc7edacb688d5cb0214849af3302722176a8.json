@@ -1,0 +1,278 @@
+{
+ "key": "c42fe521e840d345a735bdcc197bfc7edacb688d5cb0214849af3302722176a8",
+ "model": "gemini-3.5-flash-lite",
+ "payload_sha256": "a9f93b53e82ff02211c8fb627b70086cd085e79d72360de64cbd19f6590bbfa9",
+ "prompt_sha256": "065bd458ace52ff274c72967cfe1b90c794a1ec8d3a3696ec78d7d8cf636df94",
+ "response": {
+  "claims": [
+   {
+    "action_level": "advisory",
+    "ai_type": "genai_llm",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [
+     "script"
+    ],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "break down the script line by line, explaining its purpose and suggesting ways to optimize it for better performance"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P1",
+    "quote": "The AI assistant can break down the script line by line, explaining its purpose and suggesting ways to optimize it for better performance.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "advisory",
+    "ai_type": "predictive_ml",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [
+     "nightly data warehouse refresh"
+    ],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "identifies a trend where the job is taking progressively longer to complete and predicts it will miss its SLA in the coming week"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P1",
+    "quote": "The AI identifies a trend where the job is taking progressively longer to complete and predicts it will miss its SLA in the coming week.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "advisory",
+    "ai_type": "conversational",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [
+     "reports on job performance",
+     "last month’s successful jobs",
+     "key performance indicators (KPIs)"
+    ],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "ask the AI assistant for a summary of last month’s successful jobs and any key performance indicators (KPIs) in a conversational manner"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P2",
+    "quote": "Instead of manually creating reports on job performance, a business analyst can simply ask the AI assistant for a summary of last month’s successful jobs and any key performance indicators (KPIs) in a conversational manner.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M1",
+      "span": "intelligent, self-healing, and adaptive"
+     }
+    ],
+    "named_providers": [
+     "Automic"
+    ],
+    "passage_id": "P2",
+    "quote": "By adopting a platform like Automic, which is built to leverage AI, organizations can not only automate tasks but also create an intelligent, self-healing, and adaptive IT environment.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G4",
+      "span": "Automic Automation V26 brings strategic improvement"
+     }
+    ],
+    "named_providers": [
+     "Automic Automation V26"
+    ],
+    "passage_id": "P4",
+    "quote": "Automic Automation V26 brings strategic improvement, expanding the conversation from automation to something bigger: an intelligent control plane for the entire enterprise AI operation.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "automated_action",
+    "ai_type": "unspecified",
+    "claim_kind": "ai_governance",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G3",
+      "span": "decides what AI can touch, when, and under what controls"
+     }
+    ],
+    "named_providers": [
+     "Automic"
+    ],
+    "passage_id": "P4",
+    "quote": "For organizations already running Automic or evaluating a move to modernize their orchestration layer, this builds on what Automic already does well: it’s still the engine that runs your processes, now with an added layer that decides what AI can touch, when, and under what controls.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G1",
+      "span": "Model Context Protocol"
+     }
+    ],
+    "named_providers": [
+     "Model Context Protocol"
+    ],
+    "passage_id": "P6",
+    "quote": "Automic’s AI layer connects to your models through the Model Context Protocol, acting as both client and server.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "advisory",
+    "ai_type": "genai_llm",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [
+     "logs",
+     "execution reports",
+     "documentation"
+    ],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "parses logs, execution reports, and documentation to tell you not just what happened, but why root causes, upstream delays, similar fixes that worked before"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P6",
+    "quote": "Ask it what happened in last night’s run, and it parses logs, execution reports, and documentation to tell you not just what happened, but why root causes, upstream delays, similar fixes that worked before.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G11",
+      "span": "cut down your MTTR"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P7",
+    "quote": "It’s built to meaningfully cut down your MTTR (mean time to repair).",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "genai_llm",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G5",
+      "span": "connect Automic to whichever LLM provider you already use"
+     }
+    ],
+    "named_providers": [
+     "Automic"
+    ],
+    "passage_id": "P7",
+    "quote": "On SaaS, a default model comes built in. On-prem, you connect Automic to whichever LLM provider you already use cloud-hosted or a local model.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "advisory",
+    "ai_type": "genai_llm",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [
+     "scripts",
+     "Python script"
+    ],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "explains, troubleshoots, and generates scripts on request, including converting a Python script to PowerShell on the spot"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P8",
+    "quote": "The AI Assistant explains, troubleshoots, and generates scripts on request, including converting a Python script to PowerShell on the spot.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "advisory",
+    "ai_type": "genai_llm",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "Natural-language workflow building"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P8",
+    "quote": "Natural-language workflow building is part of this too.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "ai_governance",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G3",
+      "span": "audit trails, access controls, and policy enforcement"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P10",
+    "quote": "Instead of “can it run my jobs?” you start asking “can it govern my AI with the same audit trails, access controls, and policy enforcement it already applies to every job I run today?”",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "ai_partnership",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G1",
+      "span": "Automic Automation V26"
+     }
+    ],
+    "named_providers": [
+     "Automic Automation V26"
+    ],
+    "passage_id": "P10",
+    "quote": "At Automworx, we help teams evaluate, implement, and get real value out of Automic Automation V26, from migration to configuration for a live environment.",
+    "subject": "vendor_operations",
+    "temporal": "in_production"
+   }
+  ]
+ },
+ "role": "extract",
+ "schema_sha256": "f1cd07fdb8e496624608717927261043432a3bd93d84723a126b7c7d951d68df",
+ "seed": 1234
+}

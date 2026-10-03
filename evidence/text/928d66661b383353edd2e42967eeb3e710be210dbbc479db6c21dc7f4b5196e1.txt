@@ -1,0 +1,19 @@
+Automic Automation 24.4 has arrived, bringing the transformative power of Generative AI to your fingertips. This release empowers every user – from automation newcomers to seasoned experts – to boost productivity, gain deeper insights, and unlock new levels of efficiency. Discover how GenAI revolutionizes your automation workflows and elevates your expertise.
+Introducing AI-driven intelligence for Automic workflows
+Automic 24.4 introduces ground-breaking features that integrate GenAI, the intelligence of large language models (LLMs) directly into your automation environment. Experience the benefits of GenAI in Automic with AI-powered analysis and contextual guidance to become more productive, empower more users regardless of experience level, gain deeper insights into execution results, and catch potential problems before they occur.
+How AI in Automic transforms your automation workflow
+Flexible and secure AI model integration
+Maintain control over data security with Bring Your Own Model (BYOM) support for leading LLMs like Google’s Gemini, OpenAI’s GPT, or a local open source LLM via the Ollama platform. Keep your sensitive information within your own environment. Automic SaaS customers will leverage the default model, Gemini.
+Build AI-powered workflows
+Integrate AI into your automation workflows using the new ASK_AI function. Automatically generate enhanced notifications with error explanations, translations, and more. Receive alerts that tell you not only *what* went wrong, but *why* and *how* to fix it. Get effortless data extraction using natural language to use for example, to prioritize service tickets.
+Integrate AI prompts directly into your automation scripts with ASK_AI. 
+Contextual AI-powered insights to speed root cause analysis
+Effortlessly summarize job execution reports, analyze complex scripts, and receive clear explanations of cryptic error messages, all within the familiar Automic UI. Right-click anywhere in the UI for instant access to AI-powered analysis of executions, tasks, and error messages. Uncover hidden insights and understand the impact of recent changes.
+Find the root cause of failure in a log with AI-powered analysis.
+AI-powered help
+Improve productivity and get help with natural language requests in any language through an AI-powered help chat interface. Get answers to your Automic and automation questions faster.
+By asking about the GCP Big Query agent in natural language, the AI-powered assistant will provide information about how the integration works.
+Global communication with multilingual support
+Conduct conversations and receive AI-powered insights in any language, breaking down communication barriers and expanding the reach of your automation.
+Experience the future of automation with the power of GenAI
+For our Automic on-premises and AAKE customers, upgrade to Automic 24.4 today. Join a Designated Upgrade Weekend to get dedicated support and fast efficient upgrades. Automic SaaS customers: these new features are available today.

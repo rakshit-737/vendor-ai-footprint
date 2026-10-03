@@ -1,0 +1,117 @@
+Sr. Software Engineer
+
+Position summary:
+
+The Clearing House (TCH) is seeking a Senior Software Engineer to join our RTP Product Engineering team. As a senior member of the team, you will be responsible for designing, developing, and enhancing our critical real-time interbank payment platform, including development of new applications and features while improving the functionality, reliability, and performance of existing applications. The Senior Software Engineer works directly with RTP Product teams and the Director of Product Engineering to ensure quality deliverables are completed on time and in accordance with TCH standards. The Senior Software Engineer also works closely with Operations and Technology to define and implement new maintainability features and to ensure system resiliency.
+
+This role is well suited for an experienced engineer who enjoys solving complex technical problems, building highly reliable systems, and delivering innovative applications that operate at the core of financial infrastructure. The organization is actively transforming its payment platforms toward cloud-native, distributed architectures while introducing modern automation and AI-assisted engineering practices into its software development lifecycle.
+
+TCH values engineers who are technically curious, pragmatic, and interested in understanding how complex systems work, end to end. The ideal candidate will be a hands-on software engineer who has strong Java development experience, deep expertise in distributed application architectures, and an avid interest in building critical systems where performance, security, resiliency, and sustainability are vital for success.
+
+Essential functions and responsibilities:
+
+Design, develop, test, and maintain highly reliable software supporting real-time payment processing
+
+Serve as a senior technical contributor across the complete software development lifecycle
+
+Develop software components primarily in Java, leveraging frameworks such as Spring and Spring Boot
+
+Develop critical applications using AWS cloud-native services and event-driven architectures, including containerized and serverless stacks for streaming data and real-time messaging
+
+Develop Python scripts and programs as needed for data automation and integration services
+
+Design and implement services and APIs using modern software engineering principles and patterns
+
+Participate in architecture and technical design decisions involving scalability, availability, resiliency, security, and maintainability
+
+Develop and maintain automated build, test, deployment, and infrastructure processes using CI/CD pipelines for engineering and software quality automation
+
+Apply Infrastructure as Code practices for cloud deployments using software tools such as Terraform
+
+Apply observability, monitoring, fault handling, and operational readiness practices appropriate for mission-critical systems
+
+Participate in troubleshooting and root-cause analysis of complex application and production issues
+
+Mentor less experienced engineers and contribute to engineering standards, secure development practices, peer code reviews, and architectural best practices.
+
+Work closely with product, architecture, infrastructure, security, operations, and other engineering teams, following an agile development methodology as part of a scrum team
+
+Use approved AI-assisted development tools to improve software design, development, testing, documentation, and engineering productivity while following enterprise SDLC and security controls.
+
+undefined
+
+Qualifications required:
+
+Bachelor's degree or equivalent experience in Computer Science, Information Systems, Computer Engineering, Data Science, or related fields
+
+8+ years in Java software development experience including analysis, design, development, documentation, implementation and testing of systems, preferably using Spring or Spring Boot
+
+Expertise in cloud-native application architectures, microservices, containers, and distributed systems
+
+Hands-on experience developing solutions using managed services and serverless technologies on AWS or another major public cloud provider
+
+Experience implementing event-driven architectures with Kafka, RabbitMQ, or similar messaging or data streaming technologies
+
+Working knowledge of Python for data pipelines and analysis, machine learning, and automation
+
+Ability to communicate clearly with highly technical leaders as well as non-technical partners
+
+Collaborative team player that connects across groups with proven ability to influence stakeholders
+
+Positive track record of delivering large scale complex projects and enterprise software solutions
+
+Ability to travel up to 10% between NYC and NC offices
+
+undefined
+
+Qualifications desired:
+
+Master’s degree or equivalent experience in Computer Science or related fields
+
+AWS Certification as Associate or Professional Developer, Solutions Architect or DevOps Engineer
+
+Certification as an Agile Service or Product Owner and familiarity with tools such as Jira
+
+Hands-on experience with Terraform or comparable Infrastructure-as-Code technologies
+
+Deep understanding of security best practices and respective enterprise tooling
+
+Familiarity with Python data integration libraries and third-party ETL tools such as SnapLogic
+
+Experience with automated testing, deployment automation, observability, and site reliability practices
+
+Familiarity with security and governance principles in AI-assisted software development
+
+Experience in in payments, banking, clearing, settlement, or related transaction-processing systems
+
+Experience designing and implementing software solutions for critical infrastructures
+
+undefined
+
+Behavioral & Leadership Competencies:
+
+Possesses and applies broad knowledge of concepts, exhibiting technical expertise in core subject areas
+
+Demonstrates commitment to excellence, anticipates needs, mitigates risks and minimizes challenges
+
+Effectively engages teammates and internal/external partners through a customer focused approach
+
+Works well independently with minimal instruction/guidance, confident to escalate issues appropriately
+
+Set priorities and handle multiple tasks and projects in a fast-paced environment
+
+Recommends innovative solutions aligned with organizational initiatives and recognized problem areas
+
+Physical demands and work environment:
+
+Ability to remain seated for long periods of time while working on computer or editing.
+
+Ability to work under highly stressful deadlines.
+
+Ability to handle multiple tasks simultaneously.
+
+Ability to prioritize appropriately
+
+Ability to sit and review information on a computer screen for long periods of time
+
+Ability to report to the office three days each week. Onsite work requirements may change at any time.

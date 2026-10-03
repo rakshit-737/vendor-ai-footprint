@@ -1,0 +1,44 @@
+Type: 
+            
+                On Demand
+            
+            
+            Duration: 
+            
+                48 Minutes
+            
+            
+            
+                Date & Time: 
+                
+                
+            
+            
+            
+            
+            
+        
+            
+            Member Fee: 
+            
+                $0
+            
+            
+            Non-Member Fee: 
+            
+                $349
+            
+            
+            
+            
+                
+            
+            
+            Audience: 
+            
+                AAP Candidates, ACH Personnel, APRP Candidates, Corporate Payments Professionals, Payments Personnel, Risk Managers, Senior Payments Personnel, Audit, AAPs, Operations, Compliance, General ACH, Risk, Treasury
+            
+            
+        
+        
+            Third-Party Service Providers continue to play increasingly larger and more complex roles in the processing of ACH transactions. The ACH Rules have definitions for various types of Third- Party Service Providers and financial institutions must understand and properly categorize the roles of all parties to a particular transaction. This session will explain the definitions for Third-Party Service Providers acting as Sending/Receiving Points, Third-Party Senders, and Direct Access relationships.  We'll also review registration for Third-Party Senders and Direct Access Debit Participant status.

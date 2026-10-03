@@ -1,0 +1,12 @@
+[
+  [
+    "timestamp",
+    "original",
+    "statuscode"
+  ],
+  [
+    "20230330203618",
+    "https://www.fssi-ca.com/growth-marketing-and-member-retention-strategies-for-credit-unions/",
+    "200"
+  ]
+]

@@ -1,0 +1,257 @@
+Upgrades
+
+Upgrades
+
+When it is time to upgrade your Automic, UC4, or AppWorx software, we can help.
+
+Contact Us
+
+AutomWorx Upgrade Services Offerings
+
+In-depth architectural analysis, business requirements gathering, job configuration and report mapping
+
+Technical and sizing consultation around the hardware, operating systems, database management systems & third-party utilities required to sustain your new Automic environments
+
+New software installation in your non-production and production environments
+
+Proprietary, custom-written migration utilities in the event you need to map your existing job configurations to your new Automic environments
+
+Establishing a Disaster Recovery plan and configuration with you
+
+Creating test scripts and assisting you with your testing & issue remediation efforts​
+
+Go-live assistance
+
+End user and administrator workshops to become familiar with new features and capabilities in later versions of Automic software
+
+Formal education and training services
+
+Project management oversight with a specialization in Automic software upgrades
+
+Product Implementation
+
+Upgrade existing software or migrate to Automic Workload Automation.
+
+Data Migration
+
+We’ll help bring over all of your critical data so that your business doesn’t skip a beat.
+
+Education
+
+We empower users to learn as much about their workload products as possible.
+
+Integration Services
+
+Get the highest amount of benefit out of workload automation.
+
+How We Work On AppWorx, UC4, and Automic Upgrades
+
+​​In addition to Automic software upgrades, our consultants are also highly proficient at helping you upgrade your underlying operating systems, database platforms, and other third-party software utilities required to run your Automic environment.
+
+We ensure a thorough and accurate knowledge transfer to empower you and your team to manage your environment, but we’re still here for support.
+
+​Our consultants provide pre- or post-upgrade workshops to administrators and end users to help you understand what’s new between the current Automic software version you run and the target version you will upgrade to.
+
+If you do not currently have Automic Workload installed, we will help you understand why it might be the right time for your business to move to this version:
+
+Automic Workload application is Broadcom’s go-to-market recommendation.
+
+Automic Workload is heavily developed so that customers can take advantage of the latest technologies.
+
+Automic Workload is a true enterprise software product that introduces many features that do not exist in other workload platforms, including AppWorx.
+
+Just some of the features that Automic Workload offers include:
+
+Active/active Automation Engine (master) Configuration as an HA Solution
+
+Support for multiple databases (Oracle, MS SQL, PostgreSQL and DB2)
+
+Support for the majority of OS hardware offered in the market
+
+Multi-client technology to help minimize the requirements of multiple non- production masters/environments
+
+Analytics Reporting and Dashboards
+
+OS Agent can run with lower Automic software versions so there is no need to upgrade all your components at once
+
+Zero Downtime Upgrade (ZDU)
+
+Centralized Agent Upgrade (CAU) to help you schedule OS agent upgrades
+
+Updated Rapid Automation Agents, including:
+
+WebServices for both REST and SOAP calls
+
+Oracle E-Business Suite, Oracle PeopleSoft, Oracle Hyperion, Oracle JD Edwards
+
+Ellucian Banner
+
+FTP, Informatica, and others
+
+API-enabled
+
+Depending on the version of you may have in place, AutomWorx consultants may recommend that you migrate your existing job configurations to the Automic Workload Automation platform. Our senior consultants have written and successfully deployed the migration utilities needed to mitigate business disruption.
+
+Implement Workload Automation for Applications
+
+Oracle JD Edwards
+
+Oracle E-Business Suite
+
+Oracle Retail
+
+Oracle PeopleSoft
+
+Oracle Utilities Customer Care & Billing
+
+Oracle Applications
+
+AMISYS
+
+Banner ERP / Ellucian for Higher Ed
+
+Informatica
+
+SAP Supply Chain Solutions
+
+Download the Brochure
+
+August 27, 2026
+
+< 1 min read
+
+Webinar On Demand: What’s New in Automic V26. AI, Automation, and What It Means for Your Team
+
+Read more >
+
+July 31, 2026
+
+3 min read
+
+Webinar Recap: 3 Things To Reframe How You Think About Automic Renewals
+
+Read more >
+
+July 15, 2026
+
+< 1 min read
+
+3 Signals in Your Automic Scheduler Footprint That Affect Your Renewal Outcome
+
+Read more >
+
+July 3, 2026
+
+2 min read
+
+Your Automic Renewal Is Going to Reveal Things You Weren’t Expecting. Here’s How to Get Ahead of It.
+
+Read more >
+
+April 10, 2026
+
+< 1 min read
+
+Broadcom 2025 Partner Awards: Agile Operations Award
+
+Read more >
+
+December 8, 2025
+
+3 min read
+
+Webinar: Web Monitoring & Banner SaaS – Applications Manager
+
+Read more >
+
+Recent Webinars
+
+Automic Software Product Support End Dates
+
+Applications Manager
+
+Formerly known as AppWorx
+
+Product
+
+Release Date
+
+End of Maintenance
+
+End of Product Support
+
+Applications Manager v9.3
+
+2019-03-21
+
+2022-03-31
+
+2023-03-31
+
+Applications Manager v9.2
+
+2017-07-27
+
+2020-07-31
+
+2021-07-31
+
+Applications Manager v9.1
+
+2016-01-15
+
+2019-03-31
+
+2020-03-31
+
+Automic Automation
+
+Formerly known as UC4, Operations Manager, UC4:global, or Automic Workload Automation, Automic ONE Automation, CA Automic
+
+Product
+
+Release Date
+
+End of Maintenance
+
+End of Product Support
+
+Automic Workload v12.3
+
+2019-07-18
+
+2022-06-30
+
+2024-01-31
+
+Automic Workload v12.2
+
+2018-06-29
+
+2021-06-19
+
+2022-06-19
+
+Automic Workload v12.1
+
+2017-09-29
+
+2020-09-29
+
+2021-09-29
+
+Automic Workload v12.0
+
+2016-09-30
+
+2019-09-30
+
+2020-09-30
+
+Automic Workload v11.2
+
+2015-10-30
+
+2018-10-31
+
+2019-10-31

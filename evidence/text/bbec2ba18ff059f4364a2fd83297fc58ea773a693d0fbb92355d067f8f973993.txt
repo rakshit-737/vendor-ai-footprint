@@ -1,0 +1,46 @@
+Type: 
+            
+                Webinar
+            
+            
+            Duration: 
+            
+                30 Minutes
+            
+            
+            
+                Date & Time: 
+                
+                
+            
+            
+            
+            
+            
+        
+            
+            Member Fee: 
+            
+                $0
+            
+            
+            Non-Member Fee: 
+            
+                $279
+            
+            
+            
+            
+                
+            
+            
+            Audience: 
+            
+                AAP Candidates, AAPs, ACH Personnel, APRP Candidates, APRPs, Audit, BSA Investigators_Analysts, BSA Officers, Cash Management, Compliance, Corporate Payments Professionals, General ACH, IT Personnel, Operations, Payments Personnel, Risk, Risk Managers, Senior Payments Personnel, Treasury
+            
+            
+        
+        
+            Phase 1 of the Nacha Rule on Supplementing Data Security Requirements, which applies to ACH Originators and Third-Parties with more than 6 million ACH payments annually, becomes effective on June 30, 2021.  Phase 2 of the Rule, which applies to ACH Originators and Third-Parties with more than 2 million ACH payments annually, has an effective date of June 30, 2022.
+These dates were affirmed in ACH Operations Bulletin #7-2020. Nacha will not enforce this rule for an additional period of one year from the effective date with respect to covered entities that are working in good faith toward compliance, but that require additional time to implement solutions.
+Join TCHPA as we discuss the new rule requirements, impacts and considerations.

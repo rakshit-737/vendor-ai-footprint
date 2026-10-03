@@ -1,0 +1,44 @@
+Type: 
+            
+                On Demand
+            
+            
+            Duration: 
+            
+                75 minutes
+            
+            
+            
+                Date & Time: 
+                
+                
+            
+            
+            
+            
+            
+        
+            
+            Member Fee: 
+            
+                $0
+            
+            
+            Non-Member Fee: 
+            
+                $379
+            
+            
+            
+            
+                
+            
+            
+            
+            
+                
+            
+            
+        
+        
+            In this session, we will review common ACH Exceptions such as Prenotes, NOCs, Reversals, Returns, and Reclamations. Through various scenarios, we'll discuss RDFI responsibilities and proper procedures according to the Nacha Operating Rules.

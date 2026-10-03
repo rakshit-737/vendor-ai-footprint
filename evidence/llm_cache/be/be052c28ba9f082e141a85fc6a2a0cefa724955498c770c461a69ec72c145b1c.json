@@ -1,0 +1,154 @@
+{
+ "key": "be052c28ba9f082e141a85fc6a2a0cefa724955498c770c461a69ec72c145b1c",
+ "model": "gemini-3.5-flash-lite",
+ "payload_sha256": "f1d21a4fcce34cfaef2548d886f34fb995348561e562d3670c54c0422ba3b7fd",
+ "prompt_sha256": "065bd458ace52ff274c72967cfe1b90c794a1ec8d3a3696ec78d7d8cf636df94",
+ "response": {
+  "claims": [
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "negative_or_limiting",
+    "data_mentioned": [],
+    "indicators": [],
+    "named_providers": [],
+    "passage_id": "P1",
+    "quote": "The development and use of artificial intelligence present risks and challenges that may materially adversely impact our business.",
+    "subject": "vendor_operations",
+    "temporal": "unclear"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "genai_llm",
+    "claim_kind": "negative_or_limiting",
+    "data_mentioned": [],
+    "indicators": [],
+    "named_providers": [],
+    "passage_id": "P2",
+    "quote": "The deployment of artificial intelligence, including generative artificial intelligence and other advanced machine learning technologies, by us, our third-party vendors, clients, counterparties and other market participants, combined with rapid advances in this emerging technology, present risks and challenges that may fundamentally alter the competitive landscape and the markets in which we operate.",
+    "subject": "vendor_operations",
+    "temporal": "unclear"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "negative_or_limiting",
+    "data_mentioned": [],
+    "indicators": [],
+    "named_providers": [],
+    "passage_id": "P3",
+    "quote": "The failure to strategically embrace the potential of artificial intelligence or to achieve the expected effectiveness, productivity or cost-reduction from our adoption of artificial intelligence may result in a competitive disadvantage for us.",
+    "subject": "vendor_operations",
+    "temporal": "unclear"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "negative_or_limiting",
+    "data_mentioned": [],
+    "indicators": [],
+    "named_providers": [],
+    "passage_id": "P4",
+    "quote": "If we cannot offer new artificial intelligence-facilitated technologies as quickly as our competitors, if our competitors develop more cost-effective solutions or other product offerings, if our employees do not adopt such technologies expediently or if we are not able to source components we may require, such as artificial intelligence chips due to a supply chain shortage amid rising geopolitical uncertainty, we could experience a material adverse effect on our operating results, customer relationships and growth opportunities.",
+    "subject": "vendor_product",
+    "temporal": "unclear"
+   },
+   {
+    "action_level": "automated_action",
+    "ai_type": "unspecified",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "digital engineers and other digital employees"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P5",
+    "quote": "Our use and deployment of artificial intelligence, for example digital engineers and other digital employees, has introduced operational and control risks, including the risk of potential errors in automated decision-making, challenges in oversight and accountability, increased vulnerability to system failures or cyber incidents, and the risk that these digital employees may not perform as intended under complex or unforeseen circumstances, which could materially disrupt our business operations and adversely affect our financial condition and reputation.",
+    "subject": "vendor_operations",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "ai_governance",
+    "data_mentioned": [
+     "our own data"
+    ],
+    "indicators": [],
+    "named_providers": [],
+    "passage_id": "P6",
+    "quote": "The evolving legal, regulatory and compliance framework for artificial intelligence both in the U.S. and internationally may impact our ability to protect our own data and intellectual property against infringing use and could require changes in our implementation of artificial intelligence technology and increase our compliance costs and the risk of non-compliance.",
+    "subject": "vendor_operations",
+    "temporal": "unclear"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [
+     "the source and quality of the data on which such models are trained"
+    ],
+    "indicators": [
+     {
+      "code": "G3",
+      "span": "the source and quality of the data on which such models are trained"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P7",
+    "quote": "Additionally, we may not be able to control how third-party artificial intelligence that we choose to use is developed or maintained including the source and quality of the data on which such models are trained or the frequency and nature of model updates.",
+    "subject": "vendor_operations",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "predictive_ml",
+    "claim_kind": "negative_or_limiting",
+    "data_mentioned": [
+     "datasets"
+    ],
+    "indicators": [],
+    "named_providers": [],
+    "passage_id": "P9",
+    "quote": "Models utilizing artificial intelligence, machine learning or other emerging technologies present additional challenges, including biases in algorithms or datasets and limitations in the transparency into the generation of outputs, potentially leading to ineffective decision-making, reporting errors or other unintended consequences.",
+    "subject": "vendor_operations",
+    "temporal": "unclear"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "ai_hiring",
+    "data_mentioned": [],
+    "indicators": [],
+    "named_providers": [],
+    "passage_id": "P11",
+    "quote": "We rely on certain employees with subject matter expertise to assist in the implementation of important initiatives and to support the development of new products and services, including in connection with our deployment of artificial intelligence and other technology initiatives.",
+    "subject": "vendor_staff_tools",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "ai_hiring",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G8",
+      "span": "artificial intelligence engineers"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P12",
+    "quote": "As focus on technology and risk management increases in the financial industry, competition for technologists, artificial intelligence engineers and risk personnel has intensified, which could constrain our ability to execute on certain of our strategic initiatives.",
+    "subject": "vendor_staff_tools",
+    "temporal": "unclear"
+   }
+  ]
+ },
+ "role": "extract",
+ "schema_sha256": "f1cd07fdb8e496624608717927261043432a3bd93d84723a126b7c7d951d68df",
+ "seed": 1234
+}

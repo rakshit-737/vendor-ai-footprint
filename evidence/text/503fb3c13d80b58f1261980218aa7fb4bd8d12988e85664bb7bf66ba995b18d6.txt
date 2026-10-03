@@ -1,0 +1,44 @@
+Type: 
+            
+                On Demand
+            
+            
+            Duration: 
+            
+                55 Minutes
+            
+            
+            
+                Date & Time: 
+                
+                
+            
+            
+            
+            
+            
+        
+            
+            Member Fee: 
+            
+                $0
+            
+            
+            Non-Member Fee: 
+            
+                $379
+            
+            
+            
+            
+                
+            
+            
+            Audience: 
+            
+                AAPs, APRPs, AAP Candidates, APRP Candidates, Compliance, Operations
+            
+            
+        
+        
+            When should an ACH transaction be returned as a Stop Payment vs. Unauthorized Entry? Which return code is appropriate and when? RDFIs will learn their obligations for returning consumer and non-consumer entries for stop pay, unauthorized or authorization revoked, and the related return reason codes, written statement (WSUD) requirements and timeframes.

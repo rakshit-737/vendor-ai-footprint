@@ -1,0 +1,45 @@
+Type: 
+            
+                Webinar
+            
+            
+            Duration: 
+            
+                60 Minutes
+            
+            
+            
+                Date & Time: 
+                
+                
+            
+            
+            
+            
+            
+        
+            
+            Member Fee: 
+            
+                $0
+            
+            
+            Non-Member Fee: 
+            
+                $349
+            
+            
+            
+            
+                
+            
+            
+            Audience: 
+            
+                AAP Candidates, AAPs, Accounts Payable and Receivable, ACH Personnel, Compliance, General ACH
+            
+            
+        
+        
+             
+When is it appropriate for an Originator, Third-Party Sender or ODFI to initiate an ACH Reversal?  When is it OK for an RDFI to return a Reversal?  June 2021 revisions to the Nacha Operating Rules address the improper use of Reversals, establish additional formatting requirements and provide direction to RDFIs for returning improper reversals. We’ll provide a review of ODFI and RDFI responsibilities in the processing of ACH reversing entries and discuss risk considerations and sound business practices for monitoring Originator reversal activity.

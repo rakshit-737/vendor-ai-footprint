@@ -1,0 +1,11 @@
+Fiserv Rep: Customers Want RTP NOW
+What’s driving the adoption of real-time payments?
+According to Jon Zimmermann, senior product manager, electronic products at Fiserv, “Customers are always looking for their money now.” Along with harried and hurried consumers who want to pay and be paid instantly, he adds that merchants also want to get their funds quickly.
+Two numbers stood out in Zimmermann’s recent interview with PYMNTS:
+- Around the globe, more than 56 real-time payment rails will be live by 2020, according to a Faster Payments Tracker from PYMNTS.
+- 82% of businesses say real-time payments resolve current payment challenges.
+A “confluence of trends” are fueling the proliferation of faster payments, according to Zimmermann. “A lot of industry segments” are pushing to enable customers and individuals to make real-time payments and the ongoing rise of faster peer-to-peer (P2P) payments.
+“Those things are creating a storm of interest and demand” around real-time payments, he said.
+Zimmermann cited payment company PayFi and The Clearing House’s partnership to bring real-time payment technologies to community banks back in June.
+The potential for real-time payments is quite strong, reports PYMNTS. “Globally, the projected compound annual growth rate of the RTP markets will reach 30.6% between 2018 and 2025.”
+Read the entire PYMNTS summary with Zimmerman.

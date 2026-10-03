@@ -1,0 +1,44 @@
+Type: 
+            
+                On Demand
+            
+            
+            Duration: 
+            
+                56 minutes
+            
+            
+            
+                Date & Time: 
+                
+                
+            
+            
+            
+            
+            
+        
+            
+            Member Fee: 
+            
+                $0
+            
+            
+            Non-Member Fee: 
+            
+                $349
+            
+            
+            
+            
+                
+            
+            
+            Audience: 
+            
+                ACH Personnel, AAPs, Payments Personnel, Payments Strategists
+            
+            
+        
+        
+            The implementation of the Same Day ACH rule will significantly change ACH processing for all Participants. Gain an understanding of what Same Day ACH is and the impact it will have on stakeholders, the scheduled implementation dates and technical aspects of the rule.

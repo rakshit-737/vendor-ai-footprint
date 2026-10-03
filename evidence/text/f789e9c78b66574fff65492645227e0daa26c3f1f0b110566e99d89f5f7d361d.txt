@@ -1,0 +1,12 @@
+[
+  [
+    "timestamp",
+    "original",
+    "statuscode"
+  ],
+  [
+    "20250617110320",
+    "https://documentmedia.com/article-3633-Quadient-Advances-AI-Capabilities-to-Help-Organizations-Power-Better-Customer-Interactions-and-Revenue-Growth.html",
+    "200"
+  ]
+]

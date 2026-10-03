@@ -1,0 +1,48 @@
+{
+  "hiringOrganization": {
+    "name": "PAYCO The Clearing House Payments Company L.L.C.",
+    "url": ""
+  },
+  "jobPostingInfo": {
+    "canApply": true,
+    "country": {
+      "descriptor": "United States of America",
+      "id": "bc33aa3152ec42d4995f4791a106ed09"
+    },
+    "externalUrl": "https://theclearinghouse.wd108.myworkdayjobs.com/TheClearingHouse/job/North-Carolina-Office/Manager--NOC-Operations_JR100193-5",
+    "id": "858c03f05e79100516fe12c103760000",
+    "includeResumeParsing": true,
+    "jobDescription": "<p><b>Position Summary: </b>The NOC Operations Manager provides strategic leadership and day-to-day oversight of a 24x7 Operations team responsible for ensuring the secure, timely, and accurate processing of critical financial transactions. This leader is accountable for operational excellence, service quality, team development, incident management, and continuous process improvement.</p><p>The successful candidate is a hands-on leader who thrives in a fast-paced production environment, effectively develops people, leverages technology and AI to improve operational efficiency, and uses data-driven decision making to enhance service reliability and customer satisfaction.</p><p><b>Key Responsibilities</b></p><ul><li>Operational Leadership</li><li>Lead and oversee day-to-day operations for a 24x7 production environment.</li><li>Ensure all production processing, settlements, and operational cutoffs are completed accurately and within established service level agreements.</li><li>Provide leadership during production incidents, ensuring timely communication, escalation, resolution, and post-incident review.</li><li>Promote operational stability through proactive monitoring, risk identification, and continuous improvement.</li></ul><p></p><p><b>Team Leadership &amp; Development</b></p><ul><li>Lead, coach, mentor, and develop a high-performing operations team.</li><li>Foster a culture of accountability, collaboration, quality, and continuous learning.</li><li>Conduct performance evaluations, provide constructive feedback, and create employee development plans.</li><li>Ensure staff are cross-trained to maintain operational readiness and business continuity.</li><li>Build an engaged team capable of adapting to changing business priorities and emerging technologies.</li></ul><p></p><p><b>Operational Excellence &amp; Quality</b></p><ul><li>Champion a culture focused on operational excellence, accuracy, compliance, and customer satisfaction.</li><li>Maintain and improve operational procedures, documentation, schedules, and knowledge repositories.</li><li>Ensure operational processes meet internal controls, audit requirements, and regulatory standards.</li><li>Conduct regular quality reviews and identify opportunities to improve operational performance.</li><li>AI, Automation &amp; Innovation</li><li>Identify opportunities to leverage Artificial Intelligence (AI), automation, and emerging technologies to improve operational efficiency and service quality.</li><li>Utilize AI-powered tools such as Microsoft Copilot, ChatGPT, ServiceNow AI, or similar technologies to enhance documentation, reporting, knowledge management, and incident response.</li><li>Drive continuous improvement initiatives that reduce manual effort while improving accuracy and operational resilience.</li><li>Encourage innovation and adoption of modern operational practices across the team.</li></ul><p></p><p><b>Analytics &amp; Decision Making</b></p><ul><li>Analyze operational metrics, KPIs, trends, and service levels to identify improvement opportunities.</li><li>Perform root cause analysis for production issues and implement corrective and preventive actions.</li><li>Develop meaningful operational reports and dashboards that support leadership decision making.</li><li>Use data to drive strategic improvements and enhance operational effectiveness.</li></ul><p></p><p><b>Customer &amp; Stakeholder Management</b></p><ul><li>Build strong partnerships with internal business units, technology teams, vendors, and external customers.</li><li>Ensure timely and professional communication during production events.</li></ul><p></p><p><b>Required Qualifications</b></p><ul><li>Bachelor&#39;s degree in Computer Science, Information Technology, or related discipline, or equivalent professional experience.</li><li>Minimum 5–10 years of experience in a 24x7 production operations environment.</li><li>Minimum 5 years of leadership experience managing technical operations teams.</li><li>Experience administering Linux, UNIX, AIX, IBM Pure Technology, Windows Distributed Systems, and enterprise infrastructure.</li><li>Experience supporting high-availability production applications within financial services or similarly regulated industries.</li><li>Knowledge of networking technologies and carrier management.</li><li>Strong understanding of operational controls, incident management, change management, and problem management.</li><li>Excellent written and verbal communication skills.</li><li>Exceptional organizational, analytical, and problem-solving abilities.</li><li>Demonstrated ability to prioritize multiple competing priorities in a fast-paced environment.</li></ul><p></p><p><b>Preferred Qualifications</b></p><ul><li>Banking or financial services experience.</li><li>Knowledge of ACH, RTP®, Fedwire, CHIPS, Image Exchange, and ISO 20022 payment standards.</li><li>Experience with Unisys systems.</li><li>Experience implementing operational automation initiatives.</li><li>Familiarity with Lean, Six Sigma, ITIL, or continuous improvement methodologies.</li><li>Experience using AI-enabled productivity and operational tools to improve efficiency and decision making.</li></ul><p></p><p><b>Leadership Competencies</b></p><p>Success in this role will be measured by the ability to:</p><ul><li>Consistently achieve or exceed operational Service Level Agreements (SLAs).</li><li>Deliver exceptional operational quality with minimal processing errors.</li><li>Maintain highly engaged, cross-trained, and high-performing teams.</li><li>Improve operational efficiency through automation, AI adoption, and process optimization.</li><li>Reduce recurring incidents through effective root cause analysis and preventive actions.</li><li>Ensure documentation remains current, accurate, and audit-ready.</li><li>Build strong partnerships across Operations, Technology, and Business teams.</li><li>Maintain full compliance with regulatory, audit, and internal control requirements.</li><li>Develop future leaders through coaching, mentoring, and succession planning.</li><li>Foster a culture centered on accountability, innovation, continuous learning, and operational excellence.</li></ul><p></p><p><b>Work Schedule</b></p><p>This position requires onsite attendance and supports a 24x7 operations environment.</p><p></p><p>Primary Schedule:</p><p>Thursday – Saturday</p><p>7:00 PM – 7:00 AM</p><p></p><p>A training period of approximately five weeks will occur during standard business hours (Monday–Friday, 9:00 AM–5:00 PM). Additional schedule flexibility may be required to support operational needs, testing, or major production events.</p><p></p><p>We are seeking a leader who values operational excellence, develops people, embraces innovation, and continuously looks for better ways to serve our customers. The ideal candidate combines strong technical expertise with emotional intelligence, sound judgment, and a genuine commitment to helping both the team and the organization succeed.</p>",
+    "jobPostingId": "Manager--NOC-Operations_JR100193-5",
+    "jobPostingSiteId": "TheClearingHouse",
+    "jobReqId": "JR100193",
+    "jobRequisitionLocation": {
+      "country": {
+        "alpha2Code": "US",
+        "descriptor": "United States of America",
+        "id": "bc33aa3152ec42d4995f4791a106ed09"
+      },
+      "descriptor": "North Carolina Office"
+    },
+    "location": "North Carolina Office",
+    "posted": true,
+    "postedOn": "Posted 11 Days Ago",
+    "questionnaireId": "416fc4b6e988100114d79736c4ff0000",
+    "startDate": "2026-09-21",
+    "timeType": "Full time",
+    "title": "Manager, NOC Operations"
+  },
+  "similarJobs": [
+    {
+      "externalPath": "/job/North-Carolina-Office/Manager--NOC-Operations_JR100170",
+      "jobPostingEndDateAsText": "End Date: November 27, 2026",
+      "locationsText": "North Carolina Office",
+      "postedOn": "Posted 30+ Days Ago",
+      "startDate": "2026-08-24",
+      "timeLeftToApply": "30+ days left to apply",
+      "timeType": "Full time",
+      "title": "Manager, NOC Operations"
+    }
+  ],
+  "userAuthenticated": false
+}

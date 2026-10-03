@@ -1,0 +1,131 @@
+{
+ "key": "43f2d6f2c6d6be80607865e0a8213ca93c4e2d574f93ba2a18be31d6c1b96ffa",
+ "model": "gemini-3.5-flash-lite",
+ "payload_sha256": "b4ac2889f642b51c212fc9f45ae3f34358673ee0a67a0a30ebdb750f5961f673",
+ "prompt_sha256": "065bd458ace52ff274c72967cfe1b90c794a1ec8d3a3696ec78d7d8cf636df94",
+ "response": {
+  "claims": [
+   {
+    "action_level": "advisory",
+    "ai_type": "conversational",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [
+     "natural language requests",
+     "Automic and automation questions"
+    ],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "help with natural language requests in any language through an AI-powered help chat interface"
+     },
+     {
+      "code": "M1",
+      "span": "AI-powered"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P1",
+    "quote": "Improve productivity and get help with natural language requests in any language through an AI-powered help chat interface. Get answers to your Automic and automation questions faster.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "advisory",
+    "ai_type": "genai_llm",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [
+     "natural language"
+    ],
+    "indicators": [
+     {
+      "code": "G1",
+      "span": "GCP Big Query"
+     },
+     {
+      "code": "G2",
+      "span": "assistant will provide information about how the integration works"
+     },
+     {
+      "code": "M1",
+      "span": "AI-powered"
+     },
+     {
+      "code": "M2",
+      "span": "will"
+     }
+    ],
+    "named_providers": [
+     "GCP Big Query"
+    ],
+    "passage_id": "P1",
+    "quote": "By asking about the GCP Big Query agent in natural language, the AI-powered assistant will provide information about how the integration works.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "advisory",
+    "ai_type": "genai_llm",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "Conduct conversations and receive AI-powered insights"
+     },
+     {
+      "code": "M1",
+      "span": "AI-powered"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P1",
+    "quote": "Conduct conversations and receive AI-powered insights in any language, breaking down communication barriers and expanding the reach of your automation.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "automated_action",
+    "ai_type": "genai_llm",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [
+     "plain language"
+    ],
+    "indicators": [
+     {
+      "code": "G5",
+      "span": "Connect your own LLM"
+     },
+     {
+      "code": "G2",
+      "span": "ask Automic what failed yesterday or describe a job in plain language and watch it get built"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P3",
+    "quote": "AI is now inside the workflow, not bolted on next to it. Connect your own LLM, ask Automic what failed yesterday or describe a job in plain language and watch it get built.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M1",
+      "span": "AI-enabled"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P8",
+    "quote": "AutomWorx specializes in Automic workload automation, orchestration, and AI-enabled infrastructure modernization consulting.",
+    "subject": "vendor_operations",
+    "temporal": "in_production"
+   }
+  ]
+ },
+ "role": "extract",
+ "schema_sha256": "f1cd07fdb8e496624608717927261043432a3bd93d84723a126b7c7d951d68df",
+ "seed": 1234
+}

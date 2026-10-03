@@ -1,0 +1,22 @@
+This blog was originally posted on www.nvidia.com and is being reprinted here with permission.
+Banking giant deploys SuperPOD system at an accelerated pace to tackle emerging opportunities.
+By Malcolm deMayo
+Moving fast to accelerate its AI journey, BNY Mellon, a global financial services company celebrating its 240th anniversary, revealed Monday that it has become the first major bank to deploy an NVIDIA DGX SuperPOD with DGX H100 systems.
+Thanks to the strong collaborative relationship between NVIDIA Professional Services and BNY Mellon, the team was able to install and configure the DGX SuperPOD ahead of typical timelines.
+The system, equipped with dozens of NVIDIA DGX systems and NVIDIA InfiniBand networking and based on the DGX SuperPOD reference architecture, delivers computer processing performance that hasn’t been seen before at BNY Mellon.
+“Key to our technology strategy is empowering our clients through scalable, trusted platforms and solutions,” said BNY Mellon Chief Information Officer Bridget Engle. “By deploying NVIDIA’s AI supercomputer, we can accelerate our processing capacity to innovate and launch AI-enabled capabilities that help us manage, move and keep our clients’ assets safe.”
+  Powered by its new system, BNY Mellon plans to use NVIDIA AI Enterprise software to support the build and deployment of AI applications and manage AI infrastructure.
+A Key Component in BNY Mellon’s Toolbox
+  Founded by Alexander Hamilton in 1784, BNY Mellon oversees nearly $50 trillion in assets for its clients and helps companies and institutions worldwide access the money they need, support governments in funding local projects, safeguard investments for millions of individuals and more.
+BNY Mellon has long been at the forefront of AI and accelerated computing in the financial services industry. Its AI Hub has more than 20 AI-enabled solutions in production. These solutions support predictive analytics, automation and anomaly detection, among other capabilities.
+While the firm recognizes that AI presents opportunities to enhance its processes to reduce risk across the organization, it is also actively working to consider and manage potential risks associated with AI through its robust risk management and governance processes.
+Some of the use cases supported by DGX SuperPOD include deposit forecasting, payment automation, predictive trade analytics and end-of-day cash balances.
+More are coming. The company identified more than 600 opportunities in AI during a firmwide exercise last year, and dozens are already in development using such NVIDIA AI Enterprise software as NVIDIA NeMo, NVIDIA Triton Inference Server and NVIDIA Base Command.
+Triton Inference Server is inference-serving software that streamlines AI inferencing or puts trained AI models to work.
+Base Command powers the DGX SuperPOD, delivering the best of NVIDIA software that enables businesses and their data scientists to accelerate AI development.
+NeMo is an end-to-end platform for developing custom generative AI, anywhere. It includes tools for training, and retrieval-augmented generation, guardrailing and toolkits, data curation tools, and pretrained models, offering enterprises an easy, cost-effective, and fast way to adopt generative AI.
+Fueling Innovation Through Top Talent
+With the new DGX SuperPOD, these tools will enable BNY Mellon to streamline and accelerate innovation within the firm and across the global financial system.
+Hundreds of data scientists, solutions architects and risk, control and compliance professionals have been using the NVIDIA DGX platform, which delivers the world’s leading solutions for enterprise AI development at scale, for several years.
+BNY Mellon’s new NVIDIA DGX SuperPOD will help the company rapidly expand its on-premises AI infrastructure.
+The system also promises to help the company continue to innovate and attract top talent in the financial services industry.

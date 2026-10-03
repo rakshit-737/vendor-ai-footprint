@@ -1,0 +1,217 @@
+{
+ "key": "d33058c63cee371a9d3031360badd4808fa8dc46cdb019109dfbd056d7964975",
+ "model": "gemini-3.5-flash-lite",
+ "payload_sha256": "d18bc85b1777322ecd390bd1f0ed9b2a925437a155a204513a6ad529d3298ce5",
+ "prompt_sha256": "065bd458ace52ff274c72967cfe1b90c794a1ec8d3a3696ec78d7d8cf636df94",
+ "response": {
+  "claims": [
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "generic_ai_marketing",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M2",
+      "span": "ability to use"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P1",
+    "quote": "our ability to use artificial intelligence to improve our products and services and enhance our operations; the effect of proposed and enacted legislative and regulatory actions affecting us or the financial services industry as a whole; our ability to comply with government regulations and applicable card association and network rules; the protection and validity of",
+    "subject": "vendor_product",
+    "temporal": "unclear"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "generic_ai_marketing",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M2",
+      "span": "ability to use"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P2",
+    "quote": "our ability to use artificial intelligence to improve our products and services and enhance our operations; the effect of proposed and enacted legislative and regulatory actions affecting us or the financial services industry as a whole; our ability to comply with government regulations and applicable card association and network rules; the protection and validity of",
+    "subject": "vendor_product",
+    "temporal": "unclear"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "generic_ai_marketing",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M2",
+      "span": "Our long-term focus is to"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P3",
+    "quote": "Our long-term focus is to meet our financial commitments, deliver compelling, innovative solutions that address our clients’ most critical needs, and realize productivity and efficiency gains by embedding artificial intelligence (“AI”) in our products, services and business operations.",
+    "subject": "vendor_product",
+    "temporal": "planned"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "generic_ai_marketing",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M2",
+      "span": "centers our investments in"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P4",
+    "quote": "The One Fiserv action plan centers our investments in areas that build on Fiserv’s strengths, including: operating with a client-first mindset to grow our client base and average revenue per client; building the pre-eminent small business operating platform through Clover®; modernizing existing platforms and launching innovative solutions to drive value for our clients, including embedded finance and stablecoin; increasing efficiency enabled by AI; and employing disciplined capital allocation for the long-term.",
+    "subject": "vendor_product",
+    "temporal": "planned"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M1",
+      "span": "higher-quality, more productive business"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P5",
+    "quote": "To advance this transformation, we are simplifying and standardizing processes, adopting new ways of working, and embedding AI to create a higher-quality, more productive business.",
+    "subject": "vendor_operations",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M2",
+      "span": "We expect"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P6",
+    "quote": "We are modernizing our technology infrastructure, enhancing resiliency, and reengineering our operating model through AI and advanced automation. We expect these efforts to strengthen efficiency, scalability, and innovation to deliver differentiated value and an exceptional experience for our clients.",
+    "subject": "vendor_operations",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "generic_ai_marketing",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M2",
+      "span": "ability to use"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P7",
+    "quote": "the company’s ability to use artificial intelligence to improve its products and services and enhance its operations; the effect of proposed and enacted legislative and regulatory actions affecting the company or the financial services industry as a whole; the company’s ability to comply with government regulations and applicable card association and network rules; the protection and",
+    "subject": "vendor_product",
+    "temporal": "unclear"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G11",
+      "span": "$48 million and $89 million"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P8",
+    "quote": "Represents costs associated with a multi-year transformation initiative focused on operational excellence enabled by artificial intelligence, including process reengineering and technology infrastructure modernization. This adjustment is primarily comprised of third-party fees and also includes $48 million and $89 million of incremental compensation expense in the",
+    "subject": "vendor_operations",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "generic_ai_marketing",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M2",
+      "span": "ability to use"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P9",
+    "quote": "our ability to use artificial intelligence to improve our products and services and enhance our operations; the effect of proposed and enacted legislative and regulatory actions affecting us or the financial services industry as a whole; our ability to comply with government regulations and applicable card association and network rules; the protection and validity of",
+    "subject": "vendor_product",
+    "temporal": "unclear"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "generic_ai_marketing",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M2",
+      "span": "Our long-term focus is to"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P10",
+    "quote": "Our long-term focus is to meet our financial commitments, deliver compelling, innovative solutions that address our clients’ most critical needs, and realize productivity and efficiency gains by embedding artificial intelligence (“AI”) in our products, services and business operations.",
+    "subject": "vendor_product",
+    "temporal": "planned"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "generic_ai_marketing",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M2",
+      "span": "centers our investments in"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P11",
+    "quote": "The One Fiserv action plan centers our investments in areas that build on Fiserv’s strengths, including: operating with a client-first mindset to grow our client base and average revenue per client; building the leading small business operating platform with Clover®; creating innovative platforms in finance and commerce to drive value for our clients, including embedded finance and stablecoin; delivering AI-enabled operational excellence and efficiency; and employing disciplined long-term capital allocation.",
+    "subject": "vendor_product",
+    "temporal": "planned"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M1",
+      "span": "higher-quality, more productive business"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P12",
+    "quote": "To advance this transformation, we are simplifying and standardizing processes, adopting new ways of working, and embedding AI to create a higher-quality, more productive business.",
+    "subject": "vendor_operations",
+    "temporal": "in_production"
+   }
+  ]
+ },
+ "role": "extract",
+ "schema_sha256": "f1cd07fdb8e496624608717927261043432a3bd93d84723a126b7c7d951d68df",
+ "seed": 1234
+}

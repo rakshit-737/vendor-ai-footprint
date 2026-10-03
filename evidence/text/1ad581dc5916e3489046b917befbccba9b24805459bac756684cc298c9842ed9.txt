@@ -1,0 +1,44 @@
+Type: 
+            
+                Webinar
+            
+            
+            Duration: 
+            
+                60 Minutes
+            
+            
+            
+                Date & Time: 
+                
+                
+            
+            
+            
+            
+            
+        
+            
+            Member Fee: 
+            
+                $0
+            
+            
+            Non-Member Fee: 
+            
+                $299
+            
+            
+            
+            
+                
+            
+            
+            
+            
+                
+            
+            
+        
+        
+            Understand the responsibilities associated with processing on the RPT Network. This session will discuss RTP implementation as well as the operational changes necessary to support your new payments channel. Finally, compliance will be discussed to round out a better understanding of your participant obligations.

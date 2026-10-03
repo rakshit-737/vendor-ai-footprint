@@ -1,0 +1,44 @@
+Type: 
+            
+                On Demand
+            
+            
+            Duration: 
+            
+                60 Minutes
+            
+            
+            
+                Date & Time: 
+                
+                
+            
+            
+            
+            
+            
+        
+            
+            Member Fee: 
+            
+                $0
+            
+            
+            Non-Member Fee: 
+            
+                $379
+            
+            
+            
+            
+                
+            
+            
+            Audience: 
+            
+                AAPs, AAP Candidates, ACH Personnel, APRPs, APRP Candidates, Compliance, Operations
+            
+            
+        
+        
+            Do ACH file formats give you anxiety?  This session will help bring order to the alphabet soup of ACH Standard Entry Class (SEC) Codes and file formats.  Learn the requirements for the Company Batch Header and Entry Detail records.  Optional use of the Same Day ACH indicator will also be addressed. Understand the various file formats, which fields are mandatory and which will cause a file to reject if not properly formatted.

@@ -1,0 +1,87 @@
+What We Offer keyboard_arrow_down Securities Services arrow_forward Fund & Investor Solutions Custody Managed Account Solutions Integrated Middle Office Solutions Global Clearing Issuer Services arrow_forward Conventional Trust Structured Debt Depositary Receipts Liquidity, Financing & Collateral arrow_forward Liquidity & Financing Credit & Lending Global Collateral Global Payments & Trade arrow_forward Payments Cash Management Trade Finance Markets Execution Services arrow_forward FX Fixed Income Equities Buy-Side Trading Solutions Investments arrow_forward Wealth arrow_forward BNY Pershing/Wealth Services arrow_forward Data & Analytics arrow_forward Digital Assets arrow_forward
+
+Who We Serve keyboard_arrow_down Alternative Asset Managers Investment Managers Asset Owners Insurance Companies Banks Broker-Dealers Corporations Wealth Intermediaries Individuals, Families & Family Offices
+
+Insights keyboard_arrow_down BNY Institute arrow_forward All Insights arrow_forward BNY Institute At the Table with BNY Experts: Summer Edition Read more arrow_forward BNY Wealth Structuring the Sale: Insights for Private Business Owners Read more arrow_forward
+
+About Us keyboard_arrow_down About BNY arrow_forward Leadership Office Locations Sustainability Technology & Innovation Thrive Together Newsroom arrow_forward Trust Center arrow_forward Careers arrow_forward Search BNY Jobs Early Career Opportunities Experienced Professionals
+
+Investor Relations keyboard_arrow_right Overview Press Releases Quarterly Earnings Events & Presentations Annual Reports & Proxy Statements SEC Filings & Other Disclosures Shareholder Services Fixed Income Corporate Governance Contact JULY 2026 BNY Reports Second Quarter 2026 Results Learn more arrow_forward FEBRUARY 2026 Annual Report 2025: Built for Opportunity Learn more arrow_forward
+
+Investor Relations Overview Press Releases Quarterly Earnings Events & Presentations Annual Reports & Proxy Statements SEC Filings & Other Disclosures Shareholder Services Fixed Income Corporate Governance Contact JULY 2026 BNY Reports Second Quarter 2026 Results Learn more arrow_forward FEBRUARY 2026 Annual Report 2025: Built for Opportunity Learn more arrow_forward
+
+Client Access
+
+SUGGESTED RESULTS
+
+Search Results
+
+AI and Payments Fraud: An Evolving Landscape
+
+Susan Peng & Sumner Francisco
+
+Time to Read: 5 minutes
+
+JUMP TO
+
+The creative use of artificial intelligence (AI) by criminals is heightening the challenge that payment fraud poses to financial institutions, businesses and consumers. At the same time, technology is also strengthening fraud detection and prevention in powerful and often surprising ways.
+
+Criminals are using AI to raise the sophistication and success rates of their attacks, increasing losses for certain payment types. Generative AI (Gen AI) will soon produce content indistinguishable from human-generated material, further expanding fraud risks. Yet AI is equally being deployed strategically, to detect and prevent fraud alongside other controls. In addition, certain emerging payment rails are proving to be less vulnerable to fraud today, pointing to a practical path for reducing risk through the adoption of newer, more secure methods.
+
+AI and Evolving Payment Fraud
+
+Payment fraud is shifting from a high volume, low sophistication style — think of mass phishing emails with typos and formatting errors to lower volume, higher impact attacks which are becoming more popular as criminals apply technology such as AI. For example, Gen AI can be used to create believable IDs, and clone faces and voices, enabling targeted business email compromise and CEO impersonation schemes that can defraud a single company out of large sums.
+
+So, over the next year or two, the number of payment fraud attempts may decline slightly or remain flat, while loss levels rise. Looking at the statistics, a substantial portion of payment fraud involves identity fraud — the use of identity data to commit fraud. Within identity fraud, the share of sophisticated cases has tripled in one year. In 2024, only about 10% of fraud attempts were advanced. In 2025, that share surged to 28%.1
+
+At the same time, overall identity fraud attempts as a proportion of analyzed verifications worldwide fell from 2.6% in 2024 to 2.2% in 2025.2 In another report, overall fraud losses for banking institutions were estimated to rise globally from $23 billion in 2025 to $58.3 billion in 2030, driven by a 153% boost in more sophisticated fraud types.3 A third report found a 1,210% surge in AI-enabled fraud, including deepfake and synthetic fraud, between January and December 2025, versus a 195% rise in traditional fraud.4 These difficult numbers are a call to action for the banking industry.
+
+New and Emerging Types of Fraud
+
+With the development of AI-enabled payments fraud comes a growing list of novel fraud types, including:
+
+Deepfakes: AI-generated audio and video convincingly impersonate real individuals on calls or virtual meetings to pressure victims into transferring money or revealing sensitive banking data. One 2024 survey found that deepfake fraud hit half of businesses, with average per-incident losses of $450,000.5 Deloitte’s Center for Financial Services predicts that the GenAI used in deepfakes could enable fraud losses to reach $40 billion in the United States by 2027, up from $12.3 billion in 2023, a compound annual growth rate of 32%.6
+
+Synthetic Identities: Fraudsters use AI to create more convincing synthetic identities by blending elements of real personal data (e.g., an ID document number) with fabricated details like a name or address, to create an entirely fake person. AI enables the processing of large datasets by criminals to find useful data, and Gen AI can invent personal details and generate valid-looking documents such as passports and driver's licenses. According to one recent survey, 61% of the senior fraud and risk executives who responded said that synthetic identity fraud will be the fastest growing threat over the next 12 months.7 The Deloitte Center for Financial Services predicts that synthetic identity fraud is expected to generate at least $23 billion in losses by 2030 in the United States.8
+
+Bot Orchestration: Bots are used in a wide variety of ways to conduct payment fraud. For example, botnets perform credential-stuffing attacks, testing millions of stolen usernames and passwords against login portals, to gain access to accounts. Bots also rapidly create new consumer and merchant accounts using databases of stolen identities. The rise of AI has taken bot use to the next level by enabling them to more closely mimic human behavior, bypass CAPTCHAs and generate realistic fake identities. Some 42% of executives in one survey predict that buy-now-pay-later fraud, often driven by bots, will become an increasing threat over the coming months.9
+
+These novel forms of AI-enabled payment fraud — and those that will be developed over the next few years — are a form of innovation that is breathtaking in its creativity. They are also extraordinarily damaging to businesses, individuals and the financial system.
+
+Meeting the Challenge
+
+As AI drives increasing sophistication and loss levels, organizations need to ensure that their own capacity to fight fraud is evolving through the use of AI, too. For example, AI is very effective when used for anomaly detection, and one survey shows that 60% of organizations have implemented this capability.10 BNY has AI-based anomaly detection in its own Payment Validation solution, including machine learning and advanced analytics. These technologies deliver real-time, continuous monitoring, detection and response to potential fraud, keeping organizations and their customers safer.
+
+AI is even more effective at detecting and preventing fraud when layered in with other strategies. These include account validation services and identity and transaction validation protocols such as multi-factor authentication (MFA). MFA requires users to provide two or more verification factors, enhancing the overall security of accounts. This can be strengthened further by the addition of biometric identity confirmation technologies. As well, training employees in fraud detection and prevention skills remains an extremely effective way to reduce fraud risk, too. For example, employee awareness training about deepfakes and how to spot a potential incident is the first line of defense, as it is for other types of business electronic communications, such as email. Employees who use AI themselves, at work and in their everyday lives, will be best equipped to identify AI fraud.
+
+In short, AI is effective at identifying payment fraud, but to be at its most effective, it should be combined with additional anti-fraud approaches. Human intelligence and experience remain a vital weapon in the war against fraud.
+
+Changing the Rules of the Game
+
+Digitalization is helping to limit the instances of payment fraud as older, less digital forms of payment are far more susceptible to fraud than newer, electronic methods. For example, more than 63% of organizations based in the U.S. experienced check fraud and 21% encountered corporate/commercial card fraud in 2024. However, mobile wallets only had a 3% fraud rate in the same survey, and real-time payments just 2%.11 Zelle, a U.S.-based account-to-account digital payment service, reports that today 99.95% of its transactions are completed without any report of scam or fraud, thanks to the use of authentication and enrollment controls, real-time transaction monitoring, and in-app alerts sent to users.12 Zelle is seeking to reduce fraud rates even further by implementing payment tokenization. Payment tokenization is a process that replaces sensitive payment data, such as bank account numbers, with a unique, randomly generated string of characters known as a token. This token is then used to process transactions without exposing the actual card details — resulting in enhanced security.
+
+Source: 2025 AFP Payments Fraud and Control Survey Report, www.AFPonline.org
+
+Pay-by-Bank, which leverages open banking technology, also has lower levels of fraud than other forms of payment.13 Pay-by-Bank enables people to pay approved retailers, billers and brokerages directly from their bank accounts. Since it relies on open banking, it provides additional security because customers do not need to enter any payment details. Customers can also verify the transaction using a biometric ID through multifactor authentication, for greater protection. Open banking and AI help to proliferate innovative services like Guaranteed ACH and account tokenization, which are great tools that address various payments risks. Open banking data — much richer than many older payment forms — can also be used to develop advanced algorithms to detect fraud for real-time identification of suspicious transactions.
+
+In jurisdictions where open banking adoption is growing rapidly, the statistics highlight the lower levels of fraud. In the U.K., where there were 13.3 million open banking active users in March 2025,14 open banking-initiated payment fraud continues to be lower than the industry average for fraud in payments (January-June 2025), both in volumes (0.013% vs. 0.045%) and in value (0.020% vs. 0.027 %).15 While fraud patterns can vary by rail and region, the direction is clear: modern, digital methods often incorporate controls that lower risk exposure.
+
+Overall, there is a wide range of ways that organizations can fight against the increasing sophistication of AI-enabled fraud — including AI-based technology, other technology solutions such as MFA, employee training and encouraging the shift to new payment rails. Building the right strategic mix should be an important priority to ensure the organization and the third parties it engages with, including customers, are kept safe.
+
+1,2 Sumsub, “Identity Fraud Report 2025–2026,” November 2025, https://sumsub.com/files/Sumsub_Fraud_Report_2025_2026.pdf 3 Juniper Research, “Fraud to Cost Financial Institutions $58.3 Billion by 2030 Globally,” Juniper Research, August 18, 2025, https://www.juniperresearch.com/press/fraud-to-cost-financial-institutions-58bn/ 4 Phil Muncaster, “AI-Enabled Voice and Virtual Meeting Fraud Surges 1000%+,” Infosecurity Magazine, Reed Exhibitions Ltd., February 5, 2026, https://www.infosecurity-magazine.com/news/ai-voice-virtual-meeting-fraud/ 5 Regula, “The Deepfake Trends 2024,” Regula Forensics, Regula, 2024, https://regulaforensics.com/resources/deepfake-trends-2024-report/ 6 Joel R. McConvey, “Deloitte Predicts Losses of up to $40B from Generative AI-Powered Fraud,” Biometric Update, Biometrics Research Group, Inc., June 17, 2024, https://www.biometricupdate.com/202406/deloitte-predicts-losses-of-up-to-40b-from-generative-ai-powered-fraud 7 Mastercard, “How AI Is Changing Payment Fraud Prevention: From Evolving Scams to Predictive Defenses,” Tearsheet, September 25, 2025, https://tearsheet.co/partner/how-ai-is-changing-payment-fraud-prevention-from-evolving-scams-to-predictive-defenses/ 8 Satish Lalchand, Jill Gregorie, and Val Srinivas, “Using biometrics to fight back against rising synthetic identity fraud,” Deloitte Insights, Deloitte, July 27, 2023, https://www.deloitte.com/us/en/insights/industry/financial-services/financial-institutions-synthetic-identity-fraud.html 9 Zelle, “Zelle Data Center: Fraud & Scam Information,” Zelle, Early Warning Services, LLC, December 4, 2025, https://www.zelle.com/data-center 10 Mastercard, “On the Right Side of AI: Shaping the Future of Payment Fraud Prevention,” Mastercard, June 2025, https://www.mastercard.com/content/dam/mccom/shared/news-and-trends/insights/2025/one-the-right-side-of-ai/the-right-side-of-ai-shaping-the-future-of-payment-fraud-prevention.pdf 11 Association for Financial Professionals, “2025 AFP Payments Fraud and Control Survey Report,” Association for Financial Professionals, 2025, https://www.financialprofessionals.org/training-resources/resources/survey-research-economic-data/details/payments-fraud 12 Zelle, “Zelle Data Center: Fraud & Scam Information,” Zelle, Early Warning Services, LLC, December 4, 2025, https://www.zelle.com/data-center 13 Christian Delesalle, Nick Davey, and Anton Joachim, “Financial Crime within Open Banking Journeys,” Open Banking, Open Banking Limited, December 2025, https://www.openbanking.org.uk/wp-content/uploads/OBL-Financial-Crime-report-update-2025-December.pdf 14 Aimee Murray and Jed Buckenham, “Research Note: Open Banking and Open Finance in the UK,” Financial Conduct Authority, Financial Conduct Authority, October 6, 2025, https://www.fca.org.uk/publication/research-notes/open-banking-open-finance-uk.pdf 15 Christian Delesalle, Nick Davey, and Anton Joachim, “Financial Crime within Open Banking Journeys,” Open Banking, Open Banking Limited, December 2025, https://www.openbanking.org.uk/wp-content/uploads/OBL-Financial-Crime-report-update-2025-December.pdf
+
+Disclaimer
+
+BNY is the corporate brand of The Bank of New York Mellon Corporation and may be used to reference the corporation as a whole and/or its various subsidiaries generally. This material and any products and services mentioned may be issued or provided in various countries by duly authorized and regulated subsidiaries, affiliates, and joint ventures of BNY. This material does not constitute a recommendation by BNY of any kind. The information herein is not intended to provide tax, legal, investment, accounting, financial or other professional advice on any matter, and should not be used or relied upon as such. The views expressed within this material are those of the contributors and not necessarily those of BNY. BNY has not independently verified the information contained in this material and makes no representation as to the accuracy, completeness, timeliness, merchantability or fitness for a specific purpose of the information provided in this material. BNY assumes no direct or consequential liability for any errors in or reliance upon this material.
+
+This material may not be reproduced or disseminated in any form without the express prior written permission of BNY. BNY will not be responsible for updating any information contained within this material and opinions and information contained herein are subject to change without notice. Trademarks, service marks, logos and other intellectual property marks belong to their respective owners.
+
+© 2026 BNY. All rights reserved. Member FDIC.
+
+RELATED CONTENT
+
+READY TO GROW YOUR BUSINESS?
+
+BNY is the corporate brand of The Bank of New York Mellon Corporation and may be used to reference the corporation as a whole or its various subsidiaries generally. BNY.com provides information about services provided by BNY and its affiliates. Not all accounts, products, and services are available in all jurisdictions or to all customers. ©2026 BNY.
+
+Visit our websites around the world.

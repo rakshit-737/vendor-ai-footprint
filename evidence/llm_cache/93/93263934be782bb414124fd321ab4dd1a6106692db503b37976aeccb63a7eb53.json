@@ -1,0 +1,231 @@
+{
+ "key": "93263934be782bb414124fd321ab4dd1a6106692db503b37976aeccb63a7eb53",
+ "model": "gemini-3.5-flash-lite",
+ "payload_sha256": "2ef97eb7aaa5afc8fac8e3f32615b58a60966e804b036440f7f66c652d17ec79",
+ "prompt_sha256": "065bd458ace52ff274c72967cfe1b90c794a1ec8d3a3696ec78d7d8cf636df94",
+ "response": {
+  "claims": [
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "powers Labarum AI engagements"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P1",
+    "quote": "The customer-side AI platform that powers Labarum AI engagements.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "ai_governance",
+    "data_mentioned": [
+     "Customer data"
+    ],
+    "indicators": [
+     {
+      "code": "G3",
+      "span": "Customer data stays inside the customer boundary"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P3",
+    "quote": "Customer data stays inside the customer boundary. AI capability still runs at production scale.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "genai_llm",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [
+     "customer-environment knowledge graphs and migration tooling indexes"
+    ],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "retrieval-augmented generation over customer-environment knowledge graphs and migration tooling indexes"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P4",
+    "quote": "Open-source large language models are paired with retrieval-augmented generation over customer-environment knowledge graphs and migration tooling indexes.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [
+     "customer environment’s documentation",
+     "expert’s working context"
+    ],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "connects NEO to AMC’s parsers, the customer environment’s documentation, and the expert’s working context"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P4",
+    "quote": "A model context protocol layer connects NEO to AMC’s parsers, the customer environment’s documentation, and the expert’s working context.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [
+     "source environment",
+     "knowledge graph"
+    ],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "documents the design decisions inline and pre-builds the knowledge graph that AI-Augmented Managed Support will query"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P6",
+    "quote": "On a migration engagement, AMC parses, converts, and validates the source environment, while NEO documents the design decisions inline and pre-builds the knowledge graph that AI-Augmented Managed Support will query the day go-live ends.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "not_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M4",
+      "span": "Turning Orchestration Into the Control Center for Enterprise AI"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P7",
+    "quote": "Automic Automation V26: Turning Orchestration Into the Control Center for Enterprise AI",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "names_ai_provider",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G1",
+      "span": "Oracle"
+     }
+    ],
+    "named_providers": [
+     "Oracle"
+    ],
+    "passage_id": "P8",
+    "quote": "Oracle 23 AI support",
+    "subject": "third_party_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "not_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M4",
+      "span": "Turning Orchestration Into the Control Center for Enterprise AI"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P9",
+    "quote": "Automic Automation V26: Turning Orchestration Into the Control Center for Enterprise AI",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "agentic",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "agentic AI execution"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P11",
+    "quote": "Establish a secure, policy-bounded framework to transition from deterministic scheduling to agentic AI execution.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "AI-driven code completion"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P11",
+    "quote": "Modernize data engineering workflows through native Python execution and AI-driven code completion.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "conversational",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "natural language workflow generation"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P11",
+    "quote": "Reduce operational overhead by utilizing natural language workflow generation and zero-downtime upgrades.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [
+     "complex data pipelines"
+    ],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "safely execute AI-driven operations"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P12",
+    "quote": "Automic V26 provides the rigorous, policy-bounded framework necessary to safely execute AI-driven operations, reclaim control over complex data pipelines, and lower the total cost of ownership (TCO) for your core infrastructure.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   }
+  ]
+ },
+ "role": "extract",
+ "schema_sha256": "f1cd07fdb8e496624608717927261043432a3bd93d84723a126b7c7d951d68df",
+ "seed": 1234
+}

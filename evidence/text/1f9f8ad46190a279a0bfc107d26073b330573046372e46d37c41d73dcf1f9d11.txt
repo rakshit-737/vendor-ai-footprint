@@ -1,0 +1,131 @@
+Webinar: Using the Automic REST API to Integrate with ServiceNow
+
+Do you use ServiceNow or another service desk solution? This free webinar helps you understand what you need to know about integrating Automic Workload Automation using an API call.
+
+I. Introduction
+
+Topic: Automic REST and ServiceNow integrations.
+
+AutomWorx services: migrations, upgrades, implementations, licensing, and extended support.
+
+Partnership: Proud Broadcom expert advantage partner.
+
+Company history: Founded in 2019; received first Broadcom Knight award in 2022.
+
+Introduction of presenter: Steve Nguyen, Senior Principal Consultant and Broadcom Knight.
+
+Disclaimer on forward-looking statements andAI note-takers.
+
+II. The Automic REST Agent
+
+Purpose: Discussing the Automic REST agent and its integrations.
+
+Presentation format: Informal, with a Q&A panel.
+
+What the REST agent is: A bridge connecting Automic Automation to other services (e.g., ServiceNow).
+
+Key features:
+
+Graphical User Interface (GUI).
+
+Multiple methods available (GET, POST, PUT, PATCH, DELETE, etc.).
+
+Various authentication methods (basic, SSL, OAuth, etc.).
+
+Supports JSON and XML.
+
+Error handling and monitoring capabilities.
+
+Benefits of the REST agent:
+
+No manual coding required; uses configuration.
+
+Extends automation capabilities.
+
+Enables powerful orchestration of API-driven processes.
+
+Increases agility and efficiency.
+
+Provides visibility and an audit trail.
+
+III. Installation and Configuration
+
+Installation process:
+
+Download and unzip the integration REST agent zip file.
+
+Create out and temp folders.
+
+Copy and rename the configuration file (UCXJ.ctx to UCXJXE).
+
+Edit the INI file to set agent name, connection details, and folder paths.
+
+Service Manager Dialogue:
+
+Add the new agent to the Service Manager dialogue.
+
+Configure properties like auto-start, delay, and start path.
+
+Web Interface Configuration (AWI):
+
+Log in to client zero.
+
+Assign the agent to a running client.
+
+Configure agent options (e.g., enable Curl commands, groovy parsing).
+
+Connection and Job Objects:
+
+Create a connection object with the REST API endpoint and resources.
+
+Define the job object, including the web services panel for selecting the connection and configuring requests.
+
+Explain the three Ws: where, what, and who to run the job as.
+
+IV. Demo and Use Cases
+
+Demo Walkthrough:
+
+Show how to create a simple REST job (ping).
+
+Explain how to write the response to the job log for easy parsing.
+
+Demonstrate a job failure that automatically triggers a REST call to create an incident.
+
+Show how the REST call can then be used to restart the failed job.
+
+Workflow Integration:
+
+Show how to add REST jobs to a workflow for orchestration.
+
+Demonstrate using task properties to override values within the workflow.
+
+Common Use Cases:
+
+Service orchestration (e.g., ServiceNow, Salesforce, AWS).
+
+Querying external service data.
+
+Business process automation across multiple applications.
+
+Technical Details:
+
+How to encrypt credentials for authorization using PowerShell to get a Base64 string.
+
+Discuss how the encrypted credentials are used in the request header.
+
+V. Conclusion
+
+Recap of benefits: Increased agility, improved efficiency, and enhanced visibility.
+
+Next steps for users:
+
+Download the REST agent from Automic.com.
+
+Explore the Automic marketplace for integrations.
+
+Consult documentation.
+
+Join the community for support.
+
+Take Me To The Webinar

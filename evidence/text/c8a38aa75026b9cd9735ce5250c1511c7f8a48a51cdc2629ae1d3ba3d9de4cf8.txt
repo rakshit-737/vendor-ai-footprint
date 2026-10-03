@@ -1,0 +1,25 @@
+CHIPS Settlement Algorithm Provides Extremely Efficient Liquidity Management
+New York – The liquidity savings mechanism utilized by CHIPS, the largest private sector high-value clearing and settlement system in the world operated by The Clearing House, generates powerful liquidity savings for CHIPS participants and the financial system, which is especially relevant in today’s market environment of rising interest rates and quantitative tightening.
+An independent review of CHIPS conducted by FNA, a technology firm that specializes in advanced network analytics and simulation, found that CHIPS is “extremely efficient” in its use of liquidity across all performance metrics. Moreover, the analysis confirms that CHIPS compares “very favorably” in its use of liquidity and performance relative to other global high value payment systems, and could not be outperformed even by hypothetical payment system configurations with advanced liquidity savings mechanisms.
+The daily liquidity efficiency of CHIPS presently averages 29:1, meaning that $1 in funding contributed to the network supports almost $30 in settled value, with most payments settling in mere seconds. In a rising rate environment, this efficiency results in economic cost savings and allows financial institution participants to deploy scarce liquidity more effectively for other purposes. The more efficient use of liquidity therefore benefits not only CHIPS participants but also contributes to a more efficient financial system and economy.
+“The liquidity efficiency of CHIPS has been well documented in academic literature and distinguishes CHIPS as a critical element of the nation’s financial system,” said Richard Dzina, Senior Vice President of Product Development, The Clearing House. “FNA’s analysis adds to this literature by uniquely using CHIPS payments data to assess CHIPS relative to other real and hypothetical systems.  The results of the analysis are powerful and underscore not only the economic cost savings but also the financial stability benefits that derive from the efficient use of liquidity.”
+“We are delighted to have successfully demonstrated the unique capabilities of the CHIPS system”, said FNA Founder and CEO, Kimmo Soramäki. “FNA’s network analytics and simulation technology provides visibility and foresight over the flow of payments, highlighting previously unseen opportunities for greater operational efficiency and resiliency. Not only has this validated CHIPS’ liquidity efficiency, but also provided TCH with opportunities to improve CHIPS further”.
+Financial institutions in the U.S. and around the world rely on CHIPS to clear and settle USD payments reliably and with settlement finality. CHIPS settles an average of $1.9 trillion in payments per day on a comparatively small funding base. CHIPS patented liquidity savings algorithm matches and offsets payments continually, resulting in an extremely efficient settlement process. While the benefits of liquidity savings are substantial across all phases of an interest rate cycle, they are especially pronounced in an environment of rising rates and quantitative tightening. CHIPS is the premier USD clearing platform for international payment activity, with approximately 95% of CHIPS payments being the USD leg of a funds transfer that begins and/or ends in another country. CHIPS also has the capacity and reach to satisfy every domestic high-value payment need.
+Read the FNA report here.
+About The Clearing House
+The Clearing House operates U.S.-based payments networks that clear and settle more than $2 trillion each day through wire, ACH, check image, and real-time payments. It is the nation’s most experienced payments company, with a long track record of providing secure and reliable systems, payments innovation, and strategic thought leadership to financial institutions. In 2017, The Clearing House revolutionized U.S. payments by introducing the RTP® network, which supports the immediate clearing and settlement of payments, along with the ability to exchange related payment information across the same secure channel. These RTP capabilities enable all financial institutions to offer safer, faster, and smarter digital transaction services for their corporate and retail customers. Learn more at www.theclearinghouse.org.
+About FNA
+FNA is a leader in advanced network analytics and simulation. 
+FNA’s software is used to uncover hidden connections and anomalies in large, complex datasets, to predict the impact of stress events, and to optimally configure financial systems and infrastructures.
+FNA is trusted by the world’s largest central banks, government authorities, commercial banks and financial infrastructures.
+Learn more at www.fna.fi.
+Media Contacts:
+Greg MacSweeney
+The Clearing House 
+212-612-9282
+Gregory.MacSweeney@theclearinghouse.org
+Ben Cossor
+FNA
+Element Communications
++44 (0)203 633 5552 
+ben@elementcommunications.co.uk

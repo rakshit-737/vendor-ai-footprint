@@ -1,0 +1,41 @@
+Webinar Recap: 3 Things To Reframe How You Think About Automic Renewals
+
+On Wednesday, July 29th, AutomWorx hosted a live session: Renewal Readiness: What Your Current Scheduler Footprint Is Actually Telling You. Anna Cuzminscaia co-hosted the conversation with Amanda Lensink, Account Executives at AutomWorx, on what enterprise Automic accounts are seeing in their renewal cycles, and what changes when customers come to that conversation with their own environment data.
+
+Key Insight 1: Idle doesn’t mean useless. Unexplained does.
+
+The first signal covered was idle agents, and the conversation quickly moved past a simple headcount question. Anna shared a specific example: a customer assumed several idle agents could be removed since they hadn’t processed work in months. After a few questions, the team discovered one agent was reserved for disaster recovery and another supported a year-end financial process. Neither was generating daily activity, but both still served a purpose.
+
+“I don’t think the real question is whether an agent is idle,” Anna said. “I think the better question would be whether your team understands why it’s idle. And if no one can answer that, it’s definitely worth investigating before a renewal.”
+
+Key Insight 2: Don’t count integrations. Understand the ones that matter.
+
+The second signal, undocumented integrations, came with a reframe of its own. Anna was direct that these gaps are rarely a documentation failure. They’re the natural result of enterprise environments that keep changing to support the business, one project at a time, each one owned by a different team that moves on once it’s deployed.
+
+Her recommendation for teams preparing for renewal: “I would focus less on counting integrations and more on understanding the ones that matter most.” That means identifying business-critical connections first: what would be affected if an integration stopped working, who owns it today, and whether the documentation, ownership, and credentials tied to it are still current.
+
+The goal isn’t a perfect inventory. It’s walking into the renewal knowing which integrations are critical, who’s responsible for them, and where the risks are.
+
+Key Insight 3: An increase in job executions isn’t automatically good or bad. Context decides that.
+
+The third signal, job execution growth, prompted one of the more nuanced points of the session. Asked whether execution count is better understood as a single number or a trend, Anna’s answer was that both matter, but for different reasons: “A single number gives you the snapshot. The trend tells the story behind it. So if job executions have increased, the next question should always be, well, why?”
+
+Growth can mean the business is automating more, or that more teams are relying on the platform. It can also point to something worth investigating, like excessive retries or duplicate processing. The same increase can represent healthy growth for one customer and an optimization opportunity for another. Looking at the trend over time is what turns the number into something actionable.
+
+Notable Q&A Moment
+
+One of the most practical exchanges came from an attendee asking whether telemetry data is something the customer has to gather and share, or whether Automic self-reports it directly to the vendor.
+
+Anna’s answer walked through the actual mechanics: the platform does self-report, but teams need to access it through a specific process, and AutomWorx has a step-by-step telemetry guide and a script to help pull that information, separated by production and non-production environments if needed. That data is only shared with Broadcom for that specific purpose, nothing broader.
+
+It was a good reminder that renewal readiness isn’t just conceptual. There are concrete tools and processes to get the actual numbers before the conversation starts.
+
+Renewal readiness isn’t about walking in with every answer already solved. It’s about knowing which questions to ask before the vendor asks them for you.
+
+Watch the Recap!
+
+Watch the full recording: automworx.com/RenewalReadindessWebinarRecording
+
+If anything we covered applies to your Automic environment, especially if a renewal is on the near-term horizon, AutomWorx offers a free Scheduler Footprint Review: a 30-minute structured look at your environment with one of our senior consultants.
+
+Book yours: automworx.com/SchedulerFootprintAssessment/

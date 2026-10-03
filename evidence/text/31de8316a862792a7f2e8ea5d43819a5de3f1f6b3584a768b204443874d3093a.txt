@@ -1,0 +1,23 @@
+Topic: 
+                
+            
+            
+            Type: 
+                ACH
+            
+        
+                                
+             Member Fee: 
+                 $0
+            
+            
+            Non-Member Fee: 
+                $50
+            
+            
+            
+                
+            
+        
+        
+            The Written Statement of Unauthorized Debit (WSUD) is a necessary part of ACH disputes for any Receiving Depositary Financial Institution (RDFI) that offers consumer accounts. Included in this package are instructions on how to correctly complete the WSUD, as well as two variation of the WSUD; one with the updated misrepresentation statement, and one without.

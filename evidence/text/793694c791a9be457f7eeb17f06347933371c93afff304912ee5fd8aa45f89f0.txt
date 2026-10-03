@@ -1,0 +1,114 @@
+{
+  "count": 1,
+  "hasMore": false,
+  "items": [
+    {
+      "ApplyWhenNotPostedFlag": false,
+      "BeFirstToApplyFlag": false,
+      "BusinessUnit": null,
+      "BusinessUnitId": 300000003566350,
+      "Category": "Transaction Processing",
+      "ContentLocale": "en",
+      "ContractType": null,
+      "CorporateDescriptionStr": "<p>At BNY, our culture allows us to run our company better and enables employees’ growth and success. As a leading global financial services company at the heart of the global financial system, we influence nearly 20% of the world’s investible assets. Every day, our teams harness cutting-edge AI and breakthrough technologies to collaborate with clients, driving transformative solutions that redefine industries and uplift communities worldwide.</p>Recognized as a top destination for innovators, BNY is where bold ideas meet advanced technology and exceptional talent. Together, we power the future of finance – and this is what #LifeAtBNY is all about. Join us and be part of something extraordinary.",
+      "Department": null,
+      "DomesticTravelRequired": null,
+      "ExternalContactEmail": null,
+      "ExternalContactName": null,
+      "ExternalDescriptionStr": "<p style=\"line-height: 150%;\">We’re seeking a future team member for the role of&nbsp;<strong>Specialist, Client Processing</strong>&nbsp;to join our&nbsp;<strong>GSS Enablement&nbsp;</strong>team. This role is located in&nbsp;<strong>Jersey City, NJ.</strong></p><p style=\"line-height: 150%;\"><strong>In this role, you’ll make an impact in the following ways:</strong></p><ul style=\"list-style-type: disc;\"><li>Facilitate end to end repo workflows including trade, collateral, and liquidity management.&nbsp;</li><li>Monitor and resolve operational exceptions in real time such as breaks, collateral shortfalls, pledges, releases, and wire issues.</li><li>Daily reconciliations across our proprietary systems will be essential, with responsibility for resolving exceptions and ensuring timely settlements.</li><li>Troubleshoot collateral optimization tasks given specific client parameters including eligibility, concentration, and liquidity constraints.</li><li>Collaborate with technology, client service, risk, and product teams to address operational exceptions and driving enterprise initiatives.&nbsp;</li><li>Maintain comprehensive documentation, procedures, and evidence of controls whilst contributing to operational metrics and reporting.</li><li>Identify process improvement opportunities such as automation and workflow enhancements, and explore AI integration to reduce manual touchpoints.</li></ul><p style=\"line-height: 150%;\">&nbsp;</p><p style=\"line-height: 150%;\"><strong>To be successful in this role, we’re seeking the following:</strong></p><ul style=\"list-style-type: disc;\"><li>Bachelors degree or the equivalent combination of education and experience is required.<ul style=\"list-style-type: disc;\"><li>Finance, business, economics, accounting, or business preferred</li></ul></li><li>0-3 years of total work experience is preferred.&nbsp;</li><li>Strong analytical and problem-solving skills with ability to triage exceptions quickly and drive timely resolution across internal and external stakeholders.</li><li>Demonstrate operational risk and control mindset with ability to follow procedures, document evidence, and meet tight deadlines and cutoffs.</li><li>Clear written and verbal communication skills, comfortable engaging with clients, market partners, and internal stakeholders in a fast-paced environment.</li></ul><p>&nbsp;</p><p><strong>Preferred qualifications:</strong></p><ul style=\"list-style-type: disc;\"><li>Back-office operations experience in financial services</li><li>Familiarity of US triparty repo mechanics and US treasury clearing processes.</li><li>Exposure to industry change programs such as US treasury central clearing, US treasury 24x7, or Equities 23x5, etc.</li><li>Understanding of regulatory frameworks and risk management best practices.</li><li>Experience with enterprise-level continuous improvement projects, workflow automation, or artificial intelligence initiatives.</li></ul><p>&nbsp;</p><p style=\"margin-left: 0in;\">BNY assesses market data to ensure a competitive compensation package for our employees. The base salary for this position is expected to be between $52,000 and&nbsp;$80,000&nbsp;per&nbsp;year&nbsp;at the commencement of employment. However, base salary if hired will be determined on an individualized basis, including as to experience and market location, and is only part of the BNY total compensation package, which, depending on the position, may also include commission earnings, discretionary bonuses, short and long-term incentive packages, and company- sponsored benefit programs.</p><p style=\"margin-left: 0in;\">This position is at-will and the Company reserves the right to modify base (as well as any other discretionary payment or compensation) at any time, including for reasons related to individual performance, change in geographic location, Company or individual department/team.&nbsp;</p>",
+      "ExternalPostedEndDate": null,
+      "ExternalPostedStartDate": "2026-10-01T19:46:29+00:00",
+      "ExternalQualificationsStr": "",
+      "ExternalResponsibilitiesStr": "",
+      "GeographyId": 300000090213697,
+      "GeographyNodeId": 100010357090081,
+      "HiringManager": null,
+      "HotJobFlag": false,
+      "Id": "75916",
+      "InternalQualificationsStr": "",
+      "InternalResponsibilitiesStr": "",
+      "InternationalTravelRequired": null,
+      "JobFamilyId": 300007444236761,
+      "JobFunction": "Transaction Processing",
+      "JobFunctionCode": "TRPRC",
+      "JobGrade": null,
+      "JobLevel": null,
+      "JobSchedule": "Full time",
+      "JobShift": "Day",
+      "JobType": null,
+      "LegalEmployer": null,
+      "LegalEmployerId": 300000003587025,
+      "NumberOfOpenings": null,
+      "ObjectVerNumberProfile": null,
+      "Organization": null,
+      "OrganizationDescriptionStr": "<p>At BNY, our culture speaks for itself, check out the latest BNY news at:&nbsp;<a href=\"https://www.bny.com/corporate/global/en/about-us/newsroom.html\" target=\"_blank\" rel=\"nofollow\">BNY Newsroom</a>&nbsp;&amp;&nbsp;<a href=\"https://www.linkedin.com/company/bnyglobal/posts/?feedView=all\" target=\"_blank\" rel=\"nofollow\">BNY LinkedIn</a></p>\n<p style=\"margin-bottom:0in\">&nbsp;Here’s a few of our recent awards:</p>\n<ul style=\"margin-top:0in\">\n <li style=\"margin-bottom:0in\">America’s Most Innovative Companies, Fortune, 2025</li>\n <li style=\"margin-bottom:0in\">World’s Most Admired Companies, Fortune 2025</li>\n <li style=\"margin-bottom:0in\">“Most Just Companies”, Just Capital and CNBC, 2025</li>\n</ul>\n<p style=\"margin-bottom:0in\">Our Benefits and Rewards:</p>\n<p style=\"margin-bottom:0in\">BNY offers highly competitive compensation, benefits, and wellbeing programs rooted in a strong culture of excellence and our pay-for-performance philosophy. We provide access to flexible global resources and tools for your life’s journey. Focus on your health, foster your personal resilience, and reach your financial goals as a valued member of our team, along with generous paid leaves, including paid volunteer time, that can support you and your family through moments that matter.</p>\n<p style=\"margin-bottom:0in\">BNY is an Equal Employment Opportunity/Affirmative Action Employer - Underrepresented racial and ethnic groups/Females/Individuals with Disabilities/Protected Veterans.</p>",
+      "OrganizationId": 300000094781615,
+      "OtherRequisitionTitle": null,
+      "PrimaryLocation": "Jersey City, NJ, United States",
+      "PrimaryLocationCountry": "US",
+      "RequisitionId": 300009708243745,
+      "RequisitionType": "Experienced",
+      "ShortDescriptionStr": "",
+      "StudyLevel": null,
+      "Title": "Specialist, Client Processing",
+      "TrendingFlag": true,
+      "WorkDays": null,
+      "WorkHours": null,
+      "WorkMonths": null,
+      "WorkYears": null,
+      "WorkerType": null,
+      "WorkplaceType": "",
+      "WorkplaceTypeCode": null,
+      "media": [],
+      "otherWorkLocations": [],
+      "primaryLocationCoordinates": [
+        {
+          "CountryCode": "US",
+          "GeographyId": 300000090213697,
+          "GeographyNodeId": 100010357090081,
+          "Latitude": "40.71748",
+          "Longitude": "-74.04385"
+        }
+      ],
+      "requisitionFlexFields": [
+        {
+          "ControlType": "TextArea",
+          "Prompt": "Base Salary Min",
+          "SequenceNumber": 12,
+          "Value": "52000"
+        }
+      ],
+      "secondaryLocations": [],
+      "skills": [],
+      "workLocation": [
+        {
+          "AddressLine1": "One Pershing Plaza",
+          "AddressLine2": "95 Christopher Columbus Drive",
+          "AddressLine3": null,
+          "AddressLine4": null,
+          "Building": null,
+          "Country": "US",
+          "Latitude": "40.71894543",
+          "LocationId": 300000129552053,
+          "LocationName": "One Pershing Plaza,Jersey City,NJ",
+          "Longitude": "-74.0414898",
+          "PostalCode": "07399",
+          "Region1": "Hudson",
+          "Region2": "NJ",
+          "Region3": null,
+          "TownOrCity": "Jersey City"
+        }
+      ]
+    }
+  ],
+  "limit": 499,
+  "links": [
+    {
+      "href": "https://eofe.fa.us2.oraclecloud.com:443/hcmRestApi/resources/11.13.18.05/recruitingCEJobRequisitionDetails",
+      "kind": "collection",
+      "name": "recruitingCEJobRequisitionDetails",
+      "rel": "self"
+    }
+  ],
+  "offset": 0
+}

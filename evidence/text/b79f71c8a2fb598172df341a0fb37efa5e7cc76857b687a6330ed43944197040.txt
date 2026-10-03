@@ -1,0 +1,63 @@
+Type: 
+            
+                Webinar
+            
+            
+            Duration: 
+            
+                90 Minutes
+            
+            
+            
+                Date & Time: 
+                
+                
+            
+            
+            
+            
+            
+        
+            
+            Member Fee: 
+            
+                $179.00 Per Line
+            
+            
+            Non-Member Fee: 
+            
+                $279.00 Per Line
+            
+            
+            
+            
+                
+            
+            
+            Audience: 
+            
+                AAP Candidates, AAPs, ACH Personnel, APRP Candidates, Audit, BSA Investigators_Analysts, BSA Officers, Cash Management, Check Personnel, Compliance, Corporate Payments Professionals, Credit_Lending, General ACH, IT Personnel, NCP Candidates, NCPs, Operations, Payments Personnel, Payments Strategists, Retail/Frontline, Risk, Risk Managers, Sales, Senior Payments Personnel, Treasury, Wire Personnel
+            
+            
+        
+        
+            Are your clients falling victim to Business Email Compromise or Vendor Impersonation Fraud schemes? Both the FBI and Association of Financial Professionals report that businesses are falling victim more frequently to these types of schemes. Your clients can be tricked into sending payments to a fraudster in a way that may make the funds unrecoverable. 
+Business Email Compromise type frauds are about social engineering, compromised credentials or gaps in processes or procedures; not about a direct threat to the wire system, ACH Network or other emerging payment systems. Because the fraud threat is increasing, it is critical to understand what practitioners are seeing, and learn best practices and education tips to help your clients protect themselves.
+Speakers will deliver:
+    - Descriptions of different types of these frauds and how they are accomplished;
+- Real case studies of fraud scenarios;
+- Tips and techniques for financial institutions and businesses to prevent, detect and recover from these types of frauds; and
+- Tips for educating end users on how to protect themselves against financial loss.
+Remember, your clients’ controls are the best protection against loss.       
+Speakers:
+Lisa Coffey
+Chief Operations Officer, Corporate America Credit Union
+Trace Fooshee
+Vice President, Fraud Strategy, SunTrust Bank
+Eric Huber
+Vice President of International and Strategic Initiatives, National White Collar Crime Center (NW3C)
+Jane E. Larimer
+Chief Operating Officer & General Counsel, NACHA - The Electronic Payments Association
+Moderator:
+Jeanette A. Fox, AAP
+Senior Director, Risk Investigations & Research, NACHA - The Electronic Payments Association

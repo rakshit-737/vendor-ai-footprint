@@ -1,0 +1,20 @@
+President Dwight D. Eisenhower once said, “Plans are worthless, but planning is everything.”
+That’s the ethos Sarah Gosler applies to the work she does each and every day as Global Head of Cyber Awareness, Training and Threat Simulation at BNY.
+For October’s Cybersecurity Awareness Month, we sat down with Gosler to learn more about her role and the innovative cyber threat simulation trainings she and her team are creating for BNY employees and clients to stay safe and resilient.
+What inspired you to work in the field of cybersecurity?
+“I guess you could say it’s a family business. My father, Jim, is one of the nation’s foremost experts on cybersecurity and worked on national cyber and counterterrorism initiatives, including at the Central Intelligence Agency. When I was a kid, we would solve encrypted puzzles together and play a lot of strategy games, and he taught me how to utilize adaptive problem-solving skills in both work and everyday life.
+I’ve carried this mindset throughout my career across industries, including aerospace, tech, finance startups and now BNY, where I was attracted to the firm’s 240-year history of safety and trust, combined with a culture that’s cutting-edge and always thinking what’s next.
+My team is comprised of former military, law enforcement and risk professionals who are tasked with designing and delivering cyber awareness trainings for employees and clients, with a focus on the importance of ‘human defense.’ Cybersecurity isn’t just about building technical safety measures—it’s equally about aligning employees to the same mission to keep our firm and clients safe.
+			
+Nearly all cyberattacks begin with a human element. This means employees are a company’s greatest and last line of defense.
+What is something surprising about your work that people might not know?
+I want to preface that this is not to be taken out of context, but I spend a lot of my day thinking like a threat actor.
+Take, for example, phishing attempts, in which a cybercriminal poses as a trustworthy institution to get access to data. To better develop safety measures and inform employee trainings, I consider such criminal intent and tactics, then ask myself questions like: What’s a new approach they could take? How would they react to a given defensive maneuver?
+Why is it so important for companies to educate employees on cybersecurity, and how is BNY leading in this regard?
+Cybersecurity needs have evolved and you don’t actually need to have a cyberattack to experience some of the same impacts of one.
+Consider deepfakes, which generate a video or audio designed to portray something that didn’t actually happen to mislead the viewer or listener—all without a single data breach.
+What’s more, nearly all cyberattacks begin with social engineering, or a human element. This means employees are a company’s greatest and last line of defense.
+That’s why we’re taking education a step further with cyber threat simulations, bringing employees across the firm together to participate in a simulated incident. This year we scaled the program to deliver about 100 simulations to over 12,000 individuals. We manage this in-house, which is not something many of our peers are doing.
+Our latest training is a video game that presents employees with a ‘choose your own adventure’ scenario, and based on your role at the firm, you are given a different path in the training.
+How is BNY supporting clients with its cybersecurity initiatives?
+This year we also extended our cyber threat simulations program to clients. We recently hosted one for a family office aiming to drive cyber safety awareness across multiple generations of employees and their own clients. By helping our clients be more resilient, it makes us more resilient.”

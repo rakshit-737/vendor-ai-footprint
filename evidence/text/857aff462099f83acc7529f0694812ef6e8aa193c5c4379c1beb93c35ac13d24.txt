@@ -1,0 +1,44 @@
+Type: 
+            
+                On Demand
+            
+            
+            Duration: 
+            
+                32 Minutes
+            
+            
+            
+                Date & Time: 
+                
+                
+            
+            
+            
+            
+            
+        
+            
+            Member Fee: 
+            
+                $0
+            
+            
+            Non-Member Fee: 
+            
+                $279
+            
+            
+            
+            
+                
+            
+            
+            Audience: 
+            
+                AAPs, ACH Personnel, BSA Investigators_Analysts, Compliance, General ACH, Operations, Payments Personnel, Retail/Frontline, Risk, Risk Managers, Senior Payments Personnel
+            
+            
+        
+        
+            Tax refund time comes with challenges for financial institutions when posting and returning refunds made through ACH. We’ll reference real-life scenarios to show attendees how to handle refunds that post to the correct account number, but wrong tax payer, and the potential for fraud when an account receives multiple tax refunds.  Learn what the IRS and individual States are doing to combat tax refund fraud.

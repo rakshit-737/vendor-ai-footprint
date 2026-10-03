@@ -1,0 +1,9 @@
+BNY Mellon became the first trustee to execute the ﬁrst of its kind reﬁnancing of a collateralized loan obligation (CLO) through an applicable margin reset (AMR) auction, which went live January and settled on February 18. A hybrid structure, the AMR feature enables automatic refinancing to allow investors to bid in the auction without the need to create new securities. KopenTech, a financial technology company, operates the Alternative Trading System that hosted the auction.
+   
+The AMR method of repricing CLO debt was developed by Sancus Capital Management, and brought to market in 2016 with BNY Mellon acting as Trustee, Collateral Administrator, Paying Agent and Registrar. Since then, BNY Mellon has been appointed on six CLO transactions with the AMR feature and BNY Mellon Capital Markets acting as AMR Agent.
+   
+“Our ability to bring our trustee and capital markets services together as a unified solution enabled seamless execution of the AMR feature,” said Sonia Chaliha, Global Head of Sales, Corporate Trust. “We are very proud to have been the first CLO Trustee/AMR Agent to bring this hybrid structure to market, and expect this unique solution will continue to appeal to our clients.”
+   
+“The Applicable Margin Reset (AMR) feature allows for cost-efficient refinancing through the secondary market and involves a procedure never seen in CLOs," said James Vogl, Head of Product at KopenTech. "We are proud to work closely with the BNY Mellon team on this inaugural AMR transaction and look forward to many more."
+   
+“We are pleased to see the AMR settlement close successfully. The AMR structure is attractive because of the transparency and speed of execution it offers CLO refinancing, and the inaugural AMR auction proved to be a significant milestone in the industry,” said Olga Chernova, Managing Partner at Sancus Capital Management.

@@ -1,0 +1,49 @@
+Type: 
+            
+                On Demand
+            
+            
+            Duration: 
+            
+                24 Minutes
+            
+            
+            
+                Date & Time: 
+                
+                
+            
+            
+            
+            
+            
+        
+            
+            Member Fee: 
+            
+                $0
+            
+            
+            Non-Member Fee: 
+            
+                $379
+            
+            
+            
+            
+                
+            
+            
+            Audience: 
+            
+                AAP Candidates, AAPs, ACH Personnel, APRP Candidates, APRPs, Compliance, Operations
+            
+            
+        
+        
+            'Meaningful Modernization' ACH Rule changes, effective September 17, 2021 are meant to improve and simplify the ACH user experience.  This session addresses the changes and includes a discussion on impacts and considerations.
+    - Standing Authorizations
+- Oral Authorizations
+- Other Authorization Proposals
+- Alternative to Proof of Authorization
+- WSUD via Electronic or Oral Communications

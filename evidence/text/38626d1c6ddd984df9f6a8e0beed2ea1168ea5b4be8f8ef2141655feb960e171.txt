@@ -1,0 +1,12 @@
+[
+  [
+    "timestamp",
+    "original",
+    "statuscode"
+  ],
+  [
+    "20190922022344",
+    "https://www.niceactimize.com/Documents/Fraud_The_Clearing_House_Brochure.pdf",
+    "200"
+  ]
+]

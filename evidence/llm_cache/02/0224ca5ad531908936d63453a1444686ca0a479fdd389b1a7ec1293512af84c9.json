@@ -1,0 +1,278 @@
+{
+ "key": "0224ca5ad531908936d63453a1444686ca0a479fdd389b1a7ec1293512af84c9",
+ "model": "gemini-3.5-flash-lite",
+ "payload_sha256": "073bc7694f4812b7fdf3d0ca52d759dd46829fe1a9ceb7982d3432ff920989cd",
+ "prompt_sha256": "065bd458ace52ff274c72967cfe1b90c794a1ec8d3a3696ec78d7d8cf636df94",
+ "response": {
+  "claims": [
+   {
+    "action_level": "unknown",
+    "ai_type": "conversational",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "biometric checkout"
+     },
+     {
+      "code": "G2",
+      "span": "multi-language voice recognition"
+     },
+     {
+      "code": "M2",
+      "span": "are updating"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P1",
+    "quote": "So on the left side of the page, we are updating Clover for AI, including biometric checkout that you can see outside, as well as multi-language voice recognition and a variety of other things.",
+    "subject": "vendor_product",
+    "temporal": "planned"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "AI assisted lead sourcing"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P2",
+    "quote": "The first thing that we are doing is moving from what was historically reactive sales, where merchants reached reach out to us to an AI assisted lead sourcing effort, for example, fastest growing companies, new businesses launched, et cetera.",
+    "subject": "vendor_operations",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "genai_llm",
+    "claim_kind": "ai_partnership",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G1",
+      "span": "Google’s Gemini"
+     },
+     {
+      "code": "G2",
+      "span": "digital self-discovery and boarding"
+     }
+    ],
+    "named_providers": [
+     "Google's Gemini"
+    ],
+    "passage_id": "P2",
+    "quote": "Second, for smaller clients, digital self-discovery and boarding co-developed with Google’s Gemini, which again, you can see outside.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "advisory",
+    "ai_type": "predictive_ml",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "redesigning our workflows with AI and ML"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P3",
+    "quote": "So we have reimagined customer service, empowering each of our agents to fully resolve client issues, redesigning our workflows with AI and ML so that models anticipate client issues and decisioning is accelerated and also dramatically simplifying end to end customer experience so that onboarding set up billing and servicing become intuitive and frictionless.",
+    "subject": "vendor_operations",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [
+     "our data"
+    ],
+    "indicators": [
+     {
+      "code": "G3",
+      "span": "the power of our data"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P4",
+    "quote": "AI improves the speed of modernization and the power of our data.",
+    "subject": "vendor_operations",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M2",
+      "span": "going to"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P7",
+    "quote": "And how we’re going to do that is by modernizing our platforms, and we’re embedding AI into our operating model.",
+    "subject": "vendor_operations",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "agentic",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [
+     "our tickets"
+    ],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "self-service and agentic AI capabilities to resolve our tickets"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P8",
+    "quote": "Two weeks ago, we re-architected our client service portal to drive more self-service and agentic AI capabilities to resolve our tickets.",
+    "subject": "vendor_operations",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "advisory",
+    "ai_type": "unspecified",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "AI based client health index"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P8",
+    "quote": "We also created an AI based client health index that helps us detect and proactively address client issues.",
+    "subject": "vendor_operations",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "accelerating not just the build of these modules"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P9",
+    "quote": "Second, AI is accelerating not just the build of these modules, but also how clients adopt them.",
+    "subject": "vendor_operations",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "genai_llm",
+    "claim_kind": "ai_partnership",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G1",
+      "span": "OpenAI"
+     },
+     {
+      "code": "M2",
+      "span": "are going to look like"
+     }
+    ],
+    "named_providers": [
+     "OpenAI"
+    ],
+    "passage_id": "P9",
+    "quote": "To this point, we just announced a exciting collaboration with OpenAI to completely reimagine what client journeys are going to look like on an AI native basis, so that we can bring all these experiences to life faster and in a more capital efficient way as well.",
+    "subject": "vendor_product",
+    "temporal": "planned"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "leveraging AI here to accelerate those implementation timelines"
+     },
+     {
+      "code": "G11",
+      "span": "250 clients live today and 600 that are in flight"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P10",
+    "quote": "We already have 250 clients live today and 600 that are in flight. And we’re also leveraging AI here to accelerate those implementation timelines.",
+    "subject": "vendor_operations",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "ai_partnership",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G1",
+      "span": "Personetics"
+     },
+     {
+      "code": "G2",
+      "span": "personalized, AI driven insights"
+     },
+     {
+      "code": "M2",
+      "span": "going to offer"
+     }
+    ],
+    "named_providers": [
+     "Personetics"
+    ],
+    "passage_id": "P11",
+    "quote": "And in Q4 of this year, with our partnership with Personetics, we’re going to offer personalized, AI driven insights.",
+    "subject": "vendor_product",
+    "temporal": "planned"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "ai_partnership",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G1",
+      "span": "Zafin"
+     },
+     {
+      "code": "G2",
+      "span": "AI driven, personalized offers"
+     }
+    ],
+    "named_providers": [
+     "Zafin"
+    ],
+    "passage_id": "P12",
+    "quote": "Let me highlight our work with another fintech Zafin that you see in the middle of the page. Together, we’re helping banks create AI driven, personalized offers for their deposit holders, so they can reduce attrition and grow their deposit base.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   }
+  ]
+ },
+ "role": "extract",
+ "schema_sha256": "f1cd07fdb8e496624608717927261043432a3bd93d84723a126b7c7d951d68df",
+ "seed": 1234
+}

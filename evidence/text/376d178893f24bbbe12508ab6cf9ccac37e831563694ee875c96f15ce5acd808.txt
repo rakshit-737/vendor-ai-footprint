@@ -1,0 +1,25 @@
+Most organizations point to the build phase when a migration runs late. The timelines slip, the scope creeps, and everyone looks at the technical execution. But in almost every migration we have worked on, the delays were set in motion weeks, sometimes months, before the first line of configuration was written.
+The build does not cause the problem. It just reveals it.
+Discovery Gets Underestimated Every Time
+When a migration is scoped, there is a tendency to treat the current environment as a fixed known. Your job catalog has been running for years. You know what is in there. But knowing that jobs exist and understanding who owns them, what business rules they follow, and what happens when they fail are very different things.
+Discovery gets compressed because it looks like audit work. Stakeholders want to move to the build. Project managers want a start date on the Gantt chart. The result is a discovery phase that surfaces the right questions – just six weeks too late, when a schedule slip is already locked in.
+The most expensive phase of a migration is almost always the one that was treated as a formality.
+SME Availability Is the Silent Schedule Killer
+The subject matter experts who know your current Automic environment best are also the people your organization depends on to keep production running. When you ask them to commit significant hours to a migration project, something has to give.
+We have seen migrations scoped at ten hours of SME time per week where actual availability averaged closer to four. That gap does not show up on a project plan. It shows up six weeks in when validation stalls because nobody has had time to review and sign off on job behaviors.
+Before any migration begins, the organization needs to have an honest conversation about what SME time is actually available, not what is theoretically possible on an org chart. That conversation is uncomfortable. It is also essential.
+Nobody Maps Who Owns the Jobs After Go-Live
+This is the question that rarely gets asked upfront, and it causes problems every time.
+A job gets migrated. It runs in the new environment. Three months later, something changes in a downstream application, and the job starts failing. Who is responsible for updating the job definition in the new system? Who knows what the original business rule was?
+Migrations move jobs. They do not transfer organizational knowledge about those jobs. Without a clear ownership map by job, by application, by business unit, you are creating a maintenance problem on top of a technical project.
+Your Footprint Is Already Telling You Something
+Before you commit to a migration scope, use your current Automic environment as a diagnostic tool, not as a deliverable.
+How many jobs are actually running? How many are dormant? Where are the dependencies concentrated? What does your failure rate look like, and how does the business respond when critical jobs go down?
+This data exists in your environment right now. Most organizations have never read it the way a migration requires. But it will tell you more about your actual readiness and your actual risk than any vendor assessment or pre-sale engagement.
+Three Things to Do Before the Build Starts
+These cost nothing and prevent most delays:
+- Map ownership before you map jobs. Have a direct conversation with business unit leaders about who will be accountable for job maintenance after go-live. Get it in writing before scoping begins.
+- Audit SME availability honestly. If your top Automic expert can realistically give you six hours a week, build the project around that number. Plans built around twenty hours and hope will not survive contact with a production incident.
+- Read your footprint as a readiness indicator. Pull active versus dormant job counts, map your highest-dependency job chains, and identify your most critical batch windows. You will find the scope surprises before they become schedule surprises.
+Migrations do not fall behind because the platform is wrong. They fall behind because the organization was not ready when the build began, and nobody stopped to check.
+Join us July 29 for a live webinar discussion: “Renewal Readiness: What Your Current Scheduler Footprint Is Actually Telling You.” Register on Zoom.

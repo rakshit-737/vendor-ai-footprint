@@ -1,0 +1,15 @@
+Growing Volumes on The Clearing House’s ACH Network Lead to Impressive Upward Trajectory
+New York – Transaction volume on EPN®, the ACH network from The Clearing House, grew 8% in 2023, outpacing the broader ACH market and continuing impressive yearly growth. In 2023, EPN processed over 19 billion transactions worth $52.4 trillion.
+Overall 2023 U.S. ACH network volume increased 4.8%.1 EPN carried approximately half of overall 2023 U.S. ACH commercial volume and has averaged 7.4% growth since 2021, as businesses and consumers continue to embrace electronic payments.
+“The Clearing House’s ACH network continues to grow year over year and regularly outpaces broader industry growth,” said Jason Carone, Senior Vice President of ACH Product Management, The Clearing House. “The desire from businesses and consumers for easier and faster electronic payments is driving the increase in ACH payments along with instant payments, and we do not see this trend slowing in the years to come.”
+Growth in ACH volume has been broad across all user types and use cases. Business-to-business payments, increased almost 11% year over year. Direct deposit volume and person-to-person (P2P) transfers also continued to show steady growth. Consumer initiated payments, such as account-to-account (A2A) transfers and bill payments, also increased as consumers move to faster-payment options and away from paper checks.
+EPN is the industry’s private sector ACH network, helping financial institutions process and settle ACH transactions and providing related services. The Clearing House and the Federal Reserve are the only ACH operators, each handling essentially half the commercial market. Year over year, EPN continues to grow and reliably processes approximately 75 million transactions each day, with a new single day record of over 147 million items in September 2023.
+__________________________________
+“ACH Network Records Strong Growth in 2023 as Same Day ACH Surpasses 3 Billion Payments Since Inception,” NACHA, February 14, 2024.
+###
+The Clearing House operates U.S-based payments networks that clear and settle more than $2 trillion each day through wire, ACH, check image, and real-time payments. It is the nation’s most experienced payments company, with a long track record of providing secure and reliable systems, payments innovation, and strategic thought leadership to financial institutions. In 2017, The Clearing House revolutionized U.S. payments by introducing the RTP® network, which supports the immediate clearing and settlement of payments, along with the ability to exchange related payment information across the same secure channel. These RTP capabilities enable all financial institutions to offer safer, faster, and smarter digital transaction services for their corporate and retail customers. Learn more at www.theclearinghouse.org.
+Media Contact:
+Greg MacSweeney
+The Clearing House 
+212-612-9282
+Gregory.MacSweeney@theclearinghouse.org

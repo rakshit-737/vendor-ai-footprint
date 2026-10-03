@@ -1,0 +1,42 @@
+Capabilities
+Three capabilities.
+One AI platform.
+Twenty years of expert depth.
+				
+How Labarum AI engagements deliver differently — across migration, managed support, and the AI infrastructure underneath all of it.
+The Frame
+Vendor AI is platform-locked. Customer-side AI runs anywhere.
+Capability 01
+Automation Migration Capabilities
+Automation Migration Capabilities (AMC) is the bidirectional, platform-agnostic migration layer that gives customers that mobility. Every major scheduler in the market is parsed, converted, and validated by AMC at 80%+ auto-conversion rates. The 20% that requires expert judgment gets expert judgment.
+80%+
+12+
+20+
+Platforms covered.
+Distributed
+TIDAL
+Mainframe
+Migrations
+Source ⇄ Target on every listed platform
+How AMC works.
+Source environments are inventoried by AMC parsers — every task, workflow, calendar, variable, agent definition, credential, and dependency. The inventory becomes the migration plan. AMC converts the inventory into target-platform definitions using leading-practice patterns, then runs validation against the source behavior. The expert reviews the 20% that requires judgment, applies design decisions, and signs off the conversion.
+Capability 02
+AI-Augmented Managed Support
+What gets documented.
+Environment
+Practice
+History
+What that gets you.
+Capability 03
+NEO
+Automation Migration Capabilities (AMC) is the bidirectional, platform-agnostic migration layer that gives customers that mobility. Every major scheduler in the market is parsed, converted, and validated by AMC at 80%+ auto-conversion rates. The 20% that requires expert judgment gets expert judgment.
+Why customer-side.
+NEO solves that without sacrificing capability. Customer data stays inside the customer boundary. AI capability still runs at production scale. The trade-off goes away.
+What's underneath.
+Where NEO shows up.
+In Migrations
+In Managed Support
+On the Platform
+The Integrated Thesis
+Three capabilities. One platform. Every engagement.
+This is what “Human-Led. AI-Enabled.” means in practice. Not a tagline. A platform.

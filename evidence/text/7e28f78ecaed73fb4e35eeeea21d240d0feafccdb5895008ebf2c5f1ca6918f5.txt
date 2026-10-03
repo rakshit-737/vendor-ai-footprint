@@ -1,0 +1,70 @@
+{
+  "AD": false,
+  "Answer": [
+    {
+      "TTL": 1800,
+      "data": "\"MS=ms70031358\"",
+      "name": "fssi-ca.com",
+      "type": 16
+    },
+    {
+      "TTL": 1800,
+      "data": "\"google-site-verification=_yRtGROalXYtD8Zvl8VsLuLQ7nxGb4Y3hbLBZJSz7Bs\"",
+      "name": "fssi-ca.com",
+      "type": 16
+    },
+    {
+      "TTL": 1800,
+      "data": "\"google-site-verification=b0ss9uy-zRaPd_IkotWbQP95u7NgdjtDqQCp6MXtsFI\"",
+      "name": "fssi-ca.com",
+      "type": 16
+    },
+    {
+      "TTL": 1800,
+      "data": "\"google-site-verification=hi3SRxVtB6OhAYTsjYonVElE2j6mAw6zgaRLEoeNbQM\"",
+      "name": "fssi-ca.com",
+      "type": 16
+    },
+    {
+      "TTL": 1800,
+      "data": "\"_f6vofct0h2q5mc2hannud9434fy3is4\"",
+      "name": "fssi-ca.com",
+      "type": 16
+    },
+    {
+      "TTL": 1800,
+      "data": "\"v=spf1 ip4:173.227.56.144/29 ip4:173.227.26.32/27 ip4:75.98.162.236 include:spf.protection.outlook.com include:spf.workfront.com include:_spf.getresponse.com include:sendgrid.net include:_spf.psm.knowbe4.com include:spf.bccsoftware.com include:one.zoho.co\" \"m include:_spf.socketlabs.com include:email-od.com ~all\"",
+      "name": "fssi-ca.com",
+      "type": 16
+    },
+    {
+      "TTL": 1800,
+      "data": "\"rzwj5r0nkcxl2sbm2l430vqgndccktj5\"",
+      "name": "fssi-ca.com",
+      "type": 16
+    },
+    {
+      "TTL": 1800,
+      "data": "\"_04cqhzkfw0ptr1jwnu3n3g33cidlm8u\"",
+      "name": "fssi-ca.com",
+      "type": 16
+    },
+    {
+      "TTL": 1800,
+      "data": "\"google-site-verification=z_HmhKDLoKY5OTsRXf1cupL_r6LXXh1A78OHLHKJkNQ\"",
+      "name": "fssi-ca.com",
+      "type": 16
+    }
+  ],
+  "CD": false,
+  "Question": [
+    {
+      "name": "fssi-ca.com",
+      "type": 16
+    }
+  ],
+  "RA": true,
+  "RD": true,
+  "Status": 0,
+  "TC": false
+}

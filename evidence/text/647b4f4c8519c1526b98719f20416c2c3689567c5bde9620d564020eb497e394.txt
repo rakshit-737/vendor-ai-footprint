@@ -1,0 +1,44 @@
+Type: 
+            
+                Webinar
+            
+            
+            Duration: 
+            
+                60 Minutes
+            
+            
+            
+                Date & Time: 
+                
+                
+            
+            
+            
+            
+            
+        
+            
+            Member Fee: 
+            
+                $0.00
+            
+            
+            Non-Member Fee: 
+            
+                $379.00
+            
+            
+            
+            
+                
+            
+            
+            
+            
+                
+            
+            
+        
+        
+            Gain a foundational understanding of the RTP Network, and the use cases for payments that move faster in the U.S. Understand how the RTP Network is different from other payment channels, and how banks and credit unions are leveraging its unique features to solve real challenges. This session will also discuss how to build the business case to implement instant payments for your organizations.

@@ -1,0 +1,19 @@
+RTP® Network Breaks Instant Payments Records
+New York – Consumers and businesses took advantage of instant payments through The Clearing House RTP® network, which resulted in numerous records set in the first quarter of 2024. The network experienced a record 76 million transactions in the first quarter, valued at $42 billion. March was also a record month with nearly 27 million transactions, and March 1st is now the single day with the most transactions at over 1.25 million.
+The organic volume growth comes from customers of financial institutions who use the network to move money and make payments instantly. In March, transactions between accounts (account to account/A2A) or from digital wallets to checking or savings accounts increased by more than 1 million payments as consumers chose to move money instantly between accounts for a variety of reasons, including opening new accounts, covering unexpected expenses, or paying bills.
+Small businesses are also using instant payments to get immediate access to funds though merchant settlement providers that utilize the RTP network. Instant payments for small businesses help normalize cash flow and give business owners access to funds exactly when they need it to pay employees, purchase additional inventory, or pay for unexpected expenses. There were 140,000 more transactions in March than in February on the RTP network related to merchant settlement activity for small businesses, demonstrating again how businesses and consumers alike value instant access to their money.
+The surge in instant payment transactions continues an impressive quarterly trend for the RTP network. Both transaction volume and value on the network are growing at an average of 15% per quarter, with 19 out of the last 20 quarters showing growth, dating back to 2019. 
+“RTP transaction volume is driven by customers who want instant, convenient ways to pay bills, move money between accounts, get paid quickly, send money to friends and family, or solve cash flow concerns,” said Margaret Weichert, Chief Product Officer at The Clearing House. “Banks and credit unions yet to join the RTP network should consider the valuable benefits they can offer their customers and members either directly or indirectly through service providers since, once on the network, they will have access to record transaction flows on day one.”
+RTP Network Records: First Quarter 2024
+- Quarterly Volume: 76.4 million (new record)
+- Quarterly Value: $42.3 billion (new record)
+- Monthly Volume: 26,977,228 in March (new record)
+- Single Day: 1,255,696 transactions (new record)
+- 1 million Transaction Days: 14 in Q1, vs 3 in all of 2023 (new record)
+About The Clearing House  
+The Clearing House operates U.S-based payments networks that clear and settle more than $2 trillion each day through wire, ACH, check image, and real-time payments. It is the nation’s most experienced payments company, with a long track record of providing secure and reliable systems, payments innovation, and strategic thought leadership to financial institutions. In 2017, The Clearing House revolutionized U.S. payments by introducing the RTP® network, which supports the immediate clearing and settlement of payments, along with the ability to exchange related payment information across the same secure channel. These RTP capabilities enable all financial institutions to offer safer, faster, and smarter digital transaction services for their corporate and retail customers. Learn more at www.theclearinghouse.org.
+Media Contact:
+Greg MacSweeney
+The Clearing House 
+212-612-9282
+Gregory.MacSweeney@theclearinghouse.org

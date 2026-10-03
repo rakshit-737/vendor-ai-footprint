@@ -1,0 +1,3 @@
+Icon Solutions' Instant Payments Framework (IPF) connects to The Clearing House for US Real-time Payments
+(Third Party Release)
+Icon Solutions, a leading provider of technology solutions and real-time payments consultancy has just announced the enhancement of its Instant Payments Framework (IPF) product to support connectivity to The Clearing House’s (TCH) Real-time Payments system, accelerating US banks’ access to instant payments.

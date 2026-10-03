@@ -1,0 +1,78 @@
+{
+  "hiringOrganization": {
+    "name": "PAYCO The Clearing House Payments Company L.L.C.",
+    "url": ""
+  },
+  "jobPostingInfo": {
+    "canApply": true,
+    "country": {
+      "descriptor": "United States of America",
+      "id": "bc33aa3152ec42d4995f4791a106ed09"
+    },
+    "externalUrl": "https://theclearinghouse.wd108.myworkdayjobs.com/TheClearingHouse/job/Charlotte-Office/Cloud-Computing-Engineer---AWS_JR100196-4",
+    "id": "b424cc9933f4100968cfdcf64e360001",
+    "includeResumeParsing": true,
+    "jobDescription": "<p><b><u>Position summary:</u></b></p><p>We are seeking a highly skilled Cloud Computing Engineer specializing in Amazon WorkSpaces to design, implement, optimize, and support our cloud-based virtual desktop environment. This role will serve as the primary technical owner for AWS WorkSpaces architecture, image management, automation, identity integration, security, monitoring, and platform operations.</p><p> </p><p>The ideal candidate possesses deep expertise across AWS WorkSpaces, Active Directory, Microsoft Entra ID, Intune, Windows endpoint management, cloud networking, automation, and authentication technologies. This individual will lead platform engineering efforts, establish operational standards, drive automation initiatives, support large-scale desktop deployments, and help evolve our virtual desktop strategy from traditional on-premises VDI solutions toward a modern cloud-based desktop platform.</p><p> </p><p>This is a hands-on engineering role requiring strong technical leadership, troubleshooting expertise, and the ability to independently own complex infrastructure initiatives from design through production support.</p><p> </p><p><b>About The Clearing House: </b>The Clearing House Payments Company L.L.C. is a bank-owned industry utility that shapes the payments landscape and provides infrastructure for safe, reliable, and efficient payments. We see an economy where everyone is connected and a future where modern payments make life easier. The Clearing House operates four payment systems: a high-value wire-transfer system (the CHIPS® network), the country’s first and largest instant payments system (the RTP® network), an automated clearinghouse network (the EPN® network), and a check image exchange network (the Image Exchange Network). TCH also operates a bank account number tokenization service, runs a payments association known as the TCH Payments Authority, and maintains the rules for private-sector check image exchange through its ECCHO® business line. </p><p> </p><p> </p><p><b><u>Key Responsibilities</u></b></p><p><b>AWS WorkSpaces Engineering &amp; Architecture</b></p><ul><li>Design, implement, and maintain enterprise-scale Amazon WorkSpaces environments.</li><li>Architect and manage AWS WorkSpaces deployments across multiple environments.</li><li>Develop long-term platform strategy, scalability planning, and operational standards.</li><li>Evaluate and implement new AWS EUC technologies and features.</li><li>Conduct capacity planning, performance analysis, and platform optimization.</li><li>Support disaster recovery planning, testing, and recovery validation procedures.</li><li>Perform root cause analysis for complex platform-wide issues.</li></ul><ul><li>undefined</li></ul><p><b>Image Management &amp; Desktop Engineering</b></p><ul><li>Build, maintain, and optimize AWS WorkSpaces custom images and bundles.</li><li>Create standardized gold images aligned with security and operational requirements.</li><li>Validate Windows updates, application patching, and security configurations before promotion to production.</li><li>Manage image lifecycle processes, testing procedures, rollback strategies, and release documentation.</li><li>Implement automation for image creation, validation, and deployment.</li><li>Ensure image consistency across development, testing, and production environments.</li><li>Establish desktop hardening standards and compliance baselines.</li></ul><p> </p><p><b>Identity, Directory Services &amp; Authentication</b></p><ul><li>Design and support integrations between AWS WorkSpaces, Microsoft Active Directory, and Microsoft Entra ID.</li><li>Manage AWS Directory Services and hybrid identity configurations.</li><li>Troubleshoot directory synchronization, computer object creation, OU placement, and authentication workflows.</li><li>Support hybrid identity solutions involving Active Directory, Entra Connect, and Intune.</li><li>Configure and maintain MFA integrations utilizing RADIUS authentication.</li><li>Lead initiatives to migrate legacy authentication methods toward SAML-based federation.</li><li>Support Single Sign-On solutions and modern authentication architectures.</li></ul><p> </p><p><b>Intune &amp; Endpoint Management Integration</b></p><ul><li>Partner with Endpoint Engineering teams to integrate AWS WorkSpaces with Microsoft Intune.</li><li>Ensure proper enrollment and management of hybrid-joined WorkSpaces devices.</li><li>Support application deployment, policy management, compliance enforcement, and reporting through Intune.</li><li>Troubleshoot device registration and management issues involving Entra ID and Intune.</li><li>Develop standards for cloud-hosted desktop management using Microsoft technologies.</li><li>Collaborate on endpoint security, patching, and configuration management initiatives.</li></ul><p> </p><p><b>Cloud Infrastructure &amp; Networking</b></p><ul><li>Administer AWS networking components supporting WorkSpaces environments.</li><li>Manage Route 53 DNS configurations and name resolution services.</li><li>Troubleshoot connectivity, routing, firewall, VPN, and DNS-related issues.</li><li>Work closely with network engineering teams to optimize cloud connectivity and user experience.</li><li>Understand VPC design, subnets, security groups, network ACLs, and routing principles as they relate to WorkSpaces deployments.</li><li>Support desktop access from Windows, macOS, thin clients, and mobile platforms.</li></ul><p> </p><p><b>Automation &amp; Platform Engineering</b></p><ul><li>Develop automation solutions utilizing AWS Lambda, PowerShell, Python, and AWS native services.</li><li>Automate provisioning, monitoring, remediation, reporting, and operational workflows.</li><li>Create self-healing mechanisms for common platform issues.</li><li>Maintain infrastructure-as-code standards where applicable.</li><li>Reduce operational overhead through orchestration and automation initiatives.</li></ul><p> </p><p><b>Monitoring &amp; Operational Excellence</b></p><ul><li>Configure and maintain CloudWatch dashboards, metrics, alarms, and logging.</li><li>Develop proactive monitoring and alerting capabilities.</li><li>Analyze performance trends and resource utilization.</li><li>Implement operational reporting and executive dashboards.</li><li>Participate in incident management, problem management, and root cause analysis activities.</li><li>Drive continuous service improvements and platform optimization efforts.</li></ul><p> </p><p><b>Security &amp; Compliance</b></p><ul><li>Ensure AWS WorkSpaces environments meet security, regulatory, and audit requirements.</li><li>Partner with cybersecurity teams to implement security controls and monitoring.</li><li>Support vulnerability remediation and platform hardening initiatives.</li><li>Participate in audits, risk assessments, and compliance reviews.</li><li>Maintain secure access standards, least privilege permissions, and identity governance controls.</li><li>Support logging, monitoring, and security event investigations.</li></ul><p> </p><p><b>Operational Requirements</b></p><ul><li>Execute infrastructure changes under strict Change Management procedures.</li><li>Create technical documentation, architecture diagrams, operational runbooks, and support guides.</li><li>Participate in after-hours maintenance activities as required.</li><li>Provide Level 3 engineering support and escalation assistance.</li><li>Collaborate across cloud, infrastructure, security, networking, and endpoint management teams.</li></ul><p> <b> </b></p><p><b><u>Qualifications</u></b></p><ul><li>7&#43; years of enterprise infrastructure engineering experience.</li><li>5&#43; years of AWS engineering experience.</li><li>3&#43; years of Amazon WorkSpaces administration and architecture experience.</li><li>Deep understanding of AWS WorkSpaces Images, Bundles, Directories, and lifecycle management.</li><li>Strong experience with Microsoft Active Directory and hybrid identity environments.</li><li>Experience integrating AWS WorkSpaces with Microsoft Entra ID and Intune.</li><li>Experience supporting RADIUS MFA authentication and SAML federation solutions.</li><li>Strong understanding of cloud networking concepts including Route 53, DNS, VPCs, subnets, routing, and security controls.</li><li>Experience with AWS CloudWatch monitoring and alerting.</li><li>Strong PowerShell and automation experience.</li><li>Experience utilizing AWS Lambda for operational automation.</li><li>Knowledge of endpoint deployment and application delivery practices.</li><li>Experience supporting Windows 11 enterprise desktop environments.</li><li>Excellent troubleshooting and root cause analysis skills.</li><li>Strong documentation and communication skills.</li></ul><br /><p><b><u>Work Conditions &amp; Expectations</u></b></p><ul><li>Hybrid Schedule: 3 days onsite (Charlotte NC preferred, occasional asks to report to Winston-Salem NC as needed); remaining days remote. On-site requirement can change at any time.</li><li>Operational Flexibility: Ability to perform after-hours changes and participate in on-call rotations when required.</li><li>Dynamic Environment: Work involves frequent troubleshooting, collaboration across teams, and adapting to evolving technologies.</li><li>Security &amp; Compliance: Must adhere to strict Change Management processes and participate in security reviews as needed.</li><li>Standard Office Setup: Role primarily uses standard IT equipment (laptops, conferencing tools, monitoring systems) with occasional interaction with server rooms or networking hardware.</li></ul><p><b> </b></p>",
+    "jobPostingId": "Cloud-Computing-Engineer---AWS_JR100196-4",
+    "jobPostingSiteId": "TheClearingHouse",
+    "jobReqId": "JR100196",
+    "jobRequisitionLocation": {
+      "country": {
+        "alpha2Code": "US",
+        "descriptor": "United States of America",
+        "id": "bc33aa3152ec42d4995f4791a106ed09"
+      },
+      "descriptor": "Charlotte Office"
+    },
+    "location": "Charlotte Office",
+    "posted": true,
+    "postedOn": "Posted 4 Days Ago",
+    "questionnaireId": "416fc4b6e988100114d79736c4ff0000",
+    "startDate": "2026-09-28",
+    "timeType": "Full time",
+    "title": "Cloud Computing Engineer - AWS"
+  },
+  "similarJobs": [
+    {
+      "externalPath": "/job/Charlotte-Office/Linux-Systems-Engineer_JR100198",
+      "locationsText": "Charlotte Office",
+      "postedOn": "Posted Yesterday",
+      "startDate": "2026-10-01",
+      "timeType": "Full time",
+      "title": "Linux Systems Engineer"
+    },
+    {
+      "externalPath": "/job/Charlotte-Office/Software-Engineer_JR100177-5",
+      "locationsText": "Charlotte Office",
+      "postedOn": "Posted 21 Days Ago",
+      "startDate": "2026-09-11",
+      "timeType": "Full time",
+      "title": "Software Engineer"
+    },
+    {
+      "externalPath": "/job/North-Carolina-Office/Senior-Technology-Architect---Hybrid-Infrastructure---Cloud_JR100187",
+      "locationsText": "2 Locations",
+      "postedOn": "Posted 23 Days Ago",
+      "startDate": "2026-09-09",
+      "timeType": "Full time",
+      "title": "Senior Technology Architect - Hybrid Infrastructure & Cloud"
+    },
+    {
+      "externalPath": "/job/North-Carolina-Office/Senior-Technology-Architect---Hybrid-Infrastructure---Cloud_JR100199-1",
+      "locationsText": "2 Locations",
+      "postedOn": "Posted 3 Days Ago",
+      "startDate": "2026-09-29",
+      "timeType": "Full time",
+      "title": "Senior Technology Architect - Hybrid Infrastructure & Cloud"
+    },
+    {
+      "externalPath": "/job/Charlotte-Office/Senior-Software-Developer-Engineer-in-Testing_JR100159",
+      "locationsText": "Charlotte Office",
+      "postedOn": "Posted 30+ Days Ago",
+      "startDate": "2026-08-27",
+      "timeType": "Full time",
+      "title": "Senior Software Developer Engineer in Testing"
+    }
+  ],
+  "userAuthenticated": false
+}

@@ -1,0 +1,172 @@
+{
+ "key": "c50cf61743c5dc5bff23d694c58c234435d82f5be3e4d3ed26d9b4a236cbb673",
+ "model": "gemini-3.5-flash-lite",
+ "payload_sha256": "7e23287a444d1f1103210455baec3a8d59d79df901ba115adfda6d0e69268786",
+ "prompt_sha256": "065bd458ace52ff274c72967cfe1b90c794a1ec8d3a3696ec78d7d8cf636df94",
+ "response": {
+  "claims": [
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M2",
+      "span": "expect over time will have a meaningful impact"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P1",
+    "quote": "“Investments in digitisation and automation have meaningfully lowered the unit cost for processes like striking a NAV (net asset value) and settling a trade, and our people are building innovative AI solutions that we expect over time will have a meaningful impact across the company,” said Vince.",
+    "subject": "vendor_operations",
+    "temporal": "planned"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "generic_ai_marketing",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M6",
+      "span": "AI for everyone, everywhere and for everything"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P3",
+    "quote": "BNY's response, he explained, has been to treat AI as a cultural imperative — “AI for everyone, everywhere and for everything.”",
+    "subject": "vendor_operations",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "unlock capacity using AI"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P4",
+    "quote": "“As we mature in our new commercial and platform models, unlock capacity using AI and in so doing, serve our clients in new and better ways, enabling the global financial markets and infrastructure of the future.”",
+    "subject": "vendor_operations",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "ai_governance",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M2",
+      "span": "may adversely impact"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P5",
+    "quote": "•the development and use of artificial intelligence, including digital employees and digital engineers, present risks and challenges that may adversely impact our business;",
+    "subject": "vendor_operations",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "ai_governance",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M2",
+      "span": "may materially adversely impact"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P7",
+    "quote": "•the development and use of artificial intelligence present risks and challenges that may materially adversely impact our business;",
+    "subject": "vendor_operations",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "agentic",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G1",
+      "span": "OpenAI"
+     },
+     {
+      "code": "G2",
+      "span": "Multi-agentic AI solutions"
+     },
+     {
+      "code": "G4",
+      "span": "Launched Eliza 2.0"
+     },
+     {
+      "code": "G2",
+      "span": "Deployed advanced monitoring, AI and machine learning in our Cyber, Technology and Operations Center for detection and rapid response"
+     }
+    ],
+    "named_providers": [
+     "OpenAI"
+    ],
+    "passage_id": "P8",
+    "quote": "3 • Creation of the “digital employee” – Multi-agentic AI solutions that operate alongside human colleagues • Launched Eliza 2.0, a more advanced, agentic experience • Entered into a multi-year collaboration with OpenAI • Deepened engagement with academia to drive research and innovation in AI • Further expanded Eliza's governance and control capabilities, including a single pane of glass for enterprise AI initiatives • Built foundation of secure, resilient and scalable infrastructure • Deployed advanced monitoring, AI and machine learning in our Cyber, Technology and Operations Center for detection and rapid response Evolution of AI at BNY With the creation of the BNY AI Hub in 2023, we",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "agentic",
+    "claim_kind": "offers_ai_feature",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G1",
+      "span": "Microsoft"
+     },
+     {
+      "code": "G1",
+      "span": "NVIDIA"
+     },
+     {
+      "code": "G4",
+      "span": "Launched Eliza, BNY’s AI platform"
+     },
+     {
+      "code": "G1",
+      "span": "OpenAI"
+     },
+     {
+      "code": "G1",
+      "span": "Google"
+     },
+     {
+      "code": "G1",
+      "span": "Anthropic"
+     }
+    ],
+    "named_providers": [
+     "Microsoft",
+     "NVIDIA",
+     "OpenAI",
+     "Google",
+     "Anthropic"
+    ],
+    "passage_id": "P10",
+    "quote": "• Expanded cloud and AI collaboration with Microsoft to scale generative AI • Built on-premise GPU infrastructure powered by NVIDIA SuperPODs to supplement our cloud solutions • Launched Eliza, BNY’s AI platform – A multi-agentic, general- intelligence-model- agnostic platform – Integrates models from e.g., OpenAI, Google, Anthropic • Published “Our Commitment to the Responsible,",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   }
+  ]
+ },
+ "role": "extract",
+ "schema_sha256": "f1cd07fdb8e496624608717927261043432a3bd93d84723a126b7c7d951d68df",
+ "seed": 1234
+}

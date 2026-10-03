@@ -1,0 +1,472 @@
+1
+From fragmented processes to a seamless 24/7 payments system
+MODERNIZING THE PAYMENTS 
+OPERATING MODEL
+
+Payments modernization today goes beyond upgrading rails: 
+it’s about redesigning the operating model for a continuous, 
+data-rich—and increasingly intelligent—rail-agnostic 
+payments environment. BNY’s Unified Payments Platform 
+reflects that shift, with a unified architecture built to simplify 
+cross-rail complexity, strengthen resilience and support 
+operational scale.
+EXECUTIVE SUMMARY
+Isabel Schmidt 
+Executive Platform Owner,  
+Payments Enablement Platform, BNY
+
+3
+Payments are entering a new operating environment 
+defined by 24/7/365 availability, real-time execution 
+and rising expectations for transparency, resilience 
+and automation. Modernization is no longer a narrow 
+technology initiative—it’s an enterprise-wide redesign 
+of infrastructure, workflows and the operating model 
+required to support them.
+Agility is a critical part of this change because 
+payments modernization is not unfolding as a 
+single, orderly wave. It is arriving in multiple 
+waves simultaneously—real-time payments, APIs, 
+tokenization, artificial intelligence (AI), richer data, 
+regulatory change and the coming of digital finance as 
+we explored in the Payments Without Pause e-book 
+earlier this year. Each of these waves is advancing at 
+a different pace and in a different direction across 
+markets, infrastructures and institutions. This is 
+fundamentally reshaping the payments ecosystem 
+in ways that create both possibilities and complexity. 
+Many banks are finding that their legacy architectures, 
+fragmented liquidity models, siloed controls and non-
+continuous operating environments were not designed 
+for this emerging world. 
+The financial-services industry is in the middle of 
+a profound period of change across the payments 
+ecosystem. Participants in this transformation 
+are moving at very different speeds. That makes it 
+important to meet clients where they are in their 
+journey and have a comprehensive modernization 
+strategy to make the process safe, resilient  
+and sustainable.
+The challenge for financial institutions is not simply to 
+adopt new technologies today, but to also be prepared 
+to adapt quickly to novel technologies in the future. 
+Modernization is about creating an operating model 
+that can absorb change, reduce friction and help firms 
+serve their clients with greater speed, transparency 
+and confidence. Payments modernization should be 
+approached not as a rail-by-rail upgrade program, 
+but as an enterprise-wide effort to build a more agile, 
+resilient and scalable operating model that is rail-
+agnostic. It needs to be able to operate effectively 
+and efficiently in a rapidly changing and highly 
+unpredictable financial ecosystem while providing the 
+levels of resiliency and performance expected from a 
+foundational economic service.
+BNY’s own journey reflects that shift. We have 
+approached modernization not as a series of 
+isolated upgrades, but as a deliberate move toward 
+a more unified, capability-based payments platform 
+designed for a 24/7/365, multi-rail world that will 
+continue to evolve. This paper explores that journey 
+and the development of a new payments platform 
+designed to support clients as they advance their own 
+modernization priorities.
+INTRODUCTION
+Payments modernization is shifting from rail upgrades to 
+operating model redesign
+
+4
+The payment rail landscape is growing more complex. Today there are nearly 100 real-time payment rails around 
+the globe, leading to multiple formats, standards, and country-specific requirements. Tokenized payments are 
+growing, and simultaneously traditional payments infrastructures are upgrading their own rails via the ISO 20022 
+standard and increasingly for 24/7/365, near-real-time performance.  
+At the same time, treasury teams need payment data integrated directly into enterprise resource planning (ERP) 
+software and treasury management systems (TMS) to enable automation. Non-payment specialists need to be 
+able to make payments by outcome goals—lowest fees, fastest rail, best FX rate. Transactions need to be trackable 
+and explainable. Sanctions compliance is growing more complex, while financial crimes are becoming more 
+sophisticated. In addition, both banks and corporates are anticipating the operational complexity that the 24/7/365 
+financial world on blockchain will create. 
+However, traditional rail architectures were created when there were far fewer payment options, manual processes 
+dominated, compliance rulebooks were slimmer, and there was significantly less need for speed. Each rail has its 
+own infrastructure, so that workflows, controls, data and investigations are usually distributed across multiple silos.  
+Over time, this layered complexity has become a structural constraint. It limits scalability, weakens resilience, 
+increases operational friction and makes it harder to support continuous processing or adopt new capabilities 
+efficiently. In addition, consumers and businesses no longer accept the inconsistent client experience across rails 
+that silos create. To improve the client experience, many organizations have added integration layers to mask 
+internal complexity. But this only creates another layer of complexity and fragility. It’s not a strategic fix—just a 
+temporary bandage.
+The industry’s complexity is not only technical. It’s economic and operational. Every additional rail, market 
+requirement, control layer or bespoke client workflow creates another marginal burden on architecture, operations 
+and change delivery. Over time that burden becomes a hidden tax on innovation, resilience and client experience. 
+What looks manageable in isolation becomes unsustainable in aggregate. That is why simplification matters: not as 
+an aesthetic preference, but as a prerequisite for adaptability, safety and speed. 
+BNY’s payments modernization program is rooted in a clear vision, which is to simplify the underlying architecture 
+to create an infrastructure that can overcome traditional boundaries between payment rails and provide an 
+open network environment which can plug into anything new that the industry can come up with—that is what 
+creates “optionality” for clients for the future and reduces long-term strategic risk. This approach also delivers true 
+integration—reducing complexity while increasing resilience—leading to a genuinely unified client experience. The 
+result is a complete re-imagining of what a payments platform can be.
+PAYMENT COMPLEXITY IS NO LONGER A  
+BY -PRODUCT —IT’S A STRATEGIC CONSTRAINT
+
+5
+BNY has moved from application-based infrastructure 
+to a Unified Payments Platform (UPP), a core payment 
+orchestration engine. Orchestration is what allows 
+the model to absorb external fragmentation without 
+reproducing that fragmentation internally. It creates 
+the flexibility to add new networks, support new 
+client operating models and connect to emerging 
+value ecosystems—without repeatedly rebuilding and 
+adjusting the core. Key principles of BNY’s  
+platform include:
+• Interoperability: Connects to multiple payment 
+rails and emerging digital cash ecosystems
+• 24/7 /365 processing and last-mile reach:  
+Supports continuous processing and effective 
+endpoint integration
+• Automation: Streamlines workflows across the 
+payment value chain, using design-led and AI-
+enabled tools
+• Modern architecture: Uses a cloud-ready, API-based 
+architecture, supported by a robust data ecosystem
+• Security , resilience and compliance: Builds in 
+cybersecurity, sanctions screening, verification and 
+operational resilience
+Instead of treating each payment rail as a separate 
+system, the platform uses a unified orchestration layer 
+with a consistent control framework, standardized data 
+handling  and a more coherent user experience across 
+payment types (Figure 1). This orchestration  
+layer supports:
+• Payment processing: Sends and receives money 
+across multiple channels through a unified 
+infrastructure that simplifies access
+• Liquidity management: Centrally manages funding 
+and liquidity positioning across highly distributed 
+market infrastructures, aligned to client flows and 
+bank treasury needs
+• Exception handling: Improves visibility into 
+payment status, alerts, inquiries and investigations to 
+resolve issues faster
+• Financial messaging and transformation: A single 
+integration layer for messaging and transformation 
+across market infrastructures, simplifying change 
+and connectivity
+• Sanctions screening: Performs this compliance 
+process centrally for all payments, with robust 
+monitoring, data standards and controls
+• Risk and data services: Validates counterparties and 
+payment instructions before execution and powers 
+AI-assisted anomaly and fraud detection 
+The UPP reduces strategic risk for our clients because 
+it is an infrastructure that totally simplifies the core. 
+Because the only complexity is the integration layer, 
+BNY can move as quickly as the world moves. It can 
+connect the digital and the fiat worlds. It enables us to 
+work with clients wherever they think they need to be.
+  
+ORCHESTRATION IS BECOMING  
+THE DEFINING LAYER IN MODERN PAYMENTS
+
+6
+UNIFIED PAYMENTS PLATFORM (UPP)
+UNIFIED ORCHESTRATION & CONTROL LAYER
+CONNECTS TO TRADITIONAL & EMERGING PAYMENTS ECOSYSTEMS
+WIRES / RTGS / ACH Instant payment schemes
+Correspondent networks Digital cash / tokenized value
+Payment 
+orchestration
+Liquidity
+management
+Exception
+handling
+Messaging &
+transformation
+Risk, sanctions 
+& data services
+DATA, INTELLIGENCE & AI FOUNDATION Standardized data  |  Observability  |  AI-enabled operations
+BUILT FOR 24/7 RESILIENCE Active design  |  Continuous deployment  |  Security and compliance
+ENTERPRISE PLATFORMS INTERNAL APPLICATIONSCLIENT CHANNELS
+From a siloed set of applications to a capability-based, open architecture that is rail-agnostic, BNY’s payments 
+platform simplifies the core of payments processing while connecting to a fragmented and fast-changing ecosystem.
+UNIFIED PAYMENTS PLATFORM
+Figure 1:
+
+7
+The shift to always-on payments is more than a technology upgrade; it is a broader redesign of how payments are 
+delivered, managed and scaled. For clients, this means always-on capabilities supported by controls, resilience, 
+and simplification at scale. Centralized, standardized data improves transparency and helps organizations manage 
+exceptions and operational risk in real time, while AI supports the scalability and responsiveness needed for a 
+seamless around-the-clock client experience. These three crucial aspects of the new operating model will be looked 
+at in the following sections. 
+A 24/7/365 operating model also requires BNY to think about traditional operations roles differently. Human roles 
+were previously narrow and specific to the processing requirements of a payment system, rail or situation. The 
+evolution of the payments ecosystem—including automation through AI-enabled digital employees—now requires 
+a human workforce with skills that are broader and deeper. This shift allows human teams to focus on higher-value 
+activities, including client collaboration, exception oversight, process improvement and market coordination. 
+Empowered by the UPP, BNY teams can deliver more informed support, faster issue resolution and stronger 
+collaboration with clients and market participants.
+This means that human teams must meld together the uniquely human capabilities of integrity, empathy, and 
+self-awareness, with deep AI and digital capabilities. For example, to help enrich our human employees, BNY 
+has implemented a world-class learning journey that covers a range of topics designed to equip them for new 
+challenges, including digital literacy and process re-engineering. With the deployment of AI agents, human 
+employees can grow beyond repetitive tasks into new roles that support clients and enable innovation at speed. 
+WHY AL WAYS-ON PAYMENTS DEMAND  
+A NEW OPERATING MODEL
+
+8
+BNY’s UPP was designed to improve transparency, support continuity under changing demand conditions and 
+simplify processing in a continuous, real-time environment. Reliability, resilience and simplification are embedded 
+architectural principles. 
+For example, a key dimension of reliability is being able to identify abnormal conditions in near real-time through 
+automated monitoring controls and respond in a coordinated way before issues accelerate in gravity. Through the 
+centralized, structured way the UPP manages payment transaction data, and its use of that data in advanced control 
+analytics, it can detect issues quickly and communicate them to operations team members—be they human or 
+digital—for rapid resolution.
+Resilience is the extent to which a payments platform can absorb stress without material interruption. The UPP 
+places an emphasis on scalable architecture, greater workload flexibility and higher-availability design, including 
+the use of cloud-based environments that can help accommodate transaction spikes or localized disruption. 
+Resilience in a 24/7/365 operating model also requires a different approach to software development and change 
+management. Operating 24/7/365 means that the downtime in which BNY used to deploy new software no longer 
+exists—so essentially, we need to rewire a building while there is still electricity flowing through it. We therefore have 
+adopted a range of new practices, including blue-green deployment.
+The simplification baked into the UPP is itself a resilience lever. For example, consolidating payment capabilities 
+into a unified orchestration layer reduces application sprawl, removes unnecessary interface hops and limits 
+the number of points at which data must be transformed or repaired. Standardized messaging, centralized data 
+and streamlined workflows also help enhance operational robustness. Taken together, these measures create an 
+operating model designed to make the UPP more transparent, scalable and manageable under both normal and 
+stressed conditions.
+HOW RELIABILITY , RESILIENCE, AND SIMPLIFICATION 
+ARE BUIL T INTO THE PLATFORM
+
+9
+In a modern payments operating model, transaction 
+data isn’t a by-product of execution; it’s a core 
+operational asset that underpins how banks manage 
+processing, liquidity, controls, exceptions and client 
+servicing. Data enables automation, feeds agentic 
+AI, and supports smart contracts on the blockchain. 
+Today’s real-time payment rails were built by fintechs 
+with this understanding about the importance of 
+data, and ISO 20022 reform is largely about providing 
+payment systems with necessary data in a  
+structured form. 
+The UPP creates a normalized, data-rich view of the 
+full transaction lifecycle across payment rails, channels 
+and processing stages—all in a centralized data mesh 
+that supports today’s and tomorrow’s use cases. BNY 
+applies three principles to this data:  
+• Domain Ownership: The business must interact 
+with data owned and "guaranteed" by the  
+domain experts 
+• Data-as-a-Product: Data must have a clean interface 
+and clear metadata  
+• Governance-by-Design: The "rules of engagement" 
+must be embedded in the data layer to support all 
+use cases, including AI
+By standardizing and enriching data across multiple 
+payment types and messaging formats, the platform 
+creates a consistent view of activity across the full 
+payment lifecycle—simplification at its best. 
+HOW PAYMENT DATA BECOMES OPERATIONAL 
+INTELLIGENCE IN A 24/7 ENVIRONMENT
+This improves transparency, interoperability and 
+control, while reducing the operational friction that 
+can arise in fragmented environments where data 
+models vary by scheme or system and sit in silos. 
+It strengthens the foundation for straight-through 
+processing, analytics, AI-driven decisioning and 
+24/7/365 operational scalability, allowing the bank to 
+manage payments with greater precision, resilience 
+and efficiency. The UPP, using the data mesh approach, 
+transforms payment data from a rail-specific residue 
+by-product into an enterprise data asset. 
+As a result, this rich data environment delivers 
+other benefits. The data supports benchmarking 
+capabilities, allowing organizations to measure their 
+own operational effectiveness and client service 
+strength. This is where modernization becomes more 
+than infrastructure renewal: the platform creates 
+intelligence as well as throughput. 
+Performance metrics can measure operations services 
+against contracted service levels, while quantitative  
+key performance indicators (KPIs) and key risk 
+indicators (KRIs) are also captured. Using this 
+data, organizations can work with BNY payments 
+operations experts to make it easier to manage volume, 
+complexity and change.
+By adopting the data mesh approach across the 
+payment lifecycle, the UPP delivers stronger 
+operational transparency, faster issue resolution and 
+more consistent service delivery—all of which can scale 
+in a 24/7/365, real-time payments environment.
+
+10
+The payments industry is beginning to recognize 
+that agentic AI is a critical enabler of the 24/7/365 
+operating model. According to a recent poll of 
+attendees at a BNY webinar, Payments without Pause: 
+The Journey to 24/7/365, 46% of respondents said that 
+AI and automation will have the greatest impact on 
+their treasury operations over the next three years. 
+As payments move toward continuous processing, 
+operations teams need more than automation 
+of isolated tasks—they need intelligent, governed 
+capabilities that can act, decide and coordinate across 
+workflows at scale. 
+At BNY, an operations digital employee is an agentic 
+AI agent with a persistent identity, the ability to 
+interact with enterprise applications, and access to 
+communication channels such as email and chat. 
+Each is designed with deep domain expertise in a 
+specific area, such as payments or reconciliations, and 
+operates within a governed mesh of agents, either 
+autonomously or with human oversight. 
+One area where digital employees have contributed a 
+material benefit to payment processing is in the area 
+of sanctions screening. Today, 42% of previous manual 
+touchpoints are handled by AI, with human-in-the-
+loop oversight. These digital employees apply agentic 
+AI to triage flagged transactions, classify and explain 
+false positives, and capture a clear rationale for each 
+disposition. Nearly 100% of Level One turnaround 
+times are under one hour, compared with 50% in 2025, 
+while compliance accuracy has been maintained. 
+At the technology layer, decision reapplication 
+automatically recognizes recurring, low-risk 
+transactions and reapplies prior clearance decisions, 
+removing a large share of repetitive domestic and 
+recurring payment alerts from the manual queue. 
+Additional technology and operations adjustments, as 
+well as disciplined queue management, have allowed 
+us to scale screening through peak volumes, accelerate 
+straight-through processing, and deliver a faster, lower- 
+friction client experience without compromising 
+sanctions compliance. 
+There are other benefits to agentic AI, too. These  
+digital employees are freeing up time for human 
+employees to spend working with clients, helping them 
+address process inefficiencies, grow their offerings, 
+and evolve their own payments modernization 
+programs. The data that digital employees create also 
+enables banks to create stronger digital auditability, 
+improve decision explainability, and support greater 
+operational transparency.
+Ultimately, agentic AI is not a stand-alone automation 
+layer, but a core enabling capability within the broader 
+transition to a 24/7/365 payments operating model. 
+AI-driven digital employees in payment workflows 
+can translate into faster resolution cycles, improved 
+processing integrity, greater transparency and 
+more reliable service across increasingly complex 
+payment environments. Just as importantly, by 
+absorbing repetitive and rules-intensive tasks, AI 
+allows operations teams to focus more of their time 
+deepening client relationships, addressing more 
+complex issues and working collaboratively to  
+move into the future. In that sense, agentic AI  
+supports not only operational scale and control, 
+but also more informed, proactive and partnership-
+oriented relationships. 
+AI WILL MATTER MOST AS AN OPERATING 
+CAPABILITY , NOT SIMPL Y A PRODUCTIVITY LAYER
+of respondents said AI and 
+automation will have the biggest 
+impact on treasury operations in 
+the next three years.
+46%
+said legacy technology 
+was the biggest barrier to 
+24/7 /365 payments.44%
+
+11
+Technology remains a primary challenge for financial institutions in their modernization journey. In the same 
+webinar poll, attendees were asked what they thought the single biggest barrier their organization faced in moving 
+to a 24/7/365 model. Technology infrastructure and legacy systems was the top answer, at 44%. While technology is 
+important, this paper demonstrates how payments modernization is an operating model question—one that touches 
+workflow design, human employee skills, resilience, data, the application of agentic AI, and above all, the acquisition 
+and application of intelligence for innovation. As banks assess how to prepare for a 24/7/365 environment, the 
+following questions can help frame where change may be most needed:
+As the 24/7/365, real-time payments ecosystem emerges, banks will have to make decisions about how to best 
+reshape their own operating model for the future. BNY’s deep expertise is available to inform and support the 
+choices operations teams have to make as they seek to create the best payments experience for their own clients, 
+now and in the future.
+KEY QUESTIONS FOR YOUR PAYMENTS MODERNIZATION
+Are we modernizing payments as a series of point solutions in silos, or as an enterprise-wide 
+transformation of infrastructure and operating model?
+Can our current platform connect easily to new payment rails, digital cash models and emerging 
+service ecosystems without significant rework?
+How resilient is our current operating environment when transaction volumes rise, a payment rail 
+experiences disruption, or an exception occurs outside traditional business hours?
+Are our software delivery and platform engineering practices mature enough to support continuous 
+change in a 24/7/365 operating environment?
+Is our payments data structured, standardized and accessible enough to support transparency, 
+analytics, forecasting and better decision-making?
+Are we treating AI as an isolated productivity tool, or as a governed operating capability within the 
+broader payments transformation agenda?
+Are we capturing the right operational KPIs and KRIs to understand the true client experience? How 
+could measurement of client experience be embedded by design?
+Do we have a plan or program in place to support our people in adapting to the coming changes in our 
+operating model and the world of 24/7/365 real-time payments?
+Where could AI or digital employees most effectively reduce repetitive work in areas such as repair, 
+investigation, validation, screening or reporting?
+To what extent does structural complexity in our payments environment limit our ability to scale, 
+innovate and respond to market change?
+01
+03
+05
+07
+09
+02
+04
+06
+08
+10
+
+12
+One of the clearest realities of the next phase 
+of modernization is coexistence. Payments 
+modernization is therefore no longer just a technology 
+upgrade; it is an operating model imperative to 
+successfully compete in a continuous, more complex, 
+data-rich payments environment shaped by higher 
+expectations for transparency, resilience and control.
+As payment rails, formats and ecosystems evolve, 
+the organizations best positioned for what comes 
+next will be those that reduce complexity at the 
+core. That means moving beyond fragmented, rail-
+specific architectures toward platforms that support 
+interoperability, standardized data, consistent controls 
+and scalable exception management across the 
+payment lifecycle.
+Modernization is also about more than speed. It is 
+about building the capacity to adapt: to absorb new 
+rails and digital cash models, manage risk in real time, 
+deploy change safely in a 24/7/365 environment and 
+use data and AI more effectively across operations. In 
+that context, resilience, intelligence and simplification 
+are essential design principles.
+The strategic question is not whether change is 
+coming, but how to prepare for it in a way that 
+improves both operational performance and client 
+outcomes. Those that modernize with agility, 
+interoperability and control in mind will be better 
+equipped to respond to market changes, support 
+clients and operate with confidence in an always-on 
+payments landscape.
+THE ORGANIZATIONS BEST POSITIONED FOR  
+WHAT COMES NEXT WILL BE THOSE THAT  
+SIMPLIFY , ORCHESTRATE AND ADAPT
+
+BNY is the corporate brand of The Bank of New York Mellon Corporation and may be used to reference the corporation as a whole and/or its various subsidiaries generally. This material 
+and any products and services mentioned may be issued or provided in various countries by duly authorized and regulated subsidiaries, affiliates, and joint ventures of BNY . This material 
+does not constitute a recommendation by BNY of any kind. The information herein is not intended to provide tax, legal, investment, accounting, financial or other professional advice 
+on any matter, and should not be used or relied upon as such. The views expressed within this material are those of the contributors and not necessarily those of BNY . BNY has not 
+independently verified the information contained in this material and makes no representation as to the accuracy, completeness, timeliness, merchantability or fitness for a specific 
+purpose of the information provided in this material. BNY assumes no direct or consequential liability for any errors in or reliance upon this material.
+This material may not be reproduced or disseminated in any form without the express prior written permission of BNY . BNY will not be responsible for updating any information 
+contained within this material and opinions and information contained herein are subject to change without notice. Trademarks, service marks, logos and other intellectual property 
+marks belong to their respective owners.
+Digital assets are not insured by the FDIC, are not deposits and may lose value.
+© 2026 BNY . All rights reserved. Member FDIC.

@@ -1,0 +1,23 @@
+Topic: 
+                
+            
+            
+            Type: 
+                ACH, Audit & Compliance
+            
+        
+                                
+             Member Fee: 
+                 $0
+            
+            
+            Non-Member Fee: 
+                $150
+            
+            
+            
+                
+            
+        
+        
+            This sample policy separates out different aspects of ACH so that your financial institution can build out a comprehensive ACH policy. This template document includes sections for Receipt of ACH Transactions, Origination of ACH Transactions, and On-going ACH Education and Training.

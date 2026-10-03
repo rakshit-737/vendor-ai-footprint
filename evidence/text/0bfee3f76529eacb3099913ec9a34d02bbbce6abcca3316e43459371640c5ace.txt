@@ -1,0 +1,187 @@
+Cloud Database Administrator (DBA) Engineer
+
+Position Summary: The Cloud Database Administrator Engineer is responsible for the architecture, engineering, automation, security, availability, and operational support of The Clearing House's enterprise database platforms across on-premises and cloud environments. This role serves as a senior technical leader responsible for Db2 LUW, Microsoft SQL Server, AWS database services, and database platform modernization initiatives.
+
+The engineer will design and implement highly available, secure, automated, and scalable database solutions supporting mission-critical payment systems and corporate applications. This position requires deep expertise in database engineering, cloud infrastructure, Infrastructure as Code (IaC), automation, disaster recovery planning, and enterprise-scale database migrations.
+
+About The Clearing House: The Clearing House (TCH) is a banking association and payments company that is owned by the largest commercial banks in the United States. TCH owns and operates the core payments system infrastructure in the US and is currently working to modernize that infrastructure by launching a new, ubiquitous, real-time payment system. TCH is the only private-sector ACH and wire operator in the US, clearing and settling nearly $2 trillion in US dollar payments each day, representing half of all commercial ACH and wire volume. TCH has provided critical services to the banking industry since 1853, and today, our core products facilitate services including Direct Deposit of payroll, bill payments, and check image exchange.
+
+Qualifications Required:
+
+Bachelor's degree in Computer Science, Information Systems, Engineering, or equivalent experience.
+
+10+ years of enterprise database administration and engineering experience.
+
+Expert-level experience administering Db2 LUW 11.5+ in Linux environments.
+
+Expert-level experience administering Microsoft SQL Server 2019+.
+
+Extensive experience with Db2 HADR, Pacemaker clustering, and Q Replication.
+
+Extensive experience with SQL Server Always On Availability Groups and related HA technologies.
+
+Proven experience designing and supporting cloud database platforms within AWS.
+
+Strong experience with AWS RDS, EC2, VPC, IAM, CloudWatch, KMS, and AWS Backup.
+
+Expertise with Infrastructure as Code using Terraform.
+
+Strong scripting experience using Python, PowerShell, Bash, or similar languages.
+
+Experience leading large-scale database migration and modernization initiatives.
+
+Strong understanding of database performance tuning and capacity management.
+
+Experience supporting mission-critical production systems with stringent availability requirements.
+
+Qualifications desired:
+
+Master's Degree in Computer Science, Engineering, or related field.
+
+AWS Certified Database Specialty.
+
+AWS Solutions Architect Professional.
+
+Microsoft Certified: Azure Database Administrator Associate.
+
+IBM Db2 Professional Certification.
+
+Experience with PostgreSQL and cloud-native PostgreSQL services.
+
+Experience with Dell EMC Data Domain and PowerProtect Data Manager.
+
+Experience with Kubernetes and containerized database workloads.
+
+Familiarity with observability platforms including Prometheus, Grafana, Splunk, and Datadog.
+
+Experience working within highly regulated financial services environments.
+
+Essential Functions and Responsibilities:
+
+Database Platform Engineering
+
+Architect, deploy, administer, and optimize enterprise Db2 LUW and Microsoft SQL Server environments.
+
+Manage database lifecycle activities including installation, upgrades, patching, performance tuning, capacity planning, backup and recovery, and security administration.
+
+Ensure database platforms meet enterprise standards for availability, performance, scalability, and compliance.
+
+Design and maintain database operational standards, procedures, and governance frameworks.
+
+Cloud Database Engineering
+
+Design, deploy, and administer cloud-native database services within AWS and Azure environments.
+
+Engineer resilient and scalable database solutions utilizing AWS RDS, EC2-hosted databases, EBS storage, AWS Backup, CloudWatch, and related cloud services.
+
+Develop cloud migration strategies for enterprise database workloads using replication-based migration methodologies and minimal downtime approaches.
+
+Optimize cloud database performance, resiliency, and cost efficiency.
+
+High Availability & Disaster Recovery
+
+Design, implement, and maintain enterprise HA/DR solutions including:
+
+Db2 LUW
+
+HADR (High Availability Disaster Recovery)
+
+Pacemaker Cluster Manager
+
+Q Replication (Uni-Directional and Bi-Directional)
+
+Near-Zero Downtime maintenance solutions
+
+Cross-site failover architectures
+
+SQL Server
+
+Always On Availability Groups
+
+Distributed Availability Groups
+
+Failover Cluster Instances (FCI)
+
+Log Shipping
+
+Transactional Replication
+
+Cloud HA/DR Patterns
+
+AWS RDS Multi-AZ deployments
+
+Cross-Region Disaster Recovery
+
+Pilot Light architectures
+
+Warm Standby architectures
+
+Active/Passive and Active/Active recovery strategies
+
+Automated failover and recovery orchestration
+
+Define and validate Recovery Time Objectives (RTO) and Recovery Point Objectives (RPO).
+
+Lead disaster recovery testing, failover exercises, and business continuity planning.
+
+Infrastructure as Code & Automation
+
+Develop Infrastructure as Code solutions using Terraform.
+
+Automate database provisioning, configuration, patching, monitoring, backup validation, and recovery processes.
+
+Utilize Ansible, Puppet, Python, PowerShell, and Shell scripting to improve operational efficiency.
+
+Integrate database deployments into CI/CD pipelines and DevOps workflows.
+
+Champion GitOps and automation-first operational models.
+
+Security & Compliance
+
+Implement database security controls aligned with financial industry regulations and corporate standards.
+
+Configure encryption at rest and in transit.
+
+Implement least-privilege access models and database auditing solutions.
+
+Support compliance requirements including PCI-DSS, FFIEC, SOC, and NIST frameworks.
+
+Participate in security assessments, audits, and vulnerability remediation efforts.
+
+Technical Leadership
+
+Serve as senior technical advisor and subject matter expert for database technologies.
+
+Mentor junior engineers and database administrators.
+
+Lead architecture reviews, technology evaluations, and modernization initiatives.
+
+Act as escalation point for complex database incidents and enterprise projects.
+
+Communicate technical strategies and recommendations to executive leadership and governance committees.
+
+Success factors/job competencies:
+
+Database Engineering
+
+Cloud Architecture
+
+High Availability & Disaster Recovery
+
+Infrastructure as Code
+
+DevOps & Automation
+
+Security & Compliance
+
+Performance Engineering
+
+Technical Leadership
+
+Enterprise Architecture
+
+Business Continuity Planning
+
+Physical demands and work environment: Work is generally sedentary in nature. The working environment is generally favorable. Lighting and temperature are adequate, and there are no hazardous or unpleasant conditions caused by noise, dust, etc. Work is generally performed within an office environment, with standard office equipment available.
+
+Employees in this position will report to the office 3 days per week. Onsite work requirements may change at any time.

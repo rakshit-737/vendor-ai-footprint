@@ -1,0 +1,44 @@
+Type: 
+            
+                On Demand
+            
+            
+            Duration: 
+            
+                65 Minutes
+            
+            
+            
+                Date & Time: 
+                
+                
+            
+            
+            
+            
+            
+        
+            
+            Member Fee: 
+            
+                $0
+            
+            
+            Non-Member Fee: 
+            
+                $349
+            
+            
+            
+            
+                
+            
+            
+            Audience: 
+            
+                ACH Personnel, Payments Personnel, Senior Payments Personnel, Audit, AAPs, Operations, Compliance, General ACH, Risk
+            
+            
+        
+        
+            Financial institutions are required to conduct an ACH Risk Assessment and incorporate it into their enterprise-wide risk management program. This session will help RDFIs and ODFIs determine the framework for assessing ACH activity and risks associated with the ACH payment system.

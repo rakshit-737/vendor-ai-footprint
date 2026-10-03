@@ -1,0 +1,57 @@
+Type: 
+            
+                Webinar
+            
+            
+            Duration: 
+            
+                90 Minutes
+            
+            
+            
+                Date & Time: 
+                
+                
+            
+            
+            
+            
+            
+        
+            
+            Member Fee: 
+            
+                $179 Per Line
+            
+            
+            Non-Member Fee: 
+            
+                $279 Per Line
+            
+            
+            
+            
+                
+            
+            
+            Audience: 
+            
+                AAP Candidates, AAPs, ACH Personnel, APRPs, Audit, BSA Investigators_Analysts, BSA Officers, Compliance, General ACH, IT Personnel, Operations, Payments Personnel, Retail/Frontline, Risk, Risk Managers, Senior Payments Personnel
+            
+            
+        
+        
+            Because of a recently approved amendment to the Nacha Operating Rules, financial institutions (FIs) will soon have the ability to differentiate between Unauthorized Return Reasons for consumer debits. With more granular and precise reasons for returns, ODFIs and their Originators will have better information when a customer claims an error occurred with an authorized payment or there was no authorization for payment. 
+R11 returns share some of the same requirements and characteristics of R10 but there are key differentiating factors all parties need to be aware of before the Rules go into effect. Attend this important webinar to hear a thorough explanation of these changes and what your FI needs to do to prepare for April 2020 to avoid being in violation of these new Rules. 
+Gain Insight & Understanding
+• Two phases of implementation – Effective April 1, 2020 & April 1, 2021
+• Return Reason Code R10 definition and uses
+• Return Reason Code R11 definition and uses
+• How to avoid taking more significant action regarding these claims
+• How to work with your core processor to ensure your system is prepared to accommodate the new Return Reason Code
+• The requirements for educating clients and front line staff on how to apply the correct reason for return
+• The expected benefits and potential impacts of the Rule change
+Speakers:
+Amy K. Morris | Senior Director, ACH Network Rules, Nacha
+Sandy Ortins, AAP, APRP, NCP | Vice President, Education, NEACH
+Wendy A. Radford, AAP | Product Development Liaison, Federal Reserve Bank of Atlanta

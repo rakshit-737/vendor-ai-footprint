@@ -1,0 +1,65 @@
+Senior Technology Architect - Hybrid Infrastructure & Cloud
+
+Position Summary: The Senior Technology Architect will provide technical and architectural leadership across a complex enterprise environment spanning on-premises infrastructure and AWS cloud services. The role will define technology direction, evaluate solutions, guide modernization and cloud adoption, and ensure architectures meet requirements for security, resiliency, scalability, performance, and operational supportability. Preference will be given to candidates with experience in the financial services sector.
+
+Key Functions and Responsibilities:
+
+Define current-state, target-state, and transition architectures for enterprise infrastructure and platforms.
+
+Lead architecture reviews for new solutions, infrastructure changes, modernization initiatives, and cloud migrations.
+
+Develop technology standards, reference architectures, roadmaps, and architecture decision records.
+
+Design and review hybrid architectures integrating on-premises environments with AWS.
+
+Provide architectural guidance across (list is not exhaustive):
+
+RHEL, Windows Server
+
+IBM DB2, Microsoft SQL Server
+
+IBM MQ and enterprise integration
+
+WAN, LAN, DNS, routing, firewalls, load balancing, and network security
+
+Infrastructure security, identity, monitoring, backup, and disaster recovery
+
+Evaluate technology alternatives and provide recommendations based on risk, security, resiliency, performance, cost, and maintainability.
+
+Identify technical debt, lifecycle risks, single points of failure, and opportunities for modernization and simplification.
+
+Partner with application, infrastructure, cloud, cybersecurity, networking, database, middleware, and operations teams to deliver end-to-end solutions.
+
+Communicate complex technical concepts and recommendations to both technical teams and senior leadership.
+
+Qualifications Required:
+
+Bachelor's degree in Computer Science, Information Technology, Engineering, or equivalent experience.
+
+10+ years of enterprise technology experience, including significant architecture or technical leadership experience.
+
+Strong experience designing hybrid on-premises and AWS environments
+
+Strong knowledge of AWS, RHEL, Windows Server, DB2, SQL Server, IBM MQ, networking, and enterprise security.
+
+Experience with high availability, disaster recovery, security architecture, and technology modernization.
+
+Strong systems-thinking, problem-solving, communication, and stakeholder-management skills.
+
+Ability to develop architecture diagrams, technical standards, roadmaps, and executive-level recommendations.
+
+Qualifications Desired:
+
+AWS Solutions Architect or equivalent certification.
+
+Prior software development experience, including familiarity with the full systems development lifecycle (SDLC).
+
+Experience with Terraform, CloudFormation, Ansible, Kubernetes/OpenShift, or similar technologies.
+
+Experience with cloud governance, observability, FinOps, or enterprise cloud landing zones.
+
+Experience leading large-scale cloud migration or infrastructure modernization programs.
+
+Physical Demands and Work Environment: The working environment is generally favorable. Lighting and temperature are adequate, and there are no hazardous or unpleasant conditions caused by noise, dust, etc. Work is generally performed within an office environment, with standard office equipment available. Travel may be required. Candidates will report to the office three days each week. Onsite work requirements may change at any time.
+
+About The Clearing House: The Clearing House Payments Company L.L.C. is a bank-owned industry utility that shapes the payments landscape and provides infrastructure for safe, reliable, and efficient payments. We see an economy where everyone is connected and a future where modern payments make life easier. The Clearing House operates four payment systems: a high-value wire-transfer system (the CHIPS® network), the country’s first and largest instant payments system (the RTP® network), an automated clearinghouse network (the EPN® network), and a check image exchange network (the Image Exchange Network). TCH also operates a bank account number tokenization service, runs a payments association known as the TCH Payments Authority, and maintains the rules for private-sector check image exchange through its ECCHO® business line.

@@ -1,0 +1,49 @@
+What We Offer keyboard_arrow_down Securities Services arrow_forward Fund & Investor Solutions Custody Managed Account Solutions Integrated Middle Office Solutions Global Clearing Issuer Services arrow_forward Conventional Trust Structured Debt Depositary Receipts Liquidity, Financing & Collateral arrow_forward Liquidity & Financing Credit & Lending Global Collateral Global Payments & Trade arrow_forward Payments Cash Management Trade Finance Markets Execution Services arrow_forward FX Fixed Income Equities Buy-Side Trading Solutions Investments arrow_forward Wealth arrow_forward BNY Pershing/Wealth Services arrow_forward Data & Analytics arrow_forward Digital Assets arrow_forward
+
+Who We Serve keyboard_arrow_down Alternative Asset Managers Investment Managers Asset Owners Insurance Companies Banks Broker-Dealers Corporations Wealth Intermediaries Individuals, Families & Family Offices
+
+Insights keyboard_arrow_down BNY Institute arrow_forward All Insights arrow_forward BNY Institute At the Table with BNY Experts: Summer Edition Read more arrow_forward BNY Wealth Structuring the Sale: Insights for Private Business Owners Read more arrow_forward
+
+About Us keyboard_arrow_down About BNY arrow_forward Leadership Office Locations Sustainability Technology & Innovation Thrive Together Newsroom arrow_forward Trust Center arrow_forward Careers arrow_forward Search BNY Jobs Early Career Opportunities Experienced Professionals
+
+Investor Relations keyboard_arrow_right Overview Press Releases Quarterly Earnings Events & Presentations Annual Reports & Proxy Statements SEC Filings & Other Disclosures Shareholder Services Fixed Income Corporate Governance Contact JULY 2026 BNY Reports Second Quarter 2026 Results Learn more arrow_forward FEBRUARY 2026 Annual Report 2025: Built for Opportunity Learn more arrow_forward
+
+Investor Relations Overview Press Releases Quarterly Earnings Events & Presentations Annual Reports & Proxy Statements SEC Filings & Other Disclosures Shareholder Services Fixed Income Corporate Governance Contact JULY 2026 BNY Reports Second Quarter 2026 Results Learn more arrow_forward FEBRUARY 2026 Annual Report 2025: Built for Opportunity Learn more arrow_forward
+
+Client Access
+
+SUGGESTED RESULTS
+
+Search Results
+
+BNY Mellon Treasury Services' Digital Strategy Addresses the Evolving Needs of Clients and Offers a Road-Map for Their Future Success
+
+NEW YORK
+
+BNY Mellon's Paul Camp Cites Innovation, Digitization and Automation as the Key Elements of Delivering a Better Customer Experience
+
+NEW YORK, Oct. 6, 2020 /PRNewswire/ -- BNY Mellon's digital strategy continues to reshape the Treasury Services industry through the development of its growing suite of solutions and services, to support its clients' evolving needs. Innovation is taking place across all areas of its Treasury business—in payments, liquidity and trade finance solutions—with an emphasis on making digital solutions easier to access than ever before. The investment BNY Mellon has made in digital Treasury solutions has proven to be both necessary as well as timely, with COVID-19 highlighting how digital solutions can mitigate the disruption of traditional paper-based processes.
+
+"A core part of our strategy is to focus on clients and market-driven innovation, offering new, enhanced solutions and helping to drive the direction of digital transformation within the industry," said Saket Sharma, Chief Digital and Information Officer BNY Mellon Treasury Services. "We continue to invest in both traditional and digital services to provide holistic solutions that fit into our clients' business models and enable clients to progress their digital journeys. Through our highly resilient, open framework API's and microservices architecture, our goal is to help accelerate clients' journeys towards adopting digital payment services. This comes at a time when the deployment of digital solutions has never been more crucial."
+
+"Our unwavering commitment to delivering digital capabilities – through our innovative platforms as well as leveraging the benefits of our open ecosystem– has allowed us to lead the way in expediting our clients' digital transformation journey," said Paul Camp, CEO of BNY Mellon Treasury Services. "As we traverse the complex, fast-moving digital landscape, BNY Mellon Treasury Services is committed to delivering the best solutions for our clients and driving the industry forward, while remaining a stable and sustainable provider, partner and counterparty."
+
+BNY Mellon has cemented its position as a market leading provider of immediate payment services through multiple collaborations with SWIFT global payment initiative (gpi) – as the first U.S. bank to offer gpi's Case Resolution Service, and introducing SWIFT gpi's Payment Tracking and Payment Notification services. BNY Mellon continues to chart the course with new SWIFT gpi pilots and services for clients. BNY Mellon actively supports our clients in their paper to electronic payment journey leveraging tokenized payments® through the Zelle® network, which is helping clients to confidently migrate away from printing, issuing and mailing checks for B2C and B2B disbursements, in addition to being the first ever bank to offer a RTP Bill Pay solution in the US, which allows participating businesses to instantly present invoices.
+
+BNY Mellon has also placed a heavy emphasis on improving security within payments, launching its Account Validation Services (AVS) solution. This collaboration with risk and payments solution provider Early Warning enables real-time pre-validation of the status and ownership of an account prior to a payment being sent. BNY Mellon's investments into third-party networks, such as Paymode-X® and Zelle®, are ensuring that payments are properly validated and authenticated at every stage of the payment chain, which can help to reduce the risk of fraud.
+
+BNY Mellon continues to enhance its already comprehensive set of liquidity solutions. This year has seen the initial stages of enhanced liquidity features that allow greater access of its services across all lines of business— enabling pooling, optimization, and concentration across all branches and accounts. Going forward, BNY Mellon will continue down this road of enhancement and digitization, enabling clients to optimize the value of their liquidity including providing client insight data enhancements.
+
+Amid headwinds for global trade, BNY Mellon is leveraging a host of innovative solutions and networks to improve efficiencies and streamline trade transactions. It is applying optical character recognition (OCR) technology to digitally convert print to machine-encoded text, and Natural Language Processing (NLP) technologies to automate manual processes for trade collection services and trade document discrepancy reviews. It is also deploying a custom-built compliance API, which will allow compliance reviews to be completed leveraging machine learning. In addition, e-signature technology is being implemented to replace paper documents and "wet ink" signatures, and the firm is also exploring offering FileAct adapter for corresponding trade documents to transfer files and information electronically instead of exchanging traditional paper documents. BNY Mellon will soon offer the next generation of its open-source private-label platform, Angular 6, featuring greater efficiency, flexibility and security, and has recently joined the Marco Polo network with the aim of increasing the efficiency of international trade.
+
+BNY Mellon is also applying the latest technology innovations as it continues to enhance its offerings, modernizing systems and infrastructure to further support client needs for multi-channel, real-time, automated solutions. This includes utilizing AI and APIs to embed payment, liquidity and trade services within its clients' business applications.
+
+About BNY Mellon
+
+BNY Mellon is a global investments company dedicated to helping its clients manage and service their financial assets throughout the investment lifecycle. Whether providing financial services for institutions, corporations or individual investors, BNY Mellon delivers informed investment and wealth management and investment services in 35 countries. As of June 30, 2020, BNY Mellon had $37.3 trillion in assets under custody and/or administration, and $2.0 trillion in assets under management. BNY Mellon can act as a single point of contact for clients looking to create, trade, hold, manage, service, distribute or restructure investments. BNY Mellon is the corporate brand of The Bank of New York Mellon Corporation (NYSE: BK). Additional information is available on www.bnymellon.com. Follow us on Twitter @BNYMellon or visit our newsroom at www.bnymellon.com/newsroom for the latest company news.
+
+For media inquiries, please send an email to Media Inquiries or view our Media Resources.
+
+BNY is the corporate brand of The Bank of New York Mellon Corporation and may be used to reference the corporation as a whole or its various subsidiaries generally. BNY.com provides information about services provided by BNY and its affiliates. Not all accounts, products, and services are available in all jurisdictions or to all customers. ©2026 BNY.
+
+Visit our websites around the world.

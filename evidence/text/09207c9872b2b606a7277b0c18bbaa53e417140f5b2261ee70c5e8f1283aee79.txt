@@ -1,0 +1,25 @@
+Topic: 
+                Third-Party Sender / Originator Sample ACH Agreement
+            
+            
+            Type: 
+                Audit
+            
+        
+                                
+             Member Fee: 
+                 $65
+            
+            
+            Non-Member Fee: 
+                $130
+            
+            
+            
+                
+            
+        
+        
+            This sample agreement is to be executed between the Third-Party Sender and the Originator, as required by the ACH Rules. This template can be customized by each Third-Party Sender to addresses the specific types of ACH transactions approved for each Originator. The template includes the required risk requirements, UCC 4A notice, data security and additional inclusions as outlined in the ACH Rules. The template also includes sample exhibit templates (i.e., Originator approval form, security procedure template, processing schedule and fee scheduling template that can be customized for your financial institution. No form of this agreement should be used without the advice and counsel of your attorney.
+This sample document is intended for use by the purchaser only and is not to be shared with others outside of your organization.
+Order Fulfillment:  This item will be delivered via email attachment, typically within 2-3 hours of order receipt (during normal business hours).

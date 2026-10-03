@@ -1,0 +1,304 @@
+{
+ "key": "f8a0d43b8f71648f88c7853a632aec58c2ff019cfa6f27152ee1ab16e67331eb",
+ "model": "gemini-3.5-flash-lite",
+ "payload_sha256": "441172b62fa724e807607a55195d3cce593128ca25e8753d9c78a6e319c28ca1",
+ "prompt_sha256": "065bd458ace52ff274c72967cfe1b90c794a1ec8d3a3696ec78d7d8cf636df94",
+ "response": {
+  "claims": [
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M1",
+      "span": "AI"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P1",
+    "quote": "We are modernizing our technology infrastructure, enhancing resiliency, and reengineering our operating model through AI and advanced automation.",
+    "subject": "vendor_operations",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "ai_partnership",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G1",
+      "span": "Microsoft"
+     },
+     {
+      "code": "M2",
+      "span": "Will Work Together"
+     }
+    ],
+    "named_providers": [
+     "Microsoft"
+    ],
+    "passage_id": "P2",
+    "quote": "Fiserv Collaborates With Microsoft To Accelerate AI-Driven Innovation - The Two Firms Will Work Together To Embed AI Into Fiserv Platforms, Equipping Its Global Workforce With Advanced Tools And Driving Intelligent Capabilities To Deliver Greater Value To Fiserv Clients",
+    "subject": "vendor_product",
+    "temporal": "planned"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "ai_partnership",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G1",
+      "span": "Microsoft"
+     },
+     {
+      "code": "M2",
+      "span": "announced a strategic collaboration"
+     }
+    ],
+    "named_providers": [
+     "Microsoft"
+    ],
+    "passage_id": "P3",
+    "quote": "Fiserv, Inc. (NASDAQ: FISV), a leading global provider of payments and financial services technology, today announced a strategic collaboration with Microsoft to accelerate innovation by further embedding AI into Fiserv development platforms and empowering its global workforce with AI.",
+    "subject": "vendor_product",
+    "temporal": "planned"
+   },
+   {
+    "action_level": "advisory",
+    "ai_type": "genai_llm",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G1",
+      "span": "Microsoft 365 Copilot"
+     },
+     {
+      "code": "M2",
+      "span": "will deploy"
+     }
+    ],
+    "named_providers": [
+     "Microsoft 365 Copilot"
+    ],
+    "passage_id": "P3",
+    "quote": "Fiserv will deploy Microsoft 365 Copilot across its global workforce, equipping employees with access to advanced AI tools that enhance productivity, accelerate decision-making, and elevate the quality of work.",
+    "subject": "vendor_staff_tools",
+    "temporal": "planned"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "ai_partnership",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G1",
+      "span": "Microsoft"
+     },
+     {
+      "code": "G1",
+      "span": "Microsoft Foundry"
+     },
+     {
+      "code": "G1",
+      "span": "Azure"
+     }
+    ],
+    "named_providers": [
+     "Microsoft",
+     "Microsoft Foundry",
+     "Azure"
+    ],
+    "passage_id": "P4",
+    "quote": "In parallel, Fiserv is working with Microsoft to expand its use of Microsoft Foundry, an Azure-powered AI platform designed to build, customize, deploy, and manage AI applications safely and securely.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "genai_llm",
+    "claim_kind": "ai_partnership",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G1",
+      "span": "Microsoft"
+     },
+     {
+      "code": "M1",
+      "span": "generative AI"
+     }
+    ],
+    "named_providers": [
+     "Microsoft"
+    ],
+    "passage_id": "P6",
+    "quote": "“Together with Fiserv, we’re bringing the power of generative AI to transform how financial technology is built and delivered,” said Karen Del Vescovo, Corporate Vice President, Financial Services, Microsoft.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "genai_llm",
+    "claim_kind": "ai_partnership",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G1",
+      "span": "Microsoft"
+     },
+     {
+      "code": "G1",
+      "span": "Microsoft Foundry"
+     },
+     {
+      "code": "G1",
+      "span": "GitHub Copilot"
+     }
+    ],
+    "named_providers": [
+     "Microsoft",
+     "Microsoft Foundry",
+     "GitHub Copilot"
+    ],
+    "passage_id": "P7",
+    "quote": "This expanded relationship with Microsoft builds on Fiserv’s existing use of Microsoft Foundry and deployment of Microsoft’s GitHub Copilot.",
+    "subject": "vendor_staff_tools",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G1",
+      "span": "Foundry"
+     },
+     {
+      "code": "G11",
+      "span": "more than 100 billion tokens"
+     }
+    ],
+    "named_providers": [
+     "Foundry"
+    ],
+    "passage_id": "P7",
+    "quote": "To date, Fiserv has processed more than 100 billion tokens in Foundry, enhancing products, client servicing experiences, and its proprietary developer gateway.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "advisory",
+    "ai_type": "genai_llm",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G1",
+      "span": "GitHub Copilot"
+     },
+     {
+      "code": "G11",
+      "span": "more than 8,000 software engineers"
+     }
+    ],
+    "named_providers": [
+     "GitHub Copilot"
+    ],
+    "passage_id": "P7",
+    "quote": "GitHub Copilot has been deployed to more than 8,000 software engineers across Fiserv, driving measurable gains in developer productivity and accelerating solution delivery for clients.",
+    "subject": "vendor_staff_tools",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "predictive_ml",
+    "claim_kind": "ai_governance",
+    "data_mentioned": [
+     "differentiated data assets"
+    ],
+    "indicators": [
+     {
+      "code": "G3",
+      "span": "using differentiated data assets"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P8",
+    "quote": "Fiserv has a long-standing commitment to deploying AI responsibly across the enterprise, using differentiated data assets and deep industry expertise to embed AI and machine learning in its platforms and operations, driving product innovation and efficiency.",
+    "subject": "vendor_operations",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "automated_action",
+    "ai_type": "unspecified",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "G2",
+      "span": "powers fraud detection, risk management, and personalized engagement for financial institutions"
+     },
+     {
+      "code": "G2",
+      "span": "enables smarter decisioning and higher authorization rates for merchants"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P8",
+    "quote": "Across Fiserv, AI already powers fraud detection, risk management, and personalized engagement for financial institutions; enables smarter decisioning and higher authorization rates for merchants; and improves client servicing, compliance, and developer productivity.",
+    "subject": "vendor_product",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "agentic",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M1",
+      "span": "generative AI"
+     },
+     {
+      "code": "M1",
+      "span": "agentic intelligence"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P9",
+    "quote": "By further embedding “AI Inside” the company, including the latest generative AI capabilities, Fiserv is moving beyond intelligent automation to agentic intelligence, staying at the forefront of AI innovation, and transforming how it delivers for clients.",
+    "subject": "vendor_operations",
+    "temporal": "in_production"
+   },
+   {
+    "action_level": "unknown",
+    "ai_type": "unspecified",
+    "claim_kind": "uses_ai",
+    "data_mentioned": [],
+    "indicators": [
+     {
+      "code": "M1",
+      "span": "AI"
+     }
+    ],
+    "named_providers": [],
+    "passage_id": "P11",
+    "quote": "During this time, he has driven meaningful progress in modernizing our merchant platform, accelerating Clover, and embedding AI across our infrastructure.",
+    "subject": "vendor_operations",
+    "temporal": "in_production"
+   }
+  ]
+ },
+ "role": "extract",
+ "schema_sha256": "f1cd07fdb8e496624608717927261043432a3bd93d84723a126b7c7d951d68df",
+ "seed": 1234
+}

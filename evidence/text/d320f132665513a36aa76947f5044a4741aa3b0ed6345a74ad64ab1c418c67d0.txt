@@ -1,0 +1,169 @@
+What We Offer keyboard_arrow_down Securities Services arrow_forward Fund & Investor Solutions Custody Managed Account Solutions Integrated Middle Office Solutions Global Clearing Issuer Services arrow_forward Conventional Trust Structured Debt Depositary Receipts Liquidity, Financing & Collateral arrow_forward Liquidity & Financing Credit & Lending Global Collateral Global Payments & Trade arrow_forward Payments Cash Management Trade Finance Markets Execution Services arrow_forward FX Fixed Income Equities Buy-Side Trading Solutions Investments arrow_forward Wealth arrow_forward BNY Pershing/Wealth Services arrow_forward Data & Analytics arrow_forward Digital Assets arrow_forward
+
+Who We Serve keyboard_arrow_down Alternative Asset Managers Investment Managers Asset Owners Insurance Companies Banks Broker-Dealers Corporations Wealth Intermediaries Individuals, Families & Family Offices
+
+Insights keyboard_arrow_down BNY Institute arrow_forward All Insights arrow_forward BNY Institute At the Table with BNY Experts: Summer Edition Read more arrow_forward BNY Wealth Structuring the Sale: Insights for Private Business Owners Read more arrow_forward
+
+About Us keyboard_arrow_down About BNY arrow_forward Leadership Office Locations Sustainability Technology & Innovation Thrive Together Newsroom arrow_forward Trust Center arrow_forward Careers arrow_forward Search BNY Jobs Early Career Opportunities Experienced Professionals
+
+Investor Relations keyboard_arrow_right Overview Press Releases Quarterly Earnings Events & Presentations Annual Reports & Proxy Statements SEC Filings & Other Disclosures Shareholder Services Fixed Income Corporate Governance Contact JULY 2026 BNY Reports Second Quarter 2026 Results Learn more arrow_forward FEBRUARY 2026 Annual Report 2025: Built for Opportunity Learn more arrow_forward
+
+Investor Relations Overview Press Releases Quarterly Earnings Events & Presentations Annual Reports & Proxy Statements SEC Filings & Other Disclosures Shareholder Services Fixed Income Corporate Governance Contact JULY 2026 BNY Reports Second Quarter 2026 Results Learn more arrow_forward FEBRUARY 2026 Annual Report 2025: Built for Opportunity Learn more arrow_forward
+
+Client Access
+
+SUGGESTED RESULTS
+
+Search Results
+
+AI euphoria to zero-sum reality
+
+iFlow > Equities
+
+An in-depth look each Friday at the factors shaping equities markets in developed and emerging economies around the world.
+
+Subscribe to Our Publications
+
+Subscribe to Our Publications
+
+In order to start receiving iFlow, please fill out the form below.
+
+Bob Savage
+
+Time to Read: 7 minutes
+
+JUMP TO
+
+Key Highlights
+
+Software and LLMs have a zero-sum moment
+
+SpaceX and xAI merger already part of market pricing
+
+Q4 earnings show global divergence in business investment
+
+View chart pack
+
+Markets rotate, valuations reset
+
+The great rotation trade out of the technology sector into small and medium enterprises continues in February. The Nasdaq vs. Russell 2000 story pits rate cut expectations against a broadening of U.S. growth beyond AI investments and into the rest of the economy.
+
+The depreciation rules from the “Big Beautiful Bill” have been a critical part of the narrative shift, as investors refocus growth away from chips and large-language models (LLMs) and toward infrastructure and data center buildouts. Hyperscalers are shifting their focus just as investor expectations continue to rise.
+
+LLMs and their ability to generate revenue also put the focus on OpenAI and its fundraising. The role of private investment and IPOs becomes more important in 2026 as funding concerns drive liquidity toward public equity markets.
+
+The role of value and diversification has proven to be a brake on money flows into U.S. exceptionalism. There has been a shift this week from win-win to zero-sum thinking about AI, linked to news around the SpaceX and xAI merger. New Anthropic tools are also pressuring multiple industries, from software to defense, utilities and satellites.
+
+Geopolitical risks are also significant for markets but remain largely uncorrelated with daily price action. Metals and energy prices matter, but so do semiconductors and credit spreads. Consider the Financial Times report on EU satellites being intercepted by Russian spacecraft.
+
+Defense and space industry investment will only accelerate globally across the U.S., EU, China, India and others. In this context, SpaceX’s role in U.S. efforts will be watched closely, with politics part of the process, as valuation metrics will need to include government interest and foreign competitors, alongside aspirations for one million satellites and 100 GW of solar power.
+
+SaaS and AI in a zero-sum game?
+
+EXHIBIT #1: SOFTWARE SECTOR EQUITY HOLDINGS VS. U.S. SOFTWARE ETF
+
+Source: BNY, Bloomberg
+
+Our take
+
+The software sector’s vulnerability to AI tools was the focus last week, but U.S. software holdings have been in a downtrend since 2023. The most notable story has been the lack of alternatives to U.S. companies.
+
+EU alternatives, such as SAP, Atos Hexagon, and Accenture, suffer many of the same fears around AI replacement risks but retain value and diversification support. The difference between U.S. and EU holdings and performance over the last six months reflects FX moves and relative USD stability in the first half of 2025.
+
+The U.S. SaaS industry’s current 12-month forward P/E is 38x, with a few names such as MSFT and PLTR lifting the average. By comparison, EU companies in the sector average 16x. That gap could be changing and merits rethinking value and volatility, alongside home-bias investing.
+
+Forward look
+
+FX hedging and diversification pressures in technology investments should logically lead to a rebound in software businesses that have shown upside in Q4 earnings and clear growth momentum.
+
+The USD’s role will be an important consideration for volatility and where revenue is generated. Software companies will not be replaced immediately by LLM tools. Over the longer term, however, the industry will need to rethink how software services shift toward more client-led solutions, where programming becomes less important than broader business solutions driving mergers and new business models.
+
+Another key consideration will be how the EU’s focus on data privacy and control could drive new data center building and software alternatives into the next cycle.
+
+Mega mergers and market tops – SpaceX/xAI
+
+The SpaceX/xAI deal brings together two of the largest closely held companies in the world. xAI raised funds at a valuation of $230bn in January, while SpaceX was set to go ahead with a share sale in December of about $800bn.
+
+The tie-up may crystallize Elon Musk’s vision of placing data centers in space to support complex AI computing. SpaceX is requesting permission to launch as many as a million satellites into Earth orbit, according to SEC filings.
+
+Concerns about the merging of two significant private companies harken back to other mega mergers, such as AOL/Time Warner. Mixing satellite and space technology with LLM and AI links two industries that may already be pricing zero-sum risks together.
+
+EXHIBIT #2: AEROSPACE HOLDINGS VS. U.S. AEROSPACE & DEFENSE ETF
+
+Source: BNY, Bloomberg
+
+Our take
+
+There was notable outperformance in investment in aerospace and defense shares over the last year, starting with EU and U.S. buying driven by the U.S. push for higher NATO defense spending. EU reaction to the U.S. shifting support for Ukraine also played a role.
+
+The broader global trend in the industry has been toward higher holdings, and the modest rethinking triggered by 2025 volatility suggests this will continue as we track geopolitical headlines in 2026.
+
+The role of SpaceX shows up in U.S. holdings as the private company is widely expected to have an IPO in the first half of 2026. Making room for this will require some carve-outs from other holdings.
+
+What stands out is that all holdings by region are significant.
+
+Forward look
+
+Current iFlow data show U.S. defense and aerospace holdings are 14% above the 3y average. In Europe, holdings are just 3% over the average, while in APAC emerging markets (mostly China and India), holdings are 1% below average.
+
+The risk of a pullback in U.S. holdings and an increase in the rest of world look significant and are linked more to geopolitical developments than to pure technology prowess or growth outlooks.
+
+Home bias was a big part of 2025 trading in the industry, and that does not look likely to change in 2026.
+
+Is SpaceX future about energy?
+
+Building a station on the Moon, traveling to Mars, and creating a new solar power station via satellites all play into the SpaceX narrative. Call it the new vertically integrated innovation challenge.
+
+The market response to SpaceX’s valuation has been to question the science and the return on investment. One valid concern is that private-sector R&D efforts have outpaced those of public entities over the past 20 years.
+
+How a SpaceX IPO shapes capex and development will be critical to overcoming the scale and complexity of the challenges required to turn that narrative into reality.
+
+EXHIBIT #3: RENEWABLE POWER HOLDINGS VS. U.S. UTILITIES ETF
+
+Source: BNY, Bloomberg
+
+Our take
+
+Global renewable power output is currently led by hydropower, dominated by China and Brazil, accounting for 14.5% of total electricity generation, followed by wind at 8.0% and solar at 7.0%.
+
+SpaceX’s effort to create 100 GW of solar power from linked satellites would place it alongside a short list of other large-scale generators. China’s SPIC, CHN Energy, and the China Three Gorges Corp. (CTG) all operate at 100 GW or more. In the U.S., GE Vernova has 120 GW of wind capacity, while NextEra Energy and India’s Adani Green Energy project reaching 100 GW.
+
+The link between energy and AI has been widely discussed over the past two years, increasingly tying utilities to technology shares. Concerns over electricity costs and political pressure have pushed for demand toward more off-grid solutions for global data centers.
+
+U.S. investors, following the Trump administration’s pushback on some renewable initiatives, have reduced holdings. Holdings in U.S. renewable power are 10% below their three-year average, while Europe is 17% above average and APAC emerging markets are 3% above.
+
+Forward look
+
+The core value proposition for SpaceX is Starlink, which is assumed to generate $11bn in EBITDA in 2026 on $26bn in revenue. The value of this part of the business competes with the global wireless market, where current holdings sit roughly 50% below longer-term averages. The market already reflects the risk of Starlink.
+
+Orbital data centers supporting xAI could improve its long-term energy cost profile. However, xAI’s revenue outlook of $110mn still requires significant data center-driven growth. The math of the valuation for the IPO puts its 2026 outlook above Nvidia’s and in league with Tesla. There has been only one IPO above $1tn in value – Saudi Aramco – which traded at a P/E of around 16.
+
+The ability of a million-satellite fleet to generate 100 GW faces several significant challenges:
+
+1) Thermal management. Satellites would require 50 meters or more of surface area to prevent overheating from power generation.
+
+2) Transmission loss. Beaming 100 GW back to Earth via lasers or microwaves could lose up to 50% of the power and would require extensive ground stations, adding to infrastructure costs.
+
+3) Data center efficiency. Rethinking data centers in space may offer benefits, including lower-voltage efficiency, reduced radiation hardening needs, and greater fleet resiliency. AI processing in space could lower costs by reducing the need to beam results back to Earth, making transmission speed and latency critical to user experience.
+
+4) Orbital congestion. SpaceX’s existing density challenges are already a concern, and adding one million satellites would increase collision risks, making space far more crowded and adding to orbital debris, among other concerns.
+
+Bottom line
+
+Looking ahead to 2026, equity markets appear poised to navigate a more complex investment regime defined by diversification, valuation discipline, and geopolitical realities. AI will remain a structural growth driver, but investor focus is shifting from broad-based enthusiasm toward differentiated business models, capital efficiency, and defensible revenue streams.
+
+Software companies that adapt toward client-specific solutions and integrate AI as an enabler rather than a replacement should regain investor confidence, particularly outside the U.S., where valuations remain more compelling.
+
+At the same time, defense, space and energy infrastructure are converging as strategic investment themes, driven by national security priorities, power constraints, and technological ambition. FX dynamics, home bias and policy frameworks – especially around data sovereignty and energy security – will increasingly influence capital allocation.
+
+For equity investors, the next phase favors selectivity over scale, global diversification over exceptionalism, and a disciplined assessment of where long-term growth justifies today’s valuations.
+
+Chart pack
+
+BNY Markets disclaimers
+
+Ready to grow your business? Speak to our team.
+
+BNY is the corporate brand of The Bank of New York Mellon Corporation and may be used to reference the corporation as a whole or its various subsidiaries generally. BNY.com provides information about services provided by BNY and its affiliates. Not all accounts, products, and services are available in all jurisdictions or to all customers. ©2026 BNY.
+
+Visit our websites around the world.

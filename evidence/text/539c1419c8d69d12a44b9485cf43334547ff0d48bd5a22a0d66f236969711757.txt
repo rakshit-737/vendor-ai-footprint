@@ -1,0 +1,29 @@
+Track all markets on TradingView
+
+FTSE Mondo Visione Exchanges Index:
+
+News
+
+Fiserv Collaborates With Microsoft To Accelerate AI-Driven Innovation - The Two Firms Will Work Together To Embed AI Into Fiserv Platforms, Equipping Its Global Workforce With Advanced Tools And Driving Intelligent Capabilities To Deliver Greater Value To Fiserv Clients
+
+Date 08/01/2026
+
+Fiserv, Inc. (NASDAQ: FISV), a leading global provider of payments and financial services technology, today announced a strategic collaboration with Microsoft to accelerate innovation by further embedding AI into Fiserv development platforms and empowering its global workforce with AI. The collaboration will boost internal productivity at Fiserv and deliver AI-driven solutions that create greater value for Fiserv clients, including financial institutions, businesses, and consumers.
+
+Fiserv will deploy Microsoft 365 Copilot across its global workforce, equipping employees with access to advanced AI tools that enhance productivity, accelerate decision-making, and elevate the quality of work. In parallel, Fiserv is working with Microsoft to expand its use of Microsoft Foundry, an Azure-powered AI platform designed to build, customize, deploy, and manage AI applications safely and securely. Deploying these innovative, AI-powered products and services throughout the organization is expected to boost employee productivity, streamline processes, and unlock new revenue opportunities.
+
+“By embedding AI inside our workforce and development platforms, we’re not simply improving how we operate; we’re transforming how Fiserv delivers the next generation of innovation for our clients,” said Guy Chiarello, Vice Chairman, Fiserv. “This collaboration with Microsoft enables us to bring intelligent capabilities to market with greater speed and scale, unlocking smarter, more differentiated solutions that help our clients grow, compete, and lead in today’s rapidly evolving fintech and payments landscape.”
+
+“Together with Fiserv, we’re bringing the power of generative AI to transform how financial technology is built and delivered,” said Karen Del Vescovo, Corporate Vice President, Financial Services, Microsoft. “By combining Microsoft 365 Copilot and Microsoft Foundry with Fiserv’s deep industry expertise, we’re enabling innovation that will help Fiserv’s workforce achieve new levels of efficiency and productivity. This collaboration shows what’s possible when industry leaders come together to redefine the future of work and customer experience.”
+
+This expanded relationship with Microsoft builds on Fiserv’s existing use of Microsoft Foundry and deployment of Microsoft’s GitHub Copilot. To date, Fiserv has processed more than 100 billion tokens in Foundry, enhancing products, client servicing experiences, and its proprietary developer gateway. GitHub Copilot has been deployed to more than 8,000 software engineers across Fiserv, driving measurable gains in developer productivity and accelerating solution delivery for clients.
+
+Deepening Investment in AI
+
+Fiserv has a long-standing commitment to deploying AI responsibly across the enterprise, using differentiated data assets and deep industry expertise to embed AI and machine learning in its platforms and operations, driving product innovation and efficiency.
+
+Across Fiserv, AI already powers fraud detection, risk management, and personalized engagement for financial institutions; enables smarter decisioning and higher authorization rates for merchants; and improves client servicing, compliance, and developer productivity.
+
+By further embedding “AI Inside” the company, including the latest generative AI capabilities, Fiserv is moving beyond intelligent automation to agentic intelligence, staying at the forefront of AI innovation, and transforming how it delivers for clients.
+
+Back to List

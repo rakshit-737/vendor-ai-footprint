@@ -1,0 +1,44 @@
+Type: 
+            
+                Webinar
+            
+            
+            Duration: 
+            
+                60-minute webinars
+            
+            
+            
+                Date & Time: 
+                
+                
+            
+            
+            
+            
+            
+        
+            
+            Member Fee: 
+            
+                $129
+            
+            
+            Non-Member Fee: 
+            
+                $229
+            
+            
+            
+            
+                
+            
+            
+            Audience: 
+            
+                ACH Personnel, Payments Personnel, Senior Payments Personnel, Audit, , Operations, Compliance, Credit_Lending, Risk, IT Personnel, AAPs
+            
+            
+        
+        
+            This webinar will address the multiple areas of ACH risk and controls (Credit, Fraud, Operations, Systemic and Compliance) and explore various policies and procedures to consider for mitigating ACH risk.

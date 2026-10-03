@@ -1,0 +1,44 @@
+Type: 
+            
+                On Demand
+            
+            
+            Duration: 
+            
+                45 Minutes
+            
+            
+            
+                Date & Time: 
+                
+                
+            
+            
+            
+            
+            
+        
+            
+            Member Fee: 
+            
+                $0
+            
+            
+            Non-Member Fee: 
+            
+                $349
+            
+            
+            
+            
+                
+            
+            
+            Audience: 
+            
+                AAPs, APRPs, Audit, BSA Officers, Cash Management, CFOs, Compliance, Controllers , Corporate Payments Professionals, Credit_Lending, IT Personnel, Operations, Payments Personnel, Payments Strategists, Retail/Frontline, Risk, Risk Managers, Sales, Senior Payments Personnel, Treasury
+            
+            
+        
+        
+            2017 saw the launch of the first new payment system in 40 years. This session will talk about how RTP (Real-Time Payments) will change the way business gets done by enabling new functionality like request for payment from the receivables end and a response with a good funds, real-time credit push from the payables end through a core payment infrastructure. These innovations in payments will help overcome the fragmentation of existing B2B networks, give corporate treasurers and finance professionals more control and precision over their payables and receivables and help to drive automation in back-office processes.

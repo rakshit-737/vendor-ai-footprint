@@ -1,0 +1,26 @@
+Topic: 
+                
+            
+            
+            Type: 
+                ACH, Corporate
+            
+        
+                                
+             Member Fee: 
+                 $0
+            
+            
+            Non-Member Fee: 
+                $50
+            
+            
+            
+                
+            
+        
+        
+            This resource includes three sample Consumer ACH authorization forms: 
+    - Consumer ACH Authorization form for ACH Debit Entries
+- Consumer ACH Authorization form for Direct Deposit
+- Consumer ACH Authorization for Electronic Transfers (designed for us by Financial Institutions)

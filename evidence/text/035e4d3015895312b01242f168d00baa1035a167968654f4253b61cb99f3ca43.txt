@@ -1,0 +1,37 @@
+{
+  "hiringOrganization": {
+    "name": "PAYCO The Clearing House Payments Company L.L.C.",
+    "url": ""
+  },
+  "jobPostingInfo": {
+    "canApply": true,
+    "country": {
+      "descriptor": "United States of America",
+      "id": "bc33aa3152ec42d4995f4791a106ed09"
+    },
+    "externalUrl": "https://theclearinghouse.wd108.myworkdayjobs.com/TheClearingHouse/job/North-Carolina-Office/Incident-Management-Analyst_JR100114",
+    "id": "af48b5c4df151001b2f6e093ad2b0000",
+    "includeResumeParsing": true,
+    "jobDescription": "<p><b>Position summary: </b>The Incident Management Analyst is responsible for the overall coordination of the incident management process, in particular when there are major incidents. This role is also responsible for the coordination of the investigation onto root cause, identifying workarounds and following up for permanent resolution.</p><p></p><p><b>Qualifications required: </b></p><ul><li><p>2&#43; Years’ experience designing and executing incident/problem management processes.</p></li><li><p>2&#43; Years’ experience with an IT Service Management ticketing system.</p></li><li><p>1&#43; Years’ Service Now Experience</p></li><li><p>2&#43; Years of NOC Experience</p></li><li><p>Must be process driven, detail oriented and organized in both thought and practice</p></li><li><p>Excellent verbal and written communication skills</p></li><li><p>Excellent active listening skills</p></li><li><p>Strong analytical and problem solving skills</p></li></ul><p></p><p><b>Qualifications desired:  </b></p><ul><li><p>Must have a professional demeanor and be able to effectively work with internal and external customers, vendors and staff</p></li><li><p>Ability to work under pressure and handle conflicting priorities</p></li><li><p>Excellent time managements skills</p></li><li><p>Experience with TCH technologies</p></li><li><p>Evidence of strong documentation skills</p></li><li><p>Project management and MS Office experience a plus</p></li></ul><p></p><p><b>Essential functions and responsibilities: </b></p><ul><li><p>Contributes to planning and managing support for incident management tools and processes</p></li><li><p>Coordinating interfaces between incident management and other service management processes</p></li><li><p>Is the backup to the Incident manager for the managing of major incidents</p></li><li><p>Participates in maintaining incident/problem management processes and procedures</p></li><li><p>Review incident data to analyze assigned problems</p></li><li><p>Analyzes incident and problem tickets for correct prioritization and classification</p></li><li><p>Investigates problems through to resolution or root cause</p></li><li><p>Coordinates actions of other as necessary to assist with the analysis and resolution actions for problems and known errors</p></li><li><p>Assists the Incident manager with preparing reports and metrics pertaining to incident/problem management</p></li></ul><p></p><p></p><p><b>Physical demands and work environment:</b><br />Work is generally sedentary in nature. The working environment is generally favorable. Lighting and temperature are adequate, and there are no hazardous or unpleasant conditions caused by noise, dust, etc. Work is generally performed within an office environment, with standard office equipment available.</p><p>Employees in this position will report to the office 2-3 days per week. Onsite work requirements may change at any time.</p>",
+    "jobPostingId": "Incident-Management-Analyst_JR100114",
+    "jobPostingSiteId": "TheClearingHouse",
+    "jobReqId": "JR100114",
+    "jobRequisitionLocation": {
+      "country": {
+        "alpha2Code": "US",
+        "descriptor": "United States of America",
+        "id": "bc33aa3152ec42d4995f4791a106ed09"
+      },
+      "descriptor": "North Carolina Office"
+    },
+    "location": "North Carolina Office",
+    "posted": true,
+    "postedOn": "Posted 30+ Days Ago",
+    "questionnaireId": "416fc4b6e988100114d79736c4ff0000",
+    "startDate": "2026-04-30",
+    "timeType": "Full time",
+    "title": "Incident Management Analyst"
+  },
+  "similarJobs": [],
+  "userAuthenticated": false
+}

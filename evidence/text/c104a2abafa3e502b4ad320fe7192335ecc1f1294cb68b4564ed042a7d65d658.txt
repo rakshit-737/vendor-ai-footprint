@@ -1,0 +1,321 @@
+Consulting Services Implementations Custom Solutions Training Upgrades Migrations Consulting as a Service (CaaS)
+
+Implementations
+
+Custom Solutions
+
+Training
+
+Upgrades
+
+Migrations
+
+Consulting as a Service (CaaS)
+
+Applications Ellucian Banner Oracle E-Business Suite AMISYS Advance Automation Oracle Utilities
+
+Ellucian Banner
+
+Oracle E-Business Suite
+
+AMISYS Advance Automation
+
+Oracle Utilities
+
+Support
+
+Licensing
+
+About The Team Resources Testimonials AvMed HNI Corporation Indiana State University
+
+The Team
+
+Resources
+
+Testimonials AvMed HNI Corporation Indiana State University
+
+AvMed
+
+HNI Corporation
+
+Indiana State University
+
+Contact
+
+Consulting Services Implementations Custom Solutions Training Upgrades Migrations Consulting as a Service (CaaS)
+
+Implementations
+
+Custom Solutions
+
+Training
+
+Upgrades
+
+Migrations
+
+Consulting as a Service (CaaS)
+
+Applications Ellucian Banner Oracle E-Business Suite AMISYS Advance Automation Oracle Utilities
+
+Ellucian Banner
+
+Oracle E-Business Suite
+
+AMISYS Advance Automation
+
+Oracle Utilities
+
+Support
+
+Licensing
+
+About The Team Resources Testimonials AvMed HNI Corporation Indiana State University
+
+The Team
+
+Resources
+
+Testimonials AvMed HNI Corporation Indiana State University
+
+AvMed
+
+HNI Corporation
+
+Indiana State University
+
+Contact
+
+AutomWorx
+
+May 7, 2025
+
+3 min read
+
+Automation within Oracle E-Business Suite & Automic Webinar
+
+Oracle, Webinar, WLA
+
+Interested in learning more about using Workload Automation inside of the Oracle E-Business Suite? Take a look at this short, informational webinar.
+
+You can also view the outline below.
+
+I. Introduction to AutomWorx
+
+II. Oracle eBusiness Suite Integration Features
+
+Developed in 1994.
+
+Integration validated by Oracle Corporation (no impact on their product).
+
+Solutions for managing Oracle open and close periods.
+
+Ability to import concurrent programs (standard ones).
+
+Imports from EBS systems (SQL AP, AR, GL, etc.).
+
+Jobs created within Atomic with populated parameters.
+
+Solution kicks off jobs in Oracle eBusiness and tracks completion (reports and log files).
+
+Creation of request sets as workflows (individual concurrent programs brought into the product).
+
+Capture feature for managing job submissions during critical periods (e.g., month-end close).
+
+Ability to put jobs on hold and release later.
+
+Monitoring of specific program submissions.
+
+III. Benefits of Atomic for Oracle E-Business Suite
+
+Flexibility in Running Jobs: Can mix and match programs from different responsibilities/modules (unlike Concurrent Manager).
+
+Streamlined Processes: Easier to streamline processes within Atomic.
+
+Integration with External Systems: Executes jobs outside of eBusiness (reporting tools, Oracle Cloud ERP) before, after, or in between eBusiness jobs.
+
+Total Solution: Not limited to E-Business.
+
+Simplified Migrations: Workflows and plans can be copied to new environments/databases.
+
+Easy Identification of Obsolete Jobs: Failures are easily identified for removal.
+
+Environment Portability: Workflows can be moved between different Atomic clients/environments.
+
+Advanced Scripting: Parameterized workflows for different organizations, books, and responsibilities.
+
+Efficient Environment Creation: Easy creation of copies for SIT, UAT, etc. without affecting production.
+
+IV. Supported Oracle E-Business Suite Versions
+
+Financial Suites.
+
+Manufacturing.
+
+V. Setting Up an Agent
+
+Create a connection to the database (typically apps account or a pseudo apps account).
+
+Agent submits jobs into Oracle eBusiness.
+
+Jobs run within the Concurrent Manager.
+
+One agent per Oracle eBusiness Suite instance.
+
+Integrates with single or multi-node architectures (submits to primary node).
+
+Reads outputs from any node.
+
+Cannot override Concurrent Manager settings (e.g., maximum concurrent programs).
+
+Facilitates workload balancing.
+
+OEBS agents can run against multiple Atomic clients.
+
+VI. Template Jobs
+
+Create templates (e.g., for SAP, AR, GL).
+
+Include default information.
+
+When pulling jobs from EBS, the appropriate template is selected.
+
+Automatically populates username, application, and responsibility.
+
+Allows manual input of other information.
+
+Options for “wait for child jobs.”
+
+VII. Importing Jobs
+
+Two sections: “create jobs” and “create workflow.”
+
+Fill out fields to pull jobs from Oracle E-Business into Atomic.
+
+VIII. Selecting Application Short Name
+
+Direct connection to the apps account.
+
+Displays all applications.
+
+Select an application to view its programs.
+
+IX. Selecting and Importing Programs
+
+Choose one or multiple jobs.
+
+Select the appropriate template job.
+
+Choose folders to store the objects (jobs, jobP for request sets/workflows).
+
+Modify job naming standards.
+
+X. Detailed Steps for Importing Jobs (Example with SQL AP)
+
+Select the application short name (SQL AP).
+
+View all SQL AP jobs.
+
+Move desired jobs from the unassigned to the assigned column.
+
+Select the template job.
+
+Choose the destination folder.
+
+Define the job naming convention (e.g., jobs.ebs.ap.programname).
+
+Click “create job.”
+
+Confirmation message: “jobs created.”
+
+Jobs appear in the specified folder.
+
+XI. Managing Job Parameters
+
+For each job, parameters are displayed.
+
+“Populate values” option retrieves previous submissions from Concurrent Manager.
+
+View user, responsibility, and parameters of past runs.
+
+Select a previous request to automatically populate parameters.
+
+XII. Executing Jobs
+
+Click the “execute” button.
+
+Job status (e.g., active) and run ID are displayed.
+
+Ability to view the report file (parameters, username, application, etc.).
+
+XIII. Creating Workflows
+
+Similar process to creating jobs.
+
+Select application short name.
+
+List of request sets is displayed.
+
+Select a request set.
+
+Fill in template job and other information.
+
+Displays the individual jobs/steps within the request set.
+
+Creates both the request set object and a workflow.
+
+XVIII. Workflow Structure in Atomic
+
+Workflow contains the individual jobs from the request set.
+
+Jobs are typically serial (run one after the other).
+
+Successful completion of one job precedes the next.
+
+History provides estimated runtime for the workflow.
+
+XIV. Creating Variable Objects
+
+Define variables (e.g., for dates) using SQL statements.
+
+Preview the variable result.
+
+XV. Applying Variables to Job Parameters
+
+Variables can be applied to job prompts.
+
+Parameters are dynamically evaluated at job execution.
+
+Share
+
+Recent Posts
+
+September 30, 2026
+
+2 min read
+
+Automate With Intent: Why People and Partners Matter
+
+September 17, 2026
+
+3 min read
+
+Automic Automation V26: Turning Orchestration Into the Control Center for Enterprise AI
+
+September 15, 2026
+
+2 min read
+
+The Last Mile of an SAP Landscape
+
+Company
+
+Broadcom Expert Advantage Partner
+
+Privacy Policy
+
+Resource Center
+
+Get in touch
+
+Search Site

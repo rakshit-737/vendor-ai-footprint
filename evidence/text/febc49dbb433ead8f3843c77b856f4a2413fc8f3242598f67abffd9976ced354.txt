@@ -1,0 +1,14 @@
+Main Content
+                    
+                        
+                            ACH Operational Considerations
+                        
+                        
+                            (Courses listed in recommended order)
+                        
+                    
+                        
+                
+            Third-Party Sender Roles and Responsibilities
+On Demand
+During this webinar, we will define the role of third parties in ACH origination and the additional risk they present to the ODFI, differentiate between a Third-Party Service Provider, Third-Party Sender, and Nester Third-Party Sender and help you to determine if you have one

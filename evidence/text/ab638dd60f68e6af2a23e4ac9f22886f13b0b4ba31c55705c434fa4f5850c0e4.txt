@@ -1,0 +1,46 @@
+{
+  "hiringOrganization": {
+    "name": "PAYCO The Clearing House Payments Company L.L.C.",
+    "url": ""
+  },
+  "jobPostingInfo": {
+    "canApply": true,
+    "country": {
+      "descriptor": "United States of America",
+      "id": "bc33aa3152ec42d4995f4791a106ed09"
+    },
+    "externalUrl": "https://theclearinghouse.wd108.myworkdayjobs.com/TheClearingHouse/job/Liberty-NY-Office/DevOps-Junior-Engineer_JR100106",
+    "id": "7bcd46e0333e1001b587f8a604ab0000",
+    "includeResumeParsing": true,
+    "jobDescription": "<p><b>Position Summary: </b></p><p>This position is for a DevOps Engineer focused on CI/CD tooling for the on-premises and AWS infrastructure. This position will work closely with developers, QC and infrastructure teams to build out our in-house and cloud CI/CD pipelines so that developers can build and deploy applications in a secure manner. This position will also maintain current DevOps tooling at TCH.</p><p></p><p><b>About The Clearing House: </b></p><p>The Clearing House (TCH) is a banking association and payments company that is owned by the largest commercial banks in the United States. TCH owns and operates the core payments system infrastructure in the US and is currently working to modernize that infrastructure by launching a new, ubiquitous, real-time payment system. TCH is the only private-sector ACH and wire operator in the US, clearing and settling nearly $2 trillion in US dollar payments each day, representing half of all commercial ACH and wire volume. TCH has provided critical services to the banking industry since 1853, and today, our core products facilitate services including Direct Deposit of payroll, bill payments, and check image exchange.</p><p></p><p><b>Qualifications Required:</b></p><ul><li>Develop and maintain Ansible playbooks and roles for automated configuration and deployments</li><li>Support infrastructure provisioning and configuration management across environments (dev, QA, staging, production)</li><li>Collaborate with engineering teams to automate repetitive operational tasks</li><li>Help manage CI/CD pipelines (e.g., GitHub Actions, Jenkins, Azure DevOps, GitLab CI)</li><li>Monitor system performance and assist in troubleshooting deployment issues</li><li>Maintain documentation for infrastructure, automation workflows, and deployment processes</li><li>Participate in improving security, scalability, and reliability of systems</li></ul><p></p><p><b>Qualifications desired:</b></p><ul><li>Bachelor’s degree or equivalent professional experience</li><li>Minimum 1 years in a DevOps, with a track record of managing high -traffic production environments</li><li>Initial level proficiency in AWS and/or Azure</li><li>Basic expertise in Docker and Certified Kubernetes skills</li><li>Basic proficiency in Python, Go, or Ruby for creating custom automation tooling and APIs</li><li>Basic understanding of Linux system administration, kernel tuning, and networking protocols (TCP/IP, HTTP/S, DNS)</li></ul><p></p><p><b>Essential Functions and Responsibilities:</b></p><ul><li>Exposure to cloud platforms (AWS, Azure, or GCP)</li><li>Knowledge of Docker or containerization</li><li>Familiarity with Terraform or other IaC tools</li><li>Understanding of YAML/JSON configuration formats</li><li>Experience with monitoring tools (Prometheus, Grafana, etc.)</li></ul><p></p><p><b>Success factors/job competencies:</b></p><p>The successful candidate will have strong technical expertise on a variety of platforms and will be able to contribute to the design, test and implementation of the application. The candidate will need to be detail oriented but also able to understand the overall environment (internally and externally) and interact with and communicate effectively with all levels of the organization and external clients at all levels. The candidate should be a strong team player. The ability to work effectively cross-organizationally and with external clients will be a key factor to success in this role.</p><p></p><p><b>Performance standards:</b></p><ul><li>Complete tasks and projects in a timely manner.</li><li>Demonstrate high levels of professionalism and decorum.</li><li>Demonstrate effective team work.</li><li>Adhere to and support all Tech &amp; Ops and TCH strategic goals.</li><li>Communicate effectively with internal personnel at all levels and with vendors and external clients.</li></ul><p></p><p><b>Physical demands and work environment: </b></p><p>Work is generally sedentary in nature. The working environment is generally favorable. Lighting and temperature are adequate, and there are no hazardous or unpleasant conditions caused by noise, dust, etc. Work is generally performed within an office environment, with standard office equipment available.</p><p></p><p>Employees in this position will report to the office 3 days per week.</p><p>Occasional travel may be required. Onsite work requirements may change at any time.</p>",
+    "jobPostingId": "DevOps-Junior-Engineer_JR100106",
+    "jobPostingSiteId": "TheClearingHouse",
+    "jobReqId": "JR100106",
+    "jobRequisitionLocation": {
+      "country": {
+        "alpha2Code": "US",
+        "descriptor": "United States of America",
+        "id": "bc33aa3152ec42d4995f4791a106ed09"
+      },
+      "descriptor": "Liberty NY Office"
+    },
+    "location": "Liberty NY Office",
+    "posted": true,
+    "postedOn": "Posted 30+ Days Ago",
+    "questionnaireId": "416fc4b6e988100114d79736c4ff0000",
+    "startDate": "2026-08-21",
+    "timeType": "Full time",
+    "title": "DevOps Junior Engineer"
+  },
+  "similarJobs": [
+    {
+      "externalPath": "/job/Liberty-NY-Office/Sr-DevOps-Engineer_JR100078",
+      "locationsText": "Liberty NY Office",
+      "postedOn": "Posted 30+ Days Ago",
+      "startDate": "2026-03-03",
+      "timeType": "Full time",
+      "title": "Sr. DevOps Engineer"
+    }
+  ],
+  "userAuthenticated": false
+}

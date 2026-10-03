@@ -1,0 +1,9 @@
+DNS records for automworx.com (DoH: dns.google, cloudflare-dns.com)
+TXT	google-site-verification=JxwMfrZ-avJYm1eBgVgQ9Pgbca-qzmyL0e-K5sJx7X0
+TXT	google-site-verification=fms05lzKgQlk64D-D_hOA5mBjEU6qdm-3hLqd5UHXjU
+TXT	google-site-verification=zgrKt-l-AvUgv3Mfr5VtxB5YRuUW1yJwmPORB76xb0U
+TXT	v=spf1 include:spf.protection.outlook.com include:sender.zohobooks.com include:zcsend.net include:one.zoho.com -all
+TXT	zoho-verification=zb15475755.zmverify.zoho.com
+TXT	zoho-verification=zb33909842.zmverify.zoho.com
+MX	0 automworx-com.mail.protection.outlook.com
+SPF	v=spf1 include:spf.protection.outlook.com include:sender.zohobooks.com include:zcsend.net include:one.zoho.com -all

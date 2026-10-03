@@ -1,0 +1,4 @@
+2018 RTP Industry Webinar Series
+RTP Network Rules: Compliance and Enforcement
+Thursday, March 1, 2018 | 1:00 - 2:00 pm ET
+Every payment network has a legal framework under which it operates. RTP is no different. Join us for an in-depth review of the network participating and operating rules. Attendees will earn about the responsibilities for both sending and receiving RTP messages and the requirements for financial institutions wishing the access the network. In addition, attendees will also learn about the rules enforcement nature of the network.

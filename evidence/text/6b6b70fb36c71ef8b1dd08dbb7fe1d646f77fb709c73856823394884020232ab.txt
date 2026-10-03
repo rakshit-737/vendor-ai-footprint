@@ -1,0 +1,26 @@
+Topic: 
+                
+            
+            
+            Type: 
+                ACH, Audit & Compliance
+            
+        
+                                
+             Member Fee: 
+                 $0
+            
+            
+            Non-Member Fee: 
+                $150
+            
+            
+            
+                
+            
+        
+        
+            This interactive resource is packaged to help financial institutions thoroughly understand the ACH data security requirements as they're set out in the Nacha Operating Rules and Guidelines. This guide is broken down into three main parts:
+    - Some background information is provided on the security rules and a sample self-assessment worksheet is provided to illustrate how one might respond to compliance with the Rules related to categories of policies, procedures, standards, etc. 
+- A template ACH Data Security Framework Self-Assessment Worksheet is provided for you to use to identify all the security means related to your ACH Data, and
+- an ACH Data Security Framework Compliance Certificate is included for you to use for your records.

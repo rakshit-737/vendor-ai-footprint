@@ -1,0 +1,281 @@
+{
+  "AD": false,
+  "Answer": [
+    {
+      "TTL": 300,
+      "data": "figma-domain-verification=22305c7d26dedf4de3d598f91bb6bd353bb28cba91cee793617606b16a90dddf-1725459355",
+      "name": "bny.com.",
+      "type": 16
+    },
+    {
+      "TTL": 300,
+      "data": "atlassian-domain-verification=UdHYM7K4QVf99u0qspZZWyRUhoFnhbanP3i/DpXKoGsxvbECDZDO5vTZGJlJG/ws",
+      "name": "bny.com.",
+      "type": 16
+    },
+    {
+      "TTL": 300,
+      "data": "google-site-verification=3tPJIprDkIurXu1UrB1Yqo_O3ErzEKPSeWb8knwgzx0",
+      "name": "bny.com.",
+      "type": 16
+    },
+    {
+      "TTL": 300,
+      "data": "linkedin-site-verification=c035d897-e6f7-468f-9796-362a1f3499e3",
+      "name": "bny.com.",
+      "type": 16
+    },
+    {
+      "TTL": 300,
+      "data": "00DDx000000Gydu=1TBDx000000CaTs;00DD200000036A1=1TBhQ00000000Kz;00DD50000009TA0=1TBD50000004CBn;00D8L0000008g3N=1TBDc0000008OKQ;00DWe000004kqJ3=1TBWe0000000EPZ;00DDj0000009cgN=1TBDj000000CaTN;00D3h000005Wf62=1TBa600000002JZ",
+      "name": "bny.com.",
+      "type": 16
+    },
+    {
+      "TTL": 300,
+      "data": "adobe-idp-site-verification=b0c2fab32d48b7209894a5e06b95ca82dcf2a2afe4efc7d4e606fcba2bffd1be",
+      "name": "bny.com.",
+      "type": 16
+    },
+    {
+      "TTL": 300,
+      "data": "uber-domain-verification=8bc2ff3f-b1ac-49e1-bb21-7ae805927e5b",
+      "name": "bny.com.",
+      "type": 16
+    },
+    {
+      "TTL": 300,
+      "data": "intersight=5e2d100ab1515d93061a2a6dd0922581df5315ddfdb975756f68d8bb0a8a4168",
+      "name": "bny.com.",
+      "type": 16
+    },
+    {
+      "TTL": 300,
+      "data": "MS=ms72826597",
+      "name": "bny.com.",
+      "type": 16
+    },
+    {
+      "TTL": 300,
+      "data": "ZOOM_verify_A5ZBbuLainPTf1lHlO7lDp",
+      "name": "bny.com.",
+      "type": 16
+    },
+    {
+      "TTL": 300,
+      "data": "v=spf1 include:%{ir}.%{v}.%{d}.spf.has.pphosted.com include:spf-00157d02.pphosted.com -all",
+      "name": "bny.com.",
+      "type": 16
+    },
+    {
+      "TTL": 300,
+      "data": "cisco-ci-domain-verification=fcfd18fac08132b45d58cb6200b2e53f4f61974f6284f8346a82681fa511c9f",
+      "name": "bny.com.",
+      "type": 16
+    },
+    {
+      "TTL": 300,
+      "data": "00Ddn000003WCyn=1TBdn00000008Dh",
+      "name": "bny.com.",
+      "type": 16
+    },
+    {
+      "TTL": 300,
+      "data": "miro-verification=164cfa834b886d0d3f1d115318d1c5cba6876f44",
+      "name": "bny.com.",
+      "type": 16
+    },
+    {
+      "TTL": 300,
+      "data": "smartsheet-site-validation=i2iniDw2mguoDd-c8qi5F8FRQGU3-4AH",
+      "name": "bny.com.",
+      "type": 16
+    },
+    {
+      "TTL": 300,
+      "data": "dtm-domain-verification=Br4pxsaOQGYpQFEQaNBmo3cFR9qJio3kjA0333RMwsY",
+      "name": "bny.com.",
+      "type": 16
+    },
+    {
+      "TTL": 300,
+      "data": "atlassian-domain-verification=NZ/ZJdIQAnDmHUsDLLXgSe5MVZ3v3UhdtLgI2GbREkbAlLV8Zkpp8k/aYugsjpc8",
+      "name": "bny.com.",
+      "type": 16
+    },
+    {
+      "TTL": 300,
+      "data": "appspace-domain-verification=c515d10926be252bf26c309e0b27cc37206348ec42d414e7020f6cac9d0e8e31",
+      "name": "bny.com.",
+      "type": 16
+    },
+    {
+      "TTL": 300,
+      "data": "00D50000000JMNY=1TBVx000000026f",
+      "name": "bny.com.",
+      "type": 16
+    },
+    {
+      "TTL": 300,
+      "data": "airtable-verification=088764cb009e3ca6b8f5873bedc5f1af",
+      "name": "bny.com.",
+      "type": 16
+    },
+    {
+      "TTL": 300,
+      "data": "mongodb-site-verification=7grkzGLukc7dxQ586mM29gkwnuKIygf4",
+      "name": "bny.com.",
+      "type": 16
+    },
+    {
+      "TTL": 300,
+      "data": "atlassian-domain-verification=e2wjT2RR7eeZ7dlcPBgnjqbggr/M5rXCt0akpXzbw8MRYlbtgU8yBvaaGq1brhSv",
+      "name": "bny.com.",
+      "type": 16
+    },
+    {
+      "TTL": 300,
+      "data": "google-site-verification=gDDKx38HKl6TOirU2QISez00NDz3dS2Lm3sk9eBeSno",
+      "name": "bny.com.",
+      "type": 16
+    },
+    {
+      "TTL": 300,
+      "data": "google-gws-recovery-domain-verification=52754084",
+      "name": "bny.com.",
+      "type": 16
+    },
+    {
+      "TTL": 300,
+      "data": "intersight=f6285146bb9e25c2814757ca1d2321b7e5443dec06803e90588cb4d7b9f4aaf4",
+      "name": "bny.com.",
+      "type": 16
+    },
+    {
+      "TTL": 300,
+      "data": "wiz-domain-verification=e895b4fd63b6a78b2fb55d61dd32e9420c1a3317aedc13dbc7ce5f1465415796",
+      "name": "bny.com.",
+      "type": 16
+    },
+    {
+      "TTL": 300,
+      "data": "wTay5SxjLvrsBZFc4TSA7A",
+      "name": "bny.com.",
+      "type": 16
+    },
+    {
+      "TTL": 300,
+      "data": "00Di0000000gbJ0=1TBWQ0000000J13",
+      "name": "bny.com.",
+      "type": 16
+    },
+    {
+      "TTL": 300,
+      "data": "DirectFedAuthUrl=https://login.microsoftonline.com/106bdeea-f616-4dfc-bc1d-6cbbf45e2011/saml2",
+      "name": "bny.com.",
+      "type": 16
+    },
+    {
+      "TTL": 300,
+      "data": "docusign=ca0ed21b-206e-4f7f-9f04-769329e1a035",
+      "name": "bny.com.",
+      "type": 16
+    },
+    {
+      "TTL": 300,
+      "data": "dell-technologies-domain-verification=bny.com_774729ef-9f5b-4fed-9a63-5e7ef5acabff_1722413031",
+      "name": "bny.com.",
+      "type": 16
+    },
+    {
+      "TTL": 300,
+      "data": "mongodb-site-verification=5skI0PtZq9JryTmK7fbWYpXUxfi7thTB",
+      "name": "bny.com.",
+      "type": 16
+    },
+    {
+      "TTL": 300,
+      "data": "canva-site-verification=8GzcDjWkS6SUP6qYRE_KaA",
+      "name": "bny.com.",
+      "type": 16
+    },
+    {
+      "TTL": 300,
+      "data": "intersight=2b82f10c1bce32b17982419ca867ec1410bd0e36d0858a8395375a8ae9672d56",
+      "name": "bny.com.",
+      "type": 16
+    },
+    {
+      "TTL": 300,
+      "data": "apple-domain-verification=Dk3abBAi6Qs8khpFnNEi_o4-vgrg04ak__XaQ7fTClc",
+      "name": "bny.com.",
+      "type": 16
+    },
+    {
+      "TTL": 300,
+      "data": "docusign=ed206d2b-b89d-44a6-a1c0-1ec61bdf534a",
+      "name": "bny.com.",
+      "type": 16
+    },
+    {
+      "TTL": 300,
+      "data": "anthropic-domain-verification-fdh8zq=DbaSFiubOKdPCakLJHjFqVGco",
+      "name": "bny.com.",
+      "type": 16
+    },
+    {
+      "TTL": 300,
+      "data": "uber-domain-verification=211c65e8-06eb-4937-a2a8-d029a9f66779",
+      "name": "bny.com.",
+      "type": 16
+    },
+    {
+      "TTL": 300,
+      "data": "/a3/3u/b0cHZwLEvU0vNQha95Okk6HZCbSHMxWuulUxU0J68CFCeQsNXqDvKfT/2DhSrKygN9pehHhKNVWMKQw==",
+      "name": "bny.com.",
+      "type": 16
+    },
+    {
+      "TTL": 300,
+      "data": "docker-verification=f921e853-77ec-492e-88b6-aa8129d32f25",
+      "name": "bny.com.",
+      "type": 16
+    },
+    {
+      "TTL": 300,
+      "data": "jamf-site-verification = adD1KT_HA6EKgnI-7Smnbg",
+      "name": "bny.com.",
+      "type": 16
+    },
+    {
+      "TTL": 300,
+      "data": "openai-domain-verification=dv-FlWqvzUgOAxmp2PBtmHWqcO1",
+      "name": "bny.com.",
+      "type": 16
+    },
+    {
+      "TTL": 300,
+      "data": "ibmid=63d83273-8003-43a7-b023-cccea318ccb6",
+      "name": "bny.com.",
+      "type": 16
+    },
+    {
+      "TTL": 300,
+      "data": "snowflake-verification=2728dee9-01a0-1000-8038-0000000007d1",
+      "name": "bny.com.",
+      "type": 16
+    }
+  ],
+  "CD": false,
+  "Comment": "Response from 108.162.192.149.",
+  "Question": [
+    {
+      "name": "bny.com.",
+      "type": 16
+    }
+  ],
+  "RA": true,
+  "RD": true,
+  "Status": 0,
+  "TC": false
+}

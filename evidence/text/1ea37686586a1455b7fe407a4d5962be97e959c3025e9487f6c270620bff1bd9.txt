@@ -1,0 +1,3 @@
+Watch V26 Webinar
+
+Whats's New in Automic V26 AI is now inside the workflow, not bolted on next to it. Connect your own LLM, ask Automic what failed yesterday or describe a job in plain language and watch it get built. Explore what matters to your environment and what the changes mean for teams running Automic or considering a move to V26. Request a Free Environment Assessment with our experts

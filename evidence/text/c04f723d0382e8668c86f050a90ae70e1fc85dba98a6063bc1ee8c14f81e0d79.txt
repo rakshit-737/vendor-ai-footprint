@@ -1,0 +1,48 @@
+Type: 
+            
+                In Person
+            
+            
+            Duration: 
+            
+                1 Day
+            
+            
+            
+                Date & Time: 
+                
+                
+            
+            
+            
+            
+            
+        
+            
+            Member Fee: 
+            
+                $199
+            
+            
+            Non-Member Fee: 
+            
+                $299
+            
+            
+            
+            
+                
+            
+            
+            Audience: 
+            
+                AAP Candidates, AAPs, ACH Personnel, APRP Candidates, Audit, BSA Investigators_Analysts, BSA Officers, Cash Management, Compliance, Credit_Lending, General ACH, IT Personnel, Operations, Payments Personnel, Payments Strategists, Retail/Frontline, Risk, Risk Managers, Sales, Senior Payments Personnel, Treasury
+            
+            
+        
+        
+            Eagle Eye Golf Club
+15500 Chandler Rd. 
+E. Lansing, MI  48823
+ 
+This workshop will address the multiple areas of payments risk (credit, fraud, operations, systemic, compliance and cross channel) impacting the ACH Network.  Learn how the NACHA Operating Rules and other Federal Regulations impact the ACH network and affect policies, procedures and processing.  Requirements for documentation, disclosures, notification and transaction monitoring for both receiving and originating financial institutions will also be discussed. This session will also explore the various means of moving funds electronically and the inherent risks and mitigation techniques to consider for new account funding, account to account and person to person transactions.

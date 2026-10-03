@@ -1,0 +1,44 @@
+Type: 
+            
+                Webinar
+            
+            
+            Duration: 
+            
+                60 Minutes
+            
+            
+            
+                Date & Time: 
+                
+                
+            
+            
+            
+            
+            
+        
+            
+            Member Fee: 
+            
+                $0
+            
+            
+            Non-Member Fee: 
+            
+                $349
+            
+            
+            
+            
+                
+            
+            
+            Audience: 
+            
+                AAP Candidates, AAPs, ACH Personnel, APRP Candidates, APRPs, General ACH, Payments Personnel
+            
+            
+        
+        
+            Competitive edge or point of no return?  An RDFI’s exposure only extends to the amount of funds it has made available before a settlement is final.  Learn the risks of posting ACH credits prior to the Settlement Date and how an institution can mitigate those risks.

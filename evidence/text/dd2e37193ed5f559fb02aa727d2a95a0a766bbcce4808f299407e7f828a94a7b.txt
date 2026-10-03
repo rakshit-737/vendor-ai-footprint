@@ -1,0 +1,149 @@
+What We Offer keyboard_arrow_down Securities Services arrow_forward Fund & Investor Solutions Custody Managed Account Solutions Integrated Middle Office Solutions Global Clearing Issuer Services arrow_forward Conventional Trust Structured Debt Depositary Receipts Liquidity, Financing & Collateral arrow_forward Liquidity & Financing Credit & Lending Global Collateral Global Payments & Trade arrow_forward Payments Cash Management Trade Finance Markets Execution Services arrow_forward FX Fixed Income Equities Buy-Side Trading Solutions Investments arrow_forward Wealth arrow_forward BNY Pershing/Wealth Services arrow_forward Data & Analytics arrow_forward Digital Assets arrow_forward
+
+Who We Serve keyboard_arrow_down Alternative Asset Managers Investment Managers Asset Owners Insurance Companies Banks Broker-Dealers Corporations Wealth Intermediaries Individuals, Families & Family Offices
+
+Insights keyboard_arrow_down BNY Institute arrow_forward All Insights arrow_forward BNY Institute At the Table with BNY Experts: Summer Edition Read more arrow_forward BNY Wealth Structuring the Sale: Insights for Private Business Owners Read more arrow_forward
+
+About Us keyboard_arrow_down About BNY arrow_forward Leadership Office Locations Sustainability Technology & Innovation Thrive Together Newsroom arrow_forward Trust Center arrow_forward Careers arrow_forward Search BNY Jobs Early Career Opportunities Experienced Professionals
+
+Investor Relations keyboard_arrow_right Overview Press Releases Quarterly Earnings Events & Presentations Annual Reports & Proxy Statements SEC Filings & Other Disclosures Shareholder Services Fixed Income Corporate Governance Contact JULY 2026 BNY Reports Second Quarter 2026 Results Learn more arrow_forward FEBRUARY 2026 Annual Report 2025: Built for Opportunity Learn more arrow_forward
+
+Investor Relations Overview Press Releases Quarterly Earnings Events & Presentations Annual Reports & Proxy Statements SEC Filings & Other Disclosures Shareholder Services Fixed Income Corporate Governance Contact JULY 2026 BNY Reports Second Quarter 2026 Results Learn more arrow_forward FEBRUARY 2026 Annual Report 2025: Built for Opportunity Learn more arrow_forward
+
+Client Access
+
+SUGGESTED RESULTS
+
+Search Results
+
+At a crossroads: Iran, China and AI
+
+Start of the Week previews activities across global financial markets, providing useful charts, links, data and a calendar of key events to help with more informed asset allocation and trading decisions.
+
+Subscribe to Our Publications
+
+Subscribe to Our Publications
+
+In order to start receiving iFlow, please fill out the form below.
+
+Bob Savage
+
+Time to Read: 9 minutes
+
+JUMP TO
+
+Key Highlights
+
+Tech-led equity rally contrasts with persistent energy supply disruptions.
+
+Central banks face rising stagflation risks amid shifting rate expectations.
+
+Geopolitics and supply chains dominate outlook ahead of Trump–Xi summit.
+
+What you need to know
+
+The last week delivered a significant rally back in technology shares but little else. There was no meaningful change in oil supply, and only few ships traverse the Strait of Hormuz. Talks between the U.S. and Iran are ongoing and too slow for investors to find comfort.
+
+Nevertheless, oil is down 10% on the month while its volatility remains at 74%. The rally in bond yields – Sweden’s in particular – stands out, while U.S. bonds were the only losers after better jobs and divergent Fed speeches. Central bank reactions remain key to correlation risks across markets. The U.K. by-elections delivered the expected pain for Labour Prime Minister Keir Starmer, but for markets that pain looks fully priced in.
+
+FX markets are in a holding pattern, with the Bank of Japan (BoJ) intervention leaving JPY stuck between 155 and 158, while the broader USD lost just 0.25% on the week and holds a tight range. The central question for the week is whether something new can shift the malaise of markets away from the current bifurcated themes of AI dominance and energy inflation shocks.
+
+Key themes
+
+U.S.–China summit and supply chains. The Trump–Xi meeting is becoming the key macro event for markets, with focus on trade, AI competition, semiconductors, rare earths, and strategic supply chains. Investors will watch whether the summit reduces tensions, slows decoupling or reinforces the shift toward a more fragmented, multipolar global economy.
+
+Iran conflict and energy markets. The Strait of Hormuz remains the central geopolitical risk barometer. Prediction markets are moving odds for a reopening from June to September or later. Even then the number of ships is expected to be half pre-conflict levels. Markets are oscillating between hopes for a sustainable truce framework leading to the return of vessel traffic and fears of both uneasy, ongoing ceasefire or renewed escalation, with oil volatility driving inflation expectations, FX and cross-asset correlations.
+
+Central banks vs. stagflation risks. Traders are reassessing the “higher for longer” narrative as the Fed, ECB, BoJ and others balance slowing growth against energy-driven inflation pressures. ECB June hike odds still remain above 75%. All central bank speeches matter again. Markets remain highly sensitive to policy errors, especially after the Reserve Bank of Australia (RBA) and Norges Bank hikes last week.
+
+AI investment boom vs. financial stability risks. AI continues to dominate equity leadership and earnings expectations, especially in semiconductors and hyperscalers. The unwinding of the S&P 500’s October broadening-out rally is worrying analysts. At the same time, concerns are rising around valuation concentration, power demand, cyber risks, new regulations, and whether AI spending is becoming excessive relative to future returns.
+
+Uncertainty and volatility. The interaction between higher Treasury yields, USD direction, and global liquidity remains critical. The JPY and other FX market interventions last week stand out. Markets are increasingly debating whether U.S. exceptionalism led by AI can persist if energy shocks, fiscal deficits and geopolitical fragmentation continue pressuring global growth and capital allocation.
+
+Are rates driving risk assets again?
+
+EXHIBIT #1: USD INDEX VS. U.S. AGGREGATE BOND CORRELATION
+
+Source: BNY, Bloomberg
+
+Our take: The correlation of the USD to oil is positive and has been for the last five years at around 0.6. The correlation of the USD to stocks is negative and has been for decades at a modest 0.35. However, the USD correlation to bonds (Corporate, MBS, Treasurys) is mixed and has been modestly negative at -0.2. The implied positive correlation of bonds to stocks makes building a divergent risk portfolio more difficult. It also has implications for USD hedging. The current backdrop – energy war vs. AI dominance – bifurcates investment flows between growth and inflation buckets.
+
+Forward look: The post-Covid shift in volatility and uncertainty is the bigger, longer-term story – inflation, the Russia–Ukraine war, the Gen AI revolution, the Hamas war, the Iran conflict, and the political turn toward populism and nationalism are just a few of the surprises that illustrate the point. Many investors still want to treat these as one-off shocks rather than evidence of a sea-change in how markets function, but the weight of events is making that harder to sustain. Our data suggest the crossroads is real, and the longer it takes to resolve, the more duration risk accumulates on both sides of the trade.
+
+What we are watching
+
+North America: Inflation, Iran and Fed speakers
+
+EXHIBIT #2: U.S. PPI AND CPI
+
+Source: BNY Bloomberg
+
+Our take: After a week dominated by geopolitical headlines and a strong NFP print, further progress (or lack thereof) in Iran negotiations will likely continue to drive much of the price action. But this week brings a heavy slate of U.S. data, highlighted by April CPI and PPI on Tuesday and Wednesday, respectively.
+
+Forward look: Market expectations for both April’s Core m/m CPI and PPI ex-food and energy rest at 0.3%, higher than the realized numbers from March (0.2% for Core CPI and 0.1% for PPI ex-food and energy). Headline m/m CPI and PPI Final Demand, which include energy, are understandably projected to print higher. Together, these releases should offer a timely read on the continuing inflationary impacts of the war, particularly in categories sensitive to energy and supply-side developments. This is increasingly in focus in light of the three dissents at the April FOMC pushing back against more dovish statement language.
+
+Presidents Beth Hammack of Cleveland and Neel Kashkari of Minneapolis – two of the three hawkish dissenters – are also scheduled to speak, though we don’t expect them to diverge materially from their post-meeting statements or their comments late last week. There are no other notable Fed or Bank of Canada communications scheduled, and it will also be a quiet week for Canadian data.
+
+EMEA: Data supports ECB hawks, but consensus is far from clear
+
+EXHIBIT #3: GERMAN NEW ORDERS AND INDUSTRIAL ACTIVITY
+
+Source: BNY
+
+Our take: European data activity for March and April will dominate the calendar this week. Based on recent evidence, hard data are starting to diverge from very gloomy survey figures, as corporate and household demand seems to be holding up better than expected. Corporate demand is a particular surprise, with German factory orders rising strongly in March, though this was not matched by the industrial production figures, which fell sharply despite expectations for an expansion (Exhibit #3). Nonetheless, current data are yet to strongly support the narrative that supply stress is forcing companies to retrench, especially if they are unable to pass on costs. The German labor market did see a significant rise in April unemployment, but not sufficient to suggest that wage growth is about to decelerate.
+
+Such figures appear to confirm hawks’ fears that secondary effects are imminent: Bundesbank President Joachim Nagel warned that the current outlook would need to improve “markedly” before the ECB could consider pausing hikes.
+
+Yet, despite seemingly data robustness, we doubt that unanimity on the next policy step is possible. Upcoming ECB commentary will likely continue to hint at a June move, but differences are starting to emerge. Outgoing Banque de France Governor François Villeroy de Galhau criticized “speculation and several statements” about the timing of the next ECB hike, calling them out as “disguised forward guidance.”
+
+Affirming current pricing – which is well above 90% in favor of a 25bp hike in the June meeting – seems a step too far for some members. Central bankers view forward guidance much more skeptically now, and ECB President Christine Lagarde herself often stresses the need to avoid pre-commitment. Furthermore, even if forward guidance is the intent by some Governing Council members, anchoring front-end rate expectations comes at the expense of compressing volatility toward the end of a particular cycle. When the necessary release takes place, even if it is toward easing, we believe there will be damage as the Eurozone is ill-equipped to deal with such swings.
+
+Forward look: With all eyes on the Middle East and Beijing, European developments may struggle to move markets this week. The King’s Speech in the U.K. on Wednesday will be watched closely for any clear sign of stronger fiscal impulse as the Labour Party deals with the result of the local elections. U.K. politics is moving toward severe fragmentation by its own standards, which does not bode well for policy consistency at a time when fiscal resources will be increasingly stretched. Gilt yields, which rose during the conflict, have retreated on hopes of conflict resolution as oil prices fell, and we believe financial conditions have already tightened sufficiently through the financing channel to obviate the need for any Bank of England hikes, meaning current interest rate curves still have potential to correct lower.
+
+Staying on the fiscal theme, new Hungarian Prime Minister Péter Magyar commences his first full week in office. His fence-mending travels across the EU – Poland especially – will be closely followed. For domestic assets, though, the more pressing question is whether EU funding flows can be restored quickly. With the new government in place, the market will need to see concrete steps to justify current positioning, but so far officials appear to be more interested in sending warnings to longs. Magyar Nemzeti Bank Governor Mihály Varga has consistently welcomed a strong HUF, but last month he was compelled to call for markets to be “more cautious with [bullish] predictions.” Magyar has also warned that the outgoing government pushed through heavy spending plans, including a degree that was “intent on emptying public coffers.” Balance of payments and the pullback in global yields will buy some time, but we continue to see Hungarian assets as uniquely exposed to excessive positioning.
+
+APAC: Credit, inflation and trade data in focus
+
+EXHIBIT #4: CHINA CREDIT GROWTH AND INFLATION
+
+Source: BNY, Bloomberg
+
+Our take: Asia’s macro calendar this week is led by China, with April credit aggregates (new yuan loans, total social financing, M2) and CPI/PPI in focus. These releases should reinforce the policy stance of maintaining flush and ample liquidity alongside continued support measures. In North Asia, South Korea’s early-May export prints (1–10 days) will offer the first read on trade momentum. In Japan, housing spending, machinery orders, and PPI will be closely watched for signals on domestic growth and inflation dynamics, and by extension the timing of BoJ policy normalization. India’s April CPI and WPI will also draw attention, following a shift from near-flat inflation in October 2025 to 3.4% y/y in March – approaching the 4% target midpoint.
+
+In ASEAN, Malaysia’s Q1 GDP and current account will serve as key gauges of growth and external balance. In the Philippines, bank lending, M3, and remittances will provide insight into domestic liquidity conditions. Thailand and Indonesia will release consumer confidence indicators, offering a read on demand trends.
+
+In the Antipodes, Australia’s Q1 Wage Price Index, alongside business and consumer surveys – and April CPI later in the month – will be closely watched ahead of the early-June RBA meeting. In New Zealand, two-year inflation expectations will be central to the policy outlook, particularly following Reserve Bank of New Zealand Governor Adrian Orr’s guidance that supply shocks do not warrant automatic rate hikes.
+
+Overall, the week presents a balanced mix of growth, inflation, and credit data, with China and Australia likely to be the primary drivers for regional FX and rates.
+
+Forward look: The prospect of a U.S.–Iran peace deal has lifted regional risk sentiment, but the risk of “stagflation” is on the rise with surging inflation in Philippines and Thailand and broad slowdown in growth in Q1. A moderation in oil prices should support a corrective rebound in net oil-importing currencies such as INR, PHP, THB, and KRW.
+
+That said, we remain cautious: oil prices are likely to stay relatively elevated until supply-chain disruptions are fully normalized, sustaining terms-of-trade pressures through higher import costs.
+
+Notably, the BoJ’s intervention-driven JPY strength had little positive spillover to broader APAC FX pricing over the past week. Within the region, ongoing strength in tech sectors continues to underpin TWD and KRW. In contrast, IDR and INR remain the weakest links. Recent macroprudential measures by Indonesian and Indian authorities are unlikely to shift sentiment meaningfully without an improvement in underlying macro fundamentals, particularly on the fiscal front. Capital flows reinforce this view, with no clear signs of stabilization – India has seen $21bn in equity outflows year-to-date, while Indonesia has recorded $2.9bn in outflows.
+
+Bottom line
+
+Markets are entering a more complex phase as investors increasingly question the drivers of April’s rally. While technology and AI continue to underpin equity strength, the lack of resolution in energy supply and ongoing geopolitical tensions – particularly Iran and global supply chains – limit confidence in a sustained risk-on environment. The upcoming Trump–Xi summit represents a critical inflection point, with implications for trade, rare earths, and semiconductor supply chains that extend well beyond near-term market moves. At the same time, central banks are navigating a narrowing path between persistent inflation and slowing growth, raising the risk of policy missteps that could disrupt correlations across asset classes. The unusual alignment between bonds and equities further complicates portfolio construction and hedging strategies.
+
+Looking ahead, markets are likely to become more data- and headline-driven, with inflation prints, policy signals, and geopolitical developments determining whether investors continue to deploy capital or shift back toward defensive positioning.
+
+Calendar for May 11 – May 15
+
+Central bank decisions
+
+Banco Central de Reserva del Perú (Friday, May 15): No change is expected from the BCRP, but risks are skewed toward the hawkish side as emerging market central banks will need to carefully manage inflation expectations amid global supply disruptions. Latin American currencies are in a better place, and Peru continues to benefit from the silver-based positive terms-of-trade shock, though carry trades in the region appear to be topping out. With inflation now pushing above 4%, there is no real rate space for BCRP, so a precautionary hike would not be a surprise.
+
+Source: BNY
+
+Source: BNY
+
+Charts of the week
+
+BNY Markets disclaimers
+
+Ready to grow your business? Speak to our team.
+
+BNY is the corporate brand of The Bank of New York Mellon Corporation and may be used to reference the corporation as a whole or its various subsidiaries generally. BNY.com provides information about services provided by BNY and its affiliates. Not all accounts, products, and services are available in all jurisdictions or to all customers. ©2026 BNY.
+
+Visit our websites around the world.

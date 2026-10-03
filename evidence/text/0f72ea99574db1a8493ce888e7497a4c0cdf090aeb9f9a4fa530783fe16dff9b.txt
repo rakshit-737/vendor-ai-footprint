@@ -1,0 +1,120 @@
+{
+  "count": 1,
+  "hasMore": false,
+  "items": [
+    {
+      "ApplyWhenNotPostedFlag": true,
+      "BeFirstToApplyFlag": false,
+      "BusinessUnit": null,
+      "BusinessUnitId": 300000094081469,
+      "Category": "Data Science",
+      "ContentLocale": "en",
+      "ContractType": null,
+      "CorporateDescriptionStr": "<p>At BNY, our culture allows us to run our company better and enables employees’ growth and success. As a leading global financial services company at the heart of the global financial system, we influence nearly 20% of the world’s investible assets. Every day, our teams harness cutting-edge AI and breakthrough technologies to collaborate with clients, driving transformative solutions that redefine industries and uplift communities worldwide.</p>Recognized as a top destination for innovators, BNY is where bold ideas meet advanced technology and exceptional talent. Together, we power the future of finance – and this is what #LifeAtBNY is all about. Join us and be part of something extraordinary.",
+      "Department": null,
+      "DomesticTravelRequired": null,
+      "ExternalContactEmail": null,
+      "ExternalContactName": null,
+      "ExternalDescriptionStr": "<p>BNY, our culture allows us to run our company better and enables employees’ growth and success. As a leading global financial services company at the heart of the global financial system, we influence nearly 20% of the world’s investible assets. Every day, our teams harness cutting-edge AI and breakthrough technologies to collaborate with clients, driving transformative solutions that redefine industries and uplift communities worldwide.</p><p>Recognized as a top destination for innovators, BNY is where bold ideas meet advanced technology and exceptional talent. Together, we power the future of finance – and this is what #LifeAtBNY is all about. Join us and be part of something extraordinary.</p><p>We’re seeking a future team member for the role of Data Science Manager, Revenue Analytics in Asset Servicing. This role is located in Boston.</p><p style=\"line-height: 115%;\"><span style=\"font-size: 11pt; line-height: 115%;\">BNY is seeking an&nbsp;<strong>SVP, Data Science Manager</strong>&nbsp;within Asset Servicing Deal Management and Controls to lead strategic initiatives at the intersection of&nbsp;<strong>data science, knowledge engineering, natural language processing, and applied AI</strong>. This role will focus on transforming how proposals, RFP, due diligence, and related controlled content is structured, governed, retrieved, and reused across Asset Servicing.</span></p><p style=\"line-height: 115%;\"><span style=\"font-size: 11pt; line-height: 115%;\">The successful candidate will lead the development of a governed, scalable content ecosystem that improves the&nbsp;<strong>quality, consistency, speed, and completeness of first-draft responses</strong>, while reducing manual effort and unnecessary subject matter expert outreach. This role combines&nbsp;<strong>data science leadership</strong>&nbsp;with a strong&nbsp;<strong>knowledge engineering focus</strong>, applying advanced analytical and AI methods to business text, response content, and approved firm artifacts to improve response generation, content quality, and operational efficiency.</span></p><p style=\"line-height: 115%;\"><span style=\"font-size: 11pt; line-height: 115%;\">This role will apply&nbsp;<strong>semantic search, sentence embeddings, similarity scoring, classification, clustering, duplicate detection, summarization, metadata tagging, named entity recognition, information extraction, answer recommendation, and content gap identification</strong>&nbsp;to improve knowledge reuse and proposal effectiveness.</span></p><p style=\"line-height: 115%;\">&nbsp;</p><p><span style=\"font-size: 11pt;\"><strong>Key Responsibilities:</strong></span></p><p><span style=\"font-size: 11pt;\"><strong>Knowledge Engineering and Content Optimization</strong></span></p><ul style=\"list-style-type: disc; padding-left: 48px;\"><li><p style=\"line-height: 115%;\"><span style=\"font-size: 11pt; line-height: 115%;\">Lead the transformation of the Asset Servicing proposal knowledge base to improve first-draft quality, consistency, speed, and completeness across client opportunities.</span></p></li><li><p style=\"line-height: 115%;\"><span style=\"font-size: 11pt; line-height: 115%;\">Design scalable approaches to structure, govern, enrich, and optimize reusable proposal, due diligence, and controlled content, including Q&amp;A pairs, reusable response modules, product descriptions, service language, and other approved firm artifacts.</span></p></li><li><p style=\"line-height: 115%;\"><span style=\"font-size: 11pt; line-height: 115%;\">Develop methods to organize content so it communicates technical, operational, product, service, risk, and control-related information clearly, accurately, and persuasively.</span></p></li><li><p style=\"line-height: 115%;\"><span style=\"font-size: 11pt; line-height: 115%;\">Establish content governance standards across taxonomy, ontology, metadata models, content schemas, lifecycle management, editorial quality, approvals, and version control.</span></p></li><li><p style=\"line-height: 115%;\"><span style=\"font-size: 11pt; line-height: 115%;\">Integrate and normalize diverse content sources into a unified, governed, and analytically manageable content ecosystem spanning structured and unstructured text assets.</span></p></li></ul><p><span style=\"font-size: 11pt;\"><strong>Applied AI, NLP, and Retrieval Intelligence</strong></span></p><ul style=\"list-style-type: disc; padding-left: 48px;\"><li><p style=\"line-height: 115%;\"><span style=\"font-size: 11pt; line-height: 115%;\">Apply advanced NLP, text analytics, machine learning, and AI methods to improve response drafting, semantic retrieval, content reuse, and language quality.</span></p></li><li><p style=\"line-height: 115%;\"><span style=\"font-size: 11pt; line-height: 115%;\">Develop approaches using semantic search, sentence embeddings, similarity scoring, document classification, clustering, duplicate detection, topic extraction, summarization, metadata tagging, named entity recognition, and information extraction.</span></p></li><li><p style=\"line-height: 115%;\"><span style=\"font-size: 11pt; line-height: 115%;\">Build scoring, ranking, and answer recommendation frameworks to identify the most relevant, current, high-quality, and reusable content for specific proposal and due diligence use cases.</span></p></li><li><p style=\"line-height: 115%;\"><span style=\"font-size: 11pt; line-height: 115%;\">Create frameworks to evaluate and improve multiple forms of business language, including technical explanatory content, service model descriptions, control and risk language, product capability statements, proof points, differentiators, and persuasive client-facing messaging.</span></p></li><li><p style=\"line-height: 115%;\"><span style=\"font-size: 11pt; line-height: 115%;\">Support AI-enabled drafting workflows through retrieval-augmented generation concepts, prompt design, response evaluation, and human-in-the-loop review approaches aligned with responsible AI practices.</span></p></li></ul><p><span style=\"font-size: 11pt;\"><strong>Strategic Partnership and Execution</strong></span></p><ul style=\"list-style-type: disc; padding-left: 48px;\"><li><p style=\"line-height: 115%;\"><span style=\"font-size: 11pt; line-height: 115%;\">Partner with sales, product, solutions, deal management, controls, and subject matter experts to improve the sourcing, validation, prioritization, maintenance, and reuse of high-value content.</span></p></li><li><p style=\"line-height: 115%;\"><span style=\"font-size: 11pt; line-height: 115%;\">Reduce redundant SME outreach by identifying content gaps, extracting reusable knowledge from expert contributions, and converting that knowledge into governed response assets.</span></p></li><li><p style=\"line-height: 115%;\"><span style=\"font-size: 11pt; line-height: 115%;\">Lead and execute high-impact initiatives across knowledge engineering, NLP, retrieval, and AI-enabled content optimization, from problem definition through delivery.</span></p></li><li><p style=\"line-height: 115%;\"><span style=\"font-size: 11pt; line-height: 115%;\">Define project scope, milestones, deliverables, and operating cadence for strategic workstreams.</span></p></li><li><p style=\"line-height: 115%;\"><span style=\"font-size: 11pt; line-height: 115%;\">Translate analytical findings into actionable recommendations for business leaders and stakeholders.</span></p></li></ul><p><span style=\"font-size: 11pt;\"><strong>Innovation, Measurement, and Business Impact</strong></span></p><ul style=\"list-style-type: disc; padding-left: 48px;\"><li><p style=\"line-height: 115%;\"><span style=\"font-size: 11pt; line-height: 115%;\">Advance the use of AI, NLP, language quality analytics, and content intelligence to support proposal excellence and sales enablement across Asset Servicing.</span></p></li><li><p style=\"line-height: 115%;\"><span style=\"font-size: 11pt; line-height: 115%;\">Analyze workflow bottlenecks, content usage patterns, response quality, content freshness, expert dependency, and operational inefficiencies to improve proposal cycle times and first-draft effectiveness.</span></p></li><li><p style=\"line-height: 115%;\"><span style=\"font-size: 11pt; line-height: 115%;\">Define and apply performance metrics such as reuse rates, answer acceptance, first-draft quality, manual edit rates, SME touch frequency, and cycle-time reduction.</span></p></li><li><p style=\"line-height: 115%;\"><span style=\"font-size: 11pt; line-height: 115%;\">Support a “One Asset Servicing” and “One BNY” approach through a unified, AI-enabled content strategy.</span></p></li><li><p style=\"line-height: 115%;\"><span style=\"font-size: 11pt; line-height: 115%;\">Identify opportunities to improve the proposal development lifecycle through innovations in knowledge engineering, enterprise retrieval, and language AI.</span></p><p style=\"line-height: 115%;\">&nbsp;</p></li></ul><p><span style=\"font-size: 11pt;\"><strong>Qualifications:</strong></span></p><p><span style=\"font-size: 11pt;\"><strong>Required</strong></span></p><ul style=\"list-style-type: disc; padding-left: 48px;\"><li><p style=\"line-height: 115%;\"><span style=\"font-size: 11pt; line-height: 115%;\">Bachelor's degree or equivalent work experience with experience preferred in related fields.</span></p></li><li><p style=\"line-height: 115%;\"><span style=\"font-size: 11pt; line-height: 115%;\">Extensive experience in data science, NLP, text analytics, knowledge engineering, knowledge management, content operations, proposal enablement, sales analytics, or related strategic and analytical roles.</span></p></li><li><p style=\"line-height: 115%;\"><span style=\"font-size: 11pt; line-height: 115%;\">Strong experience working with large-scale unstructured text data, document-centric repositories, and enterprise content libraries.</span></p></li><li><p style=\"line-height: 115%;\"><span style=\"font-size: 11pt; line-height: 115%;\">Demonstrated expertise in NLP and language-focused machine learning techniques such as semantic search, sentence embeddings, similarity scoring, classification, clustering, duplicate detection, topic extraction, summarization, named entity recognition, and information extraction.</span></p></li><li><p style=\"line-height: 115%;\"><span style=\"font-size: 11pt; line-height: 115%;\">Experience designing analytical or AI-driven solutions for content that must balance technical accuracy, control sensitivity, regulatory or service-related precision, and clear client-facing communication.</span></p></li><li><p style=\"line-height: 115%;\"><span style=\"font-size: 11pt; line-height: 115%;\">Strong understanding of language quality dimensions such as factual consistency, technical precision, clarity, readability, tone, relevance, persuasiveness, and alignment to approved messaging.</span></p></li><li><p style=\"line-height: 115%;\"><span style=\"font-size: 11pt; line-height: 115%;\">Experience building scoring, ranking, recommendation, or retrieval frameworks for business text based on relevance, freshness, quality, specificity, strategic alignment, and reusability.</span></p></li><li><p style=\"line-height: 115%;\"><span style=\"font-size: 11pt; line-height: 115%;\">Experience designing taxonomies, ontologies, metadata models, and content schemas for enterprise content organization, retrieval, analytics, and governance.</span></p></li><li><p style=\"line-height: 115%;\"><span style=\"font-size: 11pt; line-height: 115%;\">Proficiency in Python and relevant data science and NLP libraries such as pandas, NumPy, scikit-learn, spaCy, NLTK, transformers, sentence-transformers, and related frameworks.</span></p></li><li><p style=\"line-height: 115%;\"><span style=\"font-size: 11pt; line-height: 115%;\">Strong SQL skills and familiarity with data engineering concepts supporting text-centric workflows, corpus management, feature generation, and integration of structured and unstructured data sources.</span></p></li><li><p style=\"line-height: 115%;\"><span style=\"font-size: 11pt; line-height: 115%;\">Experience with large language models, prompt design, response evaluation, retrieval-augmented generation concepts, human-in-the-loop review, and responsible AI practices in enterprise settings.</span></p></li><li><p style=\"line-height: 115%;\"><span style=\"font-size: 11pt; line-height: 115%;\">Demonstrated ability to operate effectively in a hands-on leadership role, balancing strategic direction, stakeholder engagement, and direct execution.</span></p></li><li><p style=\"line-height: 115%;\"><span style=\"font-size: 11pt; line-height: 115%;\">Ability to work effectively across technical, product, control, risk, and commercial business domains.</span></p></li><li><p style=\"line-height: 115%;\"><span style=\"font-size: 11pt; line-height: 115%;\">Effective communication, editorial judgment, and stakeholder management skills.</span></p></li><li><p style=\"line-height: 115%;\"><span style=\"font-size: 11pt; line-height: 115%;\">High proficiency in Excel, PowerPoint, and Word.</span></p></li></ul><p><span style=\"font-size: 11pt;\"><strong>Preferred</strong></span></p><ul style=\"list-style-type: disc; padding-left: 48px;\"><li><p style=\"line-height: 115%;\"><span style=\"font-size: 11pt; line-height: 115%;\">Master’s degree in data science, computer science, computational linguistics, information science, applied mathematics, knowledge systems, business analytics, or a related technical field.</span></p></li><li><p style=\"line-height: 115%;\"><span style=\"font-size: 11pt; line-height: 115%;\">10+ years of relevant work experience.</span></p></li><li><p style=\"line-height: 115%;\"><span style=\"font-size: 11pt; line-height: 115%;\">Asset Servicing industry knowledge and experience.</span></p></li><li><p style=\"line-height: 115%;\"><span style=\"font-size: 11pt; line-height: 115%;\">Experience in Deal Management, controls architecture, product management, proposal management, sales enablement, due diligence content, or consulting environments.</span></p><p>&nbsp;</p></li></ul>",
+      "ExternalPostedEndDate": null,
+      "ExternalPostedStartDate": "2026-09-03T12:26:37+00:00",
+      "ExternalQualificationsStr": "",
+      "ExternalResponsibilitiesStr": "",
+      "GeographyId": 300000090207991,
+      "GeographyNodeId": 100010357091663,
+      "HiringManager": null,
+      "HotJobFlag": false,
+      "Id": "80617",
+      "InternalQualificationsStr": "",
+      "InternalResponsibilitiesStr": "",
+      "InternationalTravelRequired": null,
+      "JobFamilyId": 300000094771360,
+      "JobFunction": "AI Engineering",
+      "JobFunctionCode": "AIENG",
+      "JobGrade": null,
+      "JobLevel": null,
+      "JobSchedule": "Full time",
+      "JobShift": "Day",
+      "JobType": null,
+      "LegalEmployer": null,
+      "LegalEmployerId": 300000003582023,
+      "NumberOfOpenings": null,
+      "ObjectVerNumberProfile": null,
+      "Organization": null,
+      "OrganizationDescriptionStr": "<p>At BNY, our culture speaks for itself, check out the latest BNY news at&nbsp;<a href=\"https://www.bny.com/corporate/global/en/about-us/newsroom.html\" target=\"_blank\" rel=\"nofollow\">BNY Newsroom</a>&nbsp;&amp;&nbsp;<a href=\"https://www.linkedin.com/company/bnyglobal/posts/?feedView=all\" target=\"_blank\" rel=\"nofollow\">BNY LinkedIn</a></p>\n<p style=\"margin-bottom:0in\">&nbsp;Here’s a few of our recent awards:</p>\n<ul style=\"margin-top:0in\">\n <li style=\"margin-bottom:0in\">America’s Most Innovative Companies, Fortune, 2025</li>\n <li style=\"margin-bottom:0in\">World’s Most Admired Companies, Fortune 2025</li>\n <li style=\"margin-bottom:0in\">“Most Just Companies”, Just Capital and CNBC, 2025</li>\n</ul>\n<ul></ul>\n<p>Our Benefits and Rewards:</p>\n<p>BNY offers highly competitive compensation, benefits, and wellbeing programs rooted in a strong culture of excellence and our pay-for-performance philosophy. We provide access to flexible global resources and tools for your life’s journey. Focus on your health, foster your personal resilience, and reach your financial goals as a valued member of our team, along with generous paid leaves, including paid volunteer time, that can support you and your family through moments that matter.</p>\n<p>BNY is an Equal Employment Opportunity/Affirmative Action Employer - Underrepresented racial and ethnic groups/Females/Individuals with Disabilities/Protected Veterans.</p>\n<p>BNY assesses market data to ensure a competitive compensation package for our employees. The expected base salary for this position when employment commences can be found in the Job Info section at the bottom of the posting.&nbsp;</p>\n<p>Base salary offered may vary depending on multiple individualized factors, including market location, job-related knowledge, skills, and experience. Base salary is only part of the total rewards package, which may include eligibility for an annual discretionary incentive award. Subject to the terms and conditions of the applicable plans then in effect, eligible employees may enroll in a 401(k) plan as well as participate in Company-sponsored medical, dental, vision, and basic life insurance plans for the employee and the employee’s eligible dependents. Eligible employees also may receive other benefits (including various paid time off benefits, such as vacation and sick time), dependent on the position offered. Details of participation in these benefit plans will be provided if an employee receives an offer of employment.</p>\n<p>If hired, the employee will be in an “at will” position and the Company reserves the right to modify base salary (as well as any other discretionary payments or compensation programs) at any time, including for reasons related to individual performance, Company or individual department/team performance, and market factors.</p>",
+      "OrganizationId": 300000094767938,
+      "OtherRequisitionTitle": null,
+      "PrimaryLocation": "Boston, MA, United States",
+      "PrimaryLocationCountry": "US",
+      "RequisitionId": 300010698931878,
+      "RequisitionType": "Experienced",
+      "ShortDescriptionStr": "",
+      "StudyLevel": null,
+      "Title": "Senior Vice President, Data Science Manager",
+      "TrendingFlag": false,
+      "WorkDays": null,
+      "WorkHours": null,
+      "WorkMonths": null,
+      "WorkYears": null,
+      "WorkerType": null,
+      "WorkplaceType": "Hybrid",
+      "WorkplaceTypeCode": "ORA_HYBRID",
+      "media": [],
+      "otherWorkLocations": [],
+      "primaryLocationCoordinates": [
+        {
+          "CountryCode": "US",
+          "GeographyId": 300000090207991,
+          "GeographyNodeId": 100010357091663,
+          "Latitude": "42.35866",
+          "Longitude": "-71.05674"
+        }
+      ],
+      "requisitionFlexFields": [
+        {
+          "ControlType": "TextArea",
+          "Prompt": "Base Salary Min",
+          "SequenceNumber": 12,
+          "Value": "120000"
+        },
+        {
+          "ControlType": "TextArea",
+          "Prompt": "Base Salary Max",
+          "SequenceNumber": 21,
+          "Value": "283000"
+        }
+      ],
+      "secondaryLocations": [],
+      "skills": [],
+      "workLocation": [
+        {
+          "AddressLine1": "BNY Mellon Center",
+          "AddressLine2": "1 Boston Place",
+          "AddressLine3": null,
+          "AddressLine4": null,
+          "Building": null,
+          "Country": "US",
+          "Latitude": "42.35796",
+          "LocationId": 300000129873179,
+          "LocationName": "1 Boston Place,Boston,MA",
+          "Longitude": "-71.06407",
+          "PostalCode": "02108",
+          "Region1": "Suffolk",
+          "Region2": "MA",
+          "Region3": null,
+          "TownOrCity": "Boston"
+        }
+      ]
+    }
+  ],
+  "limit": 499,
+  "links": [
+    {
+      "href": "https://eofe.fa.us2.oraclecloud.com:443/hcmRestApi/resources/11.13.18.05/recruitingCEJobRequisitionDetails",
+      "kind": "collection",
+      "name": "recruitingCEJobRequisitionDetails",
+      "rel": "self"
+    }
+  ],
+  "offset": 0
+}

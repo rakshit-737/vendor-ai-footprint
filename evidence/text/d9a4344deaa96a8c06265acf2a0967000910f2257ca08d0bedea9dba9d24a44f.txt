@@ -1,0 +1,3 @@
+10_14_26_VCF Webinar Registration Email Campaign
+
+On October 14 we have Ethan Palmer, Broadcom VCF Knight, from Carahsoft and Ryan Bark, Broadcom Enterprise Software Knight, from AutomWorx talking through what VCF 9 changes for infrastructure teams, and how Automic keeps the application layer in step.

@@ -1,0 +1,23 @@
+Topic: 
+                
+            
+            
+            Type: 
+                ACH
+            
+        
+                                
+             Member Fee: 
+                 $0
+            
+            
+            Non-Member Fee: 
+                $50
+            
+            
+            
+                
+            
+        
+        
+            These sample procedures provide a great starting point to build procedures for handling late return requests for ACH entries, both from the Receiving Depositary Financial Institution (RDFI) and Originating Depositary Financial Institution (ODFI) positions. Also included are sample documents for Permissible Return Requests for both Corporates and Consumer ACH entries.

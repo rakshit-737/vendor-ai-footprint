@@ -1,0 +1,23 @@
+The second Payment Services Directive (2015/2366) (PSD2) is a broad-reaching piece of legislation fostering innovative transformation across the European payments landscape. The rules and framework of PSD2 promote innovation and competition; increase access to payment systems; enhance security of online banking services; and provide further protections to customers across Europe.
+  Under Article 32(4) of Commission Delegated Regulation (EU) 2018/389 on Regulatory Technical Standards for Strong Customer Authentication and Common and Secure Open Standards of Communication, and under Article 32(4) of the UK Technical Standards on Strong Customer Authentication and Common and Secure Methods of Communication Instrument 2020, BNY is required to publish on its website quarterly data on the availability and performance of its dedicated interface, for payment initiation service providers, account information service providers and card-based payment instrument issuers (collectively third party providers or TPPs) and of the online interface used by its payment service users (PSU).
+  In order to provide a comparison with the TPP dedicated interface for performance purposes, the method of extracting the online interface performance data means that specific transaction types cannot be excluded. 
+  As well as payment and account inquiry activity the online interface statistics include processing of non-payment instructions. Please note that the response times for non-payment instructions are very similar to the response times for payment instructions.
+  As the PSU statistics are provided at the online interface level, which is accessed by customers globally, the data provided is derived from activity across accounts in all BNY locations that utilise the interface.
+1 January - 31 March
+1 July - 30 September
+1 October - 31 December
+1 October - 30 December
+1 July - 30 September
+1 January - 31 March
+1 October- 31 December
+1 July - 30 September
+1 January - 31 March
+1 October - 31 December
+1 July - 30 September
+1 January - 31 March
+1 October - 31 December
+1 July - 30 September
+1 January - 31 March
+1 October - 31 December
+1 July - 30 September
+1 October - 31 December

@@ -1,0 +1,181 @@
+Webinar: Web Monitoring &#38; Banner SaaS &#8211; Applications Manager
+
+Learn more about the web monitoring feature in Applications Manager (AppWorx) and Banner SaaS.
+
+I. AutomWorx Introduction
+
+A. Organization Overview
+
+Consulting organization working within the Broadcom ecosystem.
+
+Part of the Expert Advantage Partner Program.
+
+B. Core Services
+
+Migrations and upgrades.
+
+Licensing and training.
+
+Ensuring internal team expertise for workload automation platform (Applications Manager/AM).
+
+C. History and Achievements
+
+Founded in 2019.
+
+Delivered thousands of hours of consulting and support (including extended support for older Applications Manager versions).
+
+Team includes several “Knights” (Broadcom recognition for excellence in workload automation).
+
+Awarded a Rising Star for technical enablement in 2023.
+
+Continuously adding new automations across different applications.
+
+D. Service Offerings
+
+Consulting and training services.
+
+Focus on Applications Manager, Banner, and other stack applications.
+
+E. Disclaimer
+
+Discussion of forward-looking technologies is not a promise of feature delivery.
+
+II. Applications Manager Product Direction & Roadmap (Frederick Kalun, Principal Product Manager)
+
+A. Product Direction: 3 Main Topics
+
+Secure AM Overhaul
+
+Addressing customer movement to the cloud.
+
+Easy SSL (easy installation and configuration).
+
+HTML2 (protocol for SSO opportunities).
+
+Password management.
+
+Support Customer Agreement
+
+Cloud, Oracle RAC, DevOps, and Banner support.
+
+Following new challenges and requirements.
+
+Interface Innovations
+
+Client on Mac (improvement from a Request For Enhancement – RFE).
+
+REST API introduction.
+
+Web UI (WebMonitor) introduction.
+
+III. Delivered Features (9.5 and 9.6)
+
+A. Version 9.5 Deliveries
+
+DevOps Utilities: Command lines to export process flows/jobs in JSON format for external processes (e.g., GitHub). Allows easy update of job definitions.
+
+Upgrade & Compatibility:
+
+Maintains backward compatibility (upgrade MI first, then agents gradually).
+
+Remote agent upgrade capability.
+
+Oracle RAC Failover: Initial detection of failover, followed by automatic RMI stop/restart.
+
+Cloud-Friendly: Support for cloud environments (Amazon, GCP) and containerization (e.g., Docker for agents).
+
+B. Version 9.6 Deliveries
+
+Interface Enhancements:
+
+Client improvement (client on Mac available).
+
+Interface Theme Configuration (e.g., color-coding environments).
+
+Enhancement and Custom Pop-up Message (RFE for maintenance windows/legal notices).
+
+Security & Utilities:
+
+Password Storage Management (e.g., preventing reuse, field options).
+
+TPU Notification (SMTP security improvement).
+
+REST API & Web UI:
+
+First delivery of REST APIs (mainly for monitoring jobs/agents).
+
+Web interface (WebMonitor) uses these REST APIs.
+
+Oracle RAC Load Balancing: Allows management of Oracle WAC load balancing (after failover support).
+
+IV. Near-Term Roadmap & Future Direction
+
+A. Version 9.6.2 (Current December Delivery)
+
+Mainly maintenance (defects and vulnerabilities).
+
+Banner SaaS Rapid Agent 1.0.
+
+Java 25 certification.
+
+B. Version 10.0 (Tentatively Half 2 2026)
+
+WebMonitor: New web interface dedicated to monitoring (dashboard, job history, agent management).
+
+Value: Eliminates the need for a dedicated client installation on laptops/machines; accessible via web browser.
+
+Will maintain backward compatibility and easy upgrade path from 9.6.
+
+Security:
+
+SML2 certification (enables SSO).
+
+TVP certification (enables mobile phone notifications).
+
+Database encryption.
+
+Easy SSL implementation.
+
+Reliability & Notifications:
+
+Notification Retry: Queues email notifications when the SMTP server is down.
+
+Oracle RAC Failover Improvement: Target is seamless failover without RMI stop/restart.
+
+Client Customization: Maintains client customization during upgrade.
+
+REST API Completion: Extension of REST APIs beyond monitoring.
+
+C. Post-10.0 Future/Backlog
+
+Continued REST API delivery and extension.
+
+Incorporate feedback from WebMonitor usage (RFEs are crucial for product improvement).
+
+Banner REST API improvements (e.g., enabling the capture feature for Banner SaaS).
+
+Support for other databases (e.g., Postgres, MySQL) by improving the database layer.
+
+V. Questions and Clarifications
+
+A. Ellucian Certification for Banner SaaS
+
+Broadcom worked with Ellucian on the new Banner SaaS interface.
+
+Goal was to meet Ellucian’s requests (REST API, Web UI, Postgres support).
+
+Certification has not yet been obtained from Ellucian for the new interface.
+
+Customer feedback to Ellucian could help achieve certification.
+
+B. Banner SaaS Installation
+
+RA Banner SaaS Rapid Agent submits jobs to SaaS.
+
+Applications Manager (AM) remains on-prem or in the cloud (e.g., an Amazon machine). AM is not currently a SaaS offering.
+
+C. Red Hat EL-10 Support
+
+Certification/support status for Red Hat EL-10 in Applications Manager 9.6.2 needs to be checked against the backlog.
+
+Take Me To The Webinar
