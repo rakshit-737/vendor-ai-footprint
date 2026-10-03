@@ -51,8 +51,17 @@ Cell = str | int | float | None
 SEP = " — "
 """' — ' (U+2014): the separator of V-000's N5, P5 and R5."""
 
-CLOSING = "Entries are recorded in the Evidence Log sheet with retrieval dates and screenshots."
-"""Last sentence of column P for every verdict (design 2.8)."""
+CLOSING = "Entries are recorded in the Evidence Log sheet with retrieval dates and SHA-256 hashes."
+"""Last sentence of column P when no cited item has a screenshot (it never claims screenshots that do not exist)."""
+
+CLOSING_SHOTS = "Entries are recorded in the Evidence Log sheet with retrieval dates and screenshots."
+"""Last sentence of column P (design 2.8) when at least one cited item has an excerpt screenshot."""
+
+
+def closing_sentence(items: Sequence[EvidenceItem]) -> str:
+    """CLOSING_SHOTS when a cited (non-Logged) item has a screenshot file, else CLOSING."""
+    has = any(i.screenshot_path and i.role != "Logged" for i in items)
+    return CLOSING_SHOTS if has else CLOSING
 
 NO_EXCERPT = "No verified excerpt evidences AI use in the service."
 """Opens column P for an Inconclusive or No verdict that has no decisive item to quote."""
@@ -377,7 +386,7 @@ def _cell_p(view: _View) -> str:
         segments.append((2 if view.yes else 1, 10, register))
     for n, text in enumerate(families):
         segments.append((10 + n, 20 + n, text))
-    return _fit_segments(segments, CLOSING, DEFAULT_LENGTH_BUDGETS["evidence"])
+    return _fit_segments(segments, closing_sentence(view.items), DEFAULT_LENGTH_BUDGETS["evidence"])
 
 
 def _inconclusive_prefix(item: EvidenceItem, conflict: bool) -> str:
@@ -1351,7 +1360,9 @@ _VERDICT_LEGEND: tuple[tuple[str, str], ...] = (
     ("Corroborating signal (K)", "SR A-C, SP S2 or higher, RL R2 or higher, RC T1 or newer, class U1-U4, from an "
                                  "independent origin cluster"),
     ("Independent", "a different origin cluster (token-set similarity below 90 and different titles) and a "
-                    "different publisher or source family; partner mirrors of one release form one cluster"),
+                    "different publisher or source family; partner mirrors of one release form one cluster; a third-party "
+                    "copy of the vendor's own words (press-release mirror) counts as the vendor and is independent "
+                    "only of a third-party item of another publisher; one source counts once"),
     ("a) Conflict", "a Q contradicted for the same service by an A/B limiting statement dated the same day or "
                     "later: Inconclusive, raised as a questionnaire item"),
     ("b) Confirmed", "a Q at R3 plus an independent K: Yes"),
@@ -1440,7 +1451,8 @@ def method_legend_p3(spec: SheetSpec, *, questions: LegendTable | None = None, c
         ("No verdict", f"{LIMITING} or {COUNTER}, then the negative findings"),
         ("Quotes", "exact excerpts, never shortened; runs of spaces and line breaks show as one space, and the "
                    "Evidence Log keeps the exact slice with its offsets and SHA-256"),
-        ("Every verdict", f"Negative finding{SEP}what was not found, where (Coverage Log C-ID); then: {CLOSING}"),
+        ("Every verdict", f"Negative finding{SEP}what was not found, where (Coverage Log C-ID); then: {CLOSING_SHOTS} (or, "
+                          f"when no cited item has a screenshot: {CLOSING})"),
     ]
     add_section(spec, "Column P prefixes", prefixes)
     add_section(spec, "Genuine use vs marketing (tests in order)", _TESTS_LEGEND)
