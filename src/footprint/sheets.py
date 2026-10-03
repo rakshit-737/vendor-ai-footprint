@@ -138,13 +138,33 @@ COVERAGE_HEADERS: list[str] = ["Vendor ID", "Family", "Mandatory", "Status", "Co
                                "Requests used", "Cap", "Documents", "AI passages", "Note"]
 
 
-def coverage_log_sheet(entries: Iterable[CoverageEntry]) -> SheetSpec:
-    """Coverage Log: one row per (vendor, family, collector) search, negative evidence included."""
-    rows: list[list[Cell]] = [
-        [e.vendor_id, e.family.value, "Yes" if e.mandatory else "No", e.status.value, e.collector, e.endpoint,
-         e.requests_used, e.cap, e.documents, e.ai_passages, e.note]
-        for e in entries
-    ]
+FAMILY_SUMMARY_LABEL = "family (summary)"
+
+
+def coverage_log_sheet(entries: Iterable[CoverageEntry], summary: Iterable[CoverageEntry] | None = None) -> SheetSpec:
+    """Coverage Log: one row per (vendor, family, collector) search, negative evidence included.
+
+    With ``summary`` (``pipeline.aggregate_coverage`` rows), each vendor's block starts with one row per family
+    giving the family's single status (collector "family (summary)"), followed by the per-collector detail rows.
+    """
+    def row(e: CoverageEntry, collector: str) -> list[Cell]:
+        return [e.vendor_id, e.family.value, "Yes" if e.mandatory else "No", e.status.value, collector, e.endpoint,
+                e.requests_used, e.cap, e.documents, e.ai_passages, e.note]
+
+    details = list(entries)
+    rows: list[list[Cell]] = []
+    if summary is None:
+        rows = [row(e, e.collector) for e in details]
+    else:
+        summ = list(summary)
+        vendors = list(dict.fromkeys([e.vendor_id for e in summ] + [e.vendor_id for e in details]))
+        for vid in vendors:
+            rows += [row(e, FAMILY_SUMMARY_LABEL) for e in summ if e.vendor_id == vid]
+            rows += [row(e, e.collector) for e in details if e.vendor_id == vid]
+    note = "What was searched, how, and the result; a done row with 0 AI passages is negative evidence."
+    if summary is not None:
+        note += (" Family rows give one status per family: done_manual > stopped > done when any search completed, "
+                 "else pending > blocked_tou > blocked_robots > blocked_bot > error > descoped; not_applicable only "
+                 "when every search was not applicable.")
     return SheetSpec(title=COVERAGE_LOG_TITLE, headers=COVERAGE_HEADERS, rows=rows,
-                     column_widths=[10, 8, 10, 15, 12, 40, 9, 6, 9, 9, 60],
-                     note="What was searched, how, and the result; a done row with 0 AI passages is negative evidence.")
+                     column_widths=[10, 8, 10, 15, 12, 40, 9, 6, 9, 9, 60], note=note)
