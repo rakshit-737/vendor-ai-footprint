@@ -1,0 +1,20 @@
+# Streamlit settings for the footprint demo app. Streamlit reads this script-level file (next to
+# app/streamlit_app.py) after the user-level and working-directory ones, so the app keeps these settings from any
+# working directory, from a fresh clone and from an extracted Colab bundle. Keep it identical to
+# ../../.streamlit/config.toml (tests/unit/test_app.py checks both).
+# Confidential case-study material: the app serves this machine only and reports nothing to Streamlit.
+
+[server]
+address = "localhost"     # never listen on other interfaces
+runOnSave = false         # reruns only on user action
+maxUploadSize = 25        # MB; the vendor inventory is a small .xlsx
+
+[browser]
+gatherUsageStats = false  # no usage statistics leave the machine
+serverAddress = "localhost"
+
+[client]
+showErrorDetails = "none" # no tracebacks in the browser; the pages show short, scrubbed messages
+
+[theme]
+primaryColor = "#0f766e"
