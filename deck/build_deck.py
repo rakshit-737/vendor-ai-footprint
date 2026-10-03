@@ -1115,7 +1115,11 @@ def s07_weight(prs: Any, ctx: Context) -> None:
         (v.trap for v in ctx.vendors if v.trap), None)
     trap_vendor = next((v for v in ctx.vendors if v.trap is not None and v.trap == trap), None)
     strong_vendor = ctx.chain
-    strong = next((e for e in (strong_vendor.evidence if strong_vendor else []) if e.strength == "Strong"), None)
+    cited = list(strong_vendor.evidence) if strong_vendor else []
+    # With no Strong item in the run (every Yes is Probable), show the strongest cited item instead of the
+    # scouting placeholder, so the card never claims a strength or verdict the run does not have.
+    strong = next((e for e in cited if e.strength == "Strong"), None) or next(
+        (e for e in cited if e.strength == "Moderate"), None)
     notes = ["[1:00] Outcome 03: evidentiary weight.",
              "Every verified excerpt carries a tag card. U is the signal class, from U1 (AI in the exact service) to "
              "U8 (a limiting statement). SR is source reliability, set by the source type. SP is specificity from "
@@ -1128,7 +1132,7 @@ def s07_weight(prs: Any, ctx: Context) -> None:
         notes.append(f"Trap shown: {trap_vendor.vendor_id} {trap_vendor.name}, {trap.evidence_id or 'logged item'}, "
                      f"{trap.source_type}: \"{trap.excerpt}\"")
     if strong and strong_vendor:
-        notes.append(f"Strong item shown: {strong_vendor.vendor_id} {strong_vendor.name}, {strong.evidence_id}, "
+        notes.append(f"{strong.strength} item shown:{strong_vendor.vendor_id} {strong_vendor.name}, {strong.evidence_id}, "
                      f"{strong.source_type} ({strong.tags}): \"{strong.excerpt}\"")
     if not (trap and strong):
         notes.append("Placeholder examples come from scouting; the build with --findings swaps in the verified "
@@ -1208,15 +1212,15 @@ def s07_weight(prs: Any, ctx: Context) -> None:
     if strong and strong_vendor:
         strong_text = [P(R(f"{strong_vendor.name} · {strong.source_type} · {strong.evidence_id}", size=10, bold=True,
                            color=C.INK)), P(R(quote(strong.excerpt, 150), size=10, italic=True))]
-        tags_line = f"{strong.tags} → Strong; {strong.role or 'Primary'} source for {strong_vendor.usage} " \
-                    f"({strong_vendor.verdict})."
+        tags_line = f"{strong.tags} → {strong.strength}; {strong.role or 'Primary'} source for " \
+                    f"{strong_vendor.usage} ({strong_vendor.verdict})."
     else:
         strong_text = [P(R("BNY · scouting example", size=10, bold=True, color=C.INK)),
                        P(R("The instant-payments product page ties AI-enabled anomaly detection to its RTP network "
                            "connection.", size=10, italic=True))]
         tags_line = "U1 · SR B · RL R3 → Strong: the Primary source for a Yes (Confirmed) verdict."
     strong_text.append(P(R(tags_line, size=10, color=C.SLATE), space_before=3))
-    card(slide, cx, 5.5, cw, 1.3, "Strong · cited", strong_text, fill=C.TEAL_TINT, title_color=C.TEAL_DARK,
+    card(slide, cx, 5.5, cw, 1.3, f"{strong.strength if strong else 'Strong'} · cited", strong_text, fill=C.TEAL_TINT, title_color=C.TEAL_DARK,
          title_size=11, name="Strong card")
 
 
@@ -1510,7 +1514,8 @@ def s10_depth(prs: Any, ctx: Context) -> None:
     hosts = and_list(bare or manual) + (f" (+{len(manual) - len(bare)} more)" if bare and len(manual) > len(bare)
                                         else "")
     card(slide, rx, 4.8, rw, 0.82, "Manual capture only", [
-        P(R(f"{hosts}: analyst capture under a sampling protocol, never sent to Gemini" if manual else
+        P(R(f"{hosts}: analyst capture only (none this run); never sent to Gemini"
+            if manual else
             "Hosts whose terms bar automation are captured by an analyst", size=10))], name="Manual card")
     card(slide, rx, 5.74, rw, 1.06, "Reserved for Meridian (non-OSINT)", [
         P(R("; ".join(critical.reserved_for_meridian), size=10))], fill=C.SAFFRON_TINT, name="Reserved card")
@@ -1521,7 +1526,7 @@ def s11_findings(prs: Any, ctx: Context) -> None:
     data = ctx.data
     if v and data:
         top = v.evidence[0] if v.evidence else None
-        basis = f"a {top.strength.lower()} {top.source_type.lower()}" if top else "the evidence"
+        basis = f"a {top.strength.lower()}-strength {top.source_type} excerpt" if top else "the evidence"
         kicker = (f"{v.name}: {verdict_words(v, sep='(')} from {basis}; exposure {v.e}/3, decision impact {v.k}/3, "
                   f"tier {v.tp}, transparency gap {v.tg} → {v.arp} of 18 = {v.risk}"
                   + (" (provisional)." if v.provisional else "."))
@@ -1923,7 +1928,8 @@ def s13_recommendations(prs: Any, ctx: Context) -> None:
              "Escalate vendors that do not answer to the Third-Party Risk Committee.",
              "Re-scan annually or on material change; replay keeps runs comparable."]
     controls = ["Private repository; nothing published; no vendor contacted; GET requests only.",
-                "Terms register, robots.txt and rate limits before every request; barred sites captured by hand.",
+                "Terms register, robots.txt and rate limits before every request; barred hosts "
+                "logged as gaps, not crawled.",
                 "Only public vendor text reaches Gemini, through the payload guard, with an audit log.",
                 "Replay reproduces identical L–V cells from the SHA-256 evidence pack."]
     as_of = ctx.data.as_of if ctx.data and ctx.data.as_of else ctx.as_of
@@ -2180,7 +2186,7 @@ def a06_vendor(prs: Any, ctx: Context, v: DeckVendor, number: int) -> None:
             body.append(P(R(heading, size=10, bold=True, color=C.INK), space_before=8))
             body.append(P(R(clip(text, limit), size=10.5)))
             room -= limit
-    card(slide, LEFT, 1.8, 7.3, 3.5, "Decisive evidence", body, name="Vendor evidence card")
+    card(slide, LEFT, 1.8, 7.3, 3.2, "Decisive evidence", body, name="Vendor evidence card")
     reasoning = [P(R(f"It is {v.likelihood or 'not stated how likely it is'} that the vendor uses AI in the service. "
                      f"Confidence is {(v.confidence or 'unrated').lower()}"
                      + (f" because {v.confidence_reason}." if v.confidence_reason else "."), size=10.5))]
@@ -2191,7 +2197,7 @@ def a06_vendor(prs: Any, ctx: Context, v: DeckVendor, number: int) -> None:
     if v.trap and v.trap.evidence_id:
         reasoning.append(P(R(f"Definition-test trap kept in the log, never cited: {v.trap.evidence_id}.", size=10.5,
                              color=C.MUTED), space_before=4))
-    card(slide, LEFT, 5.45, 7.3, 1.35, "Why this verdict", reasoning, fill=C.TEAL_TINT, name="Vendor reasoning")
+    card(slide, LEFT, 5.15, 7.3, 1.65, "Why this verdict", reasoning, fill=C.TEAL_TINT, name="Vendor reasoning")
     inputs = [
         P(R(f"exposure {v.e}/3{' (assumed)' if v.e_assumed else ''} · decision impact {v.k}/3"
             f"{' (assumed)' if v.k_assumed else ''}", size=10.5)),
