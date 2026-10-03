@@ -1151,7 +1151,9 @@ def evidence_log_sheet(findings_list: Sequence[VendorFindings]) -> SheetSpec:
         title=EVIDENCE_LOG_TITLE, headers=list(EVIDENCE_LOG_HEADERS), rows=rows,
         column_widths=list(EVIDENCE_LOG_WIDTHS),
         note="One row per evidence item considered, including rejected items and definition-test traps; the "
-             "cells cite the Evidence ID. Excerpts are exact slices of the captured text (offsets and SHA-256 given).",
+             "cells cite the Evidence ID. Excerpts are exact slices of the captured text (offsets and SHA-256 given). "
+             "Review and Reviewer record the HC2 decision; reviewer 'claude-ai-assisted' marks an AI-assisted "
+             "review, not an independent human review.",
     )
 
 
@@ -1174,7 +1176,7 @@ def evidence_status(item: EvidenceItem) -> str:
     if item.tags.ai_type == "not_ai":
         return "trap: not AI under the definition test"
     if item.review_status == "rejected":
-        return "rejected by analyst"
+        return "rejected in AI-assisted review" if "ai-assisted" in item.reviewer.casefold() else "rejected by analyst"
     if item.proposed:
         return "proposed by the LLM, awaiting analyst review"
     return "citable"
