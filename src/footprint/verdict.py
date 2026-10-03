@@ -144,6 +144,11 @@ except ModuleNotFoundError as exc:  # pragma: no cover - only before footprint/c
     if exc.name not in ("footprint.cluster", "footprint.rules"):
         raise
     independent = _mirror_independent
+try:
+    from footprint.cluster import distinct_sources as _distinct_sources
+except ModuleNotFoundError:  # pragma: no cover
+    def _distinct_sources(items, *, prefer=()):  # type: ignore[no-redef]
+        return list(items)
 
 
 # --------------------------------------------------------------------------- ranking and dates
@@ -203,6 +208,11 @@ def _per_cluster(items: Sequence[EvidenceItem], prefer: Sequence[EvidenceItem] =
     for item in [*(p for p in prefer if p.item_key in wanted), *sorted(items, key=rank_key)]:
         best.setdefault(_cluster(item), item)
     return sorted(best.values(), key=rank_key)
+
+
+def _sources(items: Sequence[EvidenceItem], prefer: Sequence[EvidenceItem] = ()) -> list[EvidenceItem]:
+    """One item per independent source (cluster.distinct_sources over one item per origin cluster), best first."""
+    return sorted(_distinct_sources(_per_cluster(items, prefer=prefer), prefer=prefer), key=rank_key)
 
 
 def _union(*groups: Sequence[EvidenceItem]) -> list[EvidenceItem]:
@@ -330,7 +340,7 @@ def _rule_b(ev: _Evidence, trace: list[str]) -> _Match | None:
     for q in exact:
         support = [k for k in ev.ks if k.item_key != q.item_key and independent(q, k)]
         if support:
-            n = len(_per_cluster(support))
+            n = len(_sources(support))
             trace.append(f"b) Confirmed: yes. {_sentence(_describe(q))} ties AI to the exact service and "
                          f"{_count(n, 'independent source')} corroborate{'s' if n == 1 else ''} it, first "
                          f"{_describe(support[0])}.")
@@ -519,7 +529,7 @@ def decide(items: Iterable[EvidenceItem], plan: DepthPlan, coverage: Iterable[Co
         confidence=confidence,
         confidence_reason=reason,
         qualifying=[i.item_key for i in _per_cluster(ev.qs, prefer=match.decisive)],
-        corroborating=[i.item_key for i in _per_cluster(match.corroborating, prefer=match.decisive)],
+        corroborating=[i.item_key for i in _sources(match.corroborating, prefer=match.decisive)],
         decisive=[i.item_key for i in match.decisive],
         coverage_complete=ev.complete,
         trace=trace,
