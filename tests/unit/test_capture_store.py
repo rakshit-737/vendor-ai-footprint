@@ -74,3 +74,21 @@ def test_text_store_exact(tmp_path):
 def test_get_raw_missing(tmp_path):
     with pytest.raises(KeyError):
         EvidenceStore(tmp_path / "evidence").get_raw("0" * 64)
+
+
+def test_put_blob_keeps_bytes_without_index_entry(tmp_path):
+    st = EvidenceStore(tmp_path / "evidence")
+    body = b"User-agent: *\nDisallow: /private\n"
+    sha = st.put_blob(body)
+    assert sha == hashlib.sha256(body).hexdigest() and st.get_blob(sha) == body
+    assert st.put_blob(body) == sha
+    assert st.captures() == [] and not (tmp_path / "evidence" / "index.jsonl").exists()
+
+
+def test_manual_captures_filter(tmp_path):
+    st = EvidenceStore(tmp_path / "evidence")
+    st.put_raw(b"auto", **_meta())
+    st.put_raw(b"m1", **_meta(manual=True, collector="manual", vendor_id="V-002"))
+    st.put_raw(b"m2", **_meta(manual=True, collector="manual", vendor_id="V-003"))
+    assert [c.vendor_id for c in st.manual_captures()] == ["V-002", "V-003"]
+    assert [c.vendor_id for c in st.manual_captures("V-002")] == ["V-002"]
