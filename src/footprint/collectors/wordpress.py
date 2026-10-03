@@ -11,8 +11,6 @@ from __future__ import annotations
 import json
 from urllib.parse import quote_plus
 
-from lxml import html as lhtml
-
 from footprint.collectors.base import (
     AI_SEARCH_TERMS,
     CollectContext,
@@ -21,6 +19,7 @@ from footprint.collectors.base import (
     status_for,
     vendor_domains,
 )
+from footprint.extract import html_fragment_text
 from footprint.models import CollectorResult, CoverageStatus, DepthPlan, SourceFamily, VendorProfile
 
 FIELDS = "id,date,modified,link,title,content"
@@ -28,12 +27,14 @@ PER_PAGE = 100
 
 
 def html_to_text(fragment: str) -> str:
-    if not fragment or not fragment.strip():
-        return ""
-    try:
-        return " ".join(lhtml.fromstring(fragment).text_content().split())
-    except Exception:  # noqa: BLE001
-        return fragment
+    """Plain text of an HTML fragment with one block per paragraph, list item or line break (blank-line
+    separated), so sentences of adjacent blocks never run together (``footprint.extract.html_fragment_text``)."""
+    return html_fragment_text(fragment)
+
+
+def html_title(fragment: str) -> str:
+    """A title or other one-line field: entities decoded, tags dropped, whitespace collapsed."""
+    return " ".join(html_fragment_text(fragment).split())
 
 
 def _rendered(v) -> str:
@@ -123,7 +124,7 @@ class WordPressCollector:
                     if key in seen:
                         continue
                     seen.add(key)
-                    title = html_to_text(_rendered(it.get("title")))
+                    title = html_title(_rendered(it.get("title")))
                     body = html_to_text(_rendered(it.get("content")))
                     text = f"{title}\n\n{body}\n"
                     doc = make_text_document(ctx, out.capture, text, kind="html", title=title,
