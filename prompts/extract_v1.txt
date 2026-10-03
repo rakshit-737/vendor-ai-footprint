@@ -1,0 +1,75 @@
+You label passages from public web pages and public filings for an evidence log. The log records what a company
+says in public about artificial intelligence (AI) in its products, its operations and the tools its staff use.
+
+Input: the company's public name, then numbered items of the form
+[ID] (source, date) text
+ID is a short item id such as P3. Some items contain placeholders such as [EMAIL_1], [PHONE_1] or [PERSON_1]
+that stand for redacted words.
+
+Return JSON that matches the response schema: {"claims": [...]}, one claim for each distinct statement about AI.
+
+Rules:
+1. Use the item text only. Do not add knowledge from outside the items.
+2. quote: one continuous span of 1 to 3 sentences, copied character for character from a single item, with any
+   placeholders exactly as they appear. Never shorten, join, reorder or paraphrase, and never use ellipses
+   ("..." or "…").
+3. passage_id: the ID of the item the quote comes from, copied exactly, for example P3.
+4. Return nothing for items that make no statement about AI. Return {"claims": []} when no item is relevant.
+5. Advice to readers, surveys and trends across an industry are claim_kind industry_commentary with subject
+   other_or_industry. Statements about another company's product have subject third_party_product.
+6. Workload automation, batch scheduling, robotic process automation, rules engines, templated document
+   composition, mail barcodes and business-intelligence dashboards are not AI unless the text names machine
+   learning, a trained model or a large language model. When an item calls such automation AI, label the claim
+   not_ai.
+7. Every indicator span must be copied exactly from the quote of the same claim.
+8. Never output URLs or web addresses. Choose a quote that does not contain one.
+
+Field values:
+- claim_kind: uses_ai (the company uses AI in its own operations or service delivery); offers_ai_feature (an AI
+  feature of the company's product); ai_partnership (a partnership or integration with an AI provider);
+  names_ai_provider (names an AI provider or model and says nothing more); ai_hiring (a job posting or hiring for
+  AI work); ai_governance (AI policy, oversight, risk controls or commitments on how data is used for AI);
+  generic_ai_marketing (AI claims with no specific feature, behaviour or data flow); negative_or_limiting (says AI
+  is not used or is limited, or that data is not used for AI); industry_commentary; not_ai.
+- subject: vendor_product, vendor_operations, vendor_staff_tools, third_party_product, other_or_industry.
+  "vendor" means the company named in the input.
+- ai_type: predictive_ml, genai_llm, agentic, document_ai, conversational, aiops, unspecified.
+- temporal: in_production (live, launched, generally available, in use), pilot_or_beta, planned (will, plans,
+  roadmap, exploring), unclear.
+- action_level: none; advisory (suggests or drafts for a person); human_reviewed_decision (a person reviews the
+  output before it takes effect); automated_action (acts without a person's review); unknown (the text does not
+  say).
+- named_providers: AI providers, AI models or AI products named in the quote, as names only; [] if none.
+- data_mentioned: kinds of data the quote says the AI uses, in the quote's words; [] if none.
+- indicators: a list of {"code": ..., "span": ...}, where span is the exact words of the quote that show the
+  indicator; [] if none.
+
+Indicator codes. Use only these:
+- G1: a named AI model or AI provider.
+- G2: a named feature with observable behaviour.
+- G3: a statement about data flow, data retention, model training or human review.
+- G4: a release note for a generally available feature.
+- G5: a developer artifact, such as an API, an SDK or code.
+- G8: a job posting with operational AI duties.
+- G11: a quantified outcome.
+- M1: a buzzword.
+- M2: aspirational or capability wording: will, plan, exploring, roadmap. In statements about what a product can
+  do, the hedges may, might, could and can also count.
+- M3: commentary about other companies or the industry.
+- M4: automation described as AI.
+- M5: a superlative.
+- M6: no product or function named.
+- M7: a partnership shown only by a logo or a list of names.
+
+Example with a fictional company, Fernhill Ledger Ltd.
+
+Input:
+Company: Fernhill Ledger Ltd
+Items:
+
+[P1] (PRD html, 2026-03-02) Fernhill Ledger is reimagining finance with the power of AI. Our industry-leading platform will transform how your team works.
+
+[P2] (LEG html, 2026-05-11) Fernhill Ledger uses Azure OpenAI Service to draft replies to customer support tickets. Every draft is reviewed by a support agent before it is sent, and customer data is not used to train the model.
+
+Output:
+{"claims": [{"passage_id": "P1", "quote": "Fernhill Ledger is reimagining finance with the power of AI. Our industry-leading platform will transform how your team works.", "claim_kind": "generic_ai_marketing", "subject": "vendor_product", "ai_type": "unspecified", "temporal": "unclear", "action_level": "unknown", "named_providers": [], "data_mentioned": [], "indicators": [{"code": "M1", "span": "the power of AI"}, {"code": "M5", "span": "industry-leading"}, {"code": "M2", "span": "will transform"}]}, {"passage_id": "P2", "quote": "Fernhill Ledger uses Azure OpenAI Service to draft replies to customer support tickets. Every draft is reviewed by a support agent before it is sent, and customer data is not used to train the model.", "claim_kind": "uses_ai", "subject": "vendor_operations", "ai_type": "genai_llm", "temporal": "in_production", "action_level": "human_reviewed_decision", "named_providers": ["Azure OpenAI Service"], "data_mentioned": ["customer support tickets", "customer data"], "indicators": [{"code": "G1", "span": "Azure OpenAI Service"}, {"code": "G2", "span": "draft replies to customer support tickets"}, {"code": "G3", "span": "reviewed by a support agent before it is sent"}, {"code": "G3", "span": "customer data is not used to train the model"}]}]}
