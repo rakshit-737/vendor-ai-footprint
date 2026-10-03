@@ -61,3 +61,20 @@ def test_disagreement_is_error():
 def test_cap_zero_still_emits_coverage():
     res = DnsCollector().collect(F.ctx({}, seeds={"domains": ["automworx.com"]}, caps={SourceFamily.DNS: 0}))
     assert res.coverage and res.coverage[0].status == CoverageStatus.STOPPED
+
+
+def test_parse_doh_decodes_cloudflare_decimal_escapes():
+    """Regression (V-002 fiserv.com, V-005 bnymellon.com): Cloudflare returns TXT in RFC 1035 presentation format
+    (non-ASCII bytes as \\DDD), Google returns decoded UTF-8; both must normalise to the same record."""
+    goog = json.dumps({"Status": 0, "Answer": [
+        {"type": 16, "data": "“atlassian-domain-verification=raXq”"},
+        {"type": 16, "data": "workbrew-domain-verification-efjr2d=ерМCEyW2"},
+        {"type": 16, "data": "v=spf1 include:_spf.example.com -all"}]}).encode()
+    cf = json.dumps({"Status": 0, "Answer": [
+        {"type": 16, "data": r'"\226\128\156atlassian-domain-verification=raXq\226\128\157"'},
+        {"type": 16, "data": r'"workbrew-domain-verification-efjr2d=\208\181\209\128\208\156CEyW2"'},
+        {"type": 16, "data": '"v=spf1 include:" "_spf.example.com -all"'}]}).encode()
+    assert parse_doh(goog, "TXT") == parse_doh(cf, "TXT")
+    assert "v=spf1 include:_spf.example.com -all" in parse_doh(cf, "TXT")
+    esc = json.dumps({"Status": 0, "Answer": [{"type": 16, "data": r'"say \"hi\" \\ ok"'}]}).encode()
+    assert parse_doh(esc, "TXT") == ['say "hi" \\ ok']
