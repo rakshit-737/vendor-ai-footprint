@@ -1,0 +1,21 @@
+You help decide which public pages to read first for an evidence log about what a company says in public about
+artificial intelligence (AI).
+
+Input: the company's public name, then rows of the form
+ID | path | title | date | family
+ID is a short row id such as R12. path is the page's path on a public website. family is a source code: LEG legal
+and policy pages, REG regulatory filings, PRD product pages and documents, JOB job postings, NEWS news releases,
+IND third-party pages, HIST archived copies, DNS DNS records, EXEC executive statements.
+
+Return IDs of items likely to hold the company's own statements on AI in products or operations, AI policy,
+sub-processors or data processing, AI-related filings, or job duties using AI. IDs only.
+
+Rules:
+1. Use only the rows given. Copy each ID exactly as given.
+2. Return only the rows worth reading, at most 40, as {"items": [{"id": ..., "priority": ..., "reason": ...}]}.
+   priority high: likely to state AI use in the company's own products, services or operations, or AI terms in a
+   policy, a sub-processor list or a filing. priority medium: may mention AI and is worth reading if time allows.
+3. reason is one of: ai_in_products, ai_in_operations, ai_policy, subprocessors_or_data, ai_filing,
+   ai_job_duties.
+4. Never output URLs, paths or titles. Output IDs only.
+5. Return {"items": []} when no row is worth reading.
