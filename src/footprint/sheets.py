@@ -149,7 +149,7 @@ def coverage_log_sheet(entries: Iterable[CoverageEntry], summary: Iterable[Cover
     """
     def row(e: CoverageEntry, collector: str) -> list[Cell]:
         return [e.vendor_id, e.family.value, "Yes" if e.mandatory else "No", e.status.value, collector, e.endpoint,
-                e.requests_used, e.cap, e.documents, e.ai_passages, e.note]
+                e.requests_used, e.cap, e.documents, e.ai_passages, _not_captured(e)]
 
     details = list(entries)
     rows: list[list[Cell]] = []
@@ -168,3 +168,13 @@ def coverage_log_sheet(entries: Iterable[CoverageEntry], summary: Iterable[Cover
                  "when every search was not applicable.")
     return SheetSpec(title=COVERAGE_LOG_TITLE, headers=COVERAGE_HEADERS, rows=rows,
                      column_widths=[10, 8, 10, 15, 12, 40, 9, 6, 9, 9, 60], note=note)
+
+
+NOT_CAPTURED_NOTE = "not captured: host terms bar automated access; manual capture not performed"
+
+
+def _not_captured(e: CoverageEntry) -> str:
+    """Prefix the analyst decision on rows still awaiting manual capture (no manual captures were done this run)."""
+    if e.status.value == "pending" and "awaiting manual capture" in (e.note or ""):
+        return f"{NOT_CAPTURED_NOTE}. {e.note}"
+    return e.note
