@@ -123,7 +123,31 @@ def test_passages_cap_700(lex):
 def test_long_sentence_clamped(lex):
     t = "AI " + "word " * 300 + "end."
     (s, e, _), = find_passages(t, lex)
-    assert e - s == 700 and s == 0
+    assert s == 0 and 600 <= e - s <= 700 and t[s:e].startswith("AI ")
+
+
+def test_long_sentence_windows_follow_every_hit(lex):
+    """Regression (V-006 NOC Manager posting): a run-on block with several AI mentions far apart must give a
+    window around each mention, not only the first 700 characters."""
+    t = ("Intro " + "alpha " * 150 + "we leverage AI here " + "beta " * 200
+         + "Utilize AI-powered tools such as Microsoft Copilot daily " + "gamma " * 150 + "end.")
+    ps = find_passages(t, lex)
+    texts = [t[s:e] for s, e, _ in ps]
+    assert any("leverage AI here" in x for x in texts)
+    assert any("AI-powered tools such as Microsoft Copilot" in x for x in texts)
+    for s, e, _ in ps:
+        assert e - s <= 700
+        assert not t[s].isspace() and not t[e - 1].isspace()
+        assert s == 0 or t[s - 1].isspace()  # never starts mid-word
+
+
+def test_hyphen_compounds_and_plurals_count(lex):
+    assert "AI" in term_hits("Utilize AI-powered tools.", lex)
+    assert "AI" in term_hits("AI-ready data for advisors.", lex)
+    assert "AI agent" in term_hits("Six banks co-created AI agents.", lex)
+    assert "chatbot" in term_hits("Our chatbots answer.", lex)
+    assert "AI" not in term_hits("The non-AI path and PAID-up plans.", lex)
+    assert term_hits("Upgrade to Oracle 23ai now.", lex) == []
 
 
 # --- decoding / html ------------------------------------------------------
@@ -179,3 +203,59 @@ def test_extract_json():
     st = FakeStore()
     d = extract_document(cap(content_type="application/json"), b'{"b":1,"a":"AI"}', st)
     assert d.kind == "json" and '"a": "AI"' in st.texts[d.doc_id]
+
+
+# --- regressions from the first live run (2026-10-02) ----------------------
+
+def test_xml_declared_ixbrl_html_is_extracted(lex):
+    """SEC 10-K/10-Q inline XBRL files start with an XML declaration; lxml refuses a str that carries one."""
+    st = FakeStore()
+    raw = (b"<?xml version='1.0' encoding='ASCII'?>\n<html xmlns='http://www.w3.org/1999/xhtml'><head>"
+           b"<title>fi-20251231</title></head><body><div><span>We are investing in artificial intelligence "
+           b"to improve how we serve clients and to automate operations across the company.</span></div>"
+           b"</body></html>")
+    d = extract_document(cap(url_requested="https://www.sec.gov/x/fi-20251231.htm", content_type="text/html"), raw, st)
+    assert d.kind == "html" and "artificial intelligence" in st.texts[d.doc_id]
+    assert find_passages(st.texts[d.doc_id], lex)
+
+
+ELEMENTOR = b"""<html><head><title>Capabilities</title></head><body>
+<header class="elementor-location-header"><nav><a href="/">Home</a><a href="/ai">AI Platform</a></nav></header>
+<div class="elementor-widget-container"><h2>Capabilities</h2></div>
+<div class="elementor-element elementor-widget-text-editor">
+  NEO runs on enterprise-grade local inference infrastructure with GPU acceleration. Open-source large language
+  models are paired with retrieval-augmented generation over customer-environment knowledge graphs, and the AI
+  layer documents every engagement.</div>
+<div class="elementor-element elementor-widget-text-editor">Air-gapped by default</div>
+<footer class="site-footer"><p>Copyright AI Corp. All rights reserved and more footer words here.</p></footer>
+</body></html>"""
+
+
+def test_div_only_text_is_not_lost(lex):
+    """Regression (labarum.ai, Elementor): text that sits directly in <div>s must reach the document text."""
+    st = FakeStore()
+    d = extract_document(cap(content_type="text/html; charset=utf-8"), ELEMENTOR, st)
+    text = st.texts[d.doc_id]
+    assert "local inference infrastructure" in text and "Air-gapped by default" in text
+    assert "AI Platform" not in text and "Copyright" not in text  # nav / footer boilerplate dropped
+    assert any("local inference" in text[s:e] for s, e, _ in find_passages(text, lex))
+
+
+def test_html_fragment_text_keeps_block_breaks():
+    from footprint.extract import html_fragment_text
+
+    frag = ("<p>This leader drives continuous process improvement.</p><p>The successful candidate leverages AI."
+            "</p><ul><li>Lead operations</li><li>Utilize AI-powered tools</li></ul>Key<br>Responsibilities")
+    t = html_fragment_text(frag)
+    assert "improvement.\n\nThe successful" in t
+    assert "Lead operations\n\nUtilize" in t
+    assert "Key\n\nResponsibilities" in t
+    assert html_fragment_text("") == "" and html_fragment_text("plain words") == "plain words"
+
+
+def test_sgml_wrapped_sec_document_falls_back_to_blocks():
+    st = FakeStore()
+    raw = (b"<DOCUMENT>\n<TYPE>DEFA14A\n<SEQUENCE>1\n<TEXT>\n<html><body><font>Our agentic AI platform serves "
+           b"clients and we expect machine learning to change operations.</font></body></html></TEXT></DOCUMENT>")
+    d = extract_document(cap(content_type="text/html"), raw, st)
+    assert "agentic AI platform" in st.texts[d.doc_id]
