@@ -95,6 +95,22 @@ class EvidenceStore:
     def has_blob(self, capture_id: str) -> bool:
         return self._blob_file(capture_id).exists()
 
+    def put_blob(self, data: bytes) -> str:
+        """Store bytes content-addressed without an index entry (robots.txt bodies, keyed by the
+        ``robots_sha256`` that captures and the fetch log record). Returns the sha256."""
+        sha = sha256_hex(data)
+        blob = self._blob_file(sha)
+        if not blob.exists():
+            self._atomic_write(blob, gzip.compress(data, mtime=0))
+        return sha
+
+    def get_blob(self, sha: str) -> bytes:
+        return self.get_raw(sha)
+
+    def manual_captures(self, vendor_id: str | None = None) -> list[Capture]:
+        """Manual (analyst-imported) captures in index order, optionally for one vendor."""
+        return [c for c in self.captures() if c.manual and (vendor_id is None or c.vendor_id == vendor_id)]
+
     def get_raw(self, capture_id: str) -> bytes:
         blob = self._blob_file(capture_id)
         if not blob.exists():
