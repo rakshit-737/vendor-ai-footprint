@@ -496,7 +496,8 @@ def architecture(slide: Any, *, top: float = 1.78) -> dict[str, Any]:
                                                          color=C.INK)), name="external header")
     label(slide, ext_x, top + 0.3, ext_w, 0.62, para(
         run("Manual lane: ", size=10, bold=True, color=C.INK),
-        run("fiserv.com and linkedin.com are captured by an analyst, never crawled or sent to Gemini", size=10)),
+        run("fiserv.com and linkedin.com: analyst capture only (not performed this run); "
+            "never crawled or sent to Gemini", size=10)),
         name="manual capture lane")
     gem_y = path_y - 0.31
     shapes["gemini"] = box(slide, ext_x, gem_y, ext_w, 0.62, [
