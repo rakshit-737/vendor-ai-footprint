@@ -142,16 +142,23 @@ def collect(
     evidence: Path = typer.Option(Path("evidence"), "--evidence", help="Evidence store root"),
     runs_dir: Path = typer.Option(Path("runs"), "--runs"),
     overrides: Path | None = typer.Option(None, "--overrides"),
+    as_of: str | None = typer.Option(None, "--as-of", help="As-of date YYYY-MM-DD (default: today)"),
 ) -> None:
     """P2: run the collectors each vendor's depth plan calls for and write runs/<run_id>/."""
     from footprint.capture.store import EvidenceStore
-    from footprint.pipeline import assess_profiles, collect_vendor, make_fetcher
+    from footprint.models import COMPLETE_STATUSES
+    from footprint.pipeline import assess_profiles, collect_vendor, make_fetcher, status_label
     from footprint.workbook import read_workbook
 
     if mode not in ("live_rules", "replay"):
         raise _fail(f"unknown --mode {mode!r} (live_rules or replay)")
     if not all_ and not vendor:
         raise _fail("pass --vendor V-00x or --all")
+    if as_of is not None:
+        try:
+            dt.date.fromisoformat(as_of)
+        except ValueError as exc:
+            raise _fail(f"--as-of must be YYYY-MM-DD, got {as_of!r}") from exc
     data = read_workbook(input_xlsx)
     if not data.ok:
         raise _fail("input workbook has errors", [i.message for i in data.issues])
@@ -164,36 +171,57 @@ def collect(
         if missing:
             raise _fail(f"unknown vendor id(s): {', '.join(sorted(missing))}")
     store = EvidenceStore(evidence)
-    fetcher = make_fetcher(mode, store)  # one fetcher per invocation: per-run host counters span all vendors
+    try:
+        fetcher = make_fetcher(mode, store)  # one fetcher per invocation: per-run host counters span all vendors
+    except RuntimeError as exc:
+        raise _fail(str(exc)) from exc
     table = Table(title=f"Collection ({mode})")
-    for col in ["Vendor", "Tier", "Run id", "Captures", "Docs", "Passages", "Not complete"]:
+    for col in ["Vendor", "Tier", "Run id", "Captures", "Docs", "Passages", "Family status", "Not complete"]:
         table.add_column(col)
     for a in assessments:
-        run = collect_vendor(a, mode, seeds_dir, store, fetcher=fetcher, runs_dir=runs_dir)  # type: ignore[arg-type]
-        open_fams = sorted({f"{e.family.value}:{e.status.value}" for e in run.coverage
-                            if e.mandatory and e.status.value not in ("done", "done_manual", "not_applicable",
-                                                                      "stopped")})
+        run = collect_vendor(a, mode, seeds_dir, store, fetcher=fetcher, runs_dir=runs_dir,  # type: ignore[arg-type]
+                             as_of=as_of)
+        fams = " ".join(f"{e.family.value}:{status_label(e)}" for e in run.family_status if e.mandatory)
+        open_fams = [f"{e.family.value}:{status_label(e)}" for e in run.family_status
+                     if e.mandatory and e.status not in COMPLETE_STATUSES]
         table.add_row(a.profile.vendor_id, a.depth.tier.value, run.run_id, str(len(run.captures)),
-                      str(len(run.documents)), str(len(run.passages)), ", ".join(open_fams) or "-")
-    Console(width=200).print(table)
+                      str(len(run.documents)), str(len(run.passages)), fams, ", ".join(open_fams) or "-")
+    Console(width=220).print(table)
 
 
 @app.command()
-def coverage(run_id: str = typer.Argument(...), runs_dir: Path = typer.Option(Path("runs"), "--runs")) -> None:
-    """Print the Coverage Log of one run."""
-    from footprint.pipeline import load_run_coverage
+def coverage(
+    run_id: str = typer.Argument(...),
+    runs_dir: Path = typer.Option(Path("runs"), "--runs"),
+    details: bool = typer.Option(True, "--details/--families-only", help="Show per-collector rows under each family"),
+) -> None:
+    """Print the Coverage Log of one run: one status per family, then the per-collector rows, then the fetch
+    log's gate decisions (ToS register, robots.txt, refusals)."""
+    from footprint.pipeline import load_run_coverage, load_run_family_status, load_run_fetch_log
     from footprint.sheets import coverage_log_sheet
 
     try:
-        spec = coverage_log_sheet(load_run_coverage(run_id, runs_dir))
+        detail_rows = load_run_coverage(run_id, runs_dir)
+        summary = load_run_family_status(run_id, runs_dir)
+        log = load_run_fetch_log(run_id, runs_dir)
     except OSError as exc:
         raise _fail(f"cannot read run {run_id}: {exc}") from exc
+    spec = coverage_log_sheet(detail_rows if details else [], summary=summary)
     table = Table(title=f"Coverage Log {run_id}")
     for h in spec.headers:
         table.add_column(h)
     for row in spec.rows:
         table.add_row(*("" if v is None else str(v) for v in row))
     Console(width=220).print(table)
+    if log:
+        counts: dict[str, int] = {}
+        for ev in log:
+            k = f"{ev.get('gate', '')}:{ev.get('decision', '')}"
+            counts[k] = counts.get(k, 0) + 1
+        typer.echo("Fetch log: " + ", ".join(f"{k} {n}" for k, n in sorted(counts.items())))
+        for ev in log:
+            if ev.get("decision") in ("blocked_tou", "blocked_robots", "blocked_bot"):
+                typer.echo(f"  {ev['decision']}: {ev.get('url', '')} {ev.get('why', '')}".rstrip())
 
 
 @capture_app.command("import")
