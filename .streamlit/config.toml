@@ -1,0 +1,19 @@
+# Streamlit settings for the footprint demo app (uv run streamlit run app/streamlit_app.py, from the repo root).
+# app/.streamlit/config.toml holds the same settings next to the script, so they also apply when Streamlit runs
+# from another working directory; keep the two identical (tests/unit/test_app.py checks both).
+# Confidential case-study material: the app serves this machine only and reports nothing to Streamlit.
+
+[server]
+address = "localhost"     # never listen on other interfaces
+runOnSave = false         # reruns only on user action
+maxUploadSize = 25        # MB; the vendor inventory is a small .xlsx
+
+[browser]
+gatherUsageStats = false  # no usage statistics leave the machine
+serverAddress = "localhost"
+
+[client]
+showErrorDetails = "none" # no tracebacks in the browser; the pages show short, scrubbed messages
+
+[theme]
+primaryColor = "#0f766e"
