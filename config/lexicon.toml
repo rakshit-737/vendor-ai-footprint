@@ -27,3 +27,591 @@ phrases = [
 ]
 # "intelligent tools" is suppressed only when no core term is in the passage
 conditional = ["intelligent tools"]
+
+# =========================================================================== rules tagger (P3)
+# The tables below are read by footprint.rules only (contract: docs/contracts_p3.md section 3; design Appendix A
+# 2.3 and 2.6). [core], [guards] and [suppressors] above also drive P2 passage finding: change them only together
+# with a passage re-extraction.
+#
+# Matching conventions for every table below, unless the table says otherwise:
+#   phrases         case-insensitive, whole words; inside a phrase a space also matches a hyphen, a dash or a line
+#                   break ("human in the loop" matches "human-in-the-\nloop")
+#   case_sensitive  whole words, exact case (acronyms such as "PoC", "API", "NOC")
+#   regex           Python regular expressions, case-insensitive unless they set their own flags
+# Every match keeps its exact span, so an indicator span is always a substring of the excerpt (check V4).
+
+[rules]
+version = "rules_v1"
+
+# --------------------------------------------------------------------------- AI terms
+
+[ai_terms]
+# Terms the tagger recognises inside a passage in addition to [core]. [core] terms are also matched in the plural
+# ("AI agents", "chatbots") and inside hyphen compounds ("AI-enabled", "ML-based", "LLM-powered"); the short [core]
+# acronyms (LLM, NLP, RAG) are matched case-sensitively. Provider names that pass their guard count as AI terms.
+phrases = [
+  "large language model", "retrieval-augmented generation", "retrieval augmented generation",
+  "natural language processing", "computer vision", "reinforcement learning", "generative model",
+  "multi-agent", "autonomous agent", "virtual agent", "prompt engineering", "embeddings", "vector database",
+  "semantic search",
+]
+case_sensitive = ["AIOps", "MLOps", "LLMOps"]
+regex = ['(?-i:A\.I\.)']
+
+[ai_term_guards]
+# term -> regex that must also match the passage for the term to count. "MCP" uses [guards].MCP and also counts
+# when the document names the Model Context Protocol.
+RAG = '(?i)retriev|\b(?:LLMs?|AI|GenAI|generative|language models?|embeddings?)\b'
+fine-tuning = '(?i)\bmodels?\b|\bLLMs?\b|\bAI\b|machine learning|neural'
+neural = '(?i)network|\bmodels?\b|learning|\bAI\b'
+
+[brand_names]
+# Names that contain an AI term but name an organisation, a programme or a job title; masked before AI terms are
+# looked for. Seeded vendor, affiliate and platform-supplier names that contain an AI term are masked too.
+phrases = ["Sardine AI Labs", "AI for Good", "Chief AI Officer"]
+
+[rule_suppressors]
+# Masked before AI terms are looked for, like [suppressors] (which stay as they are).
+phrases = ["meant for consumption by LLMs", "consumption by LLMs"]
+regex = ['oracle\s+(?:database\s+)?23\s?ai\b', '\b23ai\b', 'this is an llms\.txt file']
+# whole documents that never carry a claim (Yoast-generated llms.txt files)
+skip_url = ['/llms(?:-full)?\.txt$']
+
+# --------------------------------------------------------------------------- named providers (G1)
+# name: canonical provider. patterns: case-sensitive regexes matched on whole words. guard: a [guards] entry name or
+# a regex that must also match the passage (names that are also person names or ordinary words). Seeded collisions
+# (for example "Claude Reumert") are masked first. The surface text found is what an item's providers list holds,
+# so check V5 can find it verbatim.
+
+[[provider]]
+name = "OpenAI"
+patterns = ['Azure OpenAI', 'OpenAI(?: Codex)?', 'ChatGPT(?: Enterprise)?', 'GPT-?\d+(?:\.\d+)?(?:o|-?mini|-?turbo)?', 'DALL-?E(?: \d)?']
+
+[[provider]]
+name = "Anthropic"
+patterns = ['Anthropic', 'Claude Code', 'Claude (?:Opus|Sonnet|Haiku|Instant)(?: \d(?:\.\d)?)?', 'Claude \d(?:\.\d)?']
+
+[[provider]]
+name = "Anthropic"
+patterns = ['Claude']
+# the rules' own guard: [guards].Claude without word boundaries would accept "Claude instantly"
+guard = '(?i)\banthropic\b|\bclaude\s+(?:\d|opus|sonnet|haiku|instant\b|code\b)'
+
+[[provider]]
+name = "Google"
+patterns = ['Gemini (?:Enterprise|Pro|Flash|Ultra|Nano|Code Assist)(?: \d(?:\.\d)?)?', 'Gemini \d(?:\.\d)?', 'Vertex AI', 'Google Cloud AI', 'Google DeepMind', 'DeepMind', 'Agentspace', 'PaLM(?: ?2)?', 'Gemma', 'Google AI']
+
+[[provider]]
+name = "Google"
+patterns = ['Gemini']
+# the rules' own guard: [guards].Gemini without word boundaries accepts "Gemini programme" ("gemini pro")
+guard = '(?i)\bgoogle\b|\bgemini\s+(?:\d|pro\b|flash\b|ultra\b|nano\b|enterprise\b|code assist\b)'
+
+[[provider]]
+name = "Microsoft"
+patterns = ['Microsoft 365 Copilot', 'M365 Copilot', 'GitHub Copilot', 'Microsoft Copilot', 'Copilot Studio', 'Azure AI(?: Foundry| Studio| Search)?', 'Azure Machine Learning', 'Microsoft Foundry', 'Azure Cognitive Services']
+
+[[provider]]
+name = "Microsoft"
+patterns = ['Copilot']
+guard = '(?i)\bmicrosoft\b|\bgithub\b|\bm365\b'
+
+[[provider]]
+name = "Amazon"
+patterns = ['Amazon Bedrock', 'AWS Bedrock', 'Amazon Q', 'Amazon SageMaker', 'SageMaker', 'Amazon Nova', 'Amazon Titan', 'Amazon Comprehend', 'Amazon Textract', 'AWS AI']
+
+[[provider]]
+name = "Amazon"
+patterns = ['Bedrock']
+guard = '(?i)amazon|\baws\b'
+
+[[provider]]
+name = "Meta"
+patterns = ['Meta AI', 'Llama \d(?:\.\d)?']
+
+[[provider]]
+name = "Meta"
+patterns = ['Llama']
+guard = '(?i)\bmeta\b|\bmodels?\b|\bLLMs?\b|open[- ]source'
+
+[[provider]]
+name = "Mistral AI"
+patterns = ['Mistral AI', 'Mixtral']
+
+[[provider]]
+name = "Mistral AI"
+patterns = ['Mistral']
+guard = '(?i)\bmodels?\b|\bLLMs?\b|\bAI\b'
+
+[[provider]]
+name = "Cohere"
+patterns = ['Cohere']
+
+[[provider]]
+name = "Perplexity"
+patterns = ['Perplexity AI', 'Perplexity']
+
+[[provider]]
+name = "Cognition"
+patterns = ['Devin AI', 'Cognition AI', 'Cognition Labs']
+
+[[provider]]
+name = "Cognition"
+patterns = ['Devin']
+guard = '(?i)\bcognition\b'
+
+[[provider]]
+name = "IBM"
+patterns = ['watsonx(?:\.ai)?', 'IBM Watson']
+
+[[provider]]
+name = "Salesforce"
+patterns = ['Einstein GPT', 'Agentforce', 'Salesforce Einstein']
+
+[[provider]]
+name = "ServiceNow"
+patterns = ['ServiceNow AI', 'Now Assist']
+
+[[provider]]
+name = "NVIDIA"
+patterns = ['NVIDIA DGX(?: SuperPODs?)?', 'DGX SuperPODs?', 'NVIDIA AI(?: Enterprise)?', 'NVIDIA NIM']
+
+[[provider]]
+name = "Hugging Face"
+patterns = ['Hugging Face']
+
+[[provider]]
+name = "Ollama"
+patterns = ['Ollama']
+
+[[provider]]
+name = "Codeium"
+patterns = ['Codeium', 'Tabnine']
+
+[[provider]]
+name = "Codeium"
+patterns = ['Windsurf']
+guard = '(?i)\bAI\b|coding|\bcode\b|codeium|assistants?'
+
+[[provider]]
+name = "Anysphere"
+patterns = ['Cursor']
+guard = '(?i)\bAI\b.{0,40}\b(?:coding|code|editor|IDE|assistants?)\b|\b(?:coding|code|editor|IDE|assistants?)\b.{0,40}\bAI\b'
+
+[[provider]]
+name = "Personetics"
+patterns = ['Personetics']
+
+[[provider]]
+name = "Feedzai"
+patterns = ['Feedzai', 'Featurespace']
+
+[[provider]]
+name = "Pelican AI"
+patterns = ['Pelican AI']
+
+[[provider]]
+name = "C3 AI"
+patterns = ['C3 AI', 'C3\.ai']
+
+[[provider]]
+name = "Palantir"
+patterns = ['Palantir AIP']
+
+# --------------------------------------------------------------------------- test 1: definition (EU AI Act Art. 3(1))
+# Workload automation, batch scheduling, RPA, rules engines, templated composition, Intelligent Mail barcodes and
+# BI dashboards are not AI unless an ML or LLM component is evidenced. A claim fails the test, and becomes a visible
+# trap (ai_type not_ai, U7, indicator M4), when an AI label is put on such automation and the claim carries no ML or
+# LLM evidence.
+
+[definition_test]
+relabel_regex = [
+  '\b(?:AI|A\.I\.|artificial intelligence)(?:[- ](?:powered|driven|based|enabled|infused|led))?\s+(?:workload\s+automation|automation|scheduling|scheduler|job\s+scheduling|batch(?:\s+(?:processing|scheduling|jobs?))?|rules?[- ]engines?|business\s+rules|decision\s+tables?|workflow\s+automation|RPA|bots?|templat(?:e|es|ing)|document\s+composition|composition|dashboards?|reports?|reporting|barcod(?:e|es|ing)|inserting|sorting|printing)\b',
+  '\b(?:intelligent|smart)\s+(?:automation|tools?|inserting|scheduling|scheduler|routing|workflows?|sorting|mail(?:ing)?|barcod(?:e|es)|printing|composition|templates?|dashboards?|bots?)\b',
+  '\b(?:automation|RPA|rules?[- ]engines?|scheduling|scheduler|workflows?|templates?|dashboards?)\s+(?:powered|driven|enhanced|enabled)\s+by\s+(?:AI|A\.I\.|artificial intelligence)\b',
+  '\b(?:robotic process automation|RPA)\b[^.]{0,40}\b(?:AI|artificial intelligence)\b',
+  '\b(?:AI|artificial intelligence)\b[^.]{0,40}\b(?:robotic process automation|RPA)\b',
+]
+# ML or LLM evidence: any of these in the claim means the definition test passes
+ml_phrases = [
+  "machine learning", "deep learning", "neural network", "large language model", "language model", "generative AI",
+  "foundation model", "predictive model", "natural language processing", "computer vision", "retrieval-augmented",
+  "fine-tuned", "fine-tuning", "trained on", "training data", "model training", "data scientist", "agentic",
+  "AI agent", "digital employee", "model context protocol", "AI model", "ML model", "machine-learning",
+]
+ml_case_sensitive = ["ML", "LLM", "LLMs", "GenAI", "GPT", "NLP", "RAG", "MCP"]
+# "model" or "models" is ML evidence unless one of these words comes right before it
+model_not_ml = [
+  "operating", "business", "data", "pricing", "service", "delivery", "engagement", "subscription", "revenue",
+  "commercial", "financial", "risk", "maturity", "governance", "staffing", "hybrid", "cloud", "deployment",
+  "platform", "target", "people", "organizational", "organisational", "working", "role", "security", "threat",
+  "cost", "economic", "partnership", "support", "servicing", "custody",
+]
+
+# --------------------------------------------------------------------------- genuine-use indicators (Appendix 2.3)
+
+[indicators.G2]
+# a named feature with observable behaviour
+phrases = [
+  "anomaly detection", "fraud detection", "fraud prevention", "sanctions screening", "restricted party screening",
+  "screening", "transaction monitoring", "payment validation", "account validation", "validation", "verification",
+  "detection", "detects", "detect", "classification", "classifies", "classify", "data extraction", "extraction",
+  "extracts", "summarization", "summarisation", "summarizes", "summarises", "summaries", "translation", "translates",
+  "transcription", "recommendations", "recommends", "next best action", "routing", "routes", "triage",
+  "reconciliation", "reconciles", "matching", "scoring", "risk scores", "forecasting", "forecasts", "predicts",
+  "prediction", "predictions", "document review", "code generation", "generates scripts", "generates code",
+  "code review", "troubleshooting", "troubleshoots", "root cause", "root causes", "explains", "parses logs",
+  "analyzes logs", "analyses logs", "personalization", "personalisation", "onboarding", "underwriting",
+  "credit decisioning", "case management", "exception management", "exception handling", "liquidity forecasting",
+  "cash forecasting", "deposit forecasting", "false positives", "flagged transactions", "ticket resolution",
+  "incident response", "chatbot", "virtual assistant", "AI assistant", "drafting", "biometric", "deep research",
+  "data analysis", "document processing", "trade analytics",
+]
+case_sensitive = ["KYC", "AML", "OCR"]
+# resolving or closing named operational artefacts is observable behaviour ("capabilities to resolve our tickets")
+regex = [
+  '\b(?:resolv(?:e|es|ed|ing)|clos(?:e|es|ed|ing))\b[^.;:]{0,40}?\b(?:tickets|support cases|service cases|client issues|customer issues|service requests|inquiries|enquiries)\b',
+]
+
+[indicators.G3]
+# a statement about data flow, retention, training or human review
+phrases = [
+  "customer data", "client data", "personal data", "personal information", "confidential data", "sensitive data",
+  "transaction data", "payment data", "account data", "historical data", "workload metadata", "data never leaves",
+  "data stays", "inside the customer boundary", "customer boundary", "customer infrastructure", "air-gapped",
+  "on-prem", "on-premises", "on premise", "private cloud", "data residency", "retention", "retains", "retained",
+  "trained on", "train on", "used to train", "used for training", "training data", "not used to train",
+  "human review", "human in the loop", "human oversight", "manual review", "reviewed by an analyst",
+  "reviewed by analysts", "human validation", "sub-processor", "subprocessor", "third-party models",
+  "third-party AI", "approved datasets", "prompts", "collect and analyze", "collects and analyzes",
+  "collect and analyse", "processes customer data", "processes personal data",
+]
+case_sensitive = ["PII", "NPI"]
+
+[indicators.G4]
+# a release note for a generally available feature
+phrases = ["generally available", "general availability", "now available", "available now", "new in version", "introduced in", "released in"]
+regex = ['(?-i:\bV\d{2}\b)', '\bversion \d+(?:\.\d+)*\b', '\b\d{1,2}\.\d{1,2}(?:\.\d+)? (?:release|is here)\b']
+
+[indicators.G5]
+# a developer artifact
+phrases = ["REST API", "endpoint", "endpoints", "MCP server", "MCP client", "client and server functionality", "model card", "webhook", "GitHub repository"]
+case_sensitive = ["API", "APIs", "SDK", "SDKs"]
+
+[indicators.G8]
+# a job posting with operational AI duties (job postings only): a duty verb that governs an AI tool or AI itself
+regex = [
+  '\b(?:utili[sz]e|utili[sz]es|utili[sz]ing|use|uses|using|leverage|leverages|leveraging|apply|applies|applying|deploy|deploys|deploying|implement|implements|implementing|operate|operates|build|builds|building|integrate|integrates|integrating|support|supports|supporting|drive|drives|driving|promote|promotes|demonstrate|demonstrates|adopt|adopts|adopting)\b[^.;:]{0,60}?(?-i:\b(?:AI|A\.I\.|ML|GenAI|LLMs?|Copilot|ChatGPT)\b)',
+  '\b(?:utili[sz]e|utili[sz]es|use|uses|using|leverage|leverages|leveraging|apply|applies|applying|deploy|deploys|implement|implements|build|builds|building|integrate|integrates|support|supports|drive|drives|promote|promotes|adopt|adopts)\b[^.;:]{0,60}?\b(?:artificial intelligence|machine learning|generative AI|agentic|AI agents?)\b',
+  '(?-i:\b(?:AI|A\.I\.))[- ](?:powered|enabled|assisted|driven|based)\s+(?:tools?|development|productivity|operational|engineering|coding|workflows?)\b',
+  '(?-i:\bapproved AI\b)',
+]
+
+[indicators.G11]
+# a quantified outcome or scale of use
+regex = [
+  '(?:~|>|<|≈|over |more than |up to |nearly |approximately |about |almost )?\d[\d,]*(?:\.\d+)?\s?(?:%|percent\b)',
+  '\b\d[\d,]*(?:\.\d+)?\s?(?:x|times) (?:faster|more|fewer|less)\b',
+  '(?:more than |over |nearly |approximately |about |~)?\b\d[\d,]*(?:\.\d+)?\+?\s?(?:million |billion |thousand )?(?:hours|minutes|engineers|developers|employees|users|clients|customers|tokens|transactions|payments|use cases|agents|digital employees|learning hours|software engineers)\b',
+]
+
+# --------------------------------------------------------------------------- marketing indicators (Appendix 2.3)
+
+[indicators.M1]
+# buzzword
+phrases = [
+  "cutting-edge", "state-of-the-art", "next-generation", "next-gen", "revolutionize", "revolutionise",
+  "revolutionary", "transformative", "transformational", "game-changing", "game changer", "smarter", "intelligent",
+  "innovative", "unlock", "unlocks", "harness the power", "power of AI", "supercharged", "supercharge", "seamless",
+  "seamlessly", "AI-powered", "AI-driven", "AI-first", "AI-native", "AI-infused", "AI supercharged",
+]
+
+[indicators.M2]
+# aspirational or capability wording; the modal hedges count in statements about what a product can do
+phrases = [
+  "will", "plan to", "plans to", "planned", "planning to", "intend to", "intends to", "aim to", "aims to",
+  "aiming to", "explore", "explores", "exploring", "roadmap", "future", "upcoming", "coming soon", "next year",
+  "expect to", "expects to", "expected to", "going to", "set to", "aspire", "aspiration", "vision", "potential",
+  "opportunity", "opportunities", "would", "later", "evaluating", "considering", "envision",
+]
+modal = ["may", "might", "could", "can"]
+# on a job posting these words describe the role ("you will lead", "this role will apply"), not a plan: not M2 there
+job_role_words = ["will", "would", "can", "could", "may", "might"]
+
+[indicators.M3]
+# commentary about other companies or the industry; counts only when the claim does not name the vendor or one of
+# its products and (on a first-party source) does not use the first person
+phrases = [
+  "the industry", "industry", "financial institutions", "banks", "credit unions", "organizations", "organisations",
+  "companies", "company", "enterprises", "firms", "firm", "businesses", "insurers", "merchants", "advisors",
+  "advisers", "institutions", "the market", "market participants", "leaders", "executives", "agencies",
+  "according to", "survey", "poll", "respondents", "research shows", "study", "analysts", "experts", "trend",
+  "trends", "other companies", "competitors", "peers", "you", "your", "conference", "expo", "trade show",
+  "fraudsters", "criminals", "bad actors", "threat actors", "scammers", "providers", "participants", "lenders",
+  "dealers", "dealerships",
+]
+case_sensitive = ["IDC", "Gartner", "Forrester", "McKinsey"]
+# second-person words: in a first-party spoken source (an investor-day or earnings transcript, an executive
+# statement, the vendor's podcast or webinar) "you" is spoken style or the audience, not reader advice, so these
+# words are not M3 there
+second_person = ["you", "your", "yours", "yourself", "yourselves"]
+# reader advice: a sentence that opens with one of these verbs (never on job postings, where it states a duty)
+imperatives = [
+  "use", "leverage", "consider", "implement", "adopt", "start", "invest", "ensure", "embrace", "explore", "build",
+  "make", "choose", "prepare", "know", "let", "focus", "identify", "evaluate", "deploy", "automate", "track",
+  "listen", "add", "create", "keep", "avoid", "remember", "think", "partner", "train", "empower", "personalize",
+  "personalise",
+]
+
+[indicators.M5]
+# superlative
+phrases = [
+  "best-in-class", "industry-leading", "world-class", "market-leading", "leading", "most advanced", "unparalleled",
+  "unmatched", "best", "number one", "first global bank", "first bank", "first company",
+]
+case_sensitive = ["#1"]
+
+# --------------------------------------------------------------------------- separate lexicons (Appendix 2.6)
+
+[governance]
+# U6: AI governance (NIST AI RMF, ISO/IEC 42001, AI policy)
+phrases = [
+  "NIST AI RMF", "AI Risk Management Framework", "AI RMF", "ISO/IEC 42001", "ISO 42001", "AI policy",
+  "AI policies", "AI governance", "governance of AI", "responsible AI", "responsible use of AI",
+  "responsible use of data and AI", "ethical use of data and AI", "ethical use of AI", "AI ethics", "AI principles",
+  "AI council", "AI committee", "AI oversight", "AI risk", "model risk management", "AI usage compliance policy",
+  "usage compliance policy", "acceptable use policy", "AI Act", "governance and control", "AI controls",
+  "AI assurance", "approved AI tools", "governance framework", "AI compliance", "governed", "governance",
+]
+
+[limiting]
+# U8: negative or limiting statements about the vendor's own use of AI
+regex = [
+  '''\b(?:do|does|did|will|shall)\s*(?:not|n['’]t)\s+(?:currently\s+)?(?:use|employ|deploy|rely on|leverage|utili[sz]e|offer|apply)\s+(?:any\s+)?(?:form of\s+)?(?:AI|A\.I\.|artificial intelligence|machine learning|ML|generative AI|GenAI|LLMs?|large language models?|automated decision)''',
+  '\b(?:AI|artificial intelligence|machine learning|generative AI|GenAI|LLMs?)\s+(?:is|are|was|were)\s+not\s+(?:used|employed|deployed|applied|permitted|allowed)\b',
+  '\bwithout\s+(?:the\s+use\s+of\s+|using\s+|any\s+)?(?:AI|artificial intelligence|machine learning|generative AI)\b',
+  '\bno\s+(?:AI|artificial intelligence|machine learning|generative AI|GenAI|LLMs?)\s+(?:is|are|was|were|tools?|models?|systems?|components?)\b',
+  '\b(?:prohibit|prohibits|prohibited|bans?|banned|forbids?|forbidden)\s+(?:the\s+)?(?:use\s+of\s+)?(?:public\s+|external\s+)?(?:AI|generative AI|GenAI|ChatGPT|LLMs?|AI tools)\b',
+  '\bno\s+automated\s+decision[- ]making\b',
+  '\b(?:is|are)\s+(?:entirely\s+|purely\s+|fully\s+)?rules?[- ]based\s+(?:and|rather than|not)\b[^.]{0,40}\b(?:AI|machine learning|ML)\b',
+]
+
+[autonomy.human_reviewed]
+# K: human-reviewed decisions
+phrases = [
+  "human in the loop", "human review", "human oversight", "human approval", "human validation", "manual review",
+  "reviewed by an analyst", "reviewed by analysts", "reviewed by a human", "reviewed by humans", "analyst review",
+  "analysts review", "approved by", "four eyes", "people make the decisions", "humans make the decisions",
+  "keep people on the decisions", "human-led", "under human",
+]
+
+[autonomy.automated]
+# K: automated action without per-case human review
+phrases = [
+  "without human intervention", "without human involvement", "without human review", "autonomously", "autonomous",
+  "self-healing", "straight-through", "auto-remediate", "auto-remediation", "auto-resolve", "auto-approve",
+  "real-time declines", "take action", "takes action", "decide and act",
+]
+regex = ['\bautomatically\s+(?:trigger|triggers|block|blocks|decline|declines|reject|rejects|approve|approves|hold|holds|execute|executes|release|releases|route|routes|resolve|resolves|remediate|remediates|reconcile|reconciles|initiate|initiates|post|posts|close|closes|settle|settles|optimi[sz]e|optimi[sz]es|fix|fixes|restart|restarts|rerun|reruns)\b']
+
+[autonomy.advisory]
+# K: advisory output only
+phrases = [
+  "recommend", "recommends", "recommendation", "recommendations", "suggest", "suggests", "suggestion",
+  "suggestions", "insight", "insights", "alert", "alerts", "flag", "flags", "flagged", "assist", "assists",
+  "assistance", "assistant", "guide", "guides", "guidance", "next best action", "decision support", "inform",
+  "informs", "summary", "summaries", "summarize", "summarise", "explain", "explains", "draft", "drafts",
+  "answer questions", "surface", "surfaces", "advise", "advisory", "helps", "help",
+]
+
+# --------------------------------------------------------------------------- test 3: use state
+
+[use_state.pilot]
+phrases = ["pilot", "pilots", "piloting", "piloted", "beta", "proof of concept", "preview", "early access", "limited availability", "limited release", "trial", "trials", "trialling", "trialing"]
+case_sensitive = ["PoC", "POC"]
+
+[use_state.deployed]
+# explicit deployed cues: they win over aspirational wording in the same claim
+phrases = [
+  "deployed", "has deployed", "have deployed", "deployment of", "launched", "launches", "is live", "are live",
+  "went live", "live", "in production", "generally available", "now available", "available today", "rolled out",
+  "implemented", "in use", "existing use", "has processed", "processed", "reviewed by AI", "handled by AI",
+  "addressed by AI", "drafted using AI", "supported with an AI", "approved AI tools", "approved AI", "to date",
+  "today", "currently", "is used", "are used", "is using", "are using", "now uses", "daily users", "in place",
+  "has built", "have built", "has implemented", "have implemented", "has integrated", "has embedded",
+]
+regex = ['\d+(?:\.\d+)?\s?%']
+
+[use_state.past]
+# past-tense deployment cues: in production unless the claim also has aspirational or modal wording (checked after
+# M2, so "Two weeks ago we announced plans to ..." stays planned). "Two weeks ago, we re-architected our client
+# service portal ... agentic AI capabilities to resolve our tickets" describes a change already made. Bare
+# "embedded", "rebuilt" and "introduced" are not cues: "embedded finance", "deeply embedded financial
+# infrastructure" and "a rebuilt leadership team" say nothing about AI in use.
+phrases = [
+  "re-architected", "rearchitected", "re-engineered", "reengineered", "re-platformed", "replatformed",
+  "is embedded", "are embedded", "is also embedded", "embedded within", "embedded into", "has rolled out",
+  "have rolled out", "has launched", "have launched", "went into production", "moved into production",
+  "put into production",
+]
+regex = [
+  '\b(?:\d+|one|two|three|four|five|six|seven|eight|nine|ten|twelve|a few|several|few)\s+(?:days?|weeks?|months?|quarters?|years?)\s+ago\b',
+  '\b(?:last|earlier this)\s+(?:week|month|quarter|year)\b,?\s+we\b',
+]
+
+[use_state.present]
+# present-tense feature wording: in production unless the claim also has aspirational or modal wording
+phrases = [
+  "-enabled", "-powered", "-driven", "-based", "-assisted", "powers", "powered by", "runs", "processes", "screens",
+  "detects", "verifies", "validates", "analyzes", "analyses", "explains", "generates", "suggests", "recommends",
+  "allows", "enables", "provides", "offers", "delivers", "supports", "helps", "leverages", "leveraging", "applies",
+  "applying", "uses", "using", "used", "integrates", "integrating", "connects", "with AI", "built on",
+  "built into", "embeds", "embedding", "operates", "acting as", "handles", "automates", "is now inside",
+  "comes built in", "we use", "we also use", "we now use", "we employ", "we leverage", "we apply",
+]
+
+# --------------------------------------------------------------------------- locus cues
+
+[loci.sdlc]
+phrases = [
+  "software development", "development tools", "AI-assisted development", "AI-assisted engineering",
+  "AI coding assistants", "coding assistant", "coding assistants", "coding", "code", "codebase", "codebases",
+  "developer productivity", "developers", "developer", "software engineers", "software engineering",
+  "engineering team", "engineering teams", "testing", "test automation", "unit tests", "DevOps", "programming",
+  "scripts", "scripting", "GitHub Copilot", "Windsurf", "Claude Code", "Devin", "code generation",
+  "technical debt", "core banking upgrades",
+]
+case_sensitive = ["QA", "SDLC", "CI/CD"]
+
+[loci.delivery_ops]
+# strong cues: the vendor's own operations that touch the service (a product feature on a product page otherwise)
+phrases = [
+  "network operations", "operations center", "operations centre", "incident", "incidents", "incident response",
+  "incident management", "service desk", "help desk", "customer service", "customer support", "client servicing",
+  "client service", "contact center", "call center", "tickets", "ticket", "case management", "exceptions",
+  "exception handling", "exception management", "reconciliation", "reconciliations", "back office",
+  "middle office", "operations team", "operations teams", "runbook", "runbooks", "managed support",
+  "production support", "sanctions screening", "restricted party screening", "flagged transactions",
+  "false positives", "manual touchpoints", "settlement transaction", "transaction status inquiries",
+  "onboardings", "onboarding processes", "detection and rapid response",
+]
+case_sensitive = ["NOC"]
+# operational artefacts: a first-party, first-person delivery sentence that names one is the vendor's own
+# operations, never a bare marketing claim, even when its use state is unclear (design 5, V-002: the ticket pilot)
+artefact_phrases = [
+  "tickets", "ticket", "support cases", "service cases", "client cases", "customer cases", "incidents",
+  "service requests", "client issues", "customer issues", "inquiries", "enquiries", "disputes", "exceptions",
+  "alerts",
+]
+# weak cues: count on job postings and on sources that are not product documentation
+weak_phrases = [
+  "operations", "operational", "production environment", "24x7", "24/7", "monitoring", "screening",
+  "payment processing", "processing", "settlement", "settlements", "onboarding", "workflows", "service reliability",
+]
+# extra delivery-AI cues used when the depth plan carries modifier M-D3P (privileged production access)
+md3p_phrases = [
+  "migration", "migrations", "conversion", "engagement", "engagements", "customer environment",
+  "customer's environment", "customer environments", "expert bench", "knowledge infrastructure",
+  "every engagement", "on every shift",
+]
+
+[loci.corporate_internal]
+phrases = [
+  "employees", "employee", "workforce", "staff productivity", "employee productivity", "productivity",
+  "human resources", "recruiting", "recruitment", "legal", "contracts", "contract processes", "paralegal",
+  "marketing", "sales", "account research", "account plan", "account plans", "market intelligence",
+  "meeting preparation", "finance team", "internal", "across the enterprise", "across the organization",
+  "across the organisation", "enterprise-wide", "global workforce", "Microsoft 365 Copilot", "M365 Copilot",
+  "productivity tools", "learning hours", "training programs", "daily users",
+]
+case_sensitive = ["HR"]
+
+[loci.vendor_addon]
+phrases = ["add-on", "add-ons", "module", "modules", "optional", "premium", "plug-in", "plugin", "extension", "ancillary", "for an additional fee"]
+
+[loci.relationship]
+# a named provider plus one of these, and no feature, is a relationship only (U4)
+phrases = [
+  "partnership", "partnerships", "partner with", "partners with", "partnered with", "partnering with",
+  "collaboration", "collaborations", "collaborate", "collaborates", "collaborating", "strategic alliance",
+  "alliance", "agreement with", "selects", "selected", "teams up", "joins forces", "join forces", "relationship",
+  "investment in", "multi-year", "domain verification", "verification token",
+]
+
+[loci.staff]
+# the vendor's own people using AI (separates delivery or internal use from a product feature)
+phrases = [
+  "employees", "employee", "staff", "workforce", "engineers", "developers", "analysts", "associates",
+  "team members", "our teams", "our people", "operations teams", "experts", "colleagues", "human colleagues",
+]
+
+# --------------------------------------------------------------------------- AI types (first match wins, in this order)
+
+[ai_types.agentic]
+phrases = ["agentic", "AI agent", "AI agents", "digital employee", "digital employees", "multi-agent", "multi-agentic", "autonomous agent", "agents"]
+case_sensitive = ["agentOS"]
+
+[ai_types.genai_llm]
+phrases = [
+  "generative AI", "large language model", "language model", "foundation model", "prompts", "prompt",
+  "retrieval-augmented generation", "model context protocol", "ChatGPT", "Copilot", "Claude", "Gemini", "OpenAI",
+  "Anthropic", "Bedrock", "natural-language", "natural language", "chat", "generates", "generate", "generation",
+]
+case_sensitive = ["GenAI", "LLM", "LLMs", "GPT", "RAG", "MCP"]
+
+[ai_types.document_ai]
+phrases = ["intelligent document processing", "document processing", "document review", "data extraction", "extract data", "optical character", "document AI"]
+case_sensitive = ["IDP", "OCR"]
+
+[ai_types.conversational]
+phrases = ["chatbot", "chatbots", "virtual assistant", "virtual assistants", "conversational AI", "conversational", "voice assistant", "virtual agent", "AI assistant"]
+
+[ai_types.aiops]
+phrases = ["AIOps", "incident correlation", "event correlation", "root cause", "self-healing", "observability", "monitoring", "mean time to repair"]
+case_sensitive = ["MTTR"]
+
+[ai_types.predictive_ml]
+phrases = [
+  "machine learning", "deep learning", "neural", "predictive model", "predictive models", "anomaly detection",
+  "fraud detection", "scoring", "forecasting", "forecast", "classification", "classify", "predict", "predicts",
+  "prediction", "predictive", "computer vision", "natural language processing", "pattern recognition",
+]
+case_sensitive = ["ML", "NLP"]
+
+# --------------------------------------------------------------------------- U classes
+
+[job]
+# U5 on a job posting: the posting only asks for AI skills (U3 when it assigns duties that use AI tools)
+skill_phrases = [
+  "experience with", "experience in", "experience of", "experience using", "working experience", "knowledge of",
+  "familiarity with", "familiar with", "proficiency", "proficient", "understanding of", "background in",
+  "degree in", "skills", "skill", "expertise in", "hands-on understanding", "exposure to", "aware of",
+  "qualifications", "preferred", "is required", "are required", "comfort using", "years of experience",
+  "experience building", "experience applying", "experience supporting", "experience designing",
+  "experience developing", "experience deploying", "hands-on experience", "practical experience",
+  "demonstrated experience", "strong experience", "interest in", "is a plus", "nice to have",
+]
+
+[building]
+# U5: building AI capability (labs, research, talent, infrastructure, training)
+phrases = [
+  "AI Hub", "AI lab", "AI labs", "center of excellence", "centre of excellence", "research", "invest in",
+  "investing in", "investment in", "investments in", "supercomputer", "talent", "hiring", "upskill", "upskilling",
+  "training programs", "training and development", "learning hours", "bootcamps", "fluency", "literacy", "academy",
+  "accelerator", "incubator", "start-up program", "hackathon", "university", "academia", "data science teams",
+  "building AI", "build AI", "AI talent", "AI learning", "AI training",
+]
+case_sensitive = ["R&D", "GPU", "GPUs"]
+
+[data_terms]
+# kinds of data an AI claim says the AI works on (data_mentioned), reported in the source's words
+phrases = [
+  "customer data", "client data", "personal data", "personal information", "confidential data", "sensitive data",
+  "payment data", "transaction data", "account data", "account information", "payment instructions",
+  "payment messages", "flagged transactions", "transactions", "payments", "logs", "execution reports", "scripts",
+  "documentation", "reports", "tickets", "cases", "incidents", "emails", "contracts", "source code", "code",
+  "codebases", "workload metadata", "schedule definitions", "operational context", "prompts", "tax documents",
+  "statements", "holdings", "compensation data", "member preferences", "customer behavior", "transaction patterns",
+  "historical data", "market data", "documents", "counterparties", "account history", "trade data",
+]
+case_sensitive = ["PII", "NPI"]
