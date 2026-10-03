@@ -297,6 +297,23 @@ def order_collectors(collectors: list[Any], plan: DepthPlan) -> list[Any]:
     return sorted(collectors, key=key)
 
 
+def utc_today() -> str:
+    """Today's UTC date (YYYY-MM-DD): the one default as_of of every live run, collection and assessment alike, so a
+    collection run and the assessment that reuses it never disagree near midnight local time."""
+    return dt.datetime.now(dt.timezone.utc).date().isoformat()
+
+
+def review_stores(overrides_path: str | Path | None = None,
+                  reviews_path: str | Path | None = None) -> tuple[OverrideStore | None, OverrideStore | None]:
+    """(overrides, reviews): the HC1/HC3 override store and the HC2 review store when their files exist, else None.
+    Defaults: $FOOTPRINT_OVERRIDES or review/overrides.jsonl, and review/reviews.jsonl."""
+    from footprint.review import REVIEWS_PATH, default_overrides_path
+
+    o = Path(overrides_path) if overrides_path is not None else default_overrides_path()
+    r = Path(reviews_path) if reviews_path is not None else REVIEWS_PATH
+    return (OverrideStore(o) if o.is_file() else None, OverrideStore(r) if r.is_file() else None)
+
+
 def make_run_id(vendor_id: str, mode: str, as_of: str, seeds: dict, plan: DepthPlan) -> str:
     """Short, reproducible id: vendor + as-of date + hash of (mode, seeds, depth plan)."""
     blob = json.dumps({"v": vendor_id, "mode": mode, "as_of": as_of, "seeds": seeds,
@@ -343,7 +360,7 @@ def collect_vendor(
     profile, plan = assessment.profile, assessment.depth
     vid = profile.vendor_id
     seeds = load_seeds(vid, seeds_dir)
-    as_of = as_of or dt.date.today().isoformat()
+    as_of = as_of or utc_today()
     run = CollectionRun(run_id=make_run_id(vid, mode, as_of, seeds, plan), vendor_id=vid, mode=mode, as_of=as_of)
     lexicon = load_core_lexicon()
     ctx = CollectContext(profile=profile, seeds=seeds, plan=plan, fetcher=fetcher, store=store, as_of=as_of)
@@ -573,8 +590,8 @@ def code_version() -> str:
 def assessment_run_id(as_of: str, input_sha256: str, mode: str, vendor_ids: list[str],
                       config_sha256: dict[str, str], prompts_sha256: dict[str, str]) -> str:
     """'A-{as_of without dashes}-{sha8}' over the input, mode, vendors, config and prompt hashes."""
-    blob = json.dumps({"input": input_sha256, "mode": mode, "vendors": vendor_ids, "config": config_sha256,
-                       "prompts": prompts_sha256}, sort_keys=True)
+    blob = json.dumps({"as_of": as_of, "input": input_sha256, "mode": mode, "vendors": list(vendor_ids),
+                       "config": dict(config_sha256), "prompts": dict(prompts_sha256)}, sort_keys=True)
     return f"A-{as_of.replace('-', '')}-{hashlib.sha256(blob.encode()).hexdigest()[:8]}"
 
 
@@ -1149,7 +1166,7 @@ def run_assessment(
     team = team if team is not None else (os.environ.get("FOOTPRINT_TEAM_NAME") or None)
     runs_path = Path(runs_dir)
     if as_of is None:
-        as_of = dt.datetime.now(dt.timezone.utc).date().isoformat() if live else replay_as_of(vendor_ids, runs_path)
+        as_of = utc_today() if live else replay_as_of(vendor_ids, runs_path)
     if not re.fullmatch(r"\d{4}-\d{2}-\d{2}", as_of):
         raise ValueError(f"as_of must be YYYY-MM-DD, got {as_of!r}")
     dt.date.fromisoformat(as_of)
@@ -1377,7 +1394,7 @@ QUERY_TEMPLATES: tuple[tuple[str, str], ...] = (
 
 
 def export_assessment(result: Any, xlsx_in: Any, out_path: Any, team: str, *, overwrite: bool = False,
-                      seeds_dir: str | Path = "seeds") -> Any:
+                      seeds_dir: str | Path = "seeds", runs_dir: str | Path = "runs") -> Any:
     """Write every vendor's L-V and append Evidence Log, Coverage Log, Criticality Workings, Method & Legend (the
     P1 sections plus the P3/P4 legend), Evidence Images and Run Info; then prove with check_fidelity that nothing
     else changed (FidelityError). ``out_path`` may be a path or a binary stream. The file's modified time is pinned
@@ -1393,6 +1410,14 @@ def export_assessment(result: Any, xlsx_in: Any, out_path: Any, team: str, *, ov
         raise ValueError("this workbook is not the one the assessment was run on (its SHA-256 differs)")
     llm_info = result.manifest.get("llm") if isinstance(result.manifest, dict) else None
     problems = llm_info.get("audit_problems") if isinstance(llm_info, dict) else None
+    problems = list(problems or [])
+    audit_path = Path(runs_dir) / result.run_id / "llm_calls.jsonl"
+    if audit_path.is_file():
+        from footprint import ai
+        from footprint.net.tou import load_tou
+
+        team_name = team or os.environ.get("FOOTPRINT_TEAM_NAME", "") or ""
+        problems += ai.check_audit(audit_path, tou=load_tou(), team_name=team_name)
     if problems:
         raise ValueError(f"release gate: the LLM audit log has {len(problems)} problem(s), e.g. {problems[0]}")
     if isinstance(out_path, (str, os.PathLike)) and isinstance(xlsx_in, (str, os.PathLike)):
