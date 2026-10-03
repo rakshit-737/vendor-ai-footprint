@@ -1,0 +1,485 @@
+# AI risk matrix (design Appendix A 2.8; docs/contracts_p3.md section 8). Read by footprint.risk.
+#
+# ARP = 2E + 2K + TP + TG, range 0-18. The order of adjustments is fixed, and every step is logged:
+#   1 score -> 2 base class -> 3 materiality gate -> 4 escalator floors (Confirmed or Probable only, gate met)
+#   -> 5 verdict cap, always last. The ceiling reruns steps 1-4 with assumed inputs treated as evidenced.
+# E = exposure of Meridian data to AI (0-3; E3 always needs an R3 item), K = decision impact (0-3),
+# TP = tier points (Critical 3, High 2, Medium 1, Low 0), TG = transparency gap (six checks t1-t6 -> 0-3).
+# Only citable evidence items (verified, not rejected, not a trap, not a pending LLM proposal) count.
+#
+# Cue lists are Python regular expressions, matched case-insensitively ((?-i:...) keeps a part case-sensitive)
+# against an item's excerpt plus its data_mentioned list. The `customer_facing` cues are matched against the
+# profile's service, business process and category. The anchor logic per locus is coded in footprint.risk;
+# this file holds the bands, lexicons and wording. Any change here is a policy change: bump `version`.
+version = "1.2"
+
+# ---------------------------------------------------------------- score bands, gate, caps
+tg_points = [0, 0, 1, 1, 2, 2, 3]   # TG by the number of missing checks t1..t6 (0..6)
+floor_class = "High"                # the floor each escalator sets
+
+[bands]   # lowest ARP of each class (footprint.models.arp_class must agree)
+Critical = 14
+High = 10
+Medium = 6
+Low = 0
+
+[gate]    # materiality: High or above needs evidenced (not assumed) E >= min_e or K >= min_k
+min_e = 2
+min_k = 2
+lowered_to = "Medium"
+
+[caps]    # verdict label -> cap applied last ("" = no cap; "Medium" = Provisional)
+Confirmed = ""
+Probable = "High"
+Inconclusive = "Medium"
+"Affirmed negative" = "None identified"
+"Not detected" = "None identified"
+
+# ---------------------------------------------------------------- unknowns rule (assumed inputs, marked "a")
+# Applies to an Inconclusive verdict, and to an input a Confirmed or Probable verdict leaves unknown.
+# E from data sensitivity: D4 or D3-P -> 3, D3 -> 2, otherwise 1 (coded).
+# K from the vendor's role: payment-flow involvement 3+ or D3-P -> 3, pay or customer-facing outputs -> 2,
+# any other role -> 1. Under a Yes verdict, a pathway in the service, its delivery or an unknown place whose action
+# level is unknown also takes the role's K, so K is the maximum of the evidenced levels and that assumed level:
+# adding evidence never lowers K (coded).
+[unknowns]
+pay_level = 2   # payment-flow level 2: payment arrangements, commission or payout calculation, posting jobs
+customer_facing = [
+  '\bstatements?\b',
+  '\bnotices?\b',
+  '\bcorrespondence\b',
+  '\bletters?\b',
+  '\bcustomer[- ]facing\b',
+  '\b(?:contact|call) cent(?:re|er)s?\b',
+  '\btax (?:documents?|forms?)\b',
+  '\bcommunications?\b',
+  '\bborrower contact\b',
+]
+
+# ---------------------------------------------------------------- wording (plain language, no codes)
+[wording.data]   # data sensitivity in words, by rubric level ("3-P" = privileged production access)
+"4" = "the most sensitive customer data"
+"3-P" = "privileged production access and service credentials"
+"3" = "non-public customer information"
+"2" = "confidential data that is not customer data"
+"1" = "internal or aggregated data"
+"0" = "no Meridian data"
+
+[wording.role]   # the vendor's role, for an assumed decision impact
+payment_path = "a role in the payment path"
+privileged = "privileged access to production systems"
+pay = "pay or payment-related outputs"
+customer_facing = "customer-facing outputs"
+other = "a supporting role"
+
+[reasons]
+no_pathway_e = "No AI usage pathway is evidenced, so no exposure of Meridian data to AI is shown."
+no_pathway_k = "No AI decision role is evidenced."
+e_assumed_inconclusive = "Assumed from data sensitivity ({data}) because AI use in the service is not established."
+e_assumed_unknown = "Assumed from data sensitivity ({data}) because no evidenced pathway shows where the AI sits."
+k_assumed_inconclusive = "Assumed from the vendor's role ({role}) because AI use in the service is not established."
+k_assumed_unknown = "Assumed from the vendor's role ({role}) because no evidence states what the AI's output does."
+k_assumed_partial = "Assumed from the vendor's role ({role}) because some AI pathways in the service or its delivery do not state what the AI's output does; the pathways that do show decision impact {k} of 3."
+service_e3 = "AI in the service itself reaches {data}."
+service_model = "A named external model ({providers}) processes data in the service itself."
+service_capped = "A product-family statement puts {data} within reach of AI; it counts as exposure 2 until AI in the exact service is confirmed."
+service_e2 = "AI in the service itself reaches {data}."
+service_e1 = "AI in the service itself reaches {data}."
+delivery_e3 = "AI in service delivery processes customer data or credentials."
+delivery_capped = "AI in company-wide delivery processes customer data or credentials; it counts as exposure 2 until it is tied to the exact service."
+delivery_e2 = "AI in service delivery works on artefacts that carry customer data, such as tickets, cases or incidents."
+delivery_e1 = "AI supports service delivery with no stated link to customer data."
+sdlc_e2 = "AI-assisted development names production data."
+sdlc_e1 = "AI-assisted development names no production data."
+corporate = "AI is used in corporate functions outside the service."
+k3 = "AI acts on customers, funds, regulatory outputs or production without per-case human review."
+k2_reviewed = "AI output passes human review or an approval gate before it takes effect."
+k2_operational = "AI acts on its own on operational items that do not affect customers."
+k1 = "AI output is advisory only."
+k0 = "The AI takes no decisions."
+gap = "not publicly disclosed; contractual disclosure unknown"
+override = "analyst {analyst} {date}: {reason}"
+
+# ---------------------------------------------------------------- cue lexicons
+[cues]
+# delivery_ops E3: the excerpt states customer data or credentials are processed
+customer_data = [
+  '\b(?:customer|client|member|borrower|consumer|cardholder|account[- ]?holder)s?[- ](?:data|information|records?|details|files?|PII|NPI)\b',
+  '\bpersonal (?:data|information)\b',
+  '\b(?:PII|NPI)\b',
+  '\baccount (?:numbers?|data|details|information|balances?)\b',
+  '\b(?:transaction|payment) (?:data|records?|details|instructions?|messages?)\b',
+  '\bcredentials?\b',
+  '\bpasswords?\b',
+  '\bAPI keys?\b',
+  '\b(?:access|service) tokens?\b',
+]
+# delivery_ops E2: AI works on artefacts that carry customer data
+artefacts = [
+  '\btickets?\b',
+  '\bincidents?\b',
+  '\bexceptions?\b',
+  '\btransactions?\b',
+  '\blogs\b',
+  '\blog (?:data|files?|analysis|entries)\b',
+  '\bcommunications?\b',
+  '\bcorrespondence\b',
+  '\b(?:support|service|customer|client|fraud|investigation|complaint|servicing|hardship|dispute) cases?\b',
+  '\bcase (?:management|notes|files?|work)\b',
+  '\bcasework\b',
+  '\bdisputes?\b',
+  '\b(?:fraud|AML|sanctions|security) alerts?\b',
+  '\bcall (?:recordings?|transcripts?|audio|notes|summaries)\b',
+  '\b(?:chat|email|e-mail) (?:logs?|transcripts?|messages?)\b',
+  '\bemails?\b',
+  '\b(?:customer|account|billing) statements?\b',
+]
+# sdlc E2: production data is named
+production_data = [
+  '\bproduction (?:data|databases?|records?)\b',
+  '\blive (?:customer |client |account |production )?data\b',
+  '\breal (?:customer|client|account) data\b',
+  '\b(?:customer|client) data\b',
+]
+# service E3 through a named external model: the excerpt says the model works on data
+processing = [
+  '\bprocess(?:es|ed|ing)?\b',
+  '\banaly[sz](?:e|es|ed|ing|is)\b',
+  '\bscreen(?:s|ed|ing)?\b',
+  '\bsummari[sz](?:e|es|ed|ing)\b',
+  '\btranscrib(?:e|es|ed|ing)\b',
+  '\bclassif(?:y|ies|ied|ying|ication)\b',
+  '\bextract(?:s|ed|ing|ion)?\b',
+  '\bpowered by\b',
+  '\bbuilt on\b',
+  '\bruns? on\b',
+]
+# K3: automated action on customers, funds, regulatory outputs or production
+k3_targets = [
+  '\bcustomers?\b',
+  '\bclients?\b',
+  '\bborrowers?\b',
+  '\bconsumers?\b',
+  '\baccount ?holders?\b',
+  '\bpayments?\b',
+  '\bfunds?\b',
+  '\baccounts?\b',
+  '\btransactions?\b',
+  '\bloans?\b',
+  '\bcredit\b',
+  '\bholds?\b',
+  '\barrangements?\b',
+  '\bregulatory\b',
+  '\bfilings?\b',
+  '\bnotices?\b',
+  '\bstatements?\b',
+  '\btax\b',
+  '\bsanctions?\b',
+  '\bproduction\b',
+  '\bdeploy(?:s|ed|ing|ments?)?\b',
+  '\bcorrespondence\b',
+]
+# t3: the legal item's data-flow statement (G3) is about data use, retention or training, not only human review
+data_use = [
+  '\b(?:use|uses|used|using|process(?:es|ed|ing)?|shar(?:e|es|ed|ing)|collect(?:s|ed|ing)?|stor(?:e|es|ed|ing)|retain(?:s|ed|ing)?|disclos(?:e|es|ed|ing))\b[^.]{0,60}?\b(?:data|information|content|inputs?|prompts?|outputs?)\b',
+  '\b(?:data|information|content|inputs?|prompts?|outputs?)\b[^.]{0,60}?\b(?:used|processed|shared|stored|retained|deleted|collected|disclosed)\b',
+  '\b(?:retention|deletion|data (?:use|usage|processing|handling|protection|minimi[sz]ation|sharing))\b',
+  '\b(?:(?:re)?train(?:s|ed|ing)?|fine[- ]tun(?:e|es|ed|ing))\b',
+]
+# t4: human oversight of AI output
+human_oversight = [
+  '\bhumans?[- ]in[- ]the[- ]loop\b',
+  '\bhuman[- ](?:review|reviewed|oversight|approval|validation|judg(?:e)?ment|checks?|sign[- ]off)\b',
+  '\b(?:analyst|manual|expert|staff|specialist) (?:review|approval|sign[- ]off)\b',
+  '\breviewed (?:by|with) (?:a |an |our )?(?:humans?|analysts?|people|persons?|staff|specialists?|experts?|investigators?)\b',
+  '\b(?:approved|validated|checked|verified) by (?:a |an |our )?(?:humans?|analysts?|people|persons?|staff|specialists?|experts?)\b',
+  '\bhumans? (?:review|approve|validate|oversee|verify)s?\b',
+  '\b(?:person|analyst|human) (?:approves|reviews|signs off)\b',
+]
+# t5: AI governance attestation
+governance = [
+  '\bNIST AI RMF\b',
+  '\bAI Risk Management Framework\b',
+  '\bISO/?IEC 42001\b',
+  '\bISO 42001\b',
+  '\bAI (?:policy|policies|governance|principles|ethics|risk management|council|committee|standards?)\b',
+  '\bGenAI (?:policy|policies|governance)\b',
+  '\bresponsible AI\b',
+  '\bAI acceptable[- ]use\b',
+]
+# t6: AI incident or change notification
+notification = [
+  '\bnotif(?:y|ies|ied|ying|ication)\b[^.]{0,80}?\b(?:changes?|updates?|incidents?|breach(?:es)?|sub-?processors?|new (?:AI|models?|providers?))\b',
+  '\b(?:changes?|incidents?|breach) notifications?\b',
+  '\badvance (?:written )?notice\b',
+  '\bnotice of (?:any )?(?:material )?changes?\b',
+]
+# X2: customer data or prompts used to train or improve models, or prompts and outputs retained. Generic
+# phrases ('model training', 'trained models') do not count: the data trained on must be the customers'.
+training = [
+  '\b(?:customer|client|user|member|consumer|borrower|cardholder|your|their)s?[\x27\u2019]?s? (?:\w+ ){0,2}?(?:data|prompts?|inputs?|content|conversations?|information|records|chats?|transcripts?|interactions?)\b[^.]{0,60}?\b(?:to |for )?(?:(?:re)?train(?:s|ed|ing)?|fine[- ]tun(?:e|es|ed|ing)|improv(?:e|es|ed|ing)) (?:\w+ ){0,3}?(?:models?|algorithms?|AI)\b',
+  '\b(?:(?:re)?train(?:s|ed|ing)?|fine[- ]tun(?:e|es|ed|ing)) (?:\w+ ){0,4}?(?:on|with|using|from) (?:\w+ ){0,2}?(?:customer|client|user|member|consumer|borrower|cardholder|your|their)s?[\x27\u2019]?s? (?:\w+ )?(?:data|prompts?|inputs?|content|conversations?|information|records|chats?|transcripts?|interactions?)\b',
+  '\b(?:customer|client|user|member|consumer|borrower|cardholder|your|their)s?[\x27\u2019]?s? (?:\w+ )?(?:data|prompts?|inputs?|content|conversations?|information|records|chats?|transcripts?|interactions?)\b[^.]{0,60}?\bmodel (?:training|improvement)\b',
+  '\bretain(?:s|ed|ing)? (?:the |your |all |customer |client |user )?(?:prompts?|inputs?|outputs?|conversations?|chats?|chat logs?)\b',
+  '\bretention of (?:the |your |all |customer |client |user )?(?:prompts?|inputs?|outputs?|conversations?|chats?)\b',
+  '\b(?:prompts?|inputs?|outputs?|conversations?|chats?) (?:are|is|will be|may be) (?:retained|stored|kept|logged)\b',
+]
+# X2 exception: an opt-out, or a statement that data is not used for training or retained
+no_training = [
+  '\bopt(?:s|ed|ing)?[- ]?out\b',
+  '\b(?:not|never|no)\b[^.]{0,40}?\b(?:(?:re)?train(?:s|ed|ing)?|fine[- ]tun\w*|retain(?:s|ed)?|retention)\b',
+  '\bzero[- ](?:data[- ])?retention\b',
+]
+# X3: AI acting on production
+production = [
+  '\bproduction\b',
+  '\blive (?:systems?|environments?|infrastructure)\b',
+  '\bjob schedules?\b',
+  '\binfrastructure\b',
+  '\bdeploy(?:s|ed|ing|ments?)?\b',
+  '\bconfiguration changes?\b',
+  '\bremediat(?:e|es|ed|ing|ion)\b',
+]
+# X3: privileged AI
+privileged = [
+  '\bprivileged\b',
+  '\badmin(?:istrator|istrative)? (?:access|rights|credentials|privileges)\b',
+  '\bcredentials?\b',
+  '\broot access\b',
+  '\bservice accounts?\b',
+]
+# X4: decisions on credit, account access or payment holds
+credit_holds = [
+  '\bcredit (?:decisions?|limits?|approvals?|lines?|scor(?:e|es|ing)|applications?)\b',
+  '\b(?:loan|lending) (?:decisions?|approvals?|origination|applications?)\b',
+  '\b(?:approv(?:e|es|ed|ing)|declin(?:e|es|ed|ing)|den(?:y|ies|ied|ying)|reject(?:s|ed|ing)?) (?:\w+ ){0,2}(?:loans?|credit|applications?|payments?|transactions?)\b',
+  '\baccount (?:access|opening|closures?|closing|freezes?|freezing|locks?|locking|restrictions?)\b',
+  '\b(?:payment|funds?) holds?\b',
+  '\bhold(?:s|ing)? (?:\w+ ){0,2}(?:payments?|funds|transactions?)\b',
+  '\bblock(?:s|ed|ing)? (?:\w+ ){0,2}(?:payments?|transactions?|accounts?)\b',
+  '\bfreez(?:e|es|ing) (?:\w+ ){0,2}(?:funds|accounts?|payments?)\b',
+]
+# X5: an AI incident that happened (dated within 24 months of as_of). The incident cue, an `ai_terms` cue and no
+# `hypothetical` cue must share one sentence; commentary, platform suppliers, inferred affiliates, limiting
+# statements and items about other companies (M3) never count, and a third party's page must name the vendor.
+incident = [
+  '\b(?:experienced|suffered|disclosed|reported|identified|detected) (?:a |an |the )?(?:\w+ ){0,3}(?:incidents?|breach(?:es)?|outages?)\b',
+  '\bdata breach(?:es)?\b',
+  '\bItem 1\.05\b',
+  '\bconsent order\b',
+  '\benforcement action\b',
+  '\bcivil (?:money )?penalt(?:y|ies)\b',
+  '\bfined\b',
+  '\bclass[- ]action\b',
+  '\bunauthori[sz]ed (?:access|disclosure|use)\b',
+]
+# X5 exception: risk-factor or hypothetical wording ("could", "may", "if")
+hypothetical = [
+  '\b(?:could|might|would)\b',
+  '\b(?-i:may)\b',
+  '\bif\b',
+  '\bpotential(?:ly)?\b',
+  '\brisks? (?:of|that)\b',
+]
+# X5: the sentence that reports the incident ties it to AI
+ai_terms = [
+  '\bAI\b',
+  '\bA\.I\.',
+  '\bartificial intelligence\b',
+  '\bmachine[- ]learning\b',
+  '\b(?-i:ML)\b',
+  '\bdeep learning\b',
+  '\bneural networks?\b',
+  '\bgen(?:erative)?[- ]?AI\b',
+  '\bLLMs?\b',
+  '\b(?:large )?language models?\b',
+  '\b(?:foundation|AI|ML|predictive) models?\b',
+  '\bchat ?bots?\b',
+  '\bvirtual (?:assistants?|agents?)\b',
+  '\bagentic\b',
+  '\balgorithm(?:s|ic)?\b',
+  '\bChatGPT\b',
+  '\bcopilots?\b',
+]
+# t4-t6: wording that describes a law, a risk or a forward-looking statement rather than the vendor's own practice
+# (a 10-K paragraph on what the EU AI Act "may include", a forward-looking-statements disclaimer). Such an item
+# never closes t4, t5 or t6. Not applied to t3, whose legal data-use terms are routinely worded "may".
+boilerplate = [
+  '\bforward[- ]looking\b',
+  '\bsubject to (?:\w+ ){0,3}?(?:risks?|factors|uncertainties|assumptions)\b',
+  '\b(?-i:may) (?:include|require|impose)\b',
+  '\b(?:AI Act|Artificial Intelligence Act|Regulation on Artificial Intelligence)\b[^.]{0,120}?\b(?:requires?|required|imposes?|imposed|imposing|obligations?|was published|(?:enters|entered|comes|came) into force|appl(?:y|ies))\b',
+  '\bpublished in the Official Journal\b',
+  '\bappl(?:y|ies) on a rolling basis\b',
+]
+# X1 and X6: a third party's copy of the vendor's own announcement (matched against the source type; the headline
+# must also open with the vendor's name, as in "Fiserv Collaborates With Microsoft ..." or a joint release
+# "BNY Collaborates with Google Cloud ..."). Such a release names providers in the vendor's own voice.
+vendor_release = [
+  '\bpress release\b',
+  '\bnews release\b',
+  '\bcustomer stor(?:y|ies)\b',
+  '\bannouncements?\b',
+]
+
+# ---------------------------------------------------------------- transparency checks (plain names)
+# Only the vendor's own disclosures close a check: never a third party's page (IND: trade press, podcasts, provider
+# stories, partner pages), a DNS token, a platform supplier, an inferred affiliate, commentary or an aggregated,
+# user-generated or unknown-origin source (SR D-F). t1 needs SR A/B at R3; t3-t6 never close on a marketing claim
+# (U7) or a job posting; t4-t6 never close on `boilerplate`; t5 needs a `governance` cue (a U6 tag alone is not an
+# attestation).
+[gaps]
+t1 = "AI use disclosed for the service by a legally accountable or first-party source"
+t2 = "AI providers named by the vendor itself (a DNS token does not count)"
+t3 = "data-use terms for AI on a legal page"
+t4 = "human oversight of AI output"
+t5 = "an AI governance attestation (NIST AI RMF, ISO/IEC 42001 or an AI policy)"
+t6 = "AI incident or change notification"
+
+# ---------------------------------------------------------------- escalators (each sets a High floor)
+# Applied only for Confirmed or Probable verdicts with the materiality gate met; otherwise logged, not applied.
+[escalators.X1]
+name = "provider named only by a third party"
+description = "A provider named by a third party but not by the vendor, with evidenced exposure 2 or more."
+
+[escalators.X2]
+name = "training or retention without an opt-out"
+description = "Training on data or retention of prompts without an opt-out, with evidenced exposure 2 or more."
+
+[escalators.X3]
+name = "agentic or privileged AI on production"
+description = "Agentic or privileged AI acting on production without approval."
+
+[escalators.X4]
+name = "automated decisions on credit, account access or payment holds"
+description = "Decision impact 3 on credit, account access or payment holds."
+
+[escalators.X5]
+name = "recent AI incident"
+description = "An AI incident in the 24 months before the assessment date."
+
+[escalators.X6]
+name = "single foundation-model provider"
+description = "Exactly one foundation-model provider behind a Critical-tier vendor."
+
+# ---------------------------------------------------------------- foundation-model providers
+# Canonical provider -> names that identify it (case-insensitive, whole words). Used for X6 concentration,
+# provider sets and the actions module's single-provider check, and for X1: a maker these names identify in the
+# vendor's own words counts as named by the vendor ('Integrates models from OpenAI, Google' names Google, so a
+# third party's 'Gemini Enterprise' is not a provider named only by a third party).
+[foundation_models]
+OpenAI = ["openai", "chatgpt", "gpt", "codex", "dall-e", "whisper"]
+Anthropic = ["anthropic", "claude"]
+Google = ["google", "gemini", "gemma", "palm", "vertex ai", "bard"]
+Microsoft = ["microsoft", "copilot", "phi"]
+Amazon = ["amazon", "aws", "bedrock", "titan"]
+Meta = ["meta", "llama"]
+Mistral = ["mistral", "mixtral"]
+Cohere = ["cohere"]
+xAI = ["xai", "grok"]
+DeepSeek = ["deepseek"]
+IBM = ["ibm", "watsonx", "granite"]
+
+# ---------------------------------------------------------------- risk themes (NIST AI 600-1, OWASP LLM Top 10)
+# RT1-RT4 also fire from the inputs (coded); ai_types adds a theme when a cited item has that AI type.
+[themes.RT1]
+name = "data exposure"
+nist = "Data Privacy; Information Security"
+owasp = "LLM02 Sensitive Information Disclosure"
+ai_types = []
+
+[themes.RT2]
+name = "undisclosed sub-processors and concentration"
+nist = "Value Chain and Component Integration"
+owasp = "LLM03 Supply Chain"
+ai_types = []
+
+[themes.RT3]
+name = "decision transparency"
+nist = "Human-AI Configuration; Harmful Bias or Homogenization"
+owasp = "LLM09 Misinformation (overreliance)"
+ai_types = []
+
+[themes.RT4]
+name = "excessive agency"
+nist = "Human-AI Configuration; Information Security"
+owasp = "LLM06 Excessive Agency"
+ai_types = ["agentic"]
+
+[themes.RT5]
+name = "injection and leakage"
+nist = "Information Security; Data Privacy"
+owasp = "LLM01 Prompt Injection; LLM07 System Prompt Leakage"
+ai_types = ["genai_llm", "conversational", "agentic"]
+
+[themes.RT6]
+name = "output integrity"
+nist = "Confabulation; Information Integrity"
+owasp = "LLM05 Improper Output Handling; LLM09 Misinformation"
+ai_types = ["genai_llm", "conversational", "document_ai"]
+
+[themes.RT7]
+name = "predictive-model risk"
+nist = "Harmful Bias or Homogenization (NIST AI RMF 1.0 Measure)"
+owasp = "LLM04 Data and Model Poisoning"
+ai_types = ["predictive_ml", "aiops"]
+
+# ---------------------------------------------------------------- flip condition (one plain sentence for T)
+# The single confirmation or change that would move the class; "" when there is none.
+[flip]
+none_identified = "Evidence of AI use that touches Meridian data in the service would require reassessment."
+none_identified_platforms = "Evidence that AI features of the platforms the vendor uses, or AI tools used by its staff, touch Meridian data would require reassessment."
+provisional = "Confirmation that {subject} would make the verdict Yes and could raise the class to {ceiling}."
+probable_cap = "Independent confirmation of AI use in the service itself would lift the Probable cap and raise the class to {cls}."
+probable_confirm = "Confirmation that AI runs in the service itself on Meridian data (exposure {e} of 3) would make the verdict Confirmed and raise the class to {cls}."
+raise_e = "Evidence that {e3} (exposure 3 of 3) would raise the class to {cls}."
+raise_k = "Evidence that {k3} (decision impact 3 of 3) would raise the class to {cls}."
+raise_both = "Evidence that {e3} (exposure 3 of 3), or that {k3} (decision impact 3 of 3), would raise the class to {cls}."
+lower_e = "Evidence that the AI is isolated from Meridian data (exposure 1 of 3) would lower the class to {cls}."
+lower_k = "Evidence that AI output stays advisory, with people taking every action (decision impact 1 of 3), would lower the class to {cls}."
+# Probable at its cap, when no single input moves the class: the confirmation that lifts the cap, with exposure 3
+# or decision impact 3. {what} joins what_e and/or what_k with what_or.
+probable_raise = "Confirmation of AI use in the service itself, with evidence that {what}, would make the verdict Confirmed and raise the class to {cls}."
+what_e = "{e3} (exposure 3 of 3)"
+what_k = "{k3} (decision impact 3 of 3)"
+what_or = " or that "
+k3 = "AI acts on customers, funds, regulatory outputs or production without per-case human review"
+
+[flip.e3]   # what exposure 3 would need, by where the exposure pathway sits
+service = "a named external model processes Meridian data in the service"
+delivery = "AI processes Meridian customer data or credentials in service delivery"
+
+[flip.subjects]   # provisional: what would have to be confirmed, by the strength label of the first decisive item
+"Context - inferred affiliate" = "the AI platform of the inferred affiliate {name} delivers Meridian work"
+"Context - relationship only" = "the AI services indicated only by DNS records ({name}) are used on Meridian data"
+"Context - platform supplier" = "the AI features of the platforms the vendor uses are enabled for Meridian's service"
+"Marketing only" = "the AI capability the vendor advertises is used in Meridian's service"
+Weak = "AI is used in Meridian's service"
+Moderate = "the AI use the vendor describes applies to Meridian's service"
+Strong = "the AI use the vendor describes applies to Meridian's service"
+Negative = "AI is used in Meridian's service despite the vendor's limiting statement"
+default = "AI is used in the service Meridian receives"
+
+[flip.subjects_unnamed]   # the same subjects when no name is known
+"Context - inferred affiliate" = "the AI platform of an inferred affiliate delivers Meridian work"
+"Context - relationship only" = "the AI services indicated only by DNS records are used on Meridian data"
+
+# ---------------------------------------------------------------- V-000 calibration (design 2.8)
+# E3 (evidenced) + K3 + TP3 + TG2 = 17 with a Confirmed verdict: the gate is met, nothing caps it -> Critical.
+[calibration]
+vendor_id = "V-000"
+tier = "Critical"
+e = 3
+k = 3
+e_reason = "AI agents in the service itself work on borrower records that include health-related disclosures and call audio."
+k_reason = "Agents progress routine payment arrangements without human handoff, acting on customers and funds."
+expected_arp = 17
+expected_class = "Critical"
+
+[calibration.gaps]   # true = missing; five missing checks give TG 2
+t1 = false
+t2 = true
+t3 = true
+t4 = true
+t5 = true
+t6 = true
