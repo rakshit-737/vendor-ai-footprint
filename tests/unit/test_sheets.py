@@ -100,3 +100,20 @@ def test_add_section_appends() -> None:
     out = add_section(spec, "Tag legend", [("T1", "first"), ("T2", "second")])
     assert out is spec
     assert spec.rows[before:] == [["Tag legend", "T1", "first"], ["Tag legend", "T2", "second"]]
+
+
+def test_coverage_log_with_family_summary_rows() -> None:
+    from footprint.models import CoverageEntry, CoverageStatus, SourceFamily
+    from footprint.pipeline import aggregate_coverage
+    from footprint.sheets import FAMILY_SUMMARY_LABEL, coverage_log_sheet
+
+    rows = [CoverageEntry(vendor_id=v, family=SourceFamily.DNS, mandatory=True, status=s, collector="dns",
+                          requests_used=6) for v, s in (("V-005", CoverageStatus.DONE), ("V-005", CoverageStatus.ERROR),
+                                                        ("V-006", CoverageStatus.DONE))]
+    plain = coverage_log_sheet(rows)
+    assert len(plain.rows) == 3 and [r[3] for r in plain.rows] == ["done", "error", "done"]
+    spec = coverage_log_sheet(rows, summary=aggregate_coverage(rows))
+    assert [(r[0], r[4], r[3]) for r in spec.rows] == [
+        ("V-005", FAMILY_SUMMARY_LABEL, "done"), ("V-005", "dns", "done"), ("V-005", "dns", "error"),
+        ("V-006", FAMILY_SUMMARY_LABEL, "done"), ("V-006", "dns", "done")]
+    assert "done_manual > stopped > done" in spec.note
