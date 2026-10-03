@@ -5,6 +5,7 @@ from __future__ import annotations
 import datetime as dt
 import sys
 from pathlib import Path
+from typing import Any
 
 import typer
 from rich.console import Console
@@ -239,6 +240,217 @@ def capture_import(
                f"{len(rep.skipped)} skipped)")
     for s in rep.skipped:
         typer.echo(f"  skipped {s.vendor_id} #{s.nn} {s.url}: {s.note}", err=True)
+
+
+# --------------------------------------------------------------------------- P3/P4: assess, review, verify, eval
+
+review_app = typer.Typer(no_args_is_help=True, help="HC2 analyst review of evidence items (accept or reject).")
+app.add_typer(review_app, name="review")
+
+
+def _stores(overrides: Path | None, reviews: Path | None) -> tuple[OverrideStore | None, OverrideStore | None]:
+    from footprint.pipeline import review_stores
+
+    return review_stores(overrides, reviews)
+
+
+def _print_cells(result: Any) -> None:
+    table = Table(title=f"Assessment {result.run_id} ({result.mode}, as of {result.as_of})")
+    for col in ["Vendor", "Tier", "O", "Rule", "S", "Cited", "Notes"]:
+        table.add_column(col)
+    for f in result.vendors:
+        table.add_row(f.vendor_id, f.criticality.tier.value, f.cells.ai_usage_detected or "", f.verdict.rule,
+                      f.cells.ai_risk_class or "", str(len(f.cited())), str(len(f.notes)))
+    Console(width=220).print(table)
+
+
+@app.command()
+def assess(
+    input_xlsx: Path = typer.Argument(..., exists=True, dir_okay=False, help="Vendor input workbook"),
+    mode: str = typer.Option("replay", "--mode", help="replay (offline), live_rules or live_ai"),
+    vendor: list[str] = typer.Option([], "--vendor", help="Limit to these vendor ids (repeatable)"),
+    as_of: str | None = typer.Option(None, "--as-of", help="YYYY-MM-DD (replay default: the collection runs' date)"),
+    out: Path | None = typer.Option(None, "--out", help="Export the assessed workbook here (a new file)"),
+    force: bool = typer.Option(False, "--force", help="Overwrite --out when it exists"),
+    evidence: Path = typer.Option(Path("evidence"), "--evidence", help="Evidence store root"),
+    runs_dir: Path = typer.Option(Path("runs"), "--runs"),
+    seeds_dir: Path = typer.Option(Path("seeds"), "--seeds"),
+    overrides: Path | None = typer.Option(None, "--overrides", help="Override store (default review/overrides.jsonl)"),
+    reviews: Path | None = typer.Option(None, "--reviews", help="Review store (default review/reviews.jsonl)"),
+    write: bool | None = typer.Option(None, "--write/--no-write", help="Write runs/<run_id>/ (default: live modes)"),
+    recollect: bool = typer.Option(False, "--recollect", help="Collect again even when today's run exists"),
+) -> None:
+    """P3/P4: the whole assessment (columns L-V) for every vendor; optionally export the workbook."""
+    import os
+
+    from footprint.capture.store import EvidenceStore
+    from footprint.pipeline import FidelityError, InputError, export_assessment, run_assessment
+
+    if mode not in ("replay", "live_rules", "live_ai"):
+        raise _fail(f"unknown --mode {mode!r} (replay, live_rules or live_ai)")
+    if out is not None and out.exists() and not force:
+        raise _fail(f"{out} exists; pass --force to overwrite it")
+    ov, rv = _stores(overrides, reviews)
+    try:
+        result = run_assessment(input_xlsx, mode, vendors=vendor or None, as_of=as_of, store=EvidenceStore(evidence),
+                                seeds_dir=seeds_dir, runs_dir=runs_dir, overrides=ov, reviews=rv, write=write,
+                                recollect=recollect,
+                                progress=lambda msg, frac: typer.echo(f"[{frac:4.0%}] {msg}", err=True))
+    except InputError as exc:
+        raise _fail("input workbook has errors", [str(i) for i in exc.issues]) from exc
+    except ValueError as exc:
+        raise _fail(str(exc)) from exc
+    _print_cells(result)
+    note = result.manifest.get("llm", {}).get("note") if isinstance(result.manifest, dict) else ""
+    if note:
+        typer.echo(f"LLM: {note}")
+    if out is not None:
+        team = os.environ.get("FOOTPRINT_TEAM_NAME", "")
+        try:
+            export_assessment(result, input_xlsx, out, team, overwrite=True, seeds_dir=seeds_dir, runs_dir=runs_dir)
+        except FidelityError as exc:
+            raise _fail("fidelity check failed", exc.problems) from exc
+        except ValueError as exc:
+            raise _fail(str(exc)) from exc
+        typer.echo(f"Wrote {out}")
+
+
+def _assessment_dir(runs_dir: Path, run: str | None) -> Path:
+    from footprint.pipeline import latest_assessment_dir
+
+    d = runs_dir / run if run else latest_assessment_dir(runs_dir)
+    if d is None or not (d / "assessment.json").is_file():
+        raise _fail(f"no assessment under {runs_dir}; run footprint assess first")
+    return d
+
+
+def _find_item(key: str, runs_dir: Path, run: str | None) -> tuple[str, str]:
+    """(vendor id, item key) of the evidence item whose key starts with ``key`` or whose evidence id is ``key``."""
+    from footprint.pipeline import load_assessment
+
+    d = _assessment_dir(runs_dir, run)
+    result = load_assessment(d)
+    hits = {(f.vendor_id, i.item_key) for f in result.vendors for i in f.evidence
+            if i.item_key.startswith(key) or i.evidence_id == key}
+    if len(hits) != 1:
+        raise _fail(f"{key!r} matches {len(hits)} evidence items in {d.name}; give more of the item key")
+    return next(iter(hits))
+
+
+def _review(decision: str, item_key: str, reason: str, analyst: str, reviews: Path | None, runs_dir: Path,
+            run: str | None) -> None:
+    from footprint.review import REVIEWS_PATH, ReviewRecord
+
+    vid, key = _find_item(item_key, runs_dir, run)
+    try:
+        rec = ReviewRecord(kind="evidence_review", vendor_id=vid, key=key, value=decision, reason=reason,
+                           analyst=analyst, date=dt.datetime.now(dt.timezone.utc).date().isoformat())
+    except ValueError as exc:
+        raise _fail(str(exc)) from exc
+    OverrideStore(reviews or REVIEWS_PATH).add(rec)
+    typer.echo(f"{vid} {key[:16]}: {decision} by {analyst}. Run footprint assess again to update the cells.")
+
+
+@review_app.command("accept")
+def review_accept(
+    item_key: str = typer.Argument(..., help="Item key (or a unique prefix) or evidence id V-00x-E-dddd"),
+    reason: str = typer.Option(..., "--reason"),
+    analyst: str = typer.Option(..., "--analyst"),
+    reviews: Path | None = typer.Option(None, "--reviews"),
+    runs_dir: Path = typer.Option(Path("runs"), "--runs"),
+    run: str | None = typer.Option(None, "--run", help="Assessment run id (default: the latest)"),
+) -> None:
+    """Accept an evidence item (an LLM proposal becomes citable)."""
+    _review("accepted", item_key, reason, analyst, reviews, runs_dir, run)
+
+
+@review_app.command("reject")
+def review_reject(
+    item_key: str = typer.Argument(..., help="Item key (or a unique prefix) or evidence id V-00x-E-dddd"),
+    reason: str = typer.Option(..., "--reason"),
+    analyst: str = typer.Option(..., "--analyst"),
+    reviews: Path | None = typer.Option(None, "--reviews"),
+    runs_dir: Path = typer.Option(Path("runs"), "--runs"),
+    run: str | None = typer.Option(None, "--run", help="Assessment run id (default: the latest)"),
+) -> None:
+    """Reject an evidence item (it stays in the Evidence Log only)."""
+    _review("rejected", item_key, reason, analyst, reviews, runs_dir, run)
+
+
+@app.command()
+def verify(
+    run: str | None = typer.Option(None, "--run", help="Assessment run id (default: the latest)"),
+    input_xlsx: Path = typer.Option(DEFAULT_INPUT, "--input", help="The assessed workbook"),
+    evidence: Path = typer.Option(Path("evidence"), "--evidence"),
+    runs_dir: Path = typer.Option(Path("runs"), "--runs"),
+    seeds_dir: Path = typer.Option(Path("seeds"), "--seeds"),
+    overrides: Path | None = typer.Option(None, "--overrides"),
+    reviews: Path | None = typer.Option(None, "--reviews"),
+) -> None:
+    """Replay the run offline and check it reproduces the stored L-V cells; re-verify every cited item; check the
+    LLM audit log."""
+    from footprint import ai
+    from footprint.capture.store import EvidenceStore
+    from footprint.pipeline import load_assessment, run_assessment
+    from footprint.verify import reverify_item
+
+    d = _assessment_dir(runs_dir, run)
+    stored = load_assessment(d)
+    store = EvidenceStore(evidence)
+    problems: list[str] = []
+    ov, rv = _stores(overrides, reviews)
+    try:
+        replay = run_assessment(input_xlsx, "replay", vendors=[f.vendor_id for f in stored.vendors],
+                                as_of=stored.as_of, store=store, seeds_dir=seeds_dir, runs_dir=runs_dir,
+                                overrides=ov, reviews=rv, write=False)
+    except ValueError as exc:
+        raise _fail(str(exc)) from exc
+    if replay.input_sha256 != stored.input_sha256:
+        problems.append("the input workbook differs from the assessed one")
+    a, b = stored.cells(), replay.cells()
+    for vid in sorted(set(a) | set(b)):
+        ca, cb = a.get(vid), b.get(vid)
+        if ca is None or cb is None:
+            problems.append(f"{vid}: missing in one run")
+            continue
+        for name in type(ca).model_fields:
+            if name != "assessed_by" and getattr(ca, name) != getattr(cb, name):
+                problems.append(f"{vid} {name}: replay differs")
+    n = 0
+    for f in stored.vendors:
+        for item in f.cited():
+            n += 1
+            if not reverify_item(item, store).ok:
+                problems.append(f"{item.evidence_id or item.item_key[:12]}: re-verify failed")
+    audit = d / "llm_calls.jsonl"
+    audit_problems = ai.check_audit(audit) if audit.is_file() else []
+    problems += [f"audit: {p}" for p in audit_problems]
+    typer.echo(f"{d.name}: {len(a)} vendors replayed, {n} cited items re-verified, audit "
+               f"{'FAILED' if audit_problems else 'clean'}")
+    if problems:
+        raise _fail("verification failed", problems, code=1)
+    typer.echo("PASS: replay reproduces the stored cells")
+
+
+@app.command("eval")
+def eval_(
+    run: str | None = typer.Option(None, "--run", help="Assessment run id (default: the latest)"),
+    gold: Path = typer.Option(Path("tests/gold/gold_v1.json"), "--gold"),
+    runs_dir: Path = typer.Option(Path("runs"), "--runs"),
+    evidence: Path = typer.Option(Path("evidence"), "--evidence"),
+    seeds_dir: Path = typer.Option(Path("seeds"), "--seeds"),
+    out: Path = typer.Option(Path("runs/eval/gold_report.json"), "--out", help="JSON report (Markdown beside it)"),
+) -> None:
+    """Score the collection runs and the latest assessment against the gold set."""
+    from footprint.capture.store import EvidenceStore
+    from footprint.evaluate import gold_report, write_report
+    from footprint.pipeline import latest_assessment_dir
+
+    d = runs_dir / run if run else latest_assessment_dir(runs_dir)
+    findings = d if d is not None and (d / "assessment.json").is_file() else None
+    report = gold_report(runs_dir, gold, findings, store=EvidenceStore(evidence), seeds_dir=seeds_dir)
+    paths = write_report(report, out, out.with_suffix(".md"))
+    typer.echo(f"Gold report: {paths['json']} and {paths.get('markdown', '')}")
 
 
 if __name__ == "__main__":
