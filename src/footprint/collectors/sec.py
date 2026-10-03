@@ -182,7 +182,8 @@ class SecCollector:
         note = (f"CIK {cik} {entity}".strip() + f"; EFTS {start}..{today} forms {','.join(FORMS)}; "
                 f"{len(hits)} filing docs hit, {docs} fetched")
         if res.leads:
-            note += f"; {len(res.leads)} not fetched (cap)"
+            why = "REG cap" if ctx.remaining(fam) <= 0 else f"rule: the {MAX_PRIMARY_DOCS} most recent filing documents"
+            note += f"; stopped({why}), {len(res.leads)} older filing documents logged as leads"
         if failures:
             note += "; failures: " + "; ".join(failures[:5])
         res.coverage.append(ctx.entry(fam, status, self.name, endpoint=f"EFTS {' | '.join(self.queries)} ciks={cik}",
